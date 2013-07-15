@@ -1,0 +1,11 @@
+{'_data': [['Very common', [['GI', u'Diarr\xe9, kr\xe4kningar'], ['General', u'Feber']]],
+           ['Common', [['Infections', u'\xd6vre luftv\xe4gsinfektion']]],
+           ['Uncommon', [['Infections', u'Nasofaryngit, otitis media'], ['Skin', u'Utslag']]],
+           ['Rare', [['Skin', u'Urticaria']]],
+           ['Unknown',
+            [['Immune system', u'Anafylaktisk reaktion'],
+             ['Skin', u'Angio\xf6dem'],
+             ['General', u'Irritabilitet']]]],
+ '_pages': [4, 6],
+ u'_rank': 9,
+ u'_type': u'TSFU'}

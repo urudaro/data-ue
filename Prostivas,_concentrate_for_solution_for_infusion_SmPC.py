@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['General', u' Feber, \xf6demtendens.  '],
+             ['Vascular', u' Bradykardi, takykardi, hypotension, hudrodnad.  '],
+             ['Nervous system', u' Kramper. '],
+             ['GI', u' Diarr\xe9. '],
+             ['Respiratory', u' Apn\xe9. ']]],
+           ['Rare', [['GI', u' Ventrikelretention beroende p\xe5 slemhinnehyperplasi.  ']]]],
+ '_pages': [2, 2],
+ u'_rank': 6,
+ u'_type': u'DFSU'}

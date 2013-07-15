@@ -1,0 +1,13 @@
+{'_data': [['Common', [['General', u' Sm\xe4rta p\xe5 injektionsst\xe4llet. Tromboflebiter.  ']]],
+           ['Uncommon',
+            [['General', u' Yrsel.  '],
+             ['Nervous system', u' F\xf6rvirring.  '],
+             ['Musculoskeletal', u' Ataxi.  ']]],
+           ['Rare',
+            [['Vascular', u' Cirkulationssvikt.  '],
+             ['Nervous system',
+              u' Paradoxala reaktioner (excitation, aggressivitet, hallucinationer).  '],
+             ['Respiratory', u' Andningsdepression. ']]]],
+ '_pages': [3, 4],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

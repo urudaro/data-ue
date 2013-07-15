@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['GI', u'diarr\xe9'],
+             ['General',
+              u'irritabilitet Risken f\xf6r tarminvagination har utv\xe4rderats i en stor s\xe4kerhetsstudie utf\xf6rd i Latinamerika och Finland d\xe4r 63 225 sp\xe4dbarn inkluderades. Denna studie visade ingen \xf6kad risk f\xf6r tarminvagination i Rotarix gruppen j\xe4mf\xf6rt med placebo-gruppen vilket framg\xe5r av tabellen nedan. 17 Tarminvagination inom Rotarix Placebo Relativ risk (95% CI*) 31 dagar efter N=31673 N=31552 administrering av: F\xf6rsta dosen 1 2 0,50 (0,07;3,80) Andra dosen 5 5 0,99 (0,31;3,21)']]],
+           ['Uncommon', [['GI', u'buksm\xe4rta, flatulens'], ['Skin', u'dermatit']]],
+           ['Unknown',
+            [['Respiratory', u'e graviditetsveckan) (se avsnitt 4.4)'],
+             ['GI',
+              u'Tarminvagination (se avsnitt 4.4) Blod i avf\xf6ringen Gastorenterit med virusuts\xf6ndring av vaccinvirus hos barn med sv\xe5r kombinerad immunbrist (SCID, Severe Combined Immunodeficiency)']]]],
+ '_pages': [4, 5],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

@@ -1,0 +1,12 @@
+{'_data': [[u'Unknown',
+            [['Immune system', u'Systemisk allergisk reaktion'],
+             ['Psychiatric', u'Nervositet, insomni'],
+             ['Nervous system', u'Huvudv\xe4rk, yrsel'],
+             ['Eye', u'\xd6verg\xe5ende synrubbningar'],
+             ['Cardiac', u'Hj\xe4rtklappning'],
+             ['Vascular', u'Blodtrycksstegring'],
+             ['Respiratory',
+              u'Sveda eller br\xe4nnande k\xe4nsla i   n\xe4sa och hals, och torr']]]],
+ '_pages': [2, 3],
+ u'_rank': 7,
+ u'_type': u'LFSU'}

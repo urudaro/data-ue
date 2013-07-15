@@ -1,0 +1,13 @@
+{'_data': [['Very common',
+            [['Nervous system', u'Huvudv\xe4rk'],
+             ['Skin', u'Reaktion vid injektionsst\xe4llet']]],
+           ['Common',
+            [['Infections', u'Allvarliga infektioner som  kr\xe4ver sjukhusv\xe5rd'],
+             ['Blood', u'Neutropeni']]],
+           ['Uncommon',
+            [['Immune system',
+              u'Allergiska reaktioner,  inklusive anafylaktiska  reaktioner, angio\xf6dem, urtikaria och prurit'],
+             ['Skin', u'Hudutslag']]]],
+ '_pages': [4, 5],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

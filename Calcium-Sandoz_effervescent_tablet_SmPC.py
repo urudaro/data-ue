@@ -1,0 +1,11 @@
+{'_data': [['Uncommon', [['Metabolism', u'Hyperkalcemi, hyperkalciuri']]],
+           ['Rare',
+            [['Immune system', u'\xd6verk\xe4nslighet, s\xe5som utslag, kl\xe5da, urtikaria.'],
+             ['GI',
+              u'flatulens, f\xf6rstoppning, diarr\xe9, illam\xe5ende, kr\xe4kningar, buksm\xe4rtor']]],
+           ['Very rare',
+            [['Immune system',
+              u'Enskilda fall av systemiska allergiska reaktioner (anafylaktiska reaktioner, ansikts\xf6dem, angioneurotiskt \xf6dem) har rapporterats']]]],
+ '_pages': [3, 3],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

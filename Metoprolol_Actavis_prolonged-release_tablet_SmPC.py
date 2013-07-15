@@ -1,0 +1,12 @@
+{'_data': [['Very common', [['Eye', u'behandlingen,']]],
+           ['Rare',
+            [['Eye',
+              u'f\xf6rs\xe4mring av med synkop\xe9 intermittent claudiocatio eller Raynaud\xb4s syndrom Allm\xe4nna Tr\xf6tthet \xd6dem symtom och/eller symtom vid administreringss t\xe4llet Lever och Onormala Hepatit gallv\xe4gar v\xe4rden vid leverfunktions-t ester Reproduktionso Impotens och rgan och andra sexuella br\xf6stk\xf6rtel st\xf6rningar, induratio penis plastica (Peyronies sjukdom) Psykiska Depression, Nervositet, Gl\xf6mskhet eller st\xf6rningar nedsatt ansp\xe4nning nedsatt koncentration, minnesf\xf6rm\xe5ga, d\xe5sighet eller f\xf6rvirring, s\xf6mnl\xf6shet, hallucinationer, mardr\xf6mmar personlighets-f\xf6 r\xe4ndringar (t ex hum\xf6r-sv\xe4ngnin gar)']]],
+           ['Unknown',
+            [['Cardiac',
+              u'balansrubbning f\xf6rv\xe4rvande av hj\xe4rtsymtom, ar (i isolerade symtom p\xe5 hj\xe4rtarytmier, fall med hj\xe4rtsvikt, \xf6verlednings-st\xf6 samtidig AV-block I, rningar synkope), prekordial palpitationer sm\xe4rta Blodet och Trombocyto-pe lymfsystemet ni, leukopeni Centrala och Yrsel, Parestesi perifera huvudv\xe4rk'],
+             ['Eye',
+              u'torrhet eller irritation i \xf6gonen, konjunktivit \xd6ron och Tinnitus, balansorgan h\xf6rsel-rubbning ar Andningsv\xe4gar, Funktionell Bronkospasm Rinit br\xf6stkorg och dyspn\xe9 mediastinum Magtarmkanale Illam\xe5ende, Kr\xe4kning Muntorrhet Smakf\xf6r\xe4nd-rin nmagsm\xe4rta, gar diarr\xe9, f\xf6rstoppning Hud och Utslag H\xe5ravfall Ljusk\xe4nslighetsr subkutan (urtikaria av eaktioner, v\xe4vnad psoriasistyp och f\xf6rv\xe4rrad dystrofiska, psoriasis, nytt kutana utbrott av lesioner), \xf6kad psoriasis svettning manifestation, psoriasis-liknan de kutana f\xf6r\xe4ndringar Muskuloskeletal Muskelspasmer Artralgi, a systemet och muskelsvaghet bindv\xe4v Endokrina F\xf6rv\xe4rrande av systemet latent diabetes mellitus Metabolism och Vikt\xf6kning nutrition Blodk\xe4rl Uttalad Kalla h\xe4nder Nekros hos s\xe4nkning av och f\xf6tter patienter med blodtrycket och allvarlig perifer ortostatisk k\xe4rlst\xf6rning hypotension, i f\xf6re']]]],
+ '_pages': [7, 9],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

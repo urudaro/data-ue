@@ -1,0 +1,10 @@
+{'_data': [['Common', [['Immune system', u'Hypertoni']]],
+           ['Rare',
+            [['Vascular',
+              u'Blodvallning Hud och subkutan v\xe4vnad S\xe4llsynta Utslag, makulopapul\xf6st Skador och f\xf6rgiftningar och Mindre vanliga Trombos i k\xe4rlaccessen behandlingskomplikationer Alla andra biverkningar relaterade till MIRCERA rapporterades i en s\xe4llsynt frekvens och majoriteten var lindriga till m\xe5ttliga i sv\xe5righetsgrad. Dessa h\xe4ndelser var \xf6verensst\xe4mmande med k\xe4nda sjukdomstillst\xe5nd i populationen. Under behandling med MIRCERA i kliniska studier, s\xe5gs en liten minskning i trombocyttal som h\xf6ll sig inom normalomr\xe5det. Trombocytniv\xe5er under 100 x 10 /l s\xe5gs hos 7 % av patienterna som behandlades med MIRCERA och 4 % av patienterna som behandlades med andra ESL.']]],
+           ['Unknown',
+            [['Immune system',
+              u'Centrala och perifera Mindre vanliga Huvudv\xe4rk nervsystemet S\xe4llsynta Hypertensiv encefalopati']]]],
+ '_pages': [5, 6],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

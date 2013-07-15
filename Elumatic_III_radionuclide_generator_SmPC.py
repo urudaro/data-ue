@@ -1,0 +1,12 @@
+{'_data': [['Unknown',
+            [['Immune system', u'\xd6verk\xe4nslighet'],
+             ['Nervous system', u'Koma'],
+             ['Cardiac', u'Arytmi'],
+             ['Vascular', u'Vasodilation'],
+             ['Skin', u'Urtikaria'],
+             ['Skin', u'Kl\xe5da'],
+             ['General', u'Ansikts\xf6dem'],
+             ['General', u'Extravasering']]]],
+ '_pages': [4, 5],
+ u'_rank': 8,
+ u'_type': u'TSFU'}

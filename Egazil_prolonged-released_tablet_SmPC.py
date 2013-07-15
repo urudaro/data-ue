@@ -1,0 +1,10 @@
+{'_data': [[u'Unknown',
+            [['Cardiac', u'Rytmrubbningar'],
+             ['Skin', u'Urtikaria och andra   allergiska'],
+             ['GI', u'Nedsatt salivproduktion med   Ventrikelretention'],
+             ['Renal', u'Urinretention'],
+             ['Psychiatric', u'Konfusion,'],
+             ['Eye', u'Ackommodationsrubbningar,']]]],
+ '_pages': [2, 2],
+ u'_rank': 6,
+ u'_type': u'LFSU'}

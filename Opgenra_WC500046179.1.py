@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['Infections', u' postoperativ infektion'],
+             ['Other',
+              u' s\xe5rruptur, sekretion, erytem, heterotopisk benbildning, pseudartros. ']]],
+           ['Uncommon',
+            [['General',
+              u' lokal svullnad, seroma, migration av Opgenra n\xe4r produkten blandas med syntetiskt benutfyllnadsmaterial. ']]]],
+ '_pages': [3, 4],
+ u'_rank': 3,
+ u'_type': u'LSFU2'}

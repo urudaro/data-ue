@@ -1,0 +1,11 @@
+{'_data': [['Very common', [['Skin', u'Fj\xe4llning, erytem vid applikationsst\xe4llet']]],
+           ['Common', [['Skin', u'Torrhet, pruritus och kontaktsensibiliseringsreaktioner']]],
+           ['Uncommon', [['Skin', u'Br\xe4nnande k\xe4nsla']]],
+           ['Unknown',
+            [['Immune system',
+              u'Allergiska reaktioner, inklusive \xf6verk\xe4nslighet vid applikationsst\xe4llet och anafylaxi'],
+             ['Skin', u'Utslag vid applikationsst\xe4llet'],
+             ['General', u'applikationsst\xe4llet s\xe5som irritation och sm\xe4rta']]]],
+ '_pages': [3, 3],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

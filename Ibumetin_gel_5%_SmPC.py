@@ -1,0 +1,13 @@
+{'_data': [['Uncommon', [['Skin', u'Erytem, kl\xe5da, eksem.']]],
+           ['Rare',
+            [['Local', u'(>10 000, <1/1 000); Mycket s\xe4llsynta (<1/10 000).'],
+             ['Skin', u'Bull\xf6sa hudutslag, urtikaria.']]],
+           ['Very rare',
+            [['Immune system', u'Angio\xf6dem, anafylaktiska reaktioner.'],
+             ['Renal', u'Njurp\xe5verkan.']]],
+           ['Unknown',
+            [['Local',
+              u'och som i enstaka fall kan vara allvarliga och generella. Enstaka fall av systembiverkningar som njurp\xe5verkan, har rapporterats. Biverkningsfrekvenserna har angivits enligt f\xf6ljande: Mindre vanliga (\u22651/1 000, <1/100);']]]],
+ '_pages': [3, 3],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

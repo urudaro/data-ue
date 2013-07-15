@@ -1,0 +1,13 @@
+{'_data': [['Unknown',
+            [['General',
+              u'Andra rapporter beskriver lokala reaktioner vid administreringsst\xe4llet. S\xe5dana reaktioner \xe4r relaterade till extravasering av det radioaktiva materialet under injektionen och de rapporterade reaktionerna str\xe4cker sig fr\xe5n lokal svullnad\xb2 till cellulit\xb2. Avsev\xe4rd extravasering kan leda till n\xf6dv\xe4ndig kirurgisk behandling beroende p\xe5 den administrerade radioaktiviteten och det m\xe4rkta \xe4mnet. F\xf6ljande tabell sammanfattar de observerade reaktionstyperna och symtom. Ingen k\xe4nd frekvens kan anges p\xe5 grund av att endast spontana rapporter har analyserats. Biverkningar ordnade efter klassificering av organsystem'],
+             ['Immune system',
+              u'*: anafylaktiska reaktioner (t.ex. dyspn\xe9\xb2, koma, urticaria, erytem, utslag, prurit, \xf6dem p\xe5 olika st\xe4llen t.ex. ansikts\xf6dem)'],
+             ['Nervous system',
+              u'vasovagala reaktioner (t.ex. syncope, takykardi, bradykardi, yrsel\xb2, huvudv\xe4rk\xb2, dimsyn, blodvallning)'],
+             ['GI', u'kr\xe4kningar\xb2, illam\xe5ende, diarr\xe9\xb2'],
+             ['General',
+              u'reaktioner vid administreringsst\xe4llet (t.ex. cellulit\xb2, sm\xe4rta\xb2, erytem\xb2, svullnad\xb2)']]]],
+ '_pages': [6, 6],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

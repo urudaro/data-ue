@@ -1,0 +1,10 @@
+{'_data': [[u'Unknown',
+            [['Metabolism', u'Hyperglykemi   Vanliga   Ja'],
+             ['Vascular', u'Hypertension   Vanliga   Ja'],
+             ['General', u'Buksm\xe4rta   Vanliga   Ja'],
+             ['General',
+              u'Huvudv\xe4rk   Mindre vanliga   Ja   Peritonit   Mindre vanliga   Ja'],
+             ['Nervous system', u'Svimning   Mindre vanliga Ja']]]],
+ '_pages': [5, 6],
+ u'_rank': 5,
+ u'_type': u'LFSU'}

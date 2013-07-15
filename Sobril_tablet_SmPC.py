@@ -1,0 +1,13 @@
+{'_data': [['Common', [['Nervous system', u'D\xe5sighet.']]],
+           ['Uncommon',
+            [['Nervous system', u'Ataxi, muskelsvaghet, yrsel.'],
+             ['General', u'Huvudv\xe4rk.'],
+             ['Psychiatric', u'Anterograd amnesi vid h\xf6ga doser.']]],
+           ['Rare',
+            [['Nervous system', u'Respiratorisk depression.'],
+             ['Skin', u'Allergiska hudreaktioner.'],
+             ['Psychiatric',
+              u'Insomnia, mardr\xf6mmar, paradoxala reaktioner som excitationstillst\xe5nd, aggressivitet, hallucinationer.']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'LSFU'}

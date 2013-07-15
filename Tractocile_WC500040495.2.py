@@ -1,0 +1,13 @@
+{'_data': [[u'Unknown',
+            [['Immune system', u'Allergisk   reaktion'],
+             ['Metabolism', u'Hyperglykemi'],
+             ['Psychiatric', u'S\xf6mnl\xf6shet'],
+             ['Nervous system', u'Huvudv\xe4rk,   yrsel'],
+             ['Cardiac', u'Takykardi'],
+             ['Vascular', u'Hypotension,'],
+             ['Skin', u'Kl\xe5da,'],
+             ['Reproductive system', u'Uterusbl\xf6dning,'],
+             ['General', u'Reaktion   vid   Feber   injektionsst\xe4llet']]]],
+ '_pages': [3, 4],
+ u'_rank': 9,
+ u'_type': u'LFSU'}

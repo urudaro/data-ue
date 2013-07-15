@@ -1,0 +1,12 @@
+{'_data': [['Common', [['GI', u'Magknip, magsm\xe4rtor, illam\xe5ende']]],
+           ['Uncommon',
+            [['GI', u'Rektalsuspensionen kan ge lokal irritation i rektum samt mild proktit.']]],
+           ['Rare',
+            [['General',
+              u'Allergiska reaktioner s\xe5som urtikaria, angio\xf6dem och dyspn\xe9.'],
+             ['GI', u'Kr\xe4kningar.'],
+             ['Skin', u'Milda, \xf6verg\xe5ende hudutslag.']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 3],
+ u'_rank': 5,
+ u'_type': u'MSFU'}

@@ -1,0 +1,10 @@
+{'_data': [['Common', [['Vascular', u'Tromboflebit']]],
+           ['Uncommon', []],
+           ['Rare', [['GI', u'Illam\xe5ende'], ['Skin', u'Flush']]],
+           ['Very rare',
+            [['Hepato', u'\xd6verg\xe5ende f\xf6r\xe4ndringar av leverprover*'],
+             ['General', u'Frysningar']]]],
+ '_note': u' ?MSFU',
+ '_pages': [2, 3],
+ u'_rank': 5,
+ u'_type': u'MSFU'}

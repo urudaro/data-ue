@@ -1,0 +1,13 @@
+{'_data': [['Very common', [['Metabolism', u'-- Hypoglykemi*']]],
+           ['Common', [['General', u'-- Reaktioner p\xe5 injektionsst\xe4llet ']]],
+           ['Uncommon',
+            [['Immune system', u'-- Urticaria, rodnad och hudutslag'],
+             ['Eye', u'-- Refraktionsrubbningar'],
+             ['Eye', u'-- Diabetisk retinopati'],
+             ['Skin', u'-- Lipodystrofi*'],
+             ['General', u'-- \xd6dem']]],
+           ['Rare', [['Nervous system', u'-- Perifer neuropati (sm\xe4rtsam neuropati)']]],
+           ['Very rare', [['Immune system', u'--Anafylaktisk reaktion*']]]],
+ '_pages': [5, 6],
+ u'_rank': 9,
+ u'_type': u'LSFU2'}

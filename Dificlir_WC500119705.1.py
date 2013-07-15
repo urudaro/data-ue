@@ -1,0 +1,10 @@
+{'_data': [['Common', [['GI', u'kr\xe4kningar, illam\xe5ende, f\xf6rstoppning']]],
+           ['Uncommon',
+            [['Metabolism', u'minskad aptit'],
+             ['Nervous system', u'yrsel, huvudv\xe4rk, dysgeusi'],
+             ['GI', u'buksp\xe4nningar, flatulens, muntorrhet'],
+             ['Hepato', u'\xf6kat alaninaminotransferas (ALAT)']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 3],
+ u'_rank': 5,
+ u'_type': u'MSFU'}

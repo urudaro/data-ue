@@ -1,0 +1,12 @@
+{'_data': [['Very common',
+            [['Psychiatric', u'Insomnia'],
+             ['Nervous system', u'Yrsel'],
+             ['GI', u'Illam\xe5ende']]],
+           ['Common',
+            [['Metabolism', u'Minskad aptit'],
+             ['Nervous system', u''],
+             ['Cardiac', u'Takykardi'],
+             ['Skin', u'Hyperhidros']]]],
+ '_pages': [4, 6],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

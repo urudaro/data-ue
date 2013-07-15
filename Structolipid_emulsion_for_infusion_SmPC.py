@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['General', u'Huvudv\xe4rk, illam\xe5ende,  f\xf6rh\xf6jd kroppstemperatur'],
+             ['Metabolism', u'Hypertriglyceridemi, ketos']]],
+           ['Uncommon',
+            [['General', u'Frysningar'],
+             ['GI', u'Diarr\xe9, kr\xe4kningar'],
+             ['Musculoskeletal', u'Ryggsm\xe4rtor']]]],
+ '_pages': [3, 4],
+ u'_rank': 5,
+ u'_type': u'TSFU'}

@@ -1,0 +1,12 @@
+{'_data': [['Common', [['GI', u'Illam\xe5ende, diarr\xe9.'], ['Skin', u'Exantem.']]],
+           ['Uncommon', [['Blood', u'Eosinofili.'], ['Skin', u'Urtikaria.']]],
+           ['Rare',
+            [['Blood', u'Agranulocytos. neutropeni'],
+             ['Skin',
+              u'Erythema multiforme,  Stevens-Johnsons syndrom, toxisk epidermal nekrolys'],
+             ['Infections', u'Pseudomembran\xf6s kolit.'],
+             ['Immune system', u'Anafylaktiska reaktioner.'],
+             ['Hepato', u'Leverp\xe5verkan, hepatit, kolestatisk  gulsot.']]]],
+ '_pages': [3, 3],
+ u'_rank': 9,
+ u'_type': u'TSFU'}

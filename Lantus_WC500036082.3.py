@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['Immune system', u'Allergisk'],
+             ['Metabolism', u'Hypoglykemi'],
+             ['Nervous system', u'Dysgeusi'],
+             ['Eye', u'Synneds\xe4ttn'],
+             ['Skin', u'Lipohypertrofi   Lipoatrofi'],
+             ['Musculoskeletal', u'Myalgia'],
+             ['General', u'Reaktioner   vid   \xd6dem']]]],
+ '_pages': [5, 7],
+ u'_rank': 7,
+ u'_type': u'LFSU'}

@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['Cardiac', u'Takykardi.'],
+             ['Nervous system', u'Oro, s\xf6mnl\xf6shet, tremor,  huvudv\xe4rk.'],
+             ['GI', u'Illam\xe5ende.'],
+             ['Renal', u'\xd6kad diures.']]],
+           ['Uncommon', [['Cardiac', u'Extrasystolier.'], ['Ear', u'Tinnitus.']]],
+           ['Rare', [['Eye', u'Flimmerskotom.']]]],
+ '_pages': [2, 2],
+ u'_rank': 7,
+ u'_type': u'TSFU'}

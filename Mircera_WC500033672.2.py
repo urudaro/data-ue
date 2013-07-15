@@ -1,0 +1,12 @@
+{'_data': [['Common', [['Immune system', u'Hypertoni']]],
+           ['Rare',
+            [['Vascular',
+              u'Blodvallning Hud och subkutan v\xe4vnad S\xe4llsynta Utslag, makulopapul\xf6st Skador och f\xf6rgiftningar och Mindre vanliga Trombos i k\xe4rlaccessen behandlingskomplikationer Alla andra biverkningar relaterade till MIRCERA rapporterades i en s\xe4llsynt frekvens och majoriteten var lindriga till m\xe5ttliga i sv\xe5righetsgrad. Dessa h\xe4ndelser var \xf6verensst\xe4mmande med k\xe4nda sjukdomstillst\xe5nd i populationen. Under behandling med MIRCERA i kliniska studier, s\xe5gs en liten minskning i trombocyttal som h\xf6ll sig inom normalomr\xe5det. Trombocytniv\xe5er under 100 x 10 /l s\xe5gs hos 7 % av patienterna som behandlades med MIRCERA och 4 % av patienterna som behandlades med andra ESL. 16 Data fr\xe5n en kontrollerad klinisk pr\xf6vning med epoetin alfa eller darbepoetin alfa rapporterade incidensen av stroke som vanlig. Erfarenheter efter marknadsintroduktionen \xd6verk\xe4nslighetsreaktioner, inkluderande fall av anafylaktiska reaktioner, har spontanrapporterats med']]],
+           ['Unknown',
+            [['Immune system',
+              u'Centrala och perifera Mindre vanliga Huvudv\xe4rk nervsystemet S\xe4llsynta Hypertensiv encefalopati'],
+             ['Vascular',
+              u'ok\xe4nd frekvens. Liksom f\xf6r andra ESL har fall av trombos, inklusive lungembolism, rapporterats efter marknadsintroduktionen, frekvens ok\xe4nd (se avsnitt 4.4). Fall av trombocytopeni har spontanrapporterats med en ok\xe4nd frekvens. Neutraliserande anti-erytropoetin-antikroppsmedierad pure red cell aplasia (PRCA) har rapporterats med ok\xe4nd frekvens. Om PRCA diagnosticeras ska behandling med MIRCERA avbrytas och inte ers\xe4ttas med ett annat rekombinant erytropoetiskt protein (se avsnitt 4.4).']]]],
+ '_pages': [5, 6],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

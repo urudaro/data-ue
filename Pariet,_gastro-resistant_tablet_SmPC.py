@@ -1,0 +1,6 @@
+{'_data': [['Unknown',
+            [['Eye',
+              u'g Blodk\xe4rl Perifert \xf6dem Andningsv\xe4ga Hosta Bronkit r, br\xf6stkorg Faryngit Sinuit och Rinit mediastinum Mag-tarmkan Diarr\xe9 Dyspepsi Gastrit alen Kr\xe4kning Muntorrhet Stomatit Illam\xe5ende Rapning Smakst\xf6rni Buksm\xe4rta ng F\xf6rstoppni ng Flatulens Lever och Hepatit gallv\xe4gar Gulsot Leverencef alopati Hud och Utslag Kl\xe5da Erythema subkutan Erytem Svettning multiforme v\xe4vnad Bull\xf6sa Toxisk reaktioner epidermal nekrolys (TEN) Stevens-Johns ons syndrom (SJS) Muskuloskele Ospecifik Myalgi tala systemet sm\xe4rta Benkramper och bindv\xe4v Ryggsm\xe4rt Atralgi a Njurar och Urinv\xe4gsinfek Interstitiell urinv\xe4gar tion nefrit Reproduktion Gynekomasti sorgan och br\xf6stk\xf6rtel Allm\xe4nna Asteni Br\xf6stsm\xe4rta symtom Influensali Frossa och/eller knande Febertillst\xe5nd symtom vid sjukdom administrerin gsst\xe4llet Unders\xf6kning F\xf6rh\xf6jda Vikt\xf6kning ar leverenzymer']]]],
+ '_pages': [3, 5],
+ u'_rank': 1,
+ u'_type': u'LSFU'}

@@ -1,0 +1,13 @@
+{'_data': [[u'Unknown',
+            [['Immune system', u'Omedelbara'],
+             ['Nervous system',
+              u'Huvudv\xe4rk   Extrapyramidala   reaktioner s\xe5som   okulogyr kris/dystoni'],
+             ['Eye', u'\xd6verg\xe5ende visuella   \xd6verg\xe5ende'],
+             ['Cardiac', u'Arytmier, br\xf6stsm\xe4rta   Tillf\xe4lliga'],
+             ['Vascular', u'V\xe4rmek\xe4nsla   Hypotension'],
+             ['Respiratory', u'Hicka'],
+             ['GI', u'F\xf6rstoppning.'],
+             ['Hepato', u'Asymptomatiskt   f\xf6rh\xf6jda']]]],
+ '_pages': [4, 5],
+ u'_rank': 8,
+ u'_type': u'LFSU'}

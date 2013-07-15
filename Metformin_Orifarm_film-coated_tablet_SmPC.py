@@ -1,0 +1,13 @@
+{'_data': [['Very common',
+            [['GI',
+              u'Symtom som t ex illam\xe5ende, kr\xe4kningar, diarr\xe9, buksm\xe4rtor och aptitl\xf6shet. Dessa bieffekter upptr\xe4der oftast vid start av behandlingen och upph\xf6r spontant i de flesta fall. F\xf6r att f\xf6rebygga dessa symtom rekommenderas att metformin tas 2-3 g\xe5nger dagligen i samband med eller efter m\xe5ltid. En l\xe5ngsam \xf6kning av dosen kan ocks\xe5 ge f\xf6rb\xe4ttrad gastrointestinal tolerans.']]],
+           ['Common', [['Nervous system', u'Smakf\xf6r\xe4ndring']]],
+           ['Very rare',
+            [['Skin', u'Hudreaktioner s\xe5som erytem, pruritus, urtikaria.'],
+             ['Metabolism',
+              u'Laktatacidos (se avsnitt 4.4). Minskning av B12-absorptionen med s\xe4nkta serumniv\xe5er vid l\xe5ngtidsbehandling med metformin. S\xe5dan etiologi b\xf6r beaktas vid fynd av megaloblastisk anemi.'],
+             ['Hepato',
+              u'Enskilda rapporter visar st\xf6rda leverfunktionsv\xe4rden eller hepatit som normaliserats vid uts\xe4ttande av metformin.']]]],
+ '_pages': [6, 7],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

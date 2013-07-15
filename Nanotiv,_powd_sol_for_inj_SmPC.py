@@ -1,0 +1,10 @@
+{'_data': [['Rare', [['Immune system', u'\xd6verk\xe4nslighet'], ['General', u'Pyrexi']]],
+           ['Very rare',
+            [['Blood', u'Faktor IX-h\xe4mning'],
+             ['Immune system', u'Anafylaktisk chock'],
+             ['Vascular', u'Tromboembolism'],
+             ['Renal', u'Nefrotiskt syndrom']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 5],
+ u'_rank': 6,
+ u'_type': u'MSFU'}

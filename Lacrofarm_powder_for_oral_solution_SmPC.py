@@ -1,0 +1,12 @@
+{'_data': [['Very common', [['Immune system', u'angio\xf6dem, dyspn\xe9, allergiska utslag,']]],
+           ['Common',
+            [['GI',
+              u'Buksm\xe4rta, diarr\xe9, kr\xe4kningar,  illam\xe5ende, dyspepsi, buksp\xe4nning, borborygmi, v\xe4dersp\xe4nningar, analt obehag']]],
+           ['Rare', [['Immune system', u'erytem, urtikaria och pruritus']]],
+           ['Unknown',
+            [['Metabolism', u'St\xf6rningar i elektrolytbalansen, s\xe4rskilt'],
+             ['Nervous system', u'Huvudv\xe4rk'],
+             ['General', u'Perifert \xf6dem']]]],
+ '_pages': [3, 4],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

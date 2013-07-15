@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['Eye',
+              u' \xd6verg\xe5ende sveda vid instillation. T\xe5rfl\xf6de  Hornhinneskada vid upprepad anv\xe4ndning.  ']]],
+           ['Rare',
+            [['General', u' Yrsel.  '],
+             ['Vascular', u' Hypotension, bradykardi.  '],
+             ['Nervous system', u' Dimsyn, tremor. ']]]],
+ '_pages': [2, 2],
+ u'_rank': 4,
+ u'_type': u'DFSU'}

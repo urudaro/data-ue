@@ -1,0 +1,13 @@
+{'_data': [['Very common',
+            [['General',
+              u'Orgalutran kan orsaka lokala hudreaktioner vid injektionsst\xe4llet (framf\xf6r allt rodnad, med eller utan svullnad). I de kliniska studierna var incidensen, rapporterat av patienterna, en timme efter injektionen, av m\xe5ttlig till sv\xe5r lokal hudreaktion vid minst ett tillf\xe4lle per behandlingscykel 12 % hos patienter som behandlats med Orgalutran och 25 % hos patienter som behandlats med en GnRH agonist. De lokala reaktionerna f\xf6rsvinner normalt inom 4 timmar efter administreringen. Mindre']]],
+           ['Common',
+            [['General',
+              u'Sjukdomsk\xe4nsla. Andra rapporterade biverkningar \xe4r relaterade till den kontrollerade ovariella hyperstimuleringen ART, i synnerhet b\xe4ckensm\xe4rta, svullen buk, OHSS (se \xe4ven avsnitt 4.4), ektopisk graviditet och missfall.']]],
+           ['Uncommon', [['Nervous system', u'Huvudv\xe4rk.'], ['GI', u'Illam\xe5ende.']]],
+           ['Very rare',
+            [['Immune system',
+              u'Det har rappporterats fall av \xf6verk\xe4nslighetsreaktioner (med varierande symtom s\xe5som utslag, svullnad i ansiktet och dyspn\xe9) s\xe5 tidigt som efter den f\xf6rsta dosen, bland patienter som administrerat Orgalutran. F\xf6rs\xe4mring av eksem har rapporterats hos en patient efter den f\xf6rsta Orgalutran-dosen.']]]],
+ '_pages': [3, 4],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

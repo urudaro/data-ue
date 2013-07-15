@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Pregnancy',
+              u' Fosterp\xe5verkan till f\xf6ljd av onormalt  och perinatalperiod  v\xe4rkarbete  -P\xe5verkan p\xe5 fostrets hj\xe4rtfrekvens -Fetalt distress syndrom -Hyperton uterus ']]],
+           ['Uncommon', [['GI', u' Illam\xe5ende, kr\xe4kningar, diarr\xe9  ']]],
+           ['Rare',
+            [['Blood', u' Disseminerad intravaskul\xe4r koagulation  '],
+             ['Pregnancy', u'och perinatalperiod  Uterusruptur  ']]],
+           ['Very rare', [['Immune system', u' Anafylaktisk reaktion  ']]]],
+ '_pages': [3, 4],
+ u'_rank': 5,
+ u'_type': u'DFSU'}

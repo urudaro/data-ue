@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Immune system', u'L\xe4kemedels\xf6verk\xe4nslighet'],
+             ['Psychiatric', u'Somnolens'],
+             ['Nervous system', u'Yrsel'],
+             ['Vascular', u'Hypertoni'],
+             ['GI', u'F\xf6rstoppning'],
+             ['Hepato', u'F\xf6rh\xf6jda leverfunktionstester'],
+             ['General', u'Huvudv\xe4rk']]],
+           ['Uncommon', [['Infections', u'Svampinfektioner'], ['Cardiac', u'Hj\xe4rtsvikt']]],
+           ['Unknown', [['Hepato', u'Hepatit']]]],
+ '_pages': [3, 5],
+ u'_rank': 10,
+ u'_type': u'TSFU'}

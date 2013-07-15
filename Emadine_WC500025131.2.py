@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Nervous system', u'Huvudv\xe4rk Ok\xe4nt: Sinushuvudv\xe4rk, dysgeusi'],
+             ['Eye',
+              u'\xd6gonsm\xe4rta, \xf6gonirritation, dimsyn, \xf6gonkl\xe5da, torra \xf6gon, korneal missf\xe4rgning, konjunktival hyperemi']]],
+           ['Uncommon',
+            [['Eye',
+              u'Korneala infiltrat, k\xe4nsla av fr\xe4mmande kropp, \xf6kad t\xe5rproDuktion, astenopi, okul\xe4r hyperemi'],
+             ['Skin', u'Utslag'],
+             ['Psychiatric', u'Onormala dr\xf6mmar']]]],
+ '_pages': [2, 3],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

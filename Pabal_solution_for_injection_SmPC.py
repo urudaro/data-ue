@@ -1,0 +1,12 @@
+{'_data': [[u'Unknown',
+            [['Blood', u'Anemi'],
+             ['Nervous system', u'Huvudv\xe4rk, tremor   Yrsel'],
+             ['Vascular', u'Hypotoni, vallningar'],
+             ['Respiratory', u'Br\xf6stsm\xe4rta, dyspn\xe9'],
+             ['GI', u'Illam\xe5ende, sm\xe4rtor i buken   Metallsmak, kr\xe4kningar'],
+             ['Skin', u'Pruritus'],
+             ['Musculoskeletal', u'Ryggsm\xe4rta'],
+             ['General', u'V\xe4rmek\xe4nsla   Frossa, sm\xe4rta']]]],
+ '_pages': [3, 3],
+ u'_rank': 8,
+ u'_type': u'LFSU'}

@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['Nervous system', u'Yrsel, huvudv\xe4rk.'],
+             ['Skin', u'Kl\xe5da, erytem, svullnad'],
+             ['GI',
+              u'Illam\xe5ende Vissa symtom s\xe5som yrsel, huvudv\xe4rk, och s\xf6mnsv\xe5righeter kan h\xe4nf\xf6ras till abstinensbesv\xe4r vid r\xf6kavv\xe4njning. \xd6kad frekvens av aft\xf6sa muns\xe5r kan uppst\xe5 n\xe4r man slutar r\xf6ka. Sambandet \xe4r oklart. Biverkningar som kan uppst\xe5 vid kombinationsbehandling (pl\xe5ster och tuggummin eller pl\xe5ster och inhalator) skiljer sig endast fr\xe5n vardera behandling enbart avseende lokala biverkningar som kan h\xe4nf\xf6ras till l\xe4kemedelsformen. Frekvensen av dessa biverkningar \xe4r j\xe4mf\xf6rbar med den som anges i produktresum\xe9n f\xf6r respektive produkt.']]],
+           ['Uncommon', [['Cardiac', u'Palpitationer']]],
+           ['Rare', [['Cardiac', u'F\xf6rmaksflimmer']]]],
+ '_pages': [4, 5],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

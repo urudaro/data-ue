@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['Metabolism', u'Hypofosfatemi*'],
+             ['Metabolism', u'Hyperglykemi*'],
+             ['Metabolism', u'Hyperkalcemi*'],
+             ['Metabolism', u'Hypertriglyceridemi*'],
+             ['Metabolism', u'Hyponatremi*']]],
+           ['Uncommon', [['Metabolism', u'Hyperlipidemi'], ['Hepato', u'Kolestas']]]],
+ '_pages': [11, 11],
+ u'_rank': 7,
+ u'_type': u'TSFU'}

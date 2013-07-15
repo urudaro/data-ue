@@ -1,0 +1,12 @@
+{'_data': [['Unknown',
+            [['Eye', u'Konjunktivit'],
+             ['Respiratory',
+              u'Dysfoni, dyspn\xe9, faryngit, laryngit, rinit (alla icke-infektl\xf6sa).'],
+             ['GI', u'Dyspepsi.'],
+             ['Skin', u'Hudutslag, urtikaria.'],
+             ['General', u'Br\xf6stsm\xe4rta (pleuritisk/icke-kardiell), pyrexi.'],
+             ['Investigations',
+              u'F\xf6rs\xe4mrat lungfunktionstest Patienter som upplever typiska cystisk fibros-biverkningar kan, i allm\xe4nhet, p\xe5 ett s\xe4kert s\xe4tt forts\xe4tta att anv\xe4nda Pulmozyme, vilket styrks av den h\xf6ga andelen patienter som slutf\xf6r kliniska pr\xf6vningar med Pulmozyme. I kliniska pr\xf6vningar upplevde f\xe5 patienter biverkningar som ledde till permanent avbrott i dornase alfa-behandlingen. Frekvensen f\xf6r avbrytandet var j\xe4mf\xf6rbar mellan placebo (2%) och dornas alfa (3%). Som med andra aerosoler, kan lungfunktionen minska och upphostningen av slem \xf6ka n\xe4r dornas alfa-behandling p\xe5b\xf6rjas. Mindre \xe4n 5% av patienterna behandlade med dornase alfa har utvecklat antikroppar mot dornas alfa och ingen av dessa patienter har utvecklat IgE-antikroppar mot dornase alfa. F\xf6rb\xe4ttring i lungfunktionstest har fortfarande skett efter utveckling av antikroppar mot dornas alfa.']]]],
+ '_pages': [2, 3],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

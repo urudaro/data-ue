@@ -1,0 +1,13 @@
+{'_data': [['Common', [['General', u'Tr\xf6tthet'], ['GI', u'Illam\xe5ende,']]],
+           ['Uncommon', [['Hepato', u'Gallv\xe4gs-dyskin esi']]],
+           ['Rare', [['Renal', u'Kreatinin-stegri']]],
+           ['Very rare', [['Immune system', u'Anafylaktisk']]],
+           ['Unknown',
+            [['Blood', u'Agranulocyt os'],
+             ['Skin',
+              u'Toxisk epidermal nekrolys, Stevens-Joh nsons syndrom, akut generalisera d exantemat\xf6s pustulos, \u201dfixed drug eruption\u201d'],
+             ['Hepato', u'Cytolytisk hepatit som kan leda till leversvikt']]]],
+ '_note': u' ?MSFU',
+ '_pages': [4, 4],
+ u'_rank': 8,
+ u'_type': u'MSFU'}

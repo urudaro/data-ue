@@ -1,0 +1,10 @@
+{'_data': [['Unknown',
+            [['Cardiac', u'  frekven s  '],
+             ['Cardiac', u'  frekven s  '],
+             ['Cardiac', u'  frekven s  '],
+             ['Cardiac', u'  frekven s  '],
+             ['Cardiac', u'  frekven s  '],
+             ['Cardiac', u'  frekven s  ']]]],
+ '_pages': [13, 15],
+ u'_rank': 6,
+ u'_type': u'LSFU3'}

@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Immune system',
+              u'reaktion (inklusive  bronkospasm)  Metabolism och  -minskad aptit  - nutrition'],
+             ['Psychiatric', u'Centrala och perifera  -f\xf6r\xe4ndrad k\xe4nsel  -'],
+             ['Nervous system',
+              u'(parestesi,   br\xe4nnande k\xe4nsla,  hypoestesi),  synkope, gr\xe5t,  kramper'],
+             ['Eye',
+              u'Biverkningar i kliniska pr\xf6vningar  Frekven  Organklass   s Sp\xe4dbarn /    sm\xe5barn   Barn   3,5 till <18 \xe5r    Vuxna']]]],
+ '_pages': [4, 7],
+ u'_rank': 4,
+ u'_type': u'LFSUR'}

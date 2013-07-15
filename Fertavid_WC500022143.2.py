@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Reproductive system',
+              u'Obehag i buken  F\xf6rstoppning Diarr\xe9 Illam\xe5ende'],
+             ['Reproductive system', u'OHSS  B\xe4ckensm\xe4rta'],
+             ['Nervous system', u'Huvudv\xe4rk'],
+             ['Skin', u'Acne  Hudutslag'],
+             ['Reproductive system', u'Cysta i bitestikeln  Gynekomasti'],
+             ['General', u'Reaktion vid injektionsst\xe4llet']]]],
+ '_pages': [4, 6],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

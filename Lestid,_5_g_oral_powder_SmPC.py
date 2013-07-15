@@ -1,0 +1,12 @@
+{'_data': [['Common', [['GI', u'F\xf6rstoppning, illam\xe5ende']]],
+           ['Uncommon', [['GI', u'Kr\xe4kningar, uppsv\xe4lldhet, rapningar, flatulens']]],
+           ['Rare',
+            [['GI', u'Buksm\xe4rtor'],
+             ['Skin', u'Urtikaria, exantem'],
+             ['Hepato', u'Leverp\xe5verkan']]],
+           ['Unknown',
+            [['GI',
+              u'f\xf6rekommer hos cirka 10% av patienterna. I nedanst\xe5ende tabell upptas biverkningar klassade efter organsystem och frekvens (vanlig (>1/100, <1/10), mindre vanlig (>1/1 000, <1/100) och s\xe4llsynt (>1/10 000, <1/1 000)). Organsystem Biverkningar']]]],
+ '_pages': [2, 2],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

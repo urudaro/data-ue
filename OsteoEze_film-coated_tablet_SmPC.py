@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['Metabolism', u'F\xf6rs\xe4mrad kontroll'],
+             ['Nervous system', u'Huvudv\xe4rk   Yrsel   Tr\xf6tthet'],
+             ['Respiratory', u'F\xf6rs\xe4mrad astma'],
+             ['GI', u'Illam\xe5ende   Kr\xe4kningar'],
+             ['Hepato', u'F\xf6rh\xf6jda'],
+             ['Skin', u'Hudutslag   Angio\xf6dem'],
+             ['General', u'\xd6dem   Perifert \xf6dem']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'LFSU'}

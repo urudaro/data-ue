@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['General',
+              u'Sm\xe4rta, rodnad och svullnad p\xe5 injektionsst\xe4llet. Feber med en varaktighet p\xe5 mindre \xe4n 24  timmar kan f\xf6rekomma hos ca. 2% av de vaccinerade.  \xd6verk\xe4nslighetsreaktioner kan f\xf6rekomma.']]],
+           ['Rare',
+            [['General', u'asteni, sjukdomsk\xe4nsla, huvudv\xe4rk och tr\xf6tthet.'],
+             ['Blood', u'lymfadenopati'],
+             ['Musculoskeletal', u'artralgi och myalgi'],
+             ['Skin', u'utslag, urtikaria']]]],
+ '_pages': [2, 2],
+ u'_rank': 5,
+ u'_type': u'LFSUR'}

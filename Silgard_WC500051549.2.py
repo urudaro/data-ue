@@ -1,0 +1,10 @@
+{'_data': [['Very common', [['Nervous system', u'Huvudv\xe4rk']]],
+           ['Common', [['Nervous system', u''], ['Musculoskeletal', u'Sm\xe4rta i extremitet']]],
+           ['Unknown',
+            [['Infections', u'Cellulit vid injektionsst\xe4llet'],
+             ['Blood', u'Idiopatisk trombocytopen purpura*,'],
+             ['Immune system', u'\xd6verk\xe4nslighetsreaktioner, inklusive'],
+             ['Musculoskeletal', u'Artralgi*, myalgi*']]]],
+ '_pages': [4, 5],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

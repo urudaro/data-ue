@@ -1,0 +1,13 @@
+{'_data': [['Common', [['GI', u' L\xf6s avf\xf6ring.  '], ['Skin', u' Exantem.  ']]],
+           ['Uncommon',
+            [['Blood', u' Anemi, trombocytopeni, eosinofili, leukopeni och  agranulocytos. '],
+             ['GI',
+              u' Glossit, stomatit, illam\xe5ende, kr\xe4kningar, enterokolit, diarr\xe9. '],
+             ['Skin', u' Urtikaria. '],
+             ['Infections', u' pseudomembran\xf6s kolit ']]],
+           ['Rare',
+            [['Immune system', u' Anafylaktisk reaktion.  '],
+             ['Skin', u' Exfoliativ dermatit och erytema multiformae.  ']]]],
+ '_pages': [2, 3],
+ u'_rank': 8,
+ u'_type': u'DFSU'}

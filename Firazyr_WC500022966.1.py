@@ -1,0 +1,11 @@
+{'_data': [['Very common', [['Skin', u'10) Reaktioner vid injektionsst\xe4llet*']]],
+           ['Common',
+            [['Nervous system', u'a, >1/100, <1/10) Yrsel Huvudv\xe4rk'],
+             ['GI', u'a, >1/100, <1/10) Illam\xe5ende'],
+             ['Skin',
+              u'a, >1/100, <1/10) Utslag Erytem Kl\xe5da Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+             ['Skin', u'a, >1/100, <1/10) Feber'],
+             ['Investigations', u'a, >1/100, <1/10) F\xf6rh\xf6jt transaminas']]]],
+ '_pages': [3, 4],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

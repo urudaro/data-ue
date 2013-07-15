@@ -1,0 +1,8 @@
+{'_data': [['Unknown',
+            [['Immune system',
+              u'bl.a. utslag, urtikaria och pruritus Centrala och perifera Huvudv\xe4rk och Yrsel, nervsystemet yrsel rastl\xf6shet, nervositet, f\xf6rvirring \xd6ron och Lindrig till m\xe5ttlig balansorgan h\xf6rselneds\xe4ttning har rapporterats hos vissa barn som behandlats f\xf6r meningit Magtarmkanalen Gastrointestinala st\xf6rningar, diarr\xe9, illam\xe5ende och kr\xe4kningar Lever och gallv\xe4gar \xd6verg\xe5ende Ikterus \xf6kning av leverenzymerna ALAT (SGPT), ASAT (SGOT) och LD Hud och subkutan Hudutslag, urtikaria, Erythema v\xe4vnad pruritus, se \xe4ven multiforme, Immunsystemet Stevens-Johnsons syndrom, toxisk epidermal nekrolys (nekrolysis exanthema) Njurar och urinv\xe4gar F\xf6rh\xf6jda niv\xe5er av Akut interstitiell kreatinin och urea i serum, nefrit, s\xe4rskilt hos patienter med nefrotoxicitet. nedsatt njurfunktion Akut renal tubul\xe4r nekros har f\xf6rekommit efter \xf6verdriven dosering och har \xe4ven associerats med anv\xe4ndning hos \xe4ldre patienter eller patienter med tidigare nedsatt njurfunktion Allm\xe4nna symtom Tromboflebit och sm\xe4rta L\xe4kemedelsfeber Sida 4 av 9 och/eller symtom vid efter intraven\xf6s injektion. administreringsst\xe4llet Efter snabb intraven\xf6s administrering kan v\xe4rmek\xe4nsla eller illam\xe5ende f\xf6rekomma.'],
+             ['Investigations',
+              u'Behandling med cefuroxim kan ge ett falskt positivt Coombs-test. Detta kan p\xe5verka resultatet av korstest p\xe5 blod.']]]],
+ '_pages': [3, 5],
+ u'_rank': 2,
+ u'_type': u'LSFU'}

@@ -1,0 +1,10 @@
+{'_data': [['Rare',
+            [['Psychiatric', u'Centrala och perifera nervsystemet  '],
+             ['Cardiac', u'Magtarmkanalen  ']]],
+           ['Very rare',
+            [['Hepato', u'Hud och subkutan v\xe4vnad  '],
+             ['Hepato', u'Reproduktionsorgan och br\xf6stk\xf6rtel  '],
+             ['Hepato', u'Allm\xe4nna symtom och/eller  ']]]],
+ '_pages': [2, 3],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

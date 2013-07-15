@@ -1,0 +1,12 @@
+{'_data': [['Common', [['GI', u'Buksm\xe4rta,diarr\xe9']]],
+           ['Rare',
+            [['Eye', u'Refraktionsrubbningar*Mycket'],
+             ['Cardiac', u'Kardiovaskul\xe4r sjukdom']]],
+           ['Very rare',
+            [['Immune system', u'Allergiska reaktioner*'],
+             ['Hepato', u'Onormal leverfunktion,  leverenzymstegring*']]],
+           ['Unknown',
+            [['Metabolism', u'Hypoglykemisk koma och  hypoglykemisk medvetsl\xf6shet']]]],
+ '_pages': [5, 6],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

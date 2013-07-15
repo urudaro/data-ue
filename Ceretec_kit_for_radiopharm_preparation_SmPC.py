@@ -1,0 +1,11 @@
+{'_data': [['Unknown',
+            [['Immune system',
+              u'\xd6verk\xe4nslighet inklusive hudutslag, erytem, urtikaria, angio\xf6dem, kl\xe5da G\xe4ller endast \xe5terinjicerade Ceretec-m\xe4rkta leukocyter'],
+             ['Nervous system', u'Huvudv\xe4rk, yrsel, parestesi'],
+             ['Vascular', u'V\xe4rmevallning'],
+             ['GI', u'Illam\xe5ende, kr\xe4kningar'],
+             ['General',
+              u'Exponering f\xf6r joniserande str\xe5lning kan ha samband med uppkomst av cancer och potentiell risk f\xf6r utveckling av \xe4rftliga defekter. Eftersom den effektiva dosen \xe4r 5,2 mSV d\xe5 den maximala rekommenderade aktiviteten av 555 MBq administreras f\xf6rv\xe4ntas dessa biverkningar intr\xe4ffa med l\xe5g sannolikhet. Rapportering av misst\xe4nkta biverkningar Det \xe4r viktigt att rapportera misst\xe4nkta biverkningar efter att l\xe4kemedlet godk\xe4nts. Det g\xf6r det m\xf6jligt att kontinuerligt \xf6vervaka l\xe4kemedlets nytta-riskf\xf6rh\xe5llande. H\xe4lso- och sjukv\xe5rdspersonal uppmanas att rapportera varje misst\xe4nkt biverkning via L\xe4kemedelsverket, Box 26, SE-751 03, Uppsala. Webbplats']]]],
+ '_pages': [2, 3],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

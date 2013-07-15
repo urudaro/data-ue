@@ -1,0 +1,12 @@
+{'_data': [['Common', [['General', u'reaktion vid injektionsst\xe4llet']]],
+           ['Rare', [['Immune system', u'\xf6verk\xe4nslighet'], ['Vascular', u'hypotoni']]],
+           ['Very rare',
+            [['Immune system', u'anafylaktisk chock'],
+             ['Nervous system', u'huvudv\xe4rk yrsel'],
+             ['GI', u'illam\xe5ende kr\xe4kningar'],
+             ['Musculoskeletal', u'sm\xe4rtor i l\xe4ngdryggen ledv\xe4rk'],
+             ['General', u'feber, frossa tr\xf6tthet']]]],
+ '_note': u' ?MSFU',
+ '_pages': [4, 5],
+ u'_rank': 8,
+ u'_type': u'MSFU'}

@@ -1,0 +1,13 @@
+{'_data': [['Unknown',
+            [['Skin',
+              u'och bindv\xe4v Allm\xe4nna symtom och/eller Feber, symtom vid sjukdomsk\xe4nsla, administreringsst\xe4llet frossa, tr\xf6tthet. Lokala reaktioner: rodnad, svullnad, sm\xe4rta, ekkymos, induration*'],
+             ['Blood', u'\xd6verg\xe5ende trombocytopeni, \xf6verg\xe5ende lymfadenopati'],
+             ['Immune system',
+              u'Allergiska reaktioner, i s\xe4llsynta fall med chock som f\xf6ljd, angio\xf6dem'],
+             ['Nervous system',
+              u'Neuralgi, parestesi, feberkramper, neurologiska rubbningar s\xe5som encefalomyelit, neurit och Guillain-Barr\xe9s syndrom'],
+             ['Vascular',
+              u'Vaskulit, i mycket s\xe4llsynta fall med \xf6verg\xe5ende renal p\xe5verkan']]]],
+ '_pages': [3, 4],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

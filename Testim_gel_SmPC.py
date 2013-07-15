@@ -1,0 +1,9 @@
+{'_data': [['Uncommon', [['Vascular', u'Vallningar/rodnad  '], ['Skin', u'Kl\xe5da  ']]],
+           ['Unknown',
+            [['Reproductive system',
+              u'br\xf6stk\xf6rtel Allm\xe4nna symtom och/eller Reaktion p\xe5 Vanlig symtom vid applikationsst\xe4llet (inkl administreringsst\xe4llet rodnad, hudutslag och kl\xe5da) Perifer svullnad Mindre vanlig'],
+             ['Investigations',
+              u'hematokritv\xe4rde, f\xf6rh\xf6jt hemoglobin, f\xf6rh\xf6jda v\xe4rden p\xe5 r\xf6da blodkroppar I s\xe4llsynta fall kan gynekomasti utvecklas och kvarst\xe5 hos patienter som behandlas f\xf6r hypogonadism med Testim. c. \xd6vrig information Andra k\xe4nda biverkningar som kan vara relaterade till testosteronbehandling listas i f\xf6ljande tabell: Organklass Biverkningar Godartade och elakartade tum\xf6rer Prostatacancer (risk f\xf6r prostatacancer i (inklusive cystor och polyper) samband med testosteronbehandling \xe4r inte fastst\xe4llt) Metabolism och nutrition Elektrolytiska rubbningar (s\xe5som retention av natrium, kalium, kalcium, oorganiskt fostaf och vatten) vid h\xf6g dos och/eller f\xf6rl\xe4ngd behandling Psykiska st\xf6rningar Nedsatt libido, oro, emotionell labilitet Centrala och perifiera nervsystemet Parestesi (K\xe4nselbortfall) Magtarmkanalen Illam\xe5ende Lever och gallv\xe4gar Gulsot i mycket s\xe4llsynta fall samt onormala leverfunktions-prover Hud och subkutan v\xe4vnad Olika f\xf6r\xe4ndringar kan uppkomma inklusive \xf6kad beh\xe5ring, alopeci och seborr\xe9 Muskuloskeletala systemet och bindv\xe4v Muskelkramper Reproduktionsorgan och br\xf6stk\xf6rtel \xd6kad frekvens av erektioner; testosteronebehandling f\xf6r hypogandism kan i s\xe4llsynta fall f\xf6rorsaka ih\xe5llande, sm\xe4rtsamma erektioner (priapism) och f\xf6r\xe4ndringar i prostata. Unders\xf6kningar F\xf6r\xe4ndrade blodlipidv\xe4rden inklusive s\xe4nkt HDL-kolesterol och vikt\xf6kning']]]],
+ '_pages': [6, 7],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

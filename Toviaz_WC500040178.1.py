@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['Infections', u'Urinv\xe4gsinfektion'],
+             ['Psychiatric', u'Insomni   F\xf6rvirringstillst\xe5nd'],
+             ['Nervous system', u'Yrsel;   Dysgeusi;   Huvudv\xe4rk   Somnolens'],
+             ['Eye', u'\xd6gontorrhet   Dimsyn'],
+             ['Ear', u'Svindel'],
+             ['Cardiac', u'Takykardi;']]]],
+ '_pages': [5, 6],
+ u'_rank': 6,
+ u'_type': u'LFSU'}

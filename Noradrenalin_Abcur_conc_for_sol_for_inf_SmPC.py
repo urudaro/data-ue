@@ -1,0 +1,11 @@
+{'_data': [['Unknown',
+            [['Psychiatric', u'\xc5ngest'],
+             ['Nervous system', u'Huvudv\xe4rk'],
+             ['Cardiac', u'Hypertoni, reflektorisk bradykardi, ventrikul\xe4r arytmi'],
+             ['Vascular',
+              u'Perifer ischemi med sekventiell gangr\xe4n. Blodvolymsminskning vid l\xe4ngre tids anv\xe4ndning.'],
+             ['Respiratory',
+              u'Dyspne Noradrenalin \xe4r v\xe4vnadsirriterande och m\xe5ste sp\xe4das f\xf6re anv\xe4ndning. Extravasering kan orsaka nekros av hud och kringliggande v\xe4vnad. Toleransutveckling till effekten av noradrenalin kan uppst\xe5 efter l\xe4ngre tids anv\xe4ndning.']]]],
+ '_pages': [3, 3],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

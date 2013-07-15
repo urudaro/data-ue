@@ -1,0 +1,13 @@
+{'_data': [[u'Unknown',
+            [['General', u'Lokalreaktioner som'],
+             ['Respiratory', u'Hydrotorax,'],
+             ['Vascular', u'Tromboembolism,'],
+             ['Immune system', u'Generella utslag och'],
+             ['GI', u'Buksm\xe4rta,   Ascites, i samband'],
+             ['Metabolism', u'V\xe4tske- och   natriumretention hos'],
+             ['Reproductive system',
+              u'F\xf6rstorade ovarier   Br\xf6stsm\xe4rtor,   Ovarialcystor som'],
+             ['Investigations', u'Vikt\xf6kning, i']]]],
+ '_pages': [3, 4],
+ u'_rank': 8,
+ u'_type': u'LFSU'}

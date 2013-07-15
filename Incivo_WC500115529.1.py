@@ -1,0 +1,12 @@
+{'_data': [['Very common',
+            [['Eye', u'Magtarmkanalen  '], ['Hepato', u'Hud och subkutan v\xe4vnad  ']]],
+           ['Common',
+            [['Infections',
+              u'trombocytopeni , lymfopeni Endokrina systemet vanliga hypotyroidism Metabolism och nutrition vanliga hyperurikemi , hypokalemi'],
+             ['Renal', u'Allm\xe4nna symtom och/eller  ']]],
+           ['Uncommon',
+            [['Infections', u'gikt Centrala och perifera vanliga dysgeusi, synkope']]],
+           ['Unknown', [['Infections', u'19 Blodet och lymfsystemet mycket vanliga anemi']]]],
+ '_pages': [18, 21],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

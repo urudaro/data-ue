@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Psychiatric', u' s\xf6mnl\xf6shet.'],
+             ['Nervous system', u' huvudv\xe4rk, yrsel, somnolens.'],
+             ['GI', u' kr\xe4kningar, diarr\xe9, illam\xe5ende, dyspepsi.'],
+             ['Hepato', u' \xf6kning av transaminaser.'],
+             ['General', u' tr\xf6tthet. ']]],
+           ['Uncommon', [['Skin', u' utslag, alopeci.']]],
+           ['Rare', [['Immune system', u' anafylaktoid reaktion.']]]],
+ '_pages': [5, 7],
+ u'_rank': 7,
+ u'_type': u'LSFU2'}

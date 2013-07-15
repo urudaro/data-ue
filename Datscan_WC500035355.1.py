@@ -1,0 +1,12 @@
+{'_data': [['Common', [['Nervous system', u'huvudv\xe4rk']]],
+           ['Uncommon',
+            [['Metabolism', u'\xf6kad aptit'],
+             ['Nervous system', u'yrsel, myrkrypningar (parestesi), dysgeusi'],
+             ['Ear', u'yrsel'],
+             ['GI', u'illam\xe5ende, muntorrhet'],
+             ['General',
+              u'sm\xe4rta vid injektionsst\xe4llet (intensiv sm\xe4rta efter administrering i sm\xe5 vener) Exponering f\xf6r joniserande str\xe5lning \xe4r kopplad till uppkomst av cancer och potentiell risk f\xf6r utveckling av \xe4rftliga defekter. Eftersom den effektiva dosen \xe4r 4,35 mSv n\xe4r den maximalt rekommenderade aktiviteten p\xe5 185 MBq administreras, f\xf6rv\xe4ntas sannolikheten vara l\xe5g f\xf6r att dessa biverkningar ska intr\xe4ffa.']]],
+           ['Unknown', [['Immune system', u'\xf6verk\xe4nslighet']]]],
+ '_pages': [4, 4],
+ u'_rank': 7,
+ u'_type': u'LSFU'}

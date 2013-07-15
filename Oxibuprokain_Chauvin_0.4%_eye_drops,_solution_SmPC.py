@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Eye',
+              u'\xd6verg\xe5ende sveda vid instillationen. Hornhinneskada vid upprepad anv\xe4ndning.']]],
+           ['Rare',
+            [['Nervous system', u') Tremor.'],
+             ['Eye', u') Dimsyn.'],
+             ['Cardiac', u') Bradykardi.'],
+             ['Vascular', u') Hypotension.'],
+             ['General', u') Yrsel.']]],
+           ['Unknown', [['General', u'Allergisk reaktion.']]]],
+ '_pages': [1, 2],
+ u'_rank': 7,
+ u'_type': u'LSFU'}

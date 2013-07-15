@@ -1,0 +1,11 @@
+{'_data': [['Very common',
+            [['GI',
+              u'0): Mild buksm\xe4rta, meteorism och flatulens vid b\xf6rjan av behandlingen.']]],
+           ['Common',
+            [['GI', u'Illam\xe5ende, kr\xe4kningar och diarr\xe9 vid h\xf6gre dosniv\xe5er.']]],
+           ['Rare',
+            [['Metabolism',
+              u'Hypernatremi vid behandling av portasystemisk encefalopati. De med laxantia vanligt f\xf6rekommande st\xf6rningarna i vatten- och elektrolytbalans m\xe5ste tas i beaktande vid l\xe5ngtidsanv\xe4ndning av dosering som framkallar tunn avf\xf6ring.']]]],
+ '_pages': [3, 3],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['Immune system', u'\xd6verk\xe4nslighet, anafylaktisk chock'],
+             ['Nervous system', u'Huvudv\xe4rk'],
+             ['Cardiac', u'Takykardi'],
+             ['Vascular', u'Hypotension'],
+             ['GI', u'Illam\xe5ende, kr\xe4kningar'],
+             ['Skin', u'Hudreaktion, erytem, kl\xe5da, pruritus'],
+             ['Musculoskeletal', u'Artralgi']]]],
+ '_pages': [4, 4],
+ u'_rank': 7,
+ u'_type': u'LFSU'}

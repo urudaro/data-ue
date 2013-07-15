@@ -1,0 +1,11 @@
+{'_data': [['Common', [['Eye', u' Synst\xf6rningar.  '], ['GI', u' Muntorrhet.  ']]],
+           ['Uncommon',
+            [['Cardiac', u' Takykardi.  '],
+             ['Eye', u' Minskat t\xe5rfl\xf6de.  '],
+             ['GI', u' Illam\xe5ende, obstipation, torrhet i svalget. '],
+             ['Renal', u' Urinretention. '],
+             ['General', u' Matthet. '],
+             ['Psychiatric', u' F\xf6rvirringstillst\xe5nd. ']]]],
+ '_pages': [2, 2],
+ u'_rank': 8,
+ u'_type': u'DFSU'}

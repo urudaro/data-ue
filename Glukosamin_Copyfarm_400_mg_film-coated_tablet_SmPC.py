@@ -1,0 +1,10 @@
+{'_data': [[u'Unknown',
+            [['Nervous system', u'Huvudv\xe4rk   Yrsel   Tr\xf6tthet'],
+             ['GI', u'Illam\xe5ende/kr\xe4kningar'],
+             ['Hepato', u'F\xf6rh\xf6jda leverenzymer,'],
+             ['Skin', u'Hudutslag   Angio\xf6dem   Pruritus   Urtikaria'],
+             ['Metabolism', u'Hyperkolesterolemi   F\xf6rs\xe4mrad kontroll av'],
+             ['General', u'\xd6dem/perifera \xf6dem']]]],
+ '_pages': [2, 3],
+ u'_rank': 6,
+ u'_type': u'LFSU'}

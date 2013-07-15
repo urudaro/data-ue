@@ -1,0 +1,12 @@
+{'_data': [['Very common',
+            [['Hepato',
+              u'ALAT-stegringar (se avsnitt 4.4) Exacerbationer av hepatit, i f\xf6rsta hand uppt\xe4ckt genom f\xf6rh\xf6jda ALAT-v\xe4rden, har rapporterats under behandling och efter uts\xe4ttande av lamivudin. De flesta fallen har varit spontant \xf6verg\xe5ende men i mycket s\xe4llsynta fall har d\xf6dsfall observerats (se avsnitt 4.4).']]],
+           ['Common',
+            [['Skin', u'pruritus'],
+             ['Musculoskeletal', u'CK-stegringar'],
+             ['Musculoskeletal', u'Muskul\xe4ra symtom inkluderande myalgi och kramper*']]],
+           ['Rare', [['Immune system', u'Angio\xf6dem']]],
+           ['Unknown', [['Blood', u'Trombocytopeni'], ['Musculoskeletal', u'Rabdomyolys']]]],
+ '_pages': [5, 6],
+ u'_rank': 7,
+ u'_type': u'LSFU'}

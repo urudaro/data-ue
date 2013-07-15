@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['General', u' D\xe5sighet.  '], ['Vascular', u' Moderat blodtrycksfall.  ']]],
+           ['Uncommon',
+            [['General', u' Yrsel.  '],
+             ['Nervous system', u' F\xf6rvirring..  '],
+             ['Other', u'  Ataxi.  ']]],
+           ['Rare',
+            [['Nervous system',
+              u' Paradoxala reaktioner (excitation, aggressivitet, hallucinationer).  '],
+             ['Respiratory', u' Andningsdepression framf\xf6r allt vid h\xf6ga doser.  ']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

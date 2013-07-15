@@ -1,0 +1,12 @@
+{'_data': [[u'Unknown',
+            [['Infections', u'Urinv\xe4gsinfektioner  Vaginala infektioner   Cystit'],
+             ['Eye', u'\xd6gonlocks\xf6dem'],
+             ['Cardiac', u'Takykardi   Palpitation'],
+             ['GI', u'Dyspepsi   L\xe4pp\xf6dem'],
+             ['Skin', u'Urtikaria   Leukocytoklastisk   Utslag   vaskulit'],
+             ['Musculoskeletal', u'Svullna leder'],
+             ['Reproductive system', u'Vulvovaginal kl\xe5da'],
+             ['Investigations', u'F\xf6rh\xf6jt blodtryck']]]],
+ '_pages': [4, 5],
+ u'_rank': 8,
+ u'_type': u'LFSU'}

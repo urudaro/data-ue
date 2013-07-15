@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Nervous system', u'Huvudv\xe4rk'],
+             ['GI', u'Magsm\xe4rtor, illam\xe5ende'],
+             ['Metabolism', u'Hyponatremi'],
+             ['Nervous system', u'Huvudv\xe4rk, yrsel'],
+             ['Cardiac', u'Perifera \xf6dem'],
+             ['GI', u'Illam\xe5ende, vikt\xf6kning,  magsm\xe4rtor, muntorrhet'],
+             ['Renal', u'Frekvent miktion']]]],
+ '_pages': [5, 5],
+ u'_rank': 7,
+ u'_type': u'TSFU'}

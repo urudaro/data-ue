@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Reproductive system',
+              u'Milt till m\xe5ttligt ovariellt  hyperstimuleringssyndrom  (WHO grad I eller II) kan f\xf6rekomma, vilket \xe4r en inneboende risk vid stimuleringsbehandling (se avsnitt 4.4.)'],
+             ['General',
+              u'Lokala reaktioner vid  injektionsst\xe4llet (t. ex. erytem,  svullnad och kl\xe5da) har  rapporterats. Vanligtvis var dessa \xf6verg\xe5ende och lindriga. I kliniska pr\xf6vningar var frekvensen 9,4 % efter upprepade injektioner av 0,25 mg cetrorelix.']]],
+           ['Uncommon',
+            [['Nervous system', u'Huvudv\xe4rk'],
+             ['Reproductive system',
+              u'Allvarligt ovariellt  hyperstimuleringssyndrom (WHO grad III).']]]],
+ '_pages': [3, 3],
+ u'_rank': 4,
+ u'_type': u'TSFU'}

@@ -1,0 +1,10 @@
+{'_data': [['Uncommon',
+            [['Skin',
+              u'f\xf6rv\xe4rrat eksem, utslag, hudirritation, sveda och stickningar, pruritus']]],
+           ['Very rare',
+            [['Skin', u'allergisk kontaktdermatit, depigmentering.'],
+             ['Immune system',
+              u'allergiska reaktioner. Hudatrofi, telangiektasi och hudstria, speciellt under f\xf6rl\xe4ngd applicering, follikulit, hypertrikos, perioral dermatit och adrenokortikal suppression.']]]],
+ '_pages': [2, 2],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

@@ -1,0 +1,11 @@
+{'_data': [['Very rare',
+            [['Psychiatric',
+              u'fall av Churg-Strauss syndrom (CSS) har rapporterats under montelukastbehandling hos astmapatienter (se avsnitt 4.4).']]],
+           ['Unknown',
+            [['GI',
+              u'Vid l\xe5ngtidsbehandling i kliniska studier med ett begr\xe4nsat antal patienter, upp till 2 \xe5r f\xf6r vuxna och upp till 12 m\xe5nader f\xf6r barn mellan 6-14 \xe5rs \xe5lder, \xe4ndrades inte s\xe4kerhetsprofilen.'],
+             ['Psychiatric',
+              u'somnambulism, irritabilitet, oro, rastl\xf6shet, agitation inkluderande aggressivt beteende eller fientlighet, darrningar, depression, sj\xe4lvmordstankar och sj\xe4lvmordsbeteende (suicidalitet) i mycket s\xe4llsynta fall 3 Nervsystemet: yrsel, d\xe5sighet, parestesi / hypoestesi, krampanfall Hj\xe4rtat: hj\xe4rtklappning Andningsv\xe4gar, br\xf6stkorg och mediastinum: n\xe4sblod Magtarmkanalen: diarr\xe9, muntorrhet, dyspepsi, illam\xe5ende, kr\xe4kningar Lever och gallv\xe4gar: f\xf6rh\xf6jda niv\xe5er av serumtransaminaser (ALT, AST), hepatit (inkluderande kolestatisk, hepatocellul\xe4r och ospecifik leverskada) Hud och subkutan v\xe4vnad: angio\xf6dem, bl\xe5m\xe4rken, urtikaria, kl\xe5da, utslag, erythema nodosum Muskuloskeletala systemet och bindv\xe4v: artralgi, myalgi inkluderande muskelkramper Allm\xe4nna symtom och administreringsst\xe4llet: asteni / tr\xf6tthet, allm\xe4n sjukdomsk\xe4nsla, \xf6dem, feber.']]]],
+ '_pages': [3, 4],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

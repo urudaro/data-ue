@@ -1,0 +1,10 @@
+{'_data': [['Very common',
+            [['General', u'Mycket vanliga'],
+             ['General', u'Mycket vanliga'],
+             ['General', u'Mycket vanliga']]],
+           ['Common', [['General', u'Mycket vanliga'], ['General', u'Vanliga']]],
+           ['Uncommon',
+            [['General', u'Mindre vanliga'], ['General', u'Mindre vanliga'], ['General', u'']]]],
+ '_pages': [3, 4],
+ u'_rank': 7,
+ u'_type': u'TSFU'}

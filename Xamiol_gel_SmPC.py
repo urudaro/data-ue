@@ -1,0 +1,11 @@
+{'_data': [['Common', [['Skin', u'Pruritus']]],
+           ['Uncommon',
+            [['Eye', u'\xd6gonirritation'],
+             ['Skin',
+              u'Exacerbation av psoriasis Hudsveda Hudsm\xe4rta eller irritation Follikulit Dermatit Erytem Akne Torr hud Utslag Pustul\xf6sa utslag']]],
+           ['Unknown',
+            [['Local',
+              u'inkluderande hudatrofi, telangiektasi, striae, follikulit, hypertrikos, perioral dermatit, allergisk kontaktdermatit, depigmentering och milier. Vid behandling av psoriasis finns risk f\xf6r generaliserad pustul\xf6s psoriasis. Systemreaktioner efter lokal applikation av kortikosteroider \xe4r s\xe4llsynta hos vuxna, men de kan vara allvarliga. H\xe4mning av binjurebarkfunktion, katarakt, infektioner, inverkan p\xe5 den metaboliska kontrollen av diabetes mellitus och \xf6kat intraokul\xe4rt tryck kan upptr\xe4da, framf\xf6rallt efter l\xe5ngvarig behandling. Systemreaktioner f\xf6rekommer mer frekvent vid behandling under ocklusion (plast, hudveck), vid behandling av stora ytor och vid l\xe5ngtidsbehandling (se avsnitt 4.4).']]]],
+ '_pages': [3, 4],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

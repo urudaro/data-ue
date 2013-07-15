@@ -1,0 +1,11 @@
+{'_data': [['Common', [['GI', u'Diarr\xe9']]],
+           ['Rare',
+            [['GI',
+              u'Sv\xe5r sm\xe4rta i h\xf6ger \xf6vre del av buken vid behandling av prim\xe4r bili\xe4r cirros.']]],
+           ['Very rare',
+            [['Hepato',
+              u'Kalcifiering av gallstenar, dekompensation vid levercirros (som delvis gick tillbaka efter uts\xe4ttande av behandlingen).'],
+             ['Skin', u'Urtikaria']]]],
+ '_pages': [3, 3],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

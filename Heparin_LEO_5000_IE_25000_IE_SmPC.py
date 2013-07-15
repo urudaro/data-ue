@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['Blood', u' Bl\xf6dning, trombocytopeni.  '],
+             ['Hepato', u' \xd6verg\xe5ende transaminasstegring  ']]],
+           ['Rare',
+            [['General', u' Allergiska och anafylaktoida reaktioner.  '],
+             ['Endocrine', u' Aldosteronh\xe4mning, osteoporos.  '],
+             ['Skin', u' \xd6verg\xe5ende alopeci, urtikaria. ']]]],
+ '_pages': [3, 3],
+ u'_rank': 5,
+ u'_type': u'DFSU'}

@@ -1,0 +1,12 @@
+{'_data': [['Unknown',
+            [['Renal',
+              u'Nefrotiskt syndrom har rapporterats i enstaka fall efter f\xf6rs\xf6k med immuntoleransinduktion hos hemofili B-patienter med faktor IX-inhibitorer och anamnes av allergisk reaktion.'],
+             ['Vascular',
+              u'Det finns risk f\xf6r tromboemboliska episoder efter administrering av humant protrombinkomplex (se avsnitt 4.4).'],
+             ['General',
+              u'F\xf6rh\xf6jd kroppstemperatur har observerats i mycket s\xe4llsynta fall.'],
+             ['Immune system',
+              u'\xd6verk\xe4nslighet eller allergiska reaktioner (som kan innefatta angio\xf6dem, br\xe4nnande och stickande k\xe4nsla p\xe5 injektionsst\xe4llet, frossa, rodnad, generaliserad urtikaria, huvudv\xe4rk, n\xe4sselfeber, hypotension, letargi, illam\xe5ende, rastl\xf6shet, takykardi, angina pectoris, stickningar, kr\xe4kning eller v\xe4sande andning) har observerats i mycket s\xe4llsynta fall hos patienter som behandlats med produkter som inneh\xe5ller faktor IX. I n\xe5gra fall har dessa reaktioner \xf6verg\xe5tt till allvarlig anafylaxi, och de har tidsm\xe4ssigt uppst\xe5tt i samband med utvecklingen av faktor IX-inhibitorer (se avsnitt 4.4). Om allergiska-anafylaktiska reaktioner uppst\xe5r, m\xe5ste administreringen av Confidex avbrytas omedelbart (dvs avbryta injektionen) och adekvat behandling skall s\xe4ttas in (se avsnitt 4.4). Antikroppar kan i mycket s\xe4llsynta fall bildas mot en eller flera faktorer i protrombinkomplexet. Om s\xe5dana inhibitorer uppst\xe5r, kommer tillst\xe5ndet att yttra sig genom d\xe5ligt kliniskt svar. I s\xe5dana fall rekommenderas att man kontaktar ett specialiserat hemofilicenter. O\xf6nskade reaktioner kan inkludera utvecklandet av heparin-inducerad trombocytopeni, typ II (HIT, typ II). Karakteristiska tecken p\xe5 HIT \xe4r minskning av antalet trombocyter med mer \xe4n 50% och/eller f\xf6rekomst av nya eller ov\xe4ntade tromboemboliska komplikationer under heparinbehandling. Debuten sker vanligen 4\u221214 dagar efter att heparinbehandlingen p\xe5b\xf6rjats, men kan intr\xe4ffa inom 10 timmar hos patienter som nyligen exponerats f\xf6r heparin (inom de senaste 100 dagarna). F\xf6r s\xe4kerhet betr\xe4ffande smitto\xe4mnen, se avsnitt 4.4.']]]],
+ '_pages': [5, 6],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

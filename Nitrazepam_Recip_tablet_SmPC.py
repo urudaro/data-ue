@@ -1,0 +1,10 @@
+{'_data': [['Very rare',
+            [['Eye', u''],
+             ['Respiratory', u'mediastinum'],
+             ['GI', u'hypersekretion. Magbesv\xe4r.'],
+             ['Skin',
+              u'Muskuloskeletala   systemet   och  Mindre vanliga  Muskelsvaghet.   bindv\xe4v'],
+             ['Psychiatric', u'']]]],
+ '_pages': [3, 3],
+ u'_rank': 3,
+ u'_type': u'LFSUR'}

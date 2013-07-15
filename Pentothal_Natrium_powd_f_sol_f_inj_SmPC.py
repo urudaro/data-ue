@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Vascular', u' Hj\xe4rtarytmi, myokarddepression, hypotension.  '],
+             ['Nervous system', u' Somnolens, f\xf6rl\xe4ngt uppvaknande.  '],
+             ['Respiratory',
+              u' Andningsdepression, bronkospasm, laryngospasm, hosta och snarkning. '],
+             ['Other', u' Frossa. ']]],
+           ['Rare',
+            [['General',
+              u' Anafylaktoida reaktioner (urtikaria, bronkospasm, blodtrycksfall  och angio\xf6dem).  reaktioner efter extravasal injektion. ']]]],
+ '_pages': [2, 3],
+ u'_rank': 5,
+ u'_type': u'DFSU'}

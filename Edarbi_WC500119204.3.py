@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['GI', u'Diarr\xe9'], ['Investigations', u'F\xf6rh\xf6jt blodkreatinfosfokinas']]],
+           ['Uncommon',
+            [['Vascular', u'Hypotoni'],
+             ['General', u'Tr\xf6tthet  Perifera \xf6dem'],
+             ['Investigations',
+              u'F\xf6rh\xf6jt kreatinin i blod  F\xf6rh\xf6jd urinsyra i blod / Hyperurikemi']]]],
+ '_pages': [5, 6],
+ u'_rank': 5,
+ u'_type': u'TSFU'}

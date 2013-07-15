@@ -1,0 +1,11 @@
+{'_data': [['Rare',
+            [['Immune system',
+              u') \xd6gonirritation Hud och subkutan Mindre vanliga (>1/1 000, <1/100) v\xe4vnad Alopeci Torr hud Onormal h\xe5rstruktur Utslag Br\xe4nnande k\xe4nsla i huden'],
+             ['Immune system',
+              u'>1/10 000, <1/1 000) Akne Kontaktdermatit Hudsjukdom Hudavst\xf6tning']]],
+           ['Unknown',
+            [['Immune system',
+              u'Hypersensitivitet Centrala och perifera S\xe4llsynta (>1/10 000, <1/1 000) nervsystemet Dysgeusi \xd6gon Mindre vanliga (>1/1 000, <1/100) \xd6kat t\xe5rfl\xf6de']]]],
+ '_pages': [2, 3],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

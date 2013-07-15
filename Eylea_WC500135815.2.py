@@ -1,0 +1,13 @@
+{'_data': [['Very common', [['Eye', u'Konjunktival bl\xf6dning \xd6gonsm\xe4rta']]],
+           ['Common',
+            [['Eye',
+              u'N\xe4thinneavlossning Ruptur p\xe5 retinalt pigmentepitel Avlossning av retinalt pigmentepitel N\xe4thinnedegeneration Katarakt Nukle\xe4r katarakt Subkapsul\xe4r katarakt Skrubbs\xe5r p\xe5 hornhinna \xd6kat intraokul\xe4rt tryck Fl\xe4ckar i synf\xe4ltet Hornhinne\xf6dem Glaskroppsavlossning Sm\xe4rta vid injektionsst\xe4llet K\xe4nsla av fr\xe4mmande kropp \xd6kat t\xe5rfl\xf6de \xd6gonlocks\xf6dem Bl\xf6dning vid injektionsst\xe4llet Konjunktival hyperemi Okul\xe4r hyperemi']]],
+           ['Uncommon',
+            [['Immune system', u'\xd6verk\xe4nslighet*)'],
+             ['Eye',
+              u'Endoftalmit**) N\xe4thinneruptur Kortikal katarakt Linsgrumling Korneal epiteldefekt Korneal erosion Irritation p\xe5 injektionsst\xe4llet Onormal k\xe4nsla i \xf6gat Inflammation i glaskroppen Uveit Irit Iridocyklit inflammatoriska celler i fr\xe4mre kammaren']]],
+           ['Rare', [['Eye', u'Hypopyon']]]],
+ '_note': u' ?MSFU',
+ '_pages': [4, 5],
+ u'_rank': 5,
+ u'_type': u'MSFU'}

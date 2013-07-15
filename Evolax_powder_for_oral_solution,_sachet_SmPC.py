@@ -1,0 +1,12 @@
+{'_data': [['Very common', [['Immune system', u'angio\xf6dem, dyspn\xe9, allergiska utslag,']]],
+           ['Common',
+            [['GI',
+              u'illam\xe5ende, dyspepsi, uppsv\xe4lld buk,  borborygmi, flatulens, anala besv\xe4r']]],
+           ['Rare', [['Immune system', u'erytem, urtikaria och pruritus']]],
+           ['Unknown',
+            [['Metabolism', u'hyperkalemi och hypokalemi'],
+             ['Nervous system', u'Huvudv\xe4rk  Buksm\xe4rta, diarr\xe9, kr\xe4kningar,'],
+             ['General', u'Perifert \xf6dem']]]],
+ '_pages': [3, 3],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

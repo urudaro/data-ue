@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['Skin',
+              u'Torr hud, erytem, pruritus, obehag i huden (br\xe4nnande och stickande hudsm\xe4rta), hudirritation, f\xf6rs\xe4mring av rosacea.']]],
+           ['Uncommon',
+            [['Nervous system', u'Hypoestesi, parestesi, dysgeusi (metallsmak).'],
+             ['GI', u'Illam\xe5ende']]],
+           ['Unknown', [['Skin', u'Kontaktdermatit.']]]],
+ '_pages': [3, 3],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

@@ -1,0 +1,13 @@
+{'_data': [['Uncommon',
+            [['General', u' Feber, frysningar, illam\xe5ende.  '], ['Skin', u' Flush.  ']]],
+           ['Rare',
+            [['General', u' Anafylaktisk reaktion, huvudv\xe4rk, buksm\xe4rtor, tr\xf6tthet  '],
+             ['Blood', u' Hemolys, reticulocytos.  '],
+             ['Vascular', u' Hyper/hypotension. '],
+             ['Skin', u' Exantem, urtikaria. '],
+             ['Hepato', u' Leverp\xe5verkan. '],
+             ['Respiratory', u' Tachypn\xe9. '],
+             ['Other', u' Priapism. ']]]],
+ '_pages': [2, 3],
+ u'_rank': 9,
+ u'_type': u'DFSU'}

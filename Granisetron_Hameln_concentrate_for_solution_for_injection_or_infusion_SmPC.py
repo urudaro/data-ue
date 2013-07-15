@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Immune system',
+              u'Diarr\xe9 Lever och gallv\xe4gar Vanliga F\xf6rh\xf6jning av transaminaser* Hud och subkutan v\xe4vnad Mindre vanliga Hudutslag']]],
+           ['Uncommon',
+            [['Immune system',
+              u'Extrapyramidala reaktioner Hj\xe4rtat Mindre vanliga QT-f\xf6rl\xe4ngning Magtarmkanalen Mycket vanliga F\xf6rstoppning']]],
+           ['Unknown',
+            [['Immune system',
+              u'\xd6verk\xe4nslighetsreaktioner, t ex anafylaxi, urtikaria Psykiska st\xf6rningar Vanliga S\xf6mnl\xf6shet Centrala och perifera Mycket vanliga nervsystemet Huvudv\xe4rk']]]],
+ '_pages': [3, 4],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

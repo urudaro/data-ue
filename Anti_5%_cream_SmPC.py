@@ -1,0 +1,13 @@
+{'_data': [['Common', [['Skin', u'Domningar p\xe5 applikationsst\xe4llet.']]],
+           ['Uncommon',
+            [['Skin',
+              u'\xd6verg\xe5ende br\xe4nnande eller stickande k\xe4nsla p\xe5 applikationsst\xe4llet. L\xe4tt uttorkning eller fj\xe4llning av huden. Kl\xe5da.']]],
+           ['Rare',
+            [['Skin',
+              u'Erytem. Kontakteksem p\xe5 applikationsst\xe4llet. Sensitivitetstester visar att en reaktion oftast beror p\xe5 n\xe5got av kr\xe4mens \xf6vriga inneh\xe5lls\xe4mnen \xe4n p\xe5 aciklovir.']]],
+           ['Very rare',
+            [['Immune system',
+              u'Omedelbara \xf6verk\xe4nslighetsreaktioner inklusive angio\xf6dem och urtikaria.']]]],
+ '_pages': [2, 2],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

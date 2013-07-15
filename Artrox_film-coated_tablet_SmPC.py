@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['Nervous system', u'Huvudv\xe4rk   Yrsel   Tr\xf6tthet'],
+             ['Respiratory', u'Astma eller'],
+             ['GI', u'Illam\xe5ende   Kr\xe4kningar'],
+             ['Hepato', u'F\xf6rh\xf6jda'],
+             ['Skin', u'Hudutslag   Angio\xf6dem   Pruritus   Urtikaria'],
+             ['Metabolism', u'F\xf6rs\xe4mrad kontroll   av blodglukos hos'],
+             ['General', u'\xd6dem/perifera']]]],
+ '_pages': [2, 3],
+ u'_rank': 7,
+ u'_type': u'LFSU'}

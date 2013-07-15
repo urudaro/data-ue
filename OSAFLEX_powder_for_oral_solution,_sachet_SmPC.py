@@ -1,0 +1,13 @@
+{'_data': [['Common', [['Nervous system', u'Huvudv\xe4rk'], ['GI', u'F\xf6rstoppning']]],
+           ['Uncommon', [['Skin', u'Hudutslag Kl\xe5da Rodnad']]],
+           ['Rare', []],
+           ['Unknown',
+            [['Nervous system', u'Yrsel'],
+             ['GI', u'Kr\xe4kningar'],
+             ['Skin', u'Angio\xf6dem Urtikaria'],
+             ['General', u'\xd6dem, perifera \xf6dem'],
+             ['Hepato', u'F\xf6rh\xf6jda leverenzym-v \xe4rden gulsot']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 3],
+ u'_rank': 8,
+ u'_type': u'MSFU'}

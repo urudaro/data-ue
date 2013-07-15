@@ -1,0 +1,11 @@
+{'_data': [['Uncommon',
+            [['Skin',
+              u'(>1/1000 till < 1/100) Lokala hudreaktioner, s\xe5som blekhet och rodnad, kan f\xf6rekomma p\xe5 den behandlade ytan. Dessa symtom upptr\xe4der som en direkt effekt av lokalanestetikum p\xe5 blodk\xe4rl och \xe4r vanligen \xf6verg\xe5ende och milda. Hudirritationer s\xe5som kl\xe5da och sveda kan f\xf6rekomma, s\xe4rskilt i b\xf6rjan av behandlingen. Dessa symtom \xe4r \xf6verg\xe5ende.']]],
+           ['Rare',
+            [['Immune system', u'(\u2265 1/10,000 till < 1/1000) Allergisk kontakteksem']]],
+           ['Very rare',
+            [['Immune system',
+              u'Mycket s\xe4llsynta (< 1/10,000) Allergiska reaktioner (i allvarliga fall anafylaktisk chock) mot lokalanestetika av amidtyp hydrerad sojalecitin']]]],
+ '_pages': [3, 3],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

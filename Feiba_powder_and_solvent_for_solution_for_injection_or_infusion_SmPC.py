@@ -1,0 +1,13 @@
+{'_data': [[u'Unknown',
+            [['Blood', u'Disseminerad intravaskul\xe4r koagulation (DIC)'],
+             ['Immune system', u'Anafylaktiska reaktioner'],
+             ['Nervous system', u'Parestesi'],
+             ['Cardiac', u'Hj\xe4rtinfarkt'],
+             ['Vascular', u'Arteriell och ven\xf6s trombos'],
+             ['Respiratory', u'Lungemboli'],
+             ['GI', u'Kr\xe4kning'],
+             ['Skin', u'Hypestesi i ansiktet'],
+             ['General', u'Sm\xe4rta vid injektionsst\xe4llet   Sjukdomsk\xe4nsla']]]],
+ '_pages': [6, 7],
+ u'_rank': 9,
+ u'_type': u'LFSU'}

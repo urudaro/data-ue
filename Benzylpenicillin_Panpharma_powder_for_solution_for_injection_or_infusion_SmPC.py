@@ -1,0 +1,10 @@
+{'_data': [['Uncommon',
+            [['General',
+              u'(>1/1 000 till Blodet och lymfsystemet: eosinofili < 1/100): Hud och subkutan v\xe4vnad: urtikaria']]],
+           ['Rare',
+            [['General',
+              u'< 1/1 000): anafylaktiska reaktioner. Blodet och lymfsystemet: agranulocytos, hemolytisk anemi, leukopeni. Magtarmkanalen: diarr\xe9 orsakad av Clostridium difficile.']]],
+           ['Unknown', [['General', u'tromboflebit']]]],
+ '_pages': [2, 3],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

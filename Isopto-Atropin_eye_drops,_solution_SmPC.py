@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['General', u' Ansiktsrodnad, feber.  '],
+             ['Vascular', u' Takykardi.  '],
+             ['Nervous system', u' Konfusion, hallucinationer, excitation. '],
+             ['GI', u' Obstipation. '],
+             ['Eye',
+              u' Sveda vid instillation, f\xf6rs\xe4mrat n\xe4rseende, ljusk\xe4nslighet. ']]],
+           ['Uncommon', [['Skin', u' Allergi vid l\xe4ngre tids anv\xe4ndning.  ']]],
+           ['Rare', [['Eye', u' Akut glaukom.  ']]]],
+ '_pages': [2, 2],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

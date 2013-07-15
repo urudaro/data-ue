@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['Metabolism', u'Hypokalemi.'],
+             ['Psychiatric', u'S\xf6mnst\xf6rningar   och'],
+             ['Nervous system', u'Tremor, huvudv\xe4rk.'],
+             ['Cardiac', u'Takykardi, palpitationer.   Hj\xe4rtarytmi (t ex'],
+             ['GI', u'Illam\xe5ende.'],
+             ['Skin', u'Urtikaria och   exantem.'],
+             ['Musculoskeletal', u'Muskelkramper.']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'LFSU'}

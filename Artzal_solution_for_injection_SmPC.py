@@ -1,0 +1,10 @@
+{'_data': [['Common', [['General', u'\xd6verg\xe5ende lokal sm\xe4rta och \xf6mhet.']]],
+           ['Uncommon', [['General', u'Lokal v\xe4rmek\xe4nsla och svullnad.']]],
+           ['Rare', [['Skin', u'Exantem, urtikaria.']]],
+           ['Unknown',
+            [['GI', u'Illam\xe5ende, kr\xe4kningar.'],
+             ['General', u'\xd6dem (ansikte, \xf6gonlock m m), ansiktsrodnad, feber.']]]],
+ '_note': u' ?MSFU',
+ '_pages': [2, 2],
+ u'_rank': 5,
+ u'_type': u'MSFU'}

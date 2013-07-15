@@ -1,0 +1,12 @@
+{'_data': [['Common', [['Immune system', u'Dysgeusi (bitter smak)']]],
+           ['Uncommon', [['Respiratory', u'Nysningar Epistaxis']]],
+           ['Rare', [['GI', u'Illam\xe5ende']]],
+           ['Very rare',
+            [['Immune system', u'\xd6verk\xe4nslighet Anafylaktoid reaktion*'],
+             ['Nervous system',
+              u'Yrsel** somnolens (d\xe5sighet,  tr\xf6tthet) Nasalt obehag (sveda, kl\xe5da)'],
+             ['General', u'Tr\xf6tthet** (matthet, utmattning)  Svaghet**'],
+             ['General', u'Utslag']]]],
+ '_pages': [2, 3],
+ u'_rank': 7,
+ u'_type': u'TSFU'}

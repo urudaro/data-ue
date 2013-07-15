@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Nervous system', u'Yrsel, huvudv\xe4rk.'],
+             ['GI', u'Illam\xe5ende,  gastrointestinala obehag, hicka.'],
+             ['General', u'Sveda i mun eller svalg,  \xf6kad salivuts\xf6ndring.'],
+             ['Respiratory', u'Hosta.'],
+             ['Cardiac', u'Palpitationer.']]],
+           ['Uncommon', [['Skin', u'Erytem, urtikaria.']]],
+           ['Rare',
+            [['General', u'Allergiska reaktioner som  t.ex angio\xf6dem.'],
+             ['Cardiac', u'Reversibelt  f\xf6rmaksflimmer.']]]],
+ '_pages': [4, 5],
+ u'_rank': 8,
+ u'_type': u'TSFU'}

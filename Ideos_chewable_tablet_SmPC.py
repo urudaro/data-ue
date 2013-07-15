@@ -1,0 +1,10 @@
+{'_data': [['Uncommon', [['Metabolism', u'Hyperkalcemi och hyperkalciuri.']]],
+           ['Rare',
+            [['GI', u'F\xf6rstoppning, flatulens, illam\xe5ende, magont och diarr\xe9.'],
+             ['Skin', u'Pruritus, hudutslag och urtikaria.']]],
+           ['Unknown',
+            [['Immune system',
+              u'\xd6verk\xe4nslighetsreaktioner s\xe5som angio\xf6dem eller laryngealt \xf6dem har rapporterats.']]]],
+ '_pages': [4, 4],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

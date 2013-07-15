@@ -1,0 +1,11 @@
+{'_data': [['Common', [['GI', u' Illam\xe5ende, kr\xe4kningar.  ']]],
+           ['Uncommon',
+            [['Endocrine', u' Hypoglykemi.  '], ['Skin', u' Exantem och urtikaria. ']]],
+           ['Rare',
+            [['Blood', u' Agranulocytos, pancytopeni, trombocytopeni.  '],
+             ['Vascular', u' Allergisk vaskulit.  '],
+             ['Skin', u' Fotosensibilitet. '],
+             ['Hepato', u' Hepatocellul\xe4r och/eller cholestatisk ikterus. ']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

@@ -1,0 +1,11 @@
+{'_data': [['Rare',
+            [['Blood',
+              u' fall \xf6verk\xe4nslighetsreaktioner rapporterats hos patienter som \xe5terupptagit    p\xe5 \xf6verk\xe4nslighet. I b\xe5da dessa fall   > , Vanlig  '],
+             ['Blood', u'< , Mindre vanlig , S\xe4llsynt  och Mycket  '],
+             ['Blood', u'< .  Abakavir   '],
+             ['Hepato', u' Hepatit.  '],
+             ['Musculoskeletal', u' Rabdomyolys.  ']]],
+           ['Very rare', [['Blood', u' Pure red cell  '], ['Skin', u' Erythema  ']]]],
+ '_pages': [10, 14],
+ u'_rank': 7,
+ u'_type': u'LSFU3'}

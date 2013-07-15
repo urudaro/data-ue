@@ -1,0 +1,13 @@
+{'_data': [['Very common', [['Nervous system', u'Huvudv\xe4rk'], ['GI', u'F\xf6rstoppning']]],
+           ['Common',
+            [['Psychiatric', u'S\xf6mnl\xf6shet'],
+             ['GI', u'Diarr\xe9'],
+             ['Hepato', u'F\xf6rh\xf6jning av transaminaser*']]],
+           ['Uncommon',
+            [['Immune system', u'\xd6verk\xe4nslighetsreaktioner, t ex anafylaxi, urtikaria'],
+             ['Nervous system', u'Extrapyramidala reaktioner'],
+             ['Cardiac', u'QT-f\xf6rl\xe4ngning'],
+             ['Skin', u'Hudutslag']]]],
+ '_pages': [3, 4],
+ u'_rank': 9,
+ u'_type': u'LSFU'}

@@ -1,0 +1,11 @@
+{'_data': [['Unknown',
+            [['Immune system', u'Anafylaxi'],
+             ['Nervous system', u'Yrsel'],
+             ['Cardiac', u'Takykardi, palpitationer'],
+             ['GI', u'Illam\xe5ende, muntorrhet, gastrit'],
+             ['Hepato', u'Onormal leverfunktion'],
+             ['Skin', u'Hudutlsag, alopeci'],
+             ['General', u'Tr\xf6tthet']]]],
+ '_pages': [2, 3],
+ u'_rank': 7,
+ u'_type': u'LSFU'}

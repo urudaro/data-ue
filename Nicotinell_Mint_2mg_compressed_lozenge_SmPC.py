@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Nervous system', u'Yrsel, huvudv\xe4rk.'],
+             ['GI',
+              u'Illam\xe5ende, flatulens, hicka, gastrit, muntorrhet, stomatit och esofagit.']]],
+           ['Uncommon', [['Cardiac', u'Palpitationer.']]],
+           ['Rare',
+            [['Cardiac', u'F\xf6rmaksarytmier'],
+             ['Immune system',
+              u'\xd6verk\xe4nslighet, angioneurotiskt \xf6dem och anafylaktiska reaktioner.']]]],
+ '_pages': [5, 5],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

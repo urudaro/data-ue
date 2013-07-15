@@ -1,0 +1,11 @@
+{'_data': [['Very common',
+            [['Skin',
+              u'Epitelskada med erosion, irritation vid  appliceringsst\xe4llet (inklusive erythem, kl\xe5da, sveda, \xf6mhet).']]],
+           ['Unknown',
+            [['Immune system', u'\xd6verk\xe4nslighet vid appliceringsst\xe4llet.'],
+             ['Skin', u'S\xe5r, s\xe5rskorpor, missf\xe4rgning av huden,'],
+             ['General', u'Sm\xe4rta, svullnad och bl\xf6dning vid'],
+             ['Injury', u'Fr\xe4tskada, avskavning, s\xe5rsekretion']]]],
+ '_pages': [2, 3],
+ u'_rank': 5,
+ u'_type': u'TSFU'}

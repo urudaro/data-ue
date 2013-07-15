@@ -1,0 +1,11 @@
+{'_data': [['Common', [['General', u'Sm\xe4rta vid injektionsst\xe4llet/ Tryckf\xf6rnimmelse']]],
+           ['Uncommon',
+            [['Nervous system', u'Huvudv\xe4rk Yrsel'], ['GI', u'Illam\xe5ende Kr\xe4kningar']]],
+           ['Rare', [['Vascular', u'Vasovagal reaktion']]],
+           ['Unknown',
+            [['Immune system',
+              u'Anafylaktoida reaktioner/\xf6verk\xe4nslighets reaktioner, hudreaktioner*.']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 4],
+ u'_rank': 5,
+ u'_type': u'MSFU'}
