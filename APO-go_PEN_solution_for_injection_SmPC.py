@@ -4,7 +4,7 @@
            ['Common',
             [['Psychiatric',
               u'Neuropsykiatriska st\xf6rningar \xe4r vanliga hos patienter med Parkinsons sjukdom. APO-go Pen b\xf6r anv\xe4ndas med s\xe4rskild f\xf6rsiktighet hos dessa patienter. Neuropsykiatriska st\xf6rningar (inklusive \xf6verg\xe5ende, lindrig konfusion och synhallucinationer) har f\xf6rkommit under behandling med apomorfinhydroklorid.'],
-             [u'Nervous system',
+             [u'Nervous system a',
               u'I b\xf6rjan av behandlingen kan \xf6verg\xe5ende sedation f\xf6rekomma i anslutning till varje dos apomorfinhydroklorid. Detta f\xf6rsvinner vanligen under de f\xf6rsta behandlingsveckorna. Apomorfin associeras med somnolens. Yrsel/omt\xf6ckning har ocks\xe5 rapporterats.'],
              ['Respiratory',
               u'G\xe4spningar har rapporterats under apomorfinbehandling.'],
