@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Nervous system', u'Huvudv\xe4rk'],
+             ['GI', u'Magsm\xe4rtor, illam\xe5ende'],
+             ['Metabolism', u'Hyponatremi'],
+             ['Nervous system', u'Huvudv\xe4rk, yrsel'],
+             ['GI', u'Magsm\xe4rtor, illam\xe5ende,  muntorrhet, vikt\xf6kning']]],
+           ['Very rare',
+            [['Metabolism', u'Hyponatremi'],
+             ['Psychiatric', u'Emotionella st\xf6rningar'],
+             ['Skin', u'Allergiska hudreaktioner']]]],
+ '_pages': [4, 4],
+ u'_rank': 8,
+ u'_type': u'TSFU'}

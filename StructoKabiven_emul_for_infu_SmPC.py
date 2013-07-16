@@ -1,0 +1,13 @@
+{'_data': [['Uncommon',
+            [['Metabolism',
+              u'F\xf6rh\xf6jda plasmaniv\xe5er av leverenzym, ketonkroppar och triglycerider'],
+             ['General', u'Illam\xe5ende, huvudv\xe4rk, f\xf6rh\xf6jd kroppstemperatur']]],
+           ['Rare', [['Cardiac', u'Takykardi'], ['Vascular', u'Hypertoni']]],
+           ['Very rare',
+            [['Respiratory', u'Andningssymtom'],
+             ['GI', u'Diarr\xe9'],
+             ['General', u'hudutslag, ryggsm\xe4rtor, yrsel']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 6],
+ u'_rank': 7,
+ u'_type': u'MSFU'}

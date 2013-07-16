@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Psychiatric', u'vanliga  '],
+             ['Respiratory', u'vanliga      '],
+             ['Musculoskeletal', u'vanliga      ']]],
+           ['Unknown',
+            [['Psychiatric', u'Mindre   '],
+             ['Respiratory', u'Mindre   '],
+             ['Musculoskeletal', u'Mindre   ']]]],
+ '_pages': [14, 18],
+ u'_rank': 6,
+ u'_type': u'LSFU3'}

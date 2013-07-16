@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['GI', u'Illam\xe5ende, magont'],
+             ['General', u'Huvudv\xe4rk, n\xe4st\xe4ppa/rinit, n\xe4sbl\xf6dning']]],
+           ['Uncommon', [['Skin', u'Allergiska reaktioner mot konserveringsmedlet']]],
+           ['Very rare',
+            [['Immune system', u'Allergiska reaktioner'],
+             ['Metabolism', u'Hyponatremi'],
+             ['Psychiatric', u'Emotionella st\xf6rningar hos barn t ex mardr\xf6mmar'],
+             ['Skin', u'Allergiska hudreaktioner']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'MSFU'}

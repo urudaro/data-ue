@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['Metabolism', u'Minskad aptit   Mindre vanliga'],
+             ['Nervous system', u'Huvudv\xe4rk Mindre   vanliga   Dystoni S\xe4llsynta'],
+             ['Ear', u'Vertigo Mindre   vanliga'],
+             ['Hepato', u'F\xf6rh\xf6jd niv\xe5 av   Mindre vanliga'],
+             ['Skin', u'Irritation vid   Mindre vanliga'],
+             ['Musculoskeletal', u'Artralgi   Mindre vanliga'],
+             ['General', u'Generaliserat \xf6dem   Mindre vanliga']]]],
+ '_pages': [5, 7],
+ u'_rank': 7,
+ u'_type': u'LFSU'}

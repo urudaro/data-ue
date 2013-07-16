@@ -1,0 +1,13 @@
+{'_data': [['Very common', []],
+           ['Common', []],
+           ['Uncommon', [['GI', u'Magbesv\xe4r']]],
+           ['Rare', [['Hepato', u'Leverskada']]],
+           ['Very rare',
+            [['Blood', u'Agranulacytos, pancytopeni, trombocytopeni'],
+             ['Skin',
+              u'Allergisk reaktion (urtikaria, hudutslag, hypertermi, skador p\xe5 slemhinnorna'],
+             ['Immune system', u'Anafylaktisk chock']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 3],
+ u'_rank': 5,
+ u'_type': u'MSFU'}

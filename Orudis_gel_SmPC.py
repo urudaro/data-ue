@@ -1,0 +1,12 @@
+{'_data': [['Uncommon',
+            [['Local',
+              u'Lokala hudreaktioner s\xe5som erythem, eksem, pruritus och br\xe4nnande (<1/100 - k\xe4nsla. >1/1000)']]],
+           ['Rare',
+            [['Local',
+              u'fotosensibilisering och urtikaria. Fall av mer allvarliga reaktioner (<1/1000 - s\xe5som bull\xf6sa eller flyktenul\xe4ra eksem som kan spridas eller bli >1/10 000): generaliserade har intr\xe4ffat vid s\xe4llsynta tillf\xe4llen.']]],
+           ['Unknown',
+            [['Local',
+              u'och som i enstaka fall kan vara allvarliga och generella. Enstaka fall av systembiverkningar som njurp\xe5verkan, har rapporterats.']]]],
+ '_pages': [2, 3],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

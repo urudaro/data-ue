@@ -1,0 +1,11 @@
+{'_data': [['Common', [['GI', u'Illam\xe5ende, diarr\xe9.'], ['Skin', u'Exantem.']]],
+           ['Uncommon', [['Blood', u'Eosinofili.'], ['Skin', u'Urtikaria']]],
+           ['Rare',
+            [['Blood', u'Agranulocytos.'],
+             ['Infections', u'Pseudomembran\xf6s kolit.'],
+             ['Immune system', u'Anafylaktiska reaktioner'],
+             ['Hepato',
+              u'Leverp\xe5verkan av oftast blandad koleastatisk-hepatocellul\xe4r typ. Svamp\xf6verv\xe4xt i munh\xe5la och underliv kan f\xf6rekomma.']]]],
+ '_pages': [3, 3],
+ u'_rank': 8,
+ u'_type': u'LSFU'}

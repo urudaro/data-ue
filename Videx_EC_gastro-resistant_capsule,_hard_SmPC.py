@@ -1,0 +1,13 @@
+{'_data': [['Very common', [['GI', u'diarr\xe9']]],
+           ['Common',
+            [['Nervous system',
+              u'perifera neurologiska symptom (inklusive neuropati), huvudv\xe4rk'],
+             ['GI', u'illam\xe5ende, kr\xe4kning, buksm\xe4rta'],
+             ['Skin', u'utslag'],
+             ['General', u'tr\xf6tthet']]],
+           ['Unknown',
+            [['Investigations',
+              u'Avvikande laboratoriev\xe4rden (grad 3-4) som rapporterats i studie 148 (tabletter) och 152 (enterokapslar) inkluderade \xf6kning av lipas hos 7% respektive 5%, \xf6kning av ALAT hos 3% respektive 6%, \xf6kning av ASAT hos 3% respektive 5%, \xf6kning av urinsyra hos 2% i b\xe5da studierna och \xf6kning av bilirubin hos 1% respektive <1% av patienterna. Neutropeni (grad 3 4) rapporterades hos 2% i b\xe5de studie 148 och 152, anemi hos <1% i studie 148 respektive 1% i studie 152 och trombocytopeni hos 1% respektive <1% av patienterna. Barn: Biverkningarna var generellt sett desamma som observerats hos vuxna. H\xf6gre hematotoxicitet \xe4r rapporterad f\xf6r kombinationen med zidovudin i f\xf6rh\xe5llande till behandling med enbart didanosin. F\xf6r\xe4ndringar p\xe5 n\xe4thinna eller nervus opticus har rapporterats hos ett f\xe5tal barn, vanligen vid doser \xf6verstigande de rekommenderade (se avsnitt 4.4). Erfarenheter efter att VIDEX EC kommit ut p\xe5 marknaden: Fall av laktacidos, ibland med d\xf6dlig utg\xe5ng, vanligtvis i samband med uttalad hepatomegali och leversteatos, har rapporterats vid behandling med nukleosidanaloger (se avsnitt 4.4). F\xf6ljande biverkningar har identifierats efter godk\xe4nnandet av Videx: Infektioner och infestationer: sialoadenit Blodet och lymfsystemet: anemi, leukopeni, trombocytopeni Immunsystemet: anafylaktisk reaktion Metabolism och nutrition: laktacidos, anorexi, diabetes mellitus, hypoglykemi, hyperglykemi \xd6gon: torra \xf6gon, retinal depigmentering, opticusneurit Magtarmkanalen: flatulens, f\xf6rstoring av \xf6ronspottk\xf6rteln, muntorrhet Lever och gallv\xe4gar: leversteatos, hepatit, leversvikt (se avsnitt 4.4) Hud och subkutan v\xe4vnad: alopeci Muskuloskeletala systemet och bindv\xe4v: myalgi, (med eller utan \xf6kning i kreatinfosfokinas), rabdomyolys inklusive akut njursvikt och hemodialys, artralgi, myopati. Allm\xe4nna symptom och/eller symptom vid administreringsst\xe4llet: asteni, frossa och feber, sm\xe4rta Unders\xf6kningar: \xf6kade/onormala niv\xe5er av serumamylas, alkaliska fosfataser och kreatinfosfokinas Reproduktionsorgan och br\xf6stk\xf6rtel: gynekomasti']]]],
+ '_pages': [7, 9],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

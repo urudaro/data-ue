@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Nervous system', u' Tr\xf6tthet.  '],
+             ['GI', u' Illam\xe5ende, f\xf6rstoppning.  '],
+             ['Other', u' Rodnad av rektalslemhinna. ']]],
+           ['Rare',
+            [['General', u' Allergiska reaktioner, fr\xe4mst hudutslag, angio\xf6dem.  '],
+             ['Skin', u' Exantem, urticaria.  '],
+             ['Reproductive system', u' Kreatininstegring  ']]],
+           ['Very rare', [['GI', u' Pankreatit  ']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

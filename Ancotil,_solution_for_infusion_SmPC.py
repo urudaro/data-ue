@@ -1,0 +1,13 @@
+{'_data': [['Rare',
+            [['Cardiac',
+              u'Benm\xe4rgstoxicitet inkl. agranulocytos. Centrala och perifera nervsystemet: S\xe4llsynt Konvulsioner, perifer neuropati. Mag-tarmkanalen: Vanlig Illam\xe5ende, kr\xe4kning, diarr\xe9.'],
+             ['Cardiac',
+              u'Tarmskador och perforationer. Hud och subkutan v\xe4vnad: Vanlig Hudutslag'],
+             ['Cardiac',
+              u'Lyells syndrom. Immunsystemet: S\xe4llsynt Allergisk reaktion Lever och gallv\xe4gar: S\xe4llsynt Akut leverskada Psykiska st\xf6rningar: S\xe4llsynt F\xf6rvirring, hallucinationer, sedering. Laboratoriev\xe4rden: F\xf6rh\xf6jda v\xe4rden av alkaliska fosfataser och/eller transaminaser i serum. De hematologiska och hepatiska biverkningarna \xe4r i regel reversibla vid dosreducering eller seponering.']]],
+           ['Unknown',
+            [['Cardiac',
+              u'dysfunktion Blodet och lymfsystemet: Vanlig Leukopeni, trombocytopeni']]]],
+ '_pages': [3, 3],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

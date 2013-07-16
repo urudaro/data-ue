@@ -1,0 +1,12 @@
+{'_data': [['Common', [['Skin', u'Pruritus Utslag Sveda']]],
+           ['Uncommon',
+            [['Skin',
+              u'Exacerbation av psoriasis Hudsm\xe4rta eller irritation Dermatit Erytem Follikulit Pigmentf\xf6r\xe4ndring p\xe5 applikationsst\xe4llet']]],
+           ['Rare', [['Skin', u'Pustul\xf6s psoriasis']]],
+           ['Unknown',
+            [['General', u'Rebound-effekt \u2013 se avsnitt 4.4'],
+             ['Local',
+              u'inkluderande hudatrofi, telangiektasi, striae, follikulit, hypertrikos, perioral dermatit, allergisk kontaktdermatit, depigmentering och milier. Vid behandling av psoriasis kan det finnas risk f\xf6r generaliserad pustul\xf6s psoriasis. Systemreaktioner efter lokal applikation av kortikosteroider \xe4r s\xe4llsynta hos vuxna, men de kan vara allvarliga. H\xe4mning av binjurebarkfunktion, katarakt, infektioner, inverkan p\xe5 den metaboliska kontrollen av diabetes mellitus och \xf6kat intraokul\xe4rt tryck kan upptr\xe4da, framf\xf6rallt efter l\xe5ngvarig behandling. Systemreaktioner f\xf6rekommer mer frekvent vid behandling under ocklusion (plast, hudveck), vid behandling av stora ytor och vid l\xe5ngtidsbehandling (se avsnitt 4.4).']]]],
+ '_pages': [3, 4],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

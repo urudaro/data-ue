@@ -1,0 +1,10 @@
+{'_data': [['Unknown',
+            [['Infections', u'nasofaryngit'],
+             ['Blood', u'purpura'],
+             ['Immune system', u'anafylaktisk'],
+             ['Nervous system',
+              u'parestesi i   yrsel,   parestesi   f\xf6rs\xe4mrat minne   benen   huvudv\xe4rk'],
+             ['Eye', u'onormal   dimsyn']]]],
+ '_pages': [3, 5],
+ u'_rank': 5,
+ u'_type': u'LFSU'}

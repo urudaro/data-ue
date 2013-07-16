@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['General', u' Aptitl\xf6shet, huvudv\xe4rk  '],
+             ['GI', u' Illam\xe5ende, kr\xe4kningar.  '],
+             ['Nervous system', u' Tremor. '],
+             ['Psychiatric', u' S\xf6mnst\xf6rningar, irritabilitet, nervositet. ']]],
+           ['Uncommon', [['Skin', u' Urtikaria, exantem.  ']]],
+           ['Rare',
+            [['Vascular', u' Takyarytmier.  '],
+             ['Nervous system', u' CNS-utl\xf6sta krampanfall.  '],
+             ['Musculoskeletal', u' Muskelkramper. ']]]],
+ '_pages': [6, 6],
+ u'_rank': 8,
+ u'_type': u'DFSU'}

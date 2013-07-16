@@ -1,0 +1,6 @@
+{'_data': [['Unknown',
+            [['GI',
+              u'hypersecretion Uncommon Diarrhoea, dysphagia, gastritis, gastrointestinal discomfort, swollen tongue, tongue thick, flatulence Rare Gastro-oesophageal reflux, loose stools Skin and subcutaneous tissue disorders Uncommon Urticaria, rash, rash maculo-papular, acne Rare Psoriasis, dermatitis allergic, alopecia, swelling face, erythema, rash papular, skin irritation Not known Hypersensitivity, angioedema Musculoskeletal and connective tissue disorders Common Musculoskeletal rigidity Uncommon Musculoskeletal discomfort, muscle cramp, pain in extremity, joint stiffness Rare Trismus Renal and urinary disorders Rare Urinary incontinence, dysuria Not known Enuresis Reproductive system and breast disorders Rare Erectile dysfunction, erection increased, galactorrhoea, gynaecomastia System Organ Class Adverse drug reactions Frequency Not known Priapism Immune system disorders Not known Anaphylactic reaction Hepatobiliary disorders Uncommon Hepatic enzyme increased Rare Liver function test abnormal General disorders and administration site conditions Common Asthenia, fatigue Uncommon Chest discomfort, gait abnormal, pain, thirst Rare Pyrexia, feeling hot Investigations Rare Blood lactate dehydrogenase increased']]]],
+ '_pages': [7, 9],
+ u'_rank': 1,
+ u'_type': u'LSFU'}

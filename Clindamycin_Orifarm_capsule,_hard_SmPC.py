@@ -1,0 +1,6 @@
+{'_data': [['Unknown',
+            [['GI',
+              u'uppkastningar, buksm\xe4rta och diarr\xe9 (se avsnitt 4.4 Varning och f\xf6rsiktighet). Hepato-bili\xe4ra rubbningar Gulsot och abnormaliteter i leverfunktionstester har observerats under klindamycinterapi. Hud- och subkutana v\xe4vnadsrubbningar Makulopapul\xe4ra utslag och urtikaria har observerats under l\xe4kemedelsterapi. Generaliserade milda till moderata morbilliform-liknande hudutslag \xe4r de vanligaste rapporterade reaktionerna. S\xe4llsynta fall av erytema multiforme, vissa liknande Stevens-Johnsons syndrom, har associerats med klindamycin. Prurit, vaginit och s\xe4llsynta fall av exfoliativ och vesikolubull\xf6s dermatit har rapporterats. SCAR (serious cutaneous adverse reaction) och s\xe4llsynta fall av toxisk epidermal nekrolys har rapporterats efter marknadsintroduktion. Nervsystemrubbningar Frekventa fall av dysgeusi har observerats vid systemisk administrering av klindamycin (injektion, kapslar eller orala granulatl\xf6sningar), dessa inkluderar ett f\xe5tal (icke-frekventa) allvarliga fall.']]]],
+ '_pages': [3, 3],
+ u'_rank': 1,
+ u'_type': u'LSFU'}

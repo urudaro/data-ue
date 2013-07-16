@@ -1,0 +1,13 @@
+{'_data': [[u'Unknown',
+            [['Infections', u'Vaginal infektion'],
+             ['Psychiatric', u'Hum\xf6rsv\xe4ngningar,'],
+             ['Nervous system', u'Huvudv\xe4rk'],
+             ['Eye', u'Kontaktlins'],
+             ['GI', u'Illam\xe5ende   Kr\xe4kningar'],
+             ['Skin', u'Acne   Alopeci   Utslag,   Urticaria,'],
+             ['Reproductive system', u'Sm\xe4rtor i br\xf6sten,   Dysmenorr\xe9,'],
+             ['General', u'Tr\xf6tthet'],
+             ['Investigations', u'Vikt\xf6kning']]]],
+ '_pages': [6, 7],
+ u'_rank': 9,
+ u'_type': u'LFSU'}

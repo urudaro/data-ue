@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['GI', u'Illam\xe5ende'],
+             ['Reproductive system', u'OHSS, b\xe4ckensm\xe4rta och'],
+             ['General', u'Tr\xf6tthet']]],
+           ['Uncommon',
+            [['Nervous system', u'Yrsel'],
+             ['GI',
+              u'Buksm\xe4rtor, kr\xe4kningar, diarr\xe9,  f\xf6rstoppning och utsp\xe4nd mage'],
+             ['Reproductive system', u'Ovarietorsion']]]],
+ '_pages': [5, 6],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

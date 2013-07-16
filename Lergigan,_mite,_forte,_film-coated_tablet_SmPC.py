@@ -1,0 +1,13 @@
+{'_data': [['Common', [['GI', u'Muntorrhet'], ['Renal', u'D\xe5sighet']]],
+           ['Uncommon',
+            [['Eye', u'Minskat t\xe5rfl\xf6de, ackomodationsrubbningar.'],
+             ['GI', u'Obstipation'],
+             ['Renal',
+              u'Urinretention Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet']]],
+           ['Rare',
+            [['Cardiac',
+              u'QT-f\xf6rl\xe4ngning, Torsade de Pointes, hj\xe4rtstillest\xe5nd, ventrikul\xe4ra arytmier (ventrikelflimmer, ventrikeltakykardi)'],
+             ['Hepato', u'Hepatit med ikterus av stastyp']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'LSFU'}

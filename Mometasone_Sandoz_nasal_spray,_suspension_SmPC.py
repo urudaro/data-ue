@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Respiratory',
+              u'a: Epistaxis, irritation i halsen, irritation, br\xe4nnande k\xe4nsla och s\xe5r i n\xe4sh\xe5lan']]],
+           ['Very rare',
+            [['General',
+              u'Anafylax, angio\xf6dem, f\xf6r\xe4ndring av smak och lukt Beskrivning av utvalda biverkningar Fallen av epistaxis var i allm\xe4nhet sj\xe4lvbegr\xe4nsande och lindriga och intr\xe4ffade med h\xf6gre incidens j\xe4mf\xf6rt med placebo (5 %), men med j\xe4mf\xf6rbar eller l\xe4gre incidens j\xe4mf\xf6rt med de aktiva nasala kortikosteroiderna som studerades (upp till 15 %). Incidensen f\xf6r alla \xf6vriga biverkningar var j\xe4mf\xf6rbar med incidensen f\xf6r placebo.'],
+             ['General',
+              u'fall har n\xe4sseptumperforation eller \xf6kat intraokul\xe4rt tryck rapporterats efter administrering av intranasala kortikosteroider. Systemiska effekter av nasala kortikosteroider kan intr\xe4ffa, s\xe4rskilt vid h\xf6ga doser under l\xe5ng tid.']]],
+           ['Unknown', [['General', u'Huvudv\xe4rk  S\xe4llsynta: \xd6verk\xe4nslighet']]]],
+ '_pages': [5, 5],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

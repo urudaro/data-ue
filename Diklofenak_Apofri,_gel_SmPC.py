@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['Skin',
+              u'Dermatit (inkl. kontaktdermatit),  hudutslag, erytem, eksem, kl\xe5da.']]],
+           ['Rare', [['Skin', u'Bull\xf6s dermatit.']]],
+           ['Very rare',
+            [['Immune system', u'\xd6verk\xe4nslighet (inklusive urticaria),  angio\xf6dem.'],
+             ['Skin', u'Ljusk\xe4nslighetsreaktioner.']]]],
+ '_pages': [3, 3],
+ u'_rank': 4,
+ u'_type': u'TSFU'}

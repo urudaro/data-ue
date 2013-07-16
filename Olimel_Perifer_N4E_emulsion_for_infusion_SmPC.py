@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Cardiac', u'Takykardi'],
+             ['Metabolism', u'Anorexi'],
+             ['Metabolism', u'Hypertriglyceridemi'],
+             ['GI', u'Buksm\xe4rtor'],
+             ['GI', u'Diarr\xe9'],
+             ['GI', u'Illam\xe5ende'],
+             ['Vascular', u'Hypertoni']]]],
+ '_pages': [9, 10],
+ u'_rank': 7,
+ u'_type': u'TSFU'}

@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Nervous system', u'Yrsel, huvudv\xe4rk'],
+             ['Respiratory', u'Hosta'],
+             ['GI', u'Illam\xe5ende'],
+             ['General',
+              u'Lokal irritation (n\xe4sa hals), n\xe4sblod, rinit, faryngit Vissa symptom s\xe5som yrsel, huvudv\xe4rk, och s\xf6mnsv\xe5righeter kan h\xe4nf\xf6ras till abstinensbesv\xe4r vid r\xf6kavv\xe4njning. \xd6kad frekvens av aft\xf6sa muns\xe5r kan uppst\xe5 n\xe4r man slutar r\xf6ka. Sambandet \xe4r oklart.']]],
+           ['Uncommon', [['Cardiac', u'Palpitationer']]],
+           ['Rare', [['Cardiac', u'F\xf6rmaksflimmer']]]],
+ '_pages': [2, 3],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

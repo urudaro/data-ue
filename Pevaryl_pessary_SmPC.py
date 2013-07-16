@@ -1,0 +1,13 @@
+{'_data': [['Common', [['Skin', u'Pruritus, Sveda']]],
+           ['Uncommon', [['Skin', u'Utslag'], ['Reproductive system', u'Vulvovaginal sveda']]],
+           ['Rare', [['Skin', u'Erytem']]],
+           ['Unknown',
+            [['Immune system', u'Hypersensitivitet Angio\xf6dem,'],
+             ['Skin', u'Urtikaria, Kontaktdermatit, Hudexfoliation'],
+             ['Reproductive system', u'Sm\xe4rta vid administrerings'],
+             ['General',
+              u'st\xe4llet, Irritation vid administrerings-st\xe4llet, Svullnad vid administrerings-st\xe4llet']]]],
+ '_note': u' ?MSFU',
+ '_pages': [2, 3],
+ u'_rank': 8,
+ u'_type': u'MSFU'}

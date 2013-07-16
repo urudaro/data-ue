@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Eye', u'(>1/100, <1/10): Sveda i \xf6gonen, nedsatt syn och \xf6gonsekretion.']]],
+           ['Uncommon',
+            [['Eye',
+              u'Hopklibbning av \xf6gonlocken, kemos, konjunktival papill\xe4r reaktion, \xf6gonlocks\xf6dem, \xf6gonbesv\xe4r, \xf6gonkl\xe5da, \xf6gonsm\xe4rta, konjunktival injektion, konjunktivala folliklar, torra \xf6gon, \xf6gonlocksrodnad och fotofobi. Inga korneala precipitat observerades i kliniska studier.'],
+             ['Nervous system', u'huvudv\xe4rk'],
+             ['Respiratory', u'rinit']]],
+           ['Rare',
+            [['Immune system', u'extraokul\xe4ra allergiska reaktioner, inklusive hudutslag']]],
+           ['Very rare', [['Immune system', u'anafylaxi'], ['Respiratory', u'Larynx\xf6dem']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'LSFU'}

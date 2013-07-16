@@ -1,0 +1,13 @@
+{'_data': [['Very common', [['GI', u'Tandv\xe4rk']]],
+           ['Common', [['GI', u'Gingival svullnad, gingival sm\xe4rta, gingival bl\xf6dning']]],
+           ['Uncommon',
+            [['Infections', u'\xd6vre luftv\xe4gsinfektion'],
+             ['Blood', u'Lymfadenopati'],
+             ['Nervous system', u'Yrsel, neuralgi'],
+             ['GI',
+              u'Gingivalhyperplasi, gingivalrecession, gingivalkl\xe5da, s\xe5r i munnen, k\xe4nslighet i t\xe4nderna'],
+             ['General',
+              u'Sjukdomsk\xe4nsla, influensaliknande sjukdom, pyrexi F\xf6ljande o\xf6nskade reaktioner har rapporterats efter godk\xe4nnandet: systemisk \xf6verk\xe4nslighet, mjukdelsnekros, cellulit och abscess vid appliceringsst\xe4llet, f\xf6rlust av smaksinnet och gingival missf\xe4rgning.']]]],
+ '_pages': [2, 3],
+ u'_rank': 7,
+ u'_type': u'LSFU'}

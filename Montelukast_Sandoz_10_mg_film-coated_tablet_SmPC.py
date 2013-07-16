@@ -1,0 +1,11 @@
+{'_data': [['Very rare',
+            [['Psychiatric',
+              u'fall (<1/10 000) av Churg-Strauss syndrom (CSS) har rapporterats hos astmapatienter under montelukastbehandling (se avsnitt 4.4).']]],
+           ['Unknown',
+            [['GI',
+              u'Biverkningsprofilen f\xf6r\xe4ndrades inte under l\xe5ngtidsbehandling av astma i kliniska studier med ett begr\xe4nsat antal patienter, upp till 2 \xe5r f\xf6r vuxna och upp till 6 m\xe5nader f\xf6r barn i 6\u201314 \xe5rs \xe5lder. F\xf6ljande biverkningar har rapporterats sedan preparatet godk\xe4nts f\xf6r f\xf6rs\xe4ljning: Blodet och lymfsystemet: \xf6kad bl\xf6dningstendens Immunsystemet: \xf6verk\xe4nslighetsreaktioner, bl.a. anafylaxi, hepatisk eosinofil infiltration'],
+             ['Psychiatric',
+              u'F\xf6r\xe4ndrat dr\xf6mm\xf6nster, bl.a. mardr\xf6mmar, hallucinationer, psykomotorisk hyperaktivitet (bl.a. irritation, oro, agitation inklusive aggressivt beteende och skakningar), depression, s\xf6mnl\xf6shet Centrala och perifera nervsystemet: yrsel, d\xe5sighet, parestesi/hypestesi, krampanfall Hj\xe4rtat: palpitationer Magtarmkanalen: diarr\xe9, muntorrhet, dyspepsi, illam\xe5ende, kr\xe4kningar Lever och gallv\xe4gar: f\xf6rh\xf6jda leverenzymv\xe4rden (ALAT och ASAT), kolestatisk hepatit Hud och subkutan v\xe4vnad: angio\xf6dem, bl\xe5m\xe4rken, n\xe4sselutslag, kl\xe5da, hudutslag, Muskuloskeletala systemet och bindv\xe4v: artralgi, myalgi bl.a. muskelkramper Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet: asteni/tr\xf6tthet, allm\xe4n sjukdomsk\xe4nsla, feber']]]],
+ '_pages': [3, 4],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

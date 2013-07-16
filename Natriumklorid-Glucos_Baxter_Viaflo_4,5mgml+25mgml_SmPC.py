@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['Metabolism', u'Hypervolemi'],
+             ['Cardiac', u'Hj\xe4rtsvikt'],
+             ['Renal', u'Polyuri'],
+             ['Metabolism', u'Hypervolemi'],
+             ['Vascular', u'Skador p\xe5 vener'],
+             ['General',
+              u'F\xf6rh\xf6jd kroppstemperatur   Infektion vid administreringsst\xe4llet']]]],
+ '_pages': [3, 4],
+ u'_rank': 6,
+ u'_type': u'LFSU'}

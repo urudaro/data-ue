@@ -1,0 +1,10 @@
+{'_data': [[u'Unknown',
+            [['Psychiatric', u'\xc5ngest'],
+             ['Nervous system', u'Huvudv\xe4rk'],
+             ['Cardiac', u'Arytmier (n\xe4r det anv\xe4nds tillsammans med'],
+             ['Vascular', u'Hypertension, perifer ischemi inklusive gangr\xe4n i'],
+             ['Respiratory', u'Dyspn\xe9'],
+             ['General', u'Nekros vid injektionsomr\xe5det p\xe5 grund av   extravasering']]]],
+ '_pages': [4, 4],
+ u'_rank': 6,
+ u'_type': u'LFSU'}

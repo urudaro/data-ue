@@ -1,0 +1,11 @@
+{'_data': [['Rare',
+            [['Renal',
+              u'Nefrotiskt syndrom har rapporterats i mycket s\xe4llsynta fall efter f\xf6rs\xf6k med  immuntoleransinduktion hos hemofili B-patienter med faktor IX-inhibitorer och anamnes av  allergisk reaktion.'],
+             ['Vascular',
+              u'Det f\xf6religger en potentiell risk f\xf6r tromboemboliska h\xe4ndelser efter administration av faktor  IX-produkter, med en h\xf6gre risk f\xf6r l\xe5grenade produkter. Anv\xe4ndningen av l\xe5grenade faktor  IX-produkter har associerats med fall av hj\xe4rtinfarkt, disseminerad intravaskul\xe4r koagulation,  ven\xf6s trombos och lungemboli. Anv\xe4ndning av h\xf6grenad faktor IX \xe4r s\xe4llan f\xf6renad med  s\xe5dana biverkningar.'],
+             ['General', u'Feber har noterats i s\xe4llsynta fall.'],
+             ['Immune system',
+              u'\xd6verk\xe4nslighets- eller allergiska reaktioner (som kan innefatta angio\xf6dem, sveda, br\xe4nnande  k\xe4nsla (irritation) eller flebit p\xe5 injektions-infusionsst\xe4llet, frossa, flush, generell urtikaria,  huvudv\xe4rk, n\xe4sselfeber, hypotoni, letargi, illam\xe5ende, rastl\xf6shet, takykardi, tryckk\xe4nsla \xf6ver  br\xf6stet, stickande k\xe4nsla, kr\xe4kningar, v\xe4sande andning) har observerats i s\xe4llsynta fall hos  patienter som behandlats med produkter inneh\xe5llande faktor IX. I n\xe5gra fall har dessa  reaktioner \xf6verg\xe5tt till allvarlig anafylaxi och de har tidsm\xe4ssigt intr\xe4ffat i n\xe4ra samband med  utvecklingen av faktor IX-inhibitorer (se \xe4ven 4.4.).  Fr\xe5n erfarenheter efter marknadsf\xf6ringen har det rapporterats att  patienter med hemofili B kan utveckla neutraliserande antikroppar (inhibitorer) mot faktor IX.  Om inhibitorer bildas kommer det att visa sig genom ett otillr\xe4ckligt kliniskt svar. I s\xe5dana fall  b\xf6r kontakt tas med specialiserat hemofilicenter. I en klinisk studie utvecklade 2 av 51 (4 %)  tidigare obehandlade patienter (PUPs) inhibitorer, och hos en av dessa patienter f\xf6rknippades  detta med en anafylaktoid reaktion vid tv\xe5 tillf\xe4llen.']]]],
+ '_pages': [6, 7],
+ u'_rank': 4,
+ u'_type': u'LFSUR'}

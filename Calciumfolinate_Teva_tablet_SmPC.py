@@ -1,0 +1,12 @@
+{'_data': [['Uncommon',
+            [['Nervous system',
+              u'feber har observerats efter administrering av kalciumfolinat som injektion.']]],
+           ['Rare',
+            [['Psychiatric',
+              u'(0,01-0,1%): insomnia, agitation och depression efter h\xf6ga doser.'],
+             ['GI', u'gastrointestinala st\xf6rningar efter h\xf6ga doser'],
+             ['Nervous system',
+              u'\xf6kad anfallsfrekvens hos epileptiker (se \xe4ven 4.5) Allm\xe4nna symtom/fynd vid administrationsst\xe4llet']]]],
+ '_pages': [4, 4],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

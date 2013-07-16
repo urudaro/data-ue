@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['Nervous system', u'Parestesi'],
+             ['Respiratory', u'Halsirritation   mediastinum'],
+             ['GI', u'Diarr\xe9   Illam\xe5ende  Obehag i buken  Oral parestesi'],
+             ['Skin', u'Urtikaria'],
+             ['General', u'Svullnad'],
+             ['General', u'']]]],
+ '_pages': [4, 5],
+ u'_rank': 5,
+ u'_type': u'LFSUR'}

@@ -1,0 +1,11 @@
+{'_data': [['Very common',
+            [['GI',
+              u't buksm\xe4rta, illam\xe5ende, bukdistension, analt obehag. Vanligt kr\xe4kning, dyspepsi Mindre vanligt dysfagi Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+             ['GI',
+              u'sjukdomsk\xe4nsla, t\xf6rst Vanligt frossbrytningar Mindre vanligt obehag']]],
+           ['Unknown',
+            [['Investigations',
+              u'minskning av bikarbonat i blod, minskning av kalcium i blod, hyperkalcemi, minskning av klorid i blod, \xf6kning av klorid i blod, minskning av fosfat i blod, avvikande leverfunktionstester']]]],
+ '_pages': [3, 4],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Skin',
+              u' Lokal hud- och mjukdelsatrofi (subkutan inj.), subkutan atrofi  (intraartikul\xe4r inj.).  '],
+             ['Musculoskeletal',
+              u' Lokal irritation och sm\xe4rta (injektion i och omkring leder) ']]],
+           ['Uncommon',
+            [['General', u' Yrsel.  '], ['Skin', u' \xd6verg\xe5ende ansiktsrodnad.  ']]],
+           ['Unknown',
+            [['Immune system',
+              u' \xd6verk\xe4nslighet, anafylaktisk/anafylaktoid reaktion ibland med  bronkospasm, anafylaktisk chock.  ']]]],
+ '_pages': [2, 3],
+ u'_rank': 5,
+ u'_type': u'DFSU'}

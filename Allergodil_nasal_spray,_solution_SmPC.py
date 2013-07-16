@@ -1,0 +1,10 @@
+{'_data': [['Common', [['Immune system', u'Dysgeusi (bitter smak)']]],
+           ['Rare', [['GI', u'Illam\xe5ende']]],
+           ['Very rare',
+            [['Immune system', u'\xd6verk\xe4nslighet Anafylaktoid reaktion*'],
+             ['Nervous system',
+              u'Yrsel** somnolens (d\xe5sighet,  tr\xf6tthet) Nasalt obehag (sveda, kl\xe5da)'],
+             ['GI', u'Utslag']]]],
+ '_pages': [2, 3],
+ u'_rank': 5,
+ u'_type': u'TSFU'}

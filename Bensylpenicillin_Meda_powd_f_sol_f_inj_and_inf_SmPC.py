@@ -1,0 +1,10 @@
+{'_data': [['Common', [['Skin', u' Exantem.  '], ['Vascular', u' Tromboflebiter  ']]],
+           ['Uncommon', [['Blood', u' Eosinofili.  '], ['Skin', u' Urtikaria. ']]],
+           ['Rare',
+            [['Immune system', u' Anafylaktiska reaktioner.  '],
+             ['Blood', u' Hemolytisk anemi, leukopeni, agranulocytos.  '],
+             ['Infections',
+              u' Diarr\xe9 orsakad av Clostridium difficile. Enstaka fall av njurp\xe5verkan har rapporterats. ']]]],
+ '_pages': [2, 3],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['General', u' Huvudv\xe4rk, yrsel.  '],
+             ['Vascular', u' Hypotension, \xf6kad hj\xe4rtfrekvens  '],
+             ['Skin', u' Flush '],
+             ['Other',
+              u' Stickande eller svidande k\xe4nsla vid applikationsst\xe4llet f\xf6rekommer initialt. ']]],
+           ['Uncommon', [['GI', u' Illam\xe5ende  ']]],
+           ['Rare', [['General', u' Svimning  '], ['Other', u' \xd6kad kariesfrekvens.  ']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

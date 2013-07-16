@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['General', u' Hos barn sm\xe4rtsamma injektioner, kl\xe5da.  '],
+             ['Endocrine',
+              u' Hos m\xe4n: Flush, impotens och minskad libido.  Hos flickor: vaginala flytningar och bl\xf6dningar. Hos kvinnor: besv\xe4r av typen klimakteriella bortfalls-symptom som v\xe4rmevallningar, dyspareuni, vaginal torrhet, spotting, vikt\xf6kning, ledsm\xe4rtor, huvudv\xe4rk, tr\xf6tthet, emotionell labilitet och s\xf6mnrubbningar. ']]],
+           ['Uncommon',
+            [['General', u' Tecken p\xe5 \xf6verk\xe4nslighet (feber, kl\xe5da, rodnad).  '],
+             ['Endocrine', u' Hos m\xe4n: Gynekomasti, skelettsm\xe4rtor.  '],
+             ['Skin', u' Lokala reaktioner vid injektionsst\xe4llet.  ']]]],
+ '_pages': [3, 3],
+ u'_rank': 5,
+ u'_type': u'DFSU'}

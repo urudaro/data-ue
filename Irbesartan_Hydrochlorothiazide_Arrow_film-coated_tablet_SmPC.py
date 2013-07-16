@@ -1,0 +1,6 @@
+{'_data': [['Unknown',
+            [['GI',
+              u'sialadenitis, loss of appetite Renal and urinary disorders: Not known: interstitial nephritis, renal dysfunction Skin and subcutaneous tissue disorders: Not known: anaphylactic reactions, toxic epidermal necrolysis, necrotizing angitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, photosensitivity reactions, rash, urticaria Musculoskeletal and connective tissue disorders: Not known: weakness, muscle spasm Vascular disorders: Not known: postural hypotension General disorders and administration site conditions: Not known: fever Hepatobiliary disorders: Not known: jaundice (intrahepatic cholestatic jaundice) Psychiatric disorders: Not known: depression, sleep disturbances The dose dependent adverse events of hydrochlorothiazide (particularly electrolyte disturbances) may increase when titrating the hydrochlorothiazide.']]]],
+ '_pages': [9, 11],
+ u'_rank': 1,
+ u'_type': u'LSFU'}

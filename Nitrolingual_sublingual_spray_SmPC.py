@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['General', u' Huvudv\xe4rk, yrsel.  '],
+             ['Vascular', u' Takykardi, hypotoni. '],
+             ['Skin', u' \xd6verg\xe5ende flush. ']]],
+           ['Uncommon', [['GI', u' Illam\xe5ende.  ']]],
+           ['Rare',
+            [['General', u' Svimning.  '],
+             ['GI', u' Kr\xe4kningar. '],
+             ['Skin', u' Allergiska reaktioner, exfoliativ dermatitis. ']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

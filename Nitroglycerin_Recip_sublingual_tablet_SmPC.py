@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Cardiac', u'Takykardi, hypotoni.'],
+             ['Skin', u'Flush.'],
+             ['General', u'Huvudv\xe4rk, yrsel.']]],
+           ['Uncommon', [['GI', u'Illam\xe5ende.']]],
+           ['Rare',
+            [['General',
+              u'Svimning. En blodtryckss\xe4nkning kan leda till reflektorisk takykardi, yrsel och svimning.']]]],
+ '_pages': [2, 2],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

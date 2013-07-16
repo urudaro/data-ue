@@ -1,0 +1,13 @@
+{'_data': [[u'Unknown',
+            [['General', u'Yrsel, huvudv\xe4rk'],
+             ['Respiratory', u'Bronkospasm'],
+             ['Nervous system', u'Tremor'],
+             ['Cardiac', u'Hj\xe4rtklappning'],
+             ['Skin', u'Urtikaria, exantem'],
+             ['GI', u'Illam\xe5ende, diarr\xe9,   Muntorrhet'],
+             ['Renal', u'Miktionssv\xe5righeter,'],
+             ['Psychiatric', u'Oro   S\xf6mnl\xf6shet   Hallucinationer,'],
+             ['Investigations', u'Transaminasstegring']]]],
+ '_pages': [2, 2],
+ u'_rank': 9,
+ u'_type': u'LFSU'}

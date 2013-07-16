@@ -1,0 +1,10 @@
+{'_data': [['Rare',
+            [['General', u'Sjukdomsk\xe4nsla'],
+             ['Hepato', u'F\xf6rh\xf6jda niv\xe5er av levertransaminaser']]],
+           ['Very rare',
+            [['General', u'\xd6verk\xe4nslighetsreaktion'],
+             ['Blood', u'Trombocytopeni Leukopeni Neutropeni']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 4],
+ u'_rank': 4,
+ u'_type': u'MSFU'}

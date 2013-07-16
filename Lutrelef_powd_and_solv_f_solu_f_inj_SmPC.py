@@ -1,0 +1,13 @@
+{'_data': [['Uncommon',
+            [['General', u' Anafylaktisk reaktion, antikroppsbildning  '],
+             ['Endocrine', u' Hyperstimulering resulterande i f\xf6rstoring av  ovarierna '],
+             ['Skin', u' Lokala reaktioner vid injektionsst\xe4llet ']]],
+           ['Rare',
+            [['General', u' Anafylaktisk chock  '],
+             ['Nervous system',
+              u' Tempor\xe4ra neurologiska symptom hos patienter med  hypofys\xe4rt adenom '],
+             ['Endocrine', u' Priapism '],
+             ['Skin', u' Lokala tromboflebiter vid injektionsst\xe4llet ']]]],
+ '_pages': [2, 2],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

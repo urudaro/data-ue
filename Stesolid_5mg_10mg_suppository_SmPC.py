@@ -1,0 +1,11 @@
+{'_data': [['Common', [['General', u' D\xe5sighet.  ']]],
+           ['Uncommon',
+            [['General', u' Yrsel, huvudv\xe4rk.  '],
+             ['Nervous system', u' Koncentrationssv\xe5righeter.  '],
+             ['Musculoskeletal', u' Muskelsvaghet. Ataxi.  ']]],
+           ['Rare',
+            [['Nervous system',
+              u' Paradoxala reaktioner (excitation, aggressivitet, hallucinationer). Minnesluckor.  ']]]],
+ '_pages': [3, 4],
+ u'_rank': 5,
+ u'_type': u'DFSU'}

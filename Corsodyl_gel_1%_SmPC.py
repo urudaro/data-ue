@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['GI',
+              u'Brun missf\xe4rgning av tunga/t\xe4nder. F\xf6r\xe4ndringar i smakupplevelsen, br\xe4nnande k\xe4nsla p\xe5 tungan']]],
+           ['Uncommon', [['GI', u'Stomatit']]],
+           ['Rare',
+            [['Immune system', u'Allergiska reaktioner'],
+             ['GI', u'Parotit'],
+             ['Skin',
+              u'Hudirritation Missf\xe4rgningen av tungan \xe4r inte skadlig och f\xf6rsvinner efter avslutad behandling. Vid behov kan missf\xe4rgning p\xe5 t\xe4nder poleras bort. F\xf6r\xe4ndringar i smakupplevelsen och en br\xe4nnande k\xe4nsla p\xe5 tungan kan upptr\xe4da n\xe4r behandlingen inleds, men dessa effekter avtar vanligen vid fortsatt anv\xe4ndning.']]],
+           ['Very rare', [['Immune system', u'Anafylaktisk reaktion']]]],
+ '_pages': [2, 2],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

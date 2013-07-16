@@ -1,0 +1,6 @@
+{'_data': [['Unknown',
+            [['GI',
+              u'ceration), abdominal pain Uncommon: taste disturbances Very rare: pancreatitis Hepatobiliary disorders Common: elevation of liver parameters (transaminases [especially ALT], less often gamma GT, alkaline phosphatase, bilirubin) Rare: hepatitis, jaundice/cholestasis Very rare: severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal Skin and subcutaneous tissue disorders Common: increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin Uncommon: urticaria Very rare: toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme Musculoskeletal and connective tissue disorders Common: tenosynovitis Uncommon: tendon rupture Renal and urinary disorders Not known: renal failure Reproductive system and breast disorders Not known: marginal (reversible) decreases in sperm concentration, total sperm count and rapid progressive motility General disorders and administration site conditions Common: anorexia, weight loss (usually insignificant), asthenia']]]],
+ '_pages': [8, 10],
+ u'_rank': 1,
+ u'_type': u'LSFU'}

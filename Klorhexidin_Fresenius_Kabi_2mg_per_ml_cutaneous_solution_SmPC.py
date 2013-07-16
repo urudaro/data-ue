@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['GI', u'Missf\xe4rgning av tunga och t\xe4nder'], ['Skin', u'Irritation']]],
+           ['Rare',
+            [['Immune system', u'Anafylaktisk reaktion'],
+             ['Nervous system', u'Smakneds\xe4ttning'],
+             ['Skin', u'Kontaktdermatit, urtikaria']]],
+           ['Unknown', [['Immune system', u'Anafylaktisk chock']]]],
+ '_note': u' ?MSFU',
+ '_pages': [2, 2],
+ u'_rank': 6,
+ u'_type': u'MSFU'}

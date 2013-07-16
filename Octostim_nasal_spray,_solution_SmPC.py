@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Cardiac', u'\xd6verg\xe5ende hj\xe4rtklappning'],
+             ['Nervous system', u'Huvudv\xe4rk'],
+             ['Eye', u'\xd6gonrodnad'],
+             ['Respiratory', u'N\xe4st\xe4ppa/rinit, n\xe4sbl\xf6dning'],
+             ['GI', u'Magknip, illam\xe5ende'],
+             ['General', u'Flush']]],
+           ['Uncommon', [['Immune system', u'Allergiska reaktioner mot konserveringsmedle']]],
+           ['Very rare', [['Metabolism', u'Hyponatremi']]]],
+ '_note': u' ?MSFU',
+ '_pages': [2, 3],
+ u'_rank': 8,
+ u'_type': u'MSFU'}

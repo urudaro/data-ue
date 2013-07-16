@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Nervous system', u'huvudv\xe4rk'],
+             ['GI', u'illam\xe5ende'],
+             ['Skin', u'kl\xe5da'],
+             ['General',
+              u'feber, allm\xe4n v\xe4rk, allm\xe4n sjukdomsk\xe4nsla. Efter en andra dos \xf6kade frekvensen av rodnad och \xf6mhet (>10%). Lokala reaktioner rapporterades vanligen under de f\xf6rsta 48 timmarna efter vaccinationen och var liksom de systemiska reaktionerna av \xf6verg\xe5ende natur. Efter lansering F\xf6ljande reaktioner har rapporterats efter lansering av produkten']]],
+           ['Very rare',
+            [['Skin', u'urticaria.'],
+             ['Immune system',
+              u'anafylaxi, allergiska reaktioner inkluderande anafylaktoida reaktioner.']]]],
+ '_pages': [2, 3],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

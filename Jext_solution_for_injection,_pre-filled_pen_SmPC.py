@@ -1,0 +1,12 @@
+{'_data': [[u'Unknown',
+            [['Metabolism', u'Hyperglykemi, hypokalemi, metabolisk acidos'],
+             ['Psychiatric', u'Oro, hallucinationer'],
+             ['Nervous system', u'Huvudv\xe4rk, yrsel, tremor, synkope'],
+             ['Cardiac', u'Takykardi, arytmi, palpitationer, angina pectoris,'],
+             ['Vascular', u'Hypertension, vasokonstriktion, perifer ischemi'],
+             ['Respiratory', u'Bronkospasm'],
+             ['GI', u'Illam\xe5ende, kr\xe4kningar'],
+             ['General', u'Hyperhidros, asteni']]]],
+ '_pages': [3, 4],
+ u'_rank': 8,
+ u'_type': u'LFSU'}

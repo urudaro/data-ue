@@ -1,0 +1,11 @@
+{'_data': [['Uncommon', [['Immune system', u'Psykiska st\xf6rningar  ']]],
+           ['Rare',
+            [['Skin',
+              u'Urinretention Allm\xe4nna symtom Mindre vanliga Tr\xf6tthet och/eller symtom vid administreringsst\xe4llet Unders\xf6kningar Mindre vanliga Blodtryckss\xe4nkning (efter parenteral tillf\xf6rsel) Denna biverkning karakt\xe4riseras av en \xf6kning i tid innan denna fas \xe4r uppn\xe5dd, och en procentuell reduktion av den totala s\xf6mnfasen. 2 Dessa biverkningar r\xe4knas som klasseffekter av antikolinerga l\xe4kemedel. Orsak effektsamband har inte alltid fastst\xe4llts.']]],
+           ['Unknown',
+            [['Eye', u'Mydriasis Hj\xe4rtat Mindre vanliga Takykardi'],
+             ['Skin',
+              u'v\xe4vnad S\xe4llsynta Allergiska hudutslag Njurar och urinv\xe4gar Mindre vanliga Miktionsbesv\xe4r']]]],
+ '_pages': [2, 3],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

@@ -1,0 +1,6 @@
+{'_data': [['Unknown',
+            [['GI',
+              u'constipation have been reported in clinical trials. The rate and severity of these symptoms did not differ from that seen with other oral insulin secretagogues. Hepatobiliary disorders Very rare: Hepatic function abnormal In very rare cases, severe hepatic dysfunction has been reported. However, a causal relationship with repaglinide has not been established. Very rare: Increased liver enzymes Isolated cases of increase in liver enzymes have been reported during treatment with repaglinide. Most cases were mild and transient, and very few patients discontinued treatment due to increase in liver enzymes. Skin and subcutaneous tissue disorders Not known: Hypersensitivity Hypersensitivity reactions of the skin may occur as erythema, itching, rashes and urticaria. There is no reason to suspect cross-allergenicity with sulphonylurea medicinal products due to the difference of the chemical structure.']]]],
+ '_pages': [7, 9],
+ u'_rank': 1,
+ u'_type': u'LSFU'}

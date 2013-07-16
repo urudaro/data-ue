@@ -1,0 +1,12 @@
+{'_data': [['Unknown',
+            [['Immune system',
+              u'\xd6verk\xe4nslighets-,  infusionsreaktion (inklusive anafylaktoid reaktion och f\xf6ljande symtom: hypotoni, obehagsk\xe4nsla i br\xf6stet, dyspn\xe9, v\xe4sande andning, blodvallning, hyperemi, asteni, urtikaria, kallsvettning, pyrexi, frossa *Takykardi, palpitationer, sm\xe4rta i br\xf6stet, \xf6kad andningsfrekvens, onormal k\xe4nsla, g\xe5shud, perifert \xf6dem)'],
+             ['Metabolism', u'Hyperkalemi, hyperglykemi  Hypervolemi'],
+             ['Nervous system', u'Kramper'],
+             ['Vascular', u'Tromboflebit  Ventrombos'],
+             ['Skin', u'Urtikaria'],
+             ['Investigations',
+              u'Falskt positiva  laboratorieresultat (Bio-Rad laboratoriernas Platelia Aspergillus EIA-test) (se avsnitt 4.4)']]]],
+ '_pages': [7, 8],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

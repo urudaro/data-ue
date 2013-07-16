@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Nervous system', u'Huvudv\xe4rk'],
+             ['Respiratory', u'Hosta'],
+             ['GI', u'Gastrointestinalt obehag, hicka, illam\xe5ende, kr\xe4kningar'],
+             ['General', u'Irritation i mun och svalg, n\xe4st\xe4ppa']]],
+           ['Uncommon', [['Cardiac', u'Palpitationer'], ['Skin', u'Erytem, urticaria']]],
+           ['Rare',
+            [['Cardiac', u'F\xf6rmaksflimmer'],
+             ['General',
+              u'Allergiska reaktioner som t.ex. angio\xf6dem Vissa symtom s\xe5som yrsel, huvudv\xe4rk, och s\xf6mnsv\xe5righeter kan h\xe4nf\xf6ras till abstinensbesv\xe4r vid r\xf6kavv\xe4njning. \xd6kad frekvens av aft\xf6sa muns\xe5r kan uppst\xe5 n\xe4r man slutar r\xf6ka. Sambandet \xe4r oklart. Biverkningar som kan uppst\xe5 vid kombinationsbehandling (inhalator och pl\xe5ster) skiljer sig endast fr\xe5n vardera behandling enbart avseende lokala biverkningar som kan h\xe4nf\xf6ras till l\xe4kemedelsformen. Frekvensen av dessa biverkningar \xe4r j\xe4mf\xf6rbar med den som anges i produktresum\xe9n f\xf6r respektive produkt.']]]],
+ '_pages': [5, 6],
+ u'_rank': 8,
+ u'_type': u'LSFU'}

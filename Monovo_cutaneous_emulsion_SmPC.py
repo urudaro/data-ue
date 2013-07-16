@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Skin',
+              u'Mild till m\xe5ttlig br\xe4nnande k\xe4nsla p\xe5 applikationsst\xe4llet, stickande/stickande, kl\xe5da, bakteriella infektioner, parestesi, furunkulos, lokal hudatrofi']]],
+           ['Uncommon',
+            [['Infections', u'Sekund\xe4r infektion'],
+             ['Immune system', u'Allergisk kontaktdermatit'],
+             ['Skin',
+              u'Striae, irritation, hypertrikos, hypopigmentering, perioral dermatit, maceration av huden, papul\xf6s rosacealiknande dermatit (ansiktshud), akneiform dermatit, kapill\xe4rsk\xf6rhet (ekkymos), miliaria, torrhet, sensibilisering (mometason), follikulit Det finns en \xf6kad risk f\xf6r systemiska effekter och lokala biverkningar f\xf6rekommer vid frekvent dosering, behandling av stora omr\xe5den eller vid l\xe5ngtidsbehandling och \xe4ven behandling av intertrigin\xf6sa omr\xe5den eller med ocklusionsf\xf6rband. Hypopigmentering eller hyperpigmentering har rapporterats i enstaka fall (s\xe4llsynt) i samband med andra glukokortikoider och kan d\xe4rf\xf6r uppst\xe5 med Monovo. De biverkningar som har rapporterats med systemiska glukokortikoider - inklusive binjurebarksuppression - kan ocks\xe5 potentiellt intr\xe4ffa med lokalt till\xe4mpade glukokortikoider i vissa \xe4mnen. Allergiska (\xf6verk\xe4nslighet) reaktioner har rapporterats i samband med propenglykol och frekvenser \xe4r ok\xe4nda.']]],
+           ['Very rare', [['Vascular', u'Telangiectasias']]]],
+ '_pages': [3, 4],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

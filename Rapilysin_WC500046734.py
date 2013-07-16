@@ -1,0 +1,13 @@
+{'_data': [['Very common',
+            [['General',
+              u'g: bl\xf6dning vid injektionsst\xe4llet (t ex hematom); en lokal reaktion t ex en br\xe4nnande k\xe4nsla kan upptr\xe4da vid injektionsst\xe4llet.']]],
+           ['Uncommon', [['Nervous system', u'-   ']]],
+           ['Very rare',
+            [['Nervous system', u'-   '],
+             ['Immune system',
+              u'allvarliga anafylaktiska/anafylaktoida reaktioner Tillg\xe4nglig information om reteplas tyder inte p\xe5 ett antikroppsmedierat ursprung f\xf6r dessa \xf6verk\xe4nslighetsreaktioner.']]],
+           ['Unknown',
+            [['Immune system', u'\xf6verk\xe4nslighetsreaktioner (t ex allergiska reaktioner)']]]],
+ '_pages': [5, 6],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Nervous system', u' Yrsel, huvudv\xe4rk   Mindra vanliga : Palpitationer'],
+             ['GI',
+              u' Illam\xe5ende, besv\xe4r fr\xe5n mag-tarmkanalen, hicka, irritation i munh\xe5la och matstrupe. \xd6mhet i k\xe4kled. Minda vanliga : Erytem, urtikaria ']]],
+           ['Rare',
+            [['Immune system', u' Allergiska reaktioner som t ex angio\xf6dem'],
+             ['GI', u' F\xf6rmakarytmier']]],
+           ['Very rare', [['Immune system', u' Anafylaktisk chock']]]],
+ '_pages': [3, 4],
+ u'_rank': 5,
+ u'_type': u'LSFU2'}

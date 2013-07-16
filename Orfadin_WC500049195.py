@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Blood', u'trombocytopeni, leukocytopeni, granulocytopeni'],
+             ['Eye',
+              u'konjunktivit, hornhinneopacitet, keratit, ljusk\xe4nslighet, \xf6gonsm\xe4rta']]],
+           ['Uncommon',
+            [['Blood', u'leukocytos'],
+             ['Eye', u'blefarit'],
+             ['Skin',
+              u'dermatitis exfoliativa, erytemat\xf6sa hudutslag, pruritus Nitisinonbehandling \xe4r f\xf6rknippad med f\xf6rh\xf6jda tyrosinniv\xe5er. F\xf6rh\xf6jda niv\xe5er av tyrosin har kopplats till hornhinneopacitet och hyperkeratotiska lesioner. Minskning av tyrosin och fenylalanin i dieten b\xf6r begr\xe4nsa toxiciteten som \xe4r f\xf6rknippad med denna typ av tyrosinemi (se avsnitt 4.4).']]]],
+ '_pages': [4, 4],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

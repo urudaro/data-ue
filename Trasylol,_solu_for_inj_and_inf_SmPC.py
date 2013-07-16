@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['General',
+              u' Anafylaktisk reaktion/allergiska reaktioner (efter upprepad  behandling). ']]],
+           ['Uncommon',
+            [['General',
+              u' Tromboflebit vid injektionsst\xe4llet, speciellt vid upprepade  infusioner. Anafylaktisk reaktion/allergiska reaktioner (efter f\xf6rsta  injektionen). '],
+             ['Metabolism', u' \xd6verg\xe5ende h\xf6jning av serumkreatinin. ']]]],
+ '_pages': [3, 3],
+ u'_rank': 3,
+ u'_type': u'DFSU'}

@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Skin', u'v\xe4vnad  dermatos (Sweets syndrom)'],
+             ['General',
+              u'och/eller symtom vid  administreringsst\xe4llet  Biverkningsgrad (Worst National Cancer Institute Common Terminology Criteria for Adverse Events Grade)  Inklusive bl\xf6dning f\xf6rknippad med trombocytopeni, inklusive fatala fall  Inklusive preferred terms \xf6verk\xe4nslighet, l\xe4kemedels\xf6verk\xe4nslighet, anafylaktisk reaktion, anafylaktisk chock,  anafylaktoid reaktion, anafylaktoid chock  *Inkluderar h\xe4ndelser med fatal utg\xe5ng  NA= Inte till\xe4mpligt']]],
+           ['Uncommon',
+            [['Immune system',
+              u'anafylaktisk reaktion  Centrala och perifera  Mycket vanliga huvudv\xe4rk  16  1'],
+             ['Nervous system', u''],
+             ['Respiratory', u'br\xf6stkorg och  mediastinum'],
+             ['GI', u'kr\xe4kningar  18  1   illam\xe5ende  33  < 1']]]],
+ '_pages': [5, 7],
+ u'_rank': 5,
+ u'_type': u'LFSUR'}

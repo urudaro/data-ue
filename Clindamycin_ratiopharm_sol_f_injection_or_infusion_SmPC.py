@@ -1,0 +1,13 @@
+{'_data': [['Common', [['GI', u' Illam\xe5ende, kr\xe4kningar, diarr\xe9.  ']]],
+           ['Uncommon',
+            [['Skin', u'Urtikaria, utslag.  '],
+             ['Other',
+              u' Lokala reaktioner efter intramuskul\xe4r injektion. Tromboflebiter  efter intraven\xf6s infusion. ']]],
+           ['Rare',
+            [['General', u' Anafylaktoida reaktioner.  '],
+             ['Blood', u' Reversibel neutropeni och eosinofili.  '],
+             ['GI', u' Diarr\xe9 orsakad av C. difficile, pseudomembran\xf6s kolit. '],
+             ['Hepato', u' Reversibel leverenzymp\xe5verkan. ']]]],
+ '_pages': [2, 3],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

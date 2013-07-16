@@ -1,0 +1,12 @@
+{'_data': [['Very common', [['Cardiac', u'Ventrikul\xe4r takykardi'], ['Vascular', u'Hypotoni']]],
+           ['Common',
+            [['Metabolism', u'Hypokalemi'],
+             ['Psychiatric', u'S\xf6mnl\xf6shet'],
+             ['Nervous system', u'Yrsel'],
+             ['Cardiac',
+              u'F\xf6rmaksflimmer  Takykardi  Ventrikul\xe4ra extrasystolier  Hj\xe4rtsvikt  Myokardischemi  Extrasystolier'],
+             ['GI', u'Illam\xe5ende  F\xf6rstoppning  Diarr\xe9  Kr\xe4kning'],
+             ['Investigations', u'S\xe4nkning av hemoglobinv\xe4rdet']]]],
+ '_pages': [6, 6],
+ u'_rank': 8,
+ u'_type': u'TSFU'}

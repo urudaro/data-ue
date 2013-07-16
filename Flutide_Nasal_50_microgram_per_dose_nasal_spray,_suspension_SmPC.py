@@ -1,0 +1,12 @@
+{'_data': [['Very common', [['Respiratory', u'Hemorragisk n\xe4ssekretion']]],
+           ['Common',
+            [['Nervous system', u'Huvudv\xe4rk. Obehaglig lukt och smak'],
+             ['Respiratory', u'Irritation och/eller torrhet i n\xe4sa och svalg']]],
+           ['Very rare',
+            [['Immune system',
+              u'\xd6verk\xe4nslighetsreaktioner i form av:  Kutana \xf6verk\xe4nslighetsreaktioner Angio\xf6dem (huvudsakligen i ansikte, munh\xe5la och svalg), bronkospasm Anafylaxi/anafylaktiska reaktioner'],
+             ['Eye', u'Glaukom, f\xf6rh\xf6jt intraokul\xe4rt tryck, katarakt'],
+             ['Respiratory', u'N\xe4sseptumperforation']]]],
+ '_pages': [4, 4],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

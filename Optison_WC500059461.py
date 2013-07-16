@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['Blood', u'Eosinofili Mindre   vanlig'],
+             ['Nervous system',
+              u'Dysgeusi (smakf\xf6r\xe4ndringar),  huvudv\xe4rk   Vanlig   Tinnitus, yrsel, parestesier   S\xe4llsynt'],
+             ['Respiratory', u'Dyspn\xe9 Mindre   vanlig'],
+             ['Vascular', u'Rodnad Vanlig'],
+             ['General', u'V\xe4rmek\xe4nsla   Vanlig   Br\xf6stsm\xe4rta   Mindre vanlig'],
+             ['Immune system', u'Symtom av allergisk typ (t.ex.   Inga k\xe4nda*']]]],
+ '_pages': [4, 4],
+ u'_rank': 6,
+ u'_type': u'LFSU'}

@@ -1,0 +1,12 @@
+{'_data': [[u'Unknown',
+            [['Immune system', u'Allergiska reaktioner   Ok\xe4nd'],
+             ['Skin',
+              u'Alopeci (fr\xe4mst   Mindre vanliga   f\xf6rlust av   kroppsbeh\xe5ring),'],
+             ['Reproductive system',
+              u'Impotens   6,0%   1,7%   F\xf6r\xe4ndrad (minskad)   3,7%   0,6%'],
+             ['Cardiac', u'Hj\xe4rtsvikt'],
+             ['Psychiatric', u'Dutasterid   5,1%   1,6%   0,6%   0,3%'],
+             ['Investigations', u'Tamsulosin   3,3%   %   0,6%   1,1%']]]],
+ '_pages': [4, 7],
+ u'_rank': 6,
+ u'_type': u'LFSU'}

@@ -1,0 +1,10 @@
+{'_data': [['Common', [['Skin', u'Sm\xe4rta i extremitet']]],
+           ['Very rare', [['Infections', u'Varicella']]],
+           ['Unknown',
+            [['Blood', u'Lymfadenopati (cervikal, axill\xe4r)'],
+             ['Immune system', u'\xd6verk\xe4nslighetsreaktioner inklusive'],
+             ['GI', u'Illam\xe5ende'],
+             ['Skin', u'Utslag']]]],
+ '_pages': [4, 7],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

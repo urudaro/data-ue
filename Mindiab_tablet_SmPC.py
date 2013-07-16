@@ -1,0 +1,10 @@
+{'_data': [['Common',
+            [['GI',
+              u'Illam\xe5ende, kr\xe4kningar och diarr\xe9. F\xf6rstoppning och magsm\xe4rta.'],
+             ['Hepato', u'Enzymstegring']]],
+           ['Uncommon',
+            [['Metabolism', u'Hypoglykemi'], ['Skin', u'\xd6verg\xe5ende hudreaktioner.']]],
+           ['Rare', [['Blood', u'Trombocytopeni, leukopeni, agranulocytos, hemolytisk anemi.']]]],
+ '_pages': [3, 3],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

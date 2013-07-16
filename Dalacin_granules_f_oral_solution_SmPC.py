@@ -1,0 +1,11 @@
+{'_data': [['Common', [['GI', u' Illam\xe5ende kr\xe4kningar, diarr\xe9.  ']]],
+           ['Uncommon', [['Skin', u' Urtikaria, utslag.  ']]],
+           ['Rare',
+            [['General', u' Anafylaktoida reaktioner.  '],
+             ['Blood', u' Reversibel neutropeni och eosinofili.  '],
+             ['GI',
+              u' Diarr\xe9 orsakad av Clostridium difficile,  pseudomembran\xf6s kolit, esofagit vid oral behandling. '],
+             ['Hepato', u' Reversibel leverp\xe5verkan. ']]]],
+ '_pages': [2, 2],
+ u'_rank': 6,
+ u'_type': u'DFSU'}

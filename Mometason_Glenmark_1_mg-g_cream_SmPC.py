@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Skin',
+              u'Lindrig till m\xe5ttlig br\xe4nnande k\xe4nsla vid appliceringsst\xe4llet, pirrande/stickande k\xe4nsla, kl\xe5da, bakterieinfektioner, parestesi, furunkulos och lokal hudatrofi']]],
+           ['Uncommon',
+            [['Skin',
+              u'Hudstrimmor, irritation, hypertrikos, hypopigmentering, perioral dermatit, hudmaceration, allergisk kontaktdermatit, papul\xf6s roseacea-liknande dermatit (hud i ansiktet), akneliknande reaktioner, kapill\xe4rsk\xf6rhet (ekkymos), miliaria, torrhet, sensibilisering (mometason) och follikulit'],
+             ['Infections', u'Sekund\xe4r infektion']]],
+           ['Very rare',
+            [['Vascular',
+              u'Telangiektasi En \xf6kad risk f\xf6r systemiska effekter och lokala biverkningar f\xf6religger vid frekvent dosering, behandling av stora hudomr\xe5den eller l\xe5ngtidsanv\xe4ndning och \xe4ven vid behandling av intertrigin\xf6sa omr\xe5den eller med ockluderande bandage. Hypopigmentering eller hyperpigmentering har rapporterats i isolerade fall (s\xe4llsynta fall) i samband med andra steroider och kan d\xe4rf\xf6r intr\xe4ffa med Mometason Glenmark. Biverkningar som har rapporterats med systemiska glukokortikoider \u2013 inklusive adrenal suppression \u2013 kan \xe4ven intr\xe4ffa med lokalt applicerade glukokortikoider. Barn kan uppvisa st\xf6rre k\xe4nslighet f\xf6r topikal kortikosteroid-inducerad suppression av hypotalamus hypofys-adrenokortikala systemet (HPA) och Cushings syndrom \xe4n \xe4ldre patienter p\xe5 grund av st\xf6rre f\xf6rh\xe5llande mellan hudyta och kroppsvikt. Kronisk behandling med kortikosteroider kan p\xe5verka barns tillv\xe4xt och utveckling. Intrakraniell hypertoni har rapporterats hos barn som anv\xe4nder topikala kortikosteroider. Tecken p\xe5 intrakraniell hypertoni omfattar utbuktande fontaneller, huvudv\xe4rk och bilateralt papill\xf6dem.']]]],
+ '_pages': [3, 4],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

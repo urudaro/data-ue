@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Nervous system', u'Yrsel, huvudv\xe4rk, parestesier'],
+             ['GI', u'Diarr\xe9, dyspepsi, illam\xe5ende, kr\xe4kning'],
+             ['Skin', u'Erytem, kl\xe5da, utslag, urtikaria'],
+             ['Investigations',
+              u'Stegringar av S-ALAT och/eller S-ASAT  (>3 X ULN i f\xf6ljd), fasteglukos, urinsyra (se nedan)']]],
+           ['Uncommon',
+            [['Immune system', u'\xd6verk\xe4nslighetsreaktion (se nedan)'],
+             ['Investigations',
+              u'Stegringar av CK X ULN),  totalbilirubin, s\xe4nkningar av fosfatv\xe4rden och antalet blodpl\xe4ttar (se nedan)']]]],
+ '_pages': [7, 9],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

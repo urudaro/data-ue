@@ -1,0 +1,10 @@
+{'_data': [['Uncommon',
+            [['GI', u'Illam\xe5ende, kr\xe4kningar,  dyspepsi och diarr\xe9.'],
+             ['Skin', u'Exantem och urtikaria']]],
+           ['Rare', [['Skin', u'Stevens Johnsons syndrom']]],
+           ['Very rare',
+            [['Immune system',
+              u'\xd6verk\xe4nslighet och  angio\xf6dem, inklusive  ansiktssvullnad, har rapporterats.']]]],
+ '_pages': [2, 2],
+ u'_rank': 4,
+ u'_type': u'TSFU'}

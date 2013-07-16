@@ -1,0 +1,11 @@
+{'_data': [['Common',
+            [['Blood', u'(>1/100, <1/10) Anemi, leukopeni, tromcytopeni.'],
+             ['GI', u'Stomatit, l\xf6s avf\xf6ring, illam\xe5ende, magsm\xe4rtor, diarr\xe9.'],
+             ['Skin', u'Hudutslag, kl\xe5da.'],
+             ['Hepato', u'\xd6kning av aminotransferaser .'],
+             ['Renal', u'Proteinuri, hematuri, l\xe4tt \xf6kning av kreatinin och urinsyra.'],
+             ['Eye', u'Konjunktivit']]],
+           ['Rare', [['Renal', u'Membran\xf6s glomerulonefrit.']]]],
+ '_pages': [2, 3],
+ u'_rank': 7,
+ u'_type': u'LSFU'}

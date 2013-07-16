@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Skin', u'Hudirritation, rodnad, fj\xe4llande hud, br\xe4nnande k\xe4nsla.']]],
+           ['Uncommon',
+            [['Skin',
+              u'Kontaktdermatit, allergisk dermatit, eksem, utslag, bl\xe5sor, kl\xe5da.']]],
+           ['Unknown',
+            [['Skin', u'Urtikaria, torr hud, uppmjukad hud.'],
+             ['General',
+              u'Sm\xe4rta vid administreringsst\xe4llet, \xf6dem (vid administreringsst\xe4llet).']]]],
+ '_note': u' ?MSFU',
+ '_pages': [2, 2],
+ u'_rank': 4,
+ u'_type': u'MSFU'}

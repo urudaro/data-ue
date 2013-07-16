@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['General', u' Huvudv\xe4rk, yrsel, d\xe5sighet.  '],
+             ['Vascular', u' Takykardi.  '],
+             ['GI', u' Muntorrhet, obstipation. '],
+             ['Reproductive system', u' Urinretention. '],
+             ['Eye', u' Ackommodationsst\xf6rningar. ']]],
+           ['Uncommon',
+            [['General', u' Allergisk hudreaktion.  '],
+             ['Nervous system', u' F\xf6rvirringstillst\xe5nd.  ']]]],
+ '_pages': [2, 2],
+ u'_rank': 7,
+ u'_type': u'DFSU'}

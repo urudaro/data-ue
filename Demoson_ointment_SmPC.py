@@ -1,0 +1,13 @@
+{'_data': [['Very rare',
+            [['Infections', u'Follikulit'],
+             ['Nervous system', u'Br\xe4nnade k\xe4nsla'],
+             ['Skin',
+              u'Pruritus Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet']]],
+           ['Unknown',
+            [['Infections', u'Infektion, furunkulos'],
+             ['Nervous system', u'Parestesier'],
+             ['Skin',
+              u'Kontaktdermatit, perioral dermatit, hypopigmentering, hypertrikos, striae, hudmaceration, miliaria, dermatit acneiform, hudatropi.']]]],
+ '_pages': [3, 3],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Nervous system', u'Yrsel, huvudv\xe4rk.'],
+             ['GI',
+              u'Gastrointestinalt obehag, hicka, illam\xe5ende, kr\xe4kningar Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+             ['GI', u'\xd6mhet i k\xe4kled, sveda i mun och svalg']]],
+           ['Uncommon', [['Cardiac', u'Palpitationer'], ['Skin', u'Erytem, urtikaria']]],
+           ['Rare',
+            [['Cardiac', u'F\xf6rmaksflimmer'],
+             ['GI', u'Allergiska reaktioner som t ex angio\xf6dem']]]],
+ '_pages': [4, 5],
+ u'_rank': 7,
+ u'_type': u'LSFU'}

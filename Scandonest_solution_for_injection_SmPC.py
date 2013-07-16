@@ -1,0 +1,10 @@
+{'_data': [['Rare',
+            [['Nervous system',
+              u' Medvetsl\xf6shet och kramper (vid absolut  eller relativ \xf6verdosering)  Nervp\xe5verkan (t.ex. domningsk\xe4nsla, kvarst\xe5ende parestesi och andra k\xe4nselrubbningar) kan f\xf6rekomma. Det \xe4r inte med s\xe4kerhet fastst\xe4llt i vilken utstr\xe4ckning dessa symptom beror p\xe5 tekniska faktorer (t.ex. intraneural injektion) eller p\xe5 bed\xf6vningsmedlet. '],
+             ['Cardiac',
+              u' Myokarddepression och hj\xe4rtstillest\xe5nd (f\xf6r patienter med absolut eller relativ \xf6verdos). '],
+             ['Immune system',
+              u' Allergiska reaktioner (utslag; erytem; kl\xe5da; \xf6dem i tunga, mun, l\xe4ppar, eller hals; urtikaria, angio\xf6dem) och, i de mest allvarliga fallen, anafylaktisk chock. Methemoglobin. ']]]],
+ '_pages': [4, 4],
+ u'_rank': 3,
+ u'_type': u'DFSU'}

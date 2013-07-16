@@ -1,0 +1,11 @@
+{'_data': [['Common', [['General', u'D\xe5sighet']]],
+           ['Rare',
+            [['Cardiac', u'Hypotension, restless legs.'],
+             ['Blood', u'Trombocytopeni.'],
+             ['Nervous system', u'Extrapyramidala symtom t ex dyskinesier. Parestesier.'],
+             ['Skin', u'Fotosensibilitet.'],
+             ['General',
+              u'Allergiska hudreaktioner, muntorrhet, yrsel. Vid l\xe5ngtidsbehandling har enstaka fall av tardiva dyskinesier rapporterats hos patienter med alkoholmissbruk och/eller samtidig behandling med neuroleptika.']]]],
+ '_pages': [2, 2],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

@@ -1,0 +1,13 @@
+{'_data': [[u'Unknown',
+            [['Nervous system', u'Huvudv\xe4rk   Yrsel'],
+             ['GI', u'Illam\xe5ende   Utsp\xe4ndhet i buken'],
+             ['Musculoskeletal', u'Myalgi'],
+             ['Reproductive system', u'\xd6mhet och sm\xe4rta i br\xf6sten   Cervikal polyp'],
+             ['Investigations', u'\xd6kad hj\xe4rtfrekvens'],
+             ['General', u'Tr\xf6tthet, Sm\xe4rta i armh\xe5lan'],
+             ['Skin', u'Hudirritation, hudutslag'],
+             ['Psychiatric', u'Depression, s\xf6mnsv\xe5righeter,'],
+             ['Vascular', u'Hypertoni']]]],
+ '_pages': [7, 11],
+ u'_rank': 9,
+ u'_type': u'LFSU'}

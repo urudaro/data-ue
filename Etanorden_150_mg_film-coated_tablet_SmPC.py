@@ -1,0 +1,6 @@
+{'_data': [['Unknown',
+            [['GI',
+              u'disease, Dyspepsia, Diarrhoea, Abdominal pain, Nausea Uncommon Oesophagitis including oesophageal ulcerations or strictures and dysphagia, Vomiting, Flatulence Rare Duodenitis Skin and subcutaneous tissues Common Rash disorders Rare Angioedema, Face oedema, Urticaria Musculoskeletal, connective tissue Common Arthralgia, Myalgia, Musculoskeletal pain, Muscle and bone disorders cramp, Musculoskeletal stiffness Uncommon Back pain General disorders and Common Influenza like illness* administration site conditions Uncommon Fatigue MedDRA version 7.1 * Transient, influenza-like symptoms have been reported with ibandronic acid 150 mg once monthly, typically in association with the first dose. Such symptoms were generally of short duration, mild or moderate in intensity, and resolved during continuing treatment without requiring remedial measures. Influenza-like illness includes events reported as acute phase reaction or symptoms including myalgia, arthralgia, fever, chills, fatigue, nausea, loss of appetite, or bone pain.']]]],
+ '_pages': [5, 6],
+ u'_rank': 1,
+ u'_type': u'LSFU'}

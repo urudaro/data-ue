@@ -1,0 +1,6 @@
+{'_data': [['Unknown',
+            [['GI',
+              u'appetite Hepatobiliary disorders: Not known: jaundice (intrahepatic cholestatic jaundice) Skin and subcutaneous tissue disorders: Not known: anaphylactic reactions, toxic epidermal necrolysis, necrotsing angitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, photosensitivity reactions, rash, urticaria Musculoskeletal and connective tissue disorders: Not known: weakness, muscle spasm Renal and urinary disorders: Not known: interstitial nephritis, renal dysfunction General disorders and administration site conditions: Not known: fever Investigations: Not known: electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia, increases in cholesterol and triglycerides The dose dependent adverse events of hydrochlorothiazide (particularly electrolyte disturbances) may increase when titrating the hydrochlorothiazide.']]]],
+ '_pages': [7, 10],
+ u'_rank': 1,
+ u'_type': u'LSFU'}

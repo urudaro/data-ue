@@ -1,0 +1,13 @@
+{'_data': [['Common', [['Nervous system', u'Huvudv\xe4rk']]],
+           ['Uncommon',
+            [['Vascular', u'Hypotoni'],
+             ['Respiratory', u'Dyspn\xe9'],
+             ['Skin',
+              u'Hypertrikos (o\xf6nskad h\xe5rv\xe4xt  p\xe5 andra st\xe4llen \xe4n i h\xe5rbotten, inkl. ansiktsh\xe5r hos kvinnor), pruritus (inkl. kliande hudutslag och kl\xe5da p\xe5 applikationsst\xe4llet, generaliserad kl\xe5da och kl\xe5da i \xf6gonen), tempor\xe4rt h\xe5ravfall (se avsnitt 4.4), f\xf6r\xe4ndringar i h\xe5rets struktur och f\xe4rg, avflagnande hud (inkl. p\xe5 applikationsst\xe4llet), hudutslag (inkl. p\xe5 applikationsst\xe4llet, pustul\xe4rt, papul\xe4rt, generaliserat och makul\xe4rt hudutslag), akne, dermatit (inkl. kontaktdermatit, dermatit p\xe5 applikationsst\xe4llet, allergisk, atopisk och seborroisk dermatit) och torr hud (inkl. torr hud p\xe5 applikationsst\xe4llet)'],
+             ['General',
+              u'Perifert \xf6dem, irritation p\xe5  applikationsst\xe4llet (inkl.  hudirritation), erytem p\xe5  applikationsst\xe4llet (inkl. erytem och erytemat\xf6st hudutslag)']]],
+           ['Rare',
+            [['Vascular', u'Hj\xe4rtklappning  \xd6kad hj\xe4rtfrekvens Br\xf6stsm\xe4rta']]]],
+ '_pages': [4, 5],
+ u'_rank': 6,
+ u'_type': u'TSFU'}

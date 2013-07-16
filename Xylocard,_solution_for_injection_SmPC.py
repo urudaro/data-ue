@@ -1,0 +1,12 @@
+{'_data': [['Common', [['Nervous system', u'Yrsel, parestesier, d\xe5sighet']]],
+           ['Uncommon',
+            [['Nervous system',
+              u'Best\xe5ende yrsel, medvetsl\xf6shet, andningsdepression, konvulsioner, tinnitus, desorientering, dimsyn, tremor'],
+             ['Cardiac',
+              u'Bradykardi och hypotension som kan leda till hj\xe4rtstillest\xe5nd. Arytmier inkluderande ventrikul\xe4r takykardi/ ventrikelflimmer, proarytmi.']]],
+           ['Very rare',
+            [['Blood', u'Neonatal methemoglobinemi'],
+             ['Immune system', u'Hypersensitivitet (inklusive anafylaktisk chock)']]]],
+ '_pages': [6, 7],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

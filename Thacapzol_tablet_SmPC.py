@@ -1,0 +1,13 @@
+{'_data': [['Common',
+            [['Blood', u'Leukocytopeni (ca 5%).'],
+             ['Skin', u'Urticaria, exantem (3-5%).'],
+             ['Musculoskeletal', u'Artrit.']]],
+           ['Uncommon',
+            [['Blood', u'Agranulocytos, trombocytopeni.'], ['Hepato', u'Leverp\xe5verkan.']]],
+           ['Rare',
+            [['General', u'Vaskulit'],
+             ['Skin', u'Mucokutant syndrom.'],
+             ['Nervous system', u'Smakf\xf6rlust.']]]],
+ '_pages': [2, 2],
+ u'_rank': 8,
+ u'_type': u'LFSUR'}

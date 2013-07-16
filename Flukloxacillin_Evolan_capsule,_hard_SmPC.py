@@ -1,0 +1,13 @@
+{'_data': [['Common', [['GI', u'Illam\xe5ende, diarr\xe9.'], ['Skin', u'Exantem.']]],
+           ['Uncommon', [['Blood', u'Eosinofili.'], ['Skin', u'Urtikaria.']]],
+           ['Rare',
+            [['Blood', u'Agranulocytos.'],
+             ['Skin',
+              u'Erythema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys'],
+             ['Infections', u'Pseudomembran\xf6s kolit.'],
+             ['Immune system', u'Anafylaktisk reaktion.'],
+             ['Hepato',
+              u'Leverp\xe5verkan av oftast blandad kolestatisk-hepatocellul\xe4r typ. Den leverp\xe5verkande effekten kan f\xf6rdr\xf6jas med upp till tv\xe5 m\xe5nader efter behandling. Svamp\xf6verv\xe4xt i munh\xe5la och underliv kan f\xf6rekomma.']]]],
+ '_pages': [3, 3],
+ u'_rank': 9,
+ u'_type': u'LSFU'}

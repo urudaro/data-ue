@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['Blood', u'Leukopeni   Trombopeni'],
+             ['Immune system', u'\xd6verk\xe4nslighets-'],
+             ['Nervous system', u'Somnolens   Parestesi   Huvudv\xe4rk   Amnesi   Tinnitus'],
+             ['Eye', u'Synst\xf6rningar'],
+             ['GI', u'Muntorrhet   Dyspepsi'],
+             ['Skin', u'Svettning   Ljusk\xe4nslighet   Utslag'],
+             ['Renal', u'Startsv\xe5righeter   vid urinering']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'LFSU'}
