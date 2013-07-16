@@ -1,5 +1,6 @@
 {'_data': [['Very common',
             [['Blood',
+<<<<<<< HEAD
               u'vanligt: Dosberoende, kumulativ och vanligtvis reversibel leukopeni, trombocytopeni och anemi har observerats hos 25-30% av patienterna som behandlas med cisplatin. Vanligt: En markant minskning av antalet vita blodkroppar iakttas ofta ca. 14 dagar efter administreringen (< 1,5x10 /l hos 5% av patienterna). En minskning av antalet trombocyter upptr\xe4der efter ca. 21 dagar (< 50x10 /l hos mindre \xe4n 10% av patienterna) (\xe5terh\xe4mtningstiden \xe4r ungef\xe4r 39 dagar). Anemi (minskning med mer \xe4n 2 g hemoglobin) intr\xe4ffar i ungef\xe4r lika h\xf6g frekvens, men upptr\xe4der vanligtvis senare \xe4n leukopenin och trombocytopenin.'],
              ['Ear',
               u'vanligt: H\xf6rselneds\xe4ttning har observerats hos cirka 31% av patienterna behandlade med 50 mg/m cisplatin. Defekten \xe4r kumulativ, m\xf6jligen irreversibel, och \xe4r ibland begr\xe4nsad till ett \xf6ra. Ototoxiciteten resulterar i tinnitus och/eller h\xf6rselneds\xe4ttning vid h\xf6ga frekvenser (4,000-8,000 Hz). H\xf6rselneds\xe4ttning vid frekvenser p\xe5 250-2000 Hz (normalt h\xf6rselintervall) upptr\xe4der hos 10-15% av patienterna. Vanligt: D\xf6vhet och vestibul\xe4r toxicitet associerat med svindel kan \xe4ven upptr\xe4da. Tidigare eller samtidig kraniell bestr\xe5lning \xf6kar risken f\xf6r h\xf6rself\xf6rlust.'],
@@ -9,6 +10,17 @@
               u'vanligt: Njursvikt efter eng\xe5ngsdoser eller upprepade doser av cisplatin. En mild, reversibel dysfunktion kan upptr\xe4da efter administrering av medelstora eng\xe5ngsdoser cisplatin (20 mg/m till <50 mg/m 2 ). H\xf6ga eng\xe5ngsdoser av cisplatin (50-120 mg/m ) eller upprepad daglig administrering kan orsaka njursvikt med tubul\xe4r nekros, vilket ger uremi och anuri. Njursvikt kan vara irreversibel. Nefrotoxiciteten \xe4r kumulativ och kan upptr\xe4da 2-3 dagar eller 2 veckor efter den f\xf6rsta cisplatindosen. Serumkreatinin och urea kan stiga. Forcerad diures genom hydrering eller genom hydrering och passande diuretika f\xf6re och efter cisplatinanv\xe4ndning minskar risken f\xf6r nefrotoxicitet. Vid otillr\xe4cklig v\xe4tsketillf\xf6rsel har nefrotoxicitet observerats hos 28-36% av patienterna efter en singeldos med 50 mg/m cisplatin. (Se avsnitt 4.4) Hyperurikemi f\xf6rekommer asymtomatiskt eller med giktanfall. Hyperurikemi har rapporterats hos 25-30% av patienterna i samband med nefrotoxicitet. Hyperurikemi och hyperalbuminemi kan f\xf6rorsaka ciplatin-inducerad nefrotoxicitet.'],
              ['General',
               u'vanligt: Feber. Vanligt: Lokalt \xf6dem och sm\xe4rta, vid injektionsst\xe4llet kan f\xf6rekomma efter intraven\xf6s administrering.']]],
+=======
+              u'Dosberoende, kumulativ och vanligtvis reversibel leukopeni, trombocytopeni och anemi har observerats hos 25-30% av patienterna som behandlas med cisplatin. Vanligt: En markant minskning av antalet vita blodkroppar iakttas ofta ca. 14 dagar efter administreringen (< 1,5x10 /l hos 5% av patienterna). En minskning av antalet trombocyter upptr\xe4der efter ca. 21 dagar (< 50x10 /l hos mindre \xe4n 10% av patienterna) (\xe5terh\xe4mtningstiden \xe4r ungef\xe4r 39 dagar). Anemi (minskning med mer \xe4n 2 g hemoglobin) intr\xe4ffar i ungef\xe4r lika h\xf6g frekvens, men upptr\xe4der vanligtvis senare \xe4n leukopenin och trombocytopenin.'],
+             ['Ear',
+              u'H\xf6rselneds\xe4ttning har observerats hos cirka 31% av patienterna behandlade med 50 mg/m cisplatin. Defekten \xe4r kumulativ, m\xf6jligen irreversibel, och \xe4r ibland begr\xe4nsad till ett \xf6ra. Ototoxiciteten resulterar i tinnitus och/eller h\xf6rselneds\xe4ttning vid h\xf6ga frekvenser (4,000 8,000 Hz). H\xf6rselneds\xe4ttning vid frekvenser p\xe5 250-2000 Hz (normalt h\xf6rselintervall) upptr\xe4der hos 10-15% av patienterna. Vanligt: D\xf6vhet och vestibul\xe4r toxicitet associerat med svindel kan \xe4ven upptr\xe4da. Tidigare eller samtidig kraniell bestr\xe5lning \xf6kar risken f\xf6r h\xf6rself\xf6rlust.'],
+             ['GI',
+              u'Anorexi, illam\xe5ende, kr\xe4kningar och diarr\xe9 uppkommer mellan 1 och 4 timmar efter anv\xe4ndningen av cisplatin(se avsnitt 4.4). Mindre vanligt: Metallavlagringar p\xe5 tandk\xf6ttet.'],
+             ['Renal',
+              u'Njursvikt efter eng\xe5ngsdoser eller upprepade doser av cisplatin. En mild, reversibel dysfunktion kan upptr\xe4da efter administrering av medelstora eng\xe5ngsdoser cisplatin (20 mg/m till <50 mg/m 2 ). H\xf6ga eng\xe5ngsdoser av cisplatin (50-120 mg/m ) eller upprepad daglig administrering kan orsaka njursvikt med tubul\xe4r nekros, vilket ger uremi och anuri. Njursvikt kan vara irreversibel. Nefrotoxiciteten \xe4r kumulativ och kan upptr\xe4da 2-3 dagar eller 2 veckor efter den f\xf6rsta cisplatindosen. Serumkreatinin och urea kan stiga. Forcerad diures genom hydrering eller genom hydrering och passande diuretika f\xf6re och efter cisplatinanv\xe4ndning minskar risken f\xf6r nefrotoxicitet. Vid otillr\xe4cklig v\xe4tsketillf\xf6rsel har nefrotoxicitet observerats hos 28-36% av patienterna efter en singeldos med 50 mg/m cisplatin. (Se avsnitt 4.4) Hyperurikemi f\xf6rekommer asymtomatiskt eller med giktanfall. Hyperurikemi har rapporterats hos 25-30% av patienterna i samband med nefrotoxicitet. Hyperurikemi och hyperalbuminemi kan f\xf6rorsaka ciplatin-inducerad nefrotoxicitet.'],
+             ['General',
+              u'Feber. Vanligt: Lokalt \xf6dem och sm\xe4rta, vid injektionsst\xe4llet kan f\xf6rekomma efter intraven\xf6s administrering.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Infections', u'Infektioner. Sepsis.'],
              ['Respiratory', u'Dyspn\xe9, lunginflammation och andningssvikt.']]],
@@ -51,7 +63,11 @@
              ['Nervous system',
               u'Neurotoxicitet orsakad av cisplatin karakt\xe4riseras av perifer neuropati (vanligen bilateral och sensorisk), mer s\xe4llan av f\xf6rlust av smak och k\xe4nselfunktion, eller av optisk retrobulb\xe4r neurit med nedsatt synsk\xe4rpa och cerebrala rubbningar (konfusion, dysartri, , enstaka fall av kortikal blindhet, minnesf\xf6rlust, paralys). Lhermittes tecken, autonom neuropati och ryggradsmyelopati har observerats.'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Arytmi inkluderande bradykardi, takykardi och andra EKG-f\xf6r\xe4ndringar. t ex ST-segmentf\xf6r\xe4ndringar och tecken p\xe5 myokardischemi har observerats, speciellt i kombination med andra cytostatika.'],
+=======
+              u'Arytmi inkluderande bradykardi, takykardi och andra EKG-f\xf6r\xe4ndringar. t ex ST segmentf\xf6r\xe4ndringar och tecken p\xe5 myokardischemi har observerats, speciellt i kombination med andra cytostatika.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'Flebit vid injektionsst\xe4llet kan f\xf6rekomma efter intraven\xf6s administrering.'],
              ['Hepato',

@@ -30,6 +30,10 @@
               u'artralgi, myalgi (i n\xe5gra fall \xe5tf\xf6ljt av \xf6kade plasmaniv\xe5er av kreatinkinas), muskelkramper'],
              ['Renal',
               u'nedsatt njurfunktion, inklusive fall av njursvikt hos riskpatienter (se avsnitt 4.4)']]]],
+<<<<<<< HEAD
  '_pages': [4, 6],
+=======
+ '_pages': [5, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 23,
  u'_type': u'LSFU'}

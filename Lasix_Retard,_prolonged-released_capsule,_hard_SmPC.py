@@ -6,7 +6,12 @@
              ['Metabolism',
               u' Hyponatremi, hypokloremi, hypokalemi, \xf6kat blodkolesterol, hyperurikemi.'],
              ['Nervous system',
+<<<<<<< HEAD
               u' Leverencefalopati hos patienter med hepatocellul\xe4r insufficiens.']]],
+=======
+              u' Leverencefalopati hos patienter med hepatocellul\xe4r insufficiens.'],
+             ['Renal', u' \xd6kad urinvolym.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Blood', u' Trombocytopeni.'],
              ['Metabolism',
@@ -17,6 +22,7 @@
              ['Skin',
               u' Hudreaktioner t ex kl\xe5da, urtikaria, andra utslag eller bl\xe5sor, bull\xf6s dermatit, erythema multiforme, pemfigoid, exfoliativ dermatit, purpura, fotosensitivitet.']]],
            ['Rare',
+<<<<<<< HEAD
             [['Blood', u'Leukopeni, eosinofili.'],
              ['Immune system',
               u' Allvarliga anafylaktiska eller anafylaktoida reaktioner (ex. chock).'],
@@ -38,4 +44,27 @@
              ['General', u'\xd6kat urinnatrium, \xf6kat urinklorid, urinretention']]]],
  '_pages': [4, 5],
  u'_rank': 24,
+=======
+            [['Blood', u' Leukopeni, eosinofili.'],
+             ['Immune system',
+              u' Allvarliga anafylaktiska eller anafylaktoida reaktioner (ex. chock).'],
+             ['Nervous system', u' Parestesi.'],
+             ['Ear', u' Tinnitus.'],
+             ['Vascular', u' Vaskulit.'],
+             ['GI', u' Kr\xe4kningar, diarr\xe9.'],
+             ['Renal', u' Tubulointerstitiell nefrit.'],
+             ['General', u' Feber.   ']]],
+           ['Very rare',
+            [['Blood', u' Agranulocytos, aplastisk anemi eller haemolytisk anemi.'],
+             ['GI', u' Akut pankreatit'],
+             ['Hepato', u' Kolestas, transaminasstegring.']]],
+           ['Unknown',
+            [['Metabolism',
+              u' Hypokalcemi, hypomagnesemi, \xf6kad blodurea, metabolisk alkalos och giktattacker.'],
+             ['Vascular', u' Trombos.'],
+             ['Skin', u' Stevens-Johnsons syndrom, toxisk epidermal'],
+             ['Renal', u' \xd6kat urinnatrium, \xf6kat urinklorid, urinretention (hos']]]],
+ '_pages': [4, 5],
+ u'_rank': 25,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU2'}

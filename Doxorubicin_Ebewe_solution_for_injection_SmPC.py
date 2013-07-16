@@ -3,7 +3,11 @@
               u'Myelosuppresion som kan inkludera transient leukopeni, neutropeni, feber, \xf6kad risk f\xf6r infektion, anemi oct trombocytopeni. Myelosuppresionen \xe4r som sv\xe5rast 10-14 dagar efter behandling'],
              ['Metabolism', u'Hyperurikemi'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Kardiotoxicitet kan upptr\xe4da direkt efter administrering som EKG st\xf6rningar, inkluderande hj\xe4rtblock, T-v\xe5gsavflackning och S-T s\xe4nkning, som kan vara upp till tv\xe5 veckor efter administrering. Pericardit och myocardit kan upptr\xe4da. Risken att f\xe5 kardiomyopati \xf6kar gradvis med \xf6kande dos. En kumulativ dos om 450-550mg/m b\xf6r inte \xf6verskridas. Irreversibel hj\xe4rtsvikt kan uppst\xe5 vid s\xe5 l\xe5g dos som 240 mg/m \xc5lder \xf6ver 70 och under 15 b\xf6r ses som riskfaktor. Samtidig eller tidigare medicinering med mitomycin, cyklofosamid, och dacarbazine har rapporterats potentiera doxorubicins kardiomyopati effekt (se avsnitt 4.4). Kardiotoxiciteten kan vara f\xf6rdr\xf6jd flera veckor, m\xe5nader eller \xe5r efter avslutad behandling. Risken att drabbas av hj\xe4rtsvikt kvarst\xe5r genom hela livet.'],
+=======
+              u'Kardiotoxicitet kan upptr\xe4da direkt efter administrering som EKG st\xf6rningar, inkluderande hj\xe4rtblock, T-v\xe5gsavflackning och S-T s\xe4nkning, som kan vara upp till tv\xe5 veckor efter administrering. Pericardit och myocardit kan upptr\xe4da. Risken att f\xe5 kardiomyopati \xf6kar gradvis med \xf6kande dos. En kumulativ dos om 450 550mg/m b\xf6r inte \xf6verskridas. Irreversibel hj\xe4rtsvikt kan uppst\xe5 vid s\xe5 l\xe5g dos som 240 mg/m \xc5lder \xf6ver 70 och under 15 b\xf6r ses som riskfaktor. Samtidig eller tidigare medicinering med mitomycin, cyklofosamid, och dacarbazine har rapporterats potentiera doxorubicins kardiomyopati effekt (se avsnitt 4.4). Kardiotoxiciteten kan vara f\xf6rdr\xf6jd flera veckor, m\xe5nader eller \xe5r efter avslutad behandling. Risken att drabbas av hj\xe4rtsvikt kvarst\xe5r genom hela livet.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Illam\xe5ende, kr\xe4kningar, mukosit (som stomatit, oesophagit och proktit) och diarre kan uppkomma 5-10 dagar efter administrering.'],
              ['Skin',

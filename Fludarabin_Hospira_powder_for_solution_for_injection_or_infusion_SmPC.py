@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Infections',
               u'Infektioner/ opportunistiska infektioner (s\xe5som reaktivering av latenta virus, t.ex. progressiv multifokal leukoencefalopati, Herpes zoster-virus, Epstein-Barr-virus), Pneumoni'],
@@ -15,6 +16,19 @@
              ['GI', u'Stomatit'],
              ['Skin', u'Hudutslag'],
              ['General', u'\xd6dem, mukosit, Frossbrytningar, Sjukdomsk\xe4nsla']]],
+=======
+{'_data': [['Common',
+            [['Infections', u'r/'],
+             ['Neoplasms',
+              u'Myelodysplastiskt syndrom och Akut Myeloid Leukemi (huvudsakligen i samband med tidigare, samtidig eller senare behandling med alkylerande medel, topoisomerash\xe4m mare eller str\xe5lning)'],
+             ['Metabolism', u'Anorexi'],
+             ['Nervous system', u'Perifer neuropati'],
+             ['Eye', u'Synrubbningar'],
+             ['Respiratory', u'Hosta'],
+             ['GI', u'Kr\xe4kningar,Stomatit'],
+             ['Skin', u'Hudutslag'],
+             ['General', u'Feber,\xd6dem, mukosit,']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Immune system',
               u'Autoimmun sjukdom (inklusive autoimmun hemolytisk anemi, Evans syndrom, trombocytopen purpura, f\xf6rv\xe4rvad hemofili, pemfigus)'],
@@ -23,20 +37,35 @@
              ['Nervous system', u'F\xf6rvirring'],
              ['Respiratory',
               u'Pulmonell toxicitet (inklusive lungfibros, pneumonit, dyspn\xe9)'],
+<<<<<<< HEAD
              ['GI', u'Mag-tarmbl\xf6dningar, Onormala pankreasenzymer'],
              ['Hepato', u'Onormala leverenzymer']]],
            ['Rare',
             [['Infections', u'Lymfproliferativ sjukdom (EBV-associerad'],
+=======
+             ['GI', u'Mag-tarmbl\xf6dningar,'],
+             ['Hepato', u'Onormala leverenzymer']]],
+           ['Rare',
+            [['Infections', u'Lymfproliferativ'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Koma, Krampanfall, Agitation'],
              ['Eye', u'Blindhet, Opticusneurit, Opticusneuropati'],
              ['Cardiac', u'Hj\xe4rtsvikt, Arytmi'],
              ['Skin',
+<<<<<<< HEAD
               u'Hudcancer, toxisk Epidermal Nekrolys (Lyells syndrom), Stevens-Johnso ns syndrom']]],
+=======
+              u'Hudcancer, toxisk Epidermal Nekrolys (Lyells syndrom), Stevens-Johnsons syndrom']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Nervous system', u'Cerebral bl\xf6dning'],
              ['Respiratory', u'Pulmonell bl\xf6dning'],
              ['Renal', u'Hemorragisk cystit']]]],
  '_note': u' ?MSFU',
  '_pages': [5, 7],
+<<<<<<< HEAD
  u'_rank': 27,
+=======
+ u'_rank': 23,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

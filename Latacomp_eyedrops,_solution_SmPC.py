@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Infections', u'Immunsystemet'],
              ['Metabolism', u'Psykiska st\xf6rningar'],
@@ -32,3 +33,11 @@
  '_pages': [5, 7],
  u'_rank': 19,
  u'_type': u'MSFU'}
+=======
+{'_data': [['Unknown',
+            [['GI',
+              u'Nausea, diarrhoea, dyspepsia, dry mouth. Skin and Subcutaneous Tissue Disorders: Alopecia, psoriasiform rash or exacerbation of psoriasis. General Disorders and Administration Site Conditions: Asthenia/fatigue, Chest pain, Oedema.']]]],
+ '_pages': [5, 7],
+ u'_rank': 1,
+ u'_type': u'LSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

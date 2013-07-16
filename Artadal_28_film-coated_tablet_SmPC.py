@@ -1,6 +1,10 @@
 {'_data': [['Common',
             [['Endocrine',
+<<<<<<< HEAD
               u'menstruationsst\xf6rning ar intermenstruella bl\xf6dningar br\xf6stsm\xe4rta'],
+=======
+              u'menstruations-st\xf6rningar intermenstruella bl\xf6dningar br\xf6stsm\xe4rta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'huvudv\xe4rk deprimerat tillst\xe5nd'],
              ['Vascular', u'migr\xe4n'],
              ['GI', u'illam\xe5ende'],

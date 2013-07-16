@@ -1,8 +1,14 @@
 {'_data': [['Uncommon',
+<<<<<<< HEAD
             [['Metabolism', u' elektrolytbalansen '],
              ['Vascular', u'l  Hypotoni  '],
              ['Vascular', u' Tromboflebit  '],
              ['Immune system', u' Allergisk reaktion  '],
+=======
+            [['Metabolism', u'elektrolytbalansen  '],
+             ['Vascular', u' Hypotoni  '],
+             ['Vascular', u' Tromboflebit  S\xe4llsynt  Immunsystemet  Allergisk reaktion  '],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u' Anafylaktisk chock  '],
              ['Metabolism', u' Dehydrering  '],
              ['Metabolism', u' \xd6dem  '],
@@ -14,6 +20,7 @@
              ['Eye', u' Dimsyn  '],
              ['Cardiac', u' Hj\xe4rtarrytmier  '],
              ['Vascular', u' Hypertoni  '],
+<<<<<<< HEAD
              ['Respiratory', u' Lungstas  '],
              ['Respiratory', u' Lung\xf6dem  '],
              ['Respiratory', u' Rinit  '],
@@ -21,6 +28,15 @@
              ['Skin', u' Hudnekros  '],
              ['GI', u' T\xf6rst  '],
              ['GI', u'Illam\xe5ende '],
+=======
+             ['Respiratory', u'  Lungstas  '],
+             ['Respiratory', u'  Lung\xf6dem  '],
+             ['Respiratory', u'  Rinit  '],
+             ['GI', u' Muntorrhet  '],
+             ['Skin', u' Hudnekros  '],
+             ['GI', u' T\xf6rst  '],
+             ['GI', u' Illam\xe5ende  '],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u' Kr\xe4kning  '],
              ['Skin', u' Urtikaria  '],
              ['Musculoskeletal', u' Kramper  '],
@@ -29,10 +45,19 @@
              ['Renal', u' Urin retention  '],
              ['General', u'och/eller symptom vid -administreringsst\xe4llet Frossa '],
              ['General',
+<<<<<<< HEAD
               u'och/eller symptom vid -administreringsst\xe4llet Br\xf6stsm\xe4rtor (anginaliknande) '],
              ['General', u'och/eller symptom vid -administreringsst\xe4llet Feber '],
              ['Cardiac', u' Kronisk hj\xe4rtinsufficiens  '],
              ['Renal', u' Akut njursvikt  ']]]],
  '_pages': [5, 6],
  u'_rank': 32,
+=======
+              u'och/eller symptom vid Br\xf6stsm\xe4rtor (anginaliknande) administreringsst\xe4llet -'],
+             ['General',
+              u'och/eller symptom vid -administreringsst\xe4llet Feber Mycket s\xe4llsynt  Hj\xe4rtat  Kronisk hj\xe4rtinsufficiens  '],
+             ['Renal', u'r  Akut njursvikt  ']]]],
+ '_pages': [5, 6],
+ u'_rank': 30,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'DFSU'}

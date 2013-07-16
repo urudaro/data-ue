@@ -3,7 +3,11 @@
              ['GI', u'Buksm\xe4rta/ b\xe4ckensm\xe4rta'],
              ['Skin', u'Akne/seborr\xe9'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Bl\xf6dnings-st\xf6rn ingar inklusive \xf6kad och minskad menstruell bl\xf6dning, spotting, bl\xf6dning med l\xe5ngt intervall och amenorr\xe9 Ovarialcysta* Vulvovaginit']]],
+=======
+              u'Bl\xf6dnings-st\xf6rningar inklusive \xf6kad och minskad menstruell bl\xf6dning, spotting, bl\xf6dning med l\xe5ngt intervall och amenorr\xe9 Ovarialcysta* Vulvovaginit']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Psychiatric', u'Nedst\xe4mdhet/ depression'],
              ['Nervous system', u'Migr\xe4n'],

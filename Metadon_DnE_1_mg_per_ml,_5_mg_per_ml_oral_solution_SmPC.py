@@ -23,7 +23,11 @@
              ['Reproductive system', u'Reducerad potens och ammenorr\xe9']]],
            ['Rare',
             [['Cardiac',
+<<<<<<< HEAD
               u'Bradykardi, palpitationer, fall av f\xf6rl\xe4ngt  QT-intervall och torsades de pointes har rapporterats vid metadonbehandling, s\xe4rskilt med h\xf6ga doser.']]],
+=======
+              u'Bradykardi, palpitationer, fall av f\xf6rl\xe4ngt QT-  intervall och torsades de pointes har rapporterats vid metadonbehandling, s\xe4rskilt med h\xf6ga doser.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Metabolism', u'Hypokalemi, hypomagnesemi'],
              ['Blood', u'Reversibel trombocytopeni har rapportertas']]]],

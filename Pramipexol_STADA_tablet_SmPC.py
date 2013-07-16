@@ -25,7 +25,11 @@
              ['Skin',
               u'\xd6verk\xe4nslighet, pruritus, hudutslag Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
              ['Investigations',
+<<<<<<< HEAD
               u'Vikt\xf6kning Andra indikationer, de vanligaste biverkningarna De vanligaste biverkningar (\u2265 5 %) som rapporterades hos patienter med andra indikationer vid behandling med pramipexol var illam\xe5ende, huvudv\xe4rk, yrsel och tr\xf6tthet. Illam\xe5ende och tr\xf6tthet f\xf6rekom oftare hos kvinnliga patienter som behandlades med pramipexol (20,8 % respektive 10,5 %) j\xe4mf\xf6rt med manliga (6,7 % respektive 7,3 %).'],
+=======
+              u'Vikt\xf6kning Andra indikationer, de vanligaste biverkningarna De vanligaste biverkningar (\u2265 5 %) som rapporterades hos patienter med andra indikationer vid behandling med pramipexol var illam\xe5ende, huvudv\xe4rk, yrsel och tr\xf6tthet. Illam\xe5ende och tr\xf6tthet f\xf6rekom oftare hos kvinnliga patienter som behandlades med pramipexol (20,8 % respektive 10,5 %) j\xe4mf\xf6rt med manliga (6,7 % respektive 7,3 %). Tabell 2: Andra indikationer Organsystem Biverkan'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Infections', u'Pneumoni'],
              ['Psychiatric',
               u'Beteendem\xe4ssiga symtom p\xe5 st\xf6rd impulskontroll och tv\xe5ngsm\xe4ssigt beteende s\xe5som hets\xe4tning, tv\xe5ngsm\xe4ssigt k\xf6pbeteende, hypersexualitet och patologiskt spelberoende; f\xf6rvirring, vanf\xf6rest\xe4llningar, hallucinationer, hyperfagi, st\xf6rningar av libido, paranoia, rastl\xf6shet'],

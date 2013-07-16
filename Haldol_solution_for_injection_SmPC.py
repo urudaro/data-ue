@@ -23,6 +23,10 @@
               u' F\xf6rl\xe4ngd QT-tid, Torsade de Pointes, hj\xe4rtstillest\xe5nd, ventrikul\xe4ra arytmier - ventrikelflimmer, ventrikeltakykardi. '],
              ['Endocrine', u' Hypoglykemi, priapism, erektionsrubbningar. '],
              ['Hepato', u' Hepatit och intrahepatisk gallstas. ']]]],
+<<<<<<< HEAD
  '_pages': [3, 4],
+=======
+ '_pages': [4, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 16,
  u'_type': u'DFSU'}

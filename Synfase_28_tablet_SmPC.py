@@ -17,6 +17,10 @@
              ['Hepato',
               u' F\xf6r\xe4ndringar i leverfunktionen, kl\xe5da, gulsot av stastyp, benigna leveradenom, fokal nodul\xe4r hyperplasi. '],
              ['Eye', u' Minskat t\xe5rfl\xf6de. ']]]],
+<<<<<<< HEAD
  '_pages': [4, 5],
+=======
+ '_pages': [4, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 14,
  u'_type': u'DFSU'}

@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Blood',
               u'Bloddyskrasier inkluderande leukopeni, granulocytopeni, trombocytopeni, anemi'],
              ['Eye', u'Konjunktivit'],
@@ -22,3 +23,15 @@
  '_pages': [5, 6],
  u'_rank': 14,
  u'_type': u'MSFU'}
+=======
+            [['Blood', u'(>1/100, <1/10) Anemi, leukopeni, tromcytopeni.'],
+             ['GI', u'Stomatit, l\xf6s avf\xf6ring, illam\xe5ende, magsm\xe4rtor, diarr\xe9.'],
+             ['Skin', u'Hudutslag, kl\xe5da.'],
+             ['Hepato', u'\xd6kning av aminotransferaser .'],
+             ['Renal', u'Proteinuri, hematuri, l\xe4tt \xf6kning av kreatinin och urinsyra.'],
+             ['Eye', u'Konjunktivit']]],
+           ['Rare', [['Renal', u'Membran\xf6s glomerulonefrit.']]]],
+ '_pages': [2, 3],
+ u'_rank': 7,
+ u'_type': u'LSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

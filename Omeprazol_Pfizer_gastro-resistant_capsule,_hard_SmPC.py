@@ -27,15 +27,26 @@
              ['General', u'\xd6kad svettning']]],
            ['Very rare',
             [['Blood', u'Agranulocytos, pancytopeni'],
+<<<<<<< HEAD
              ['Metabolism', u'Hypomagnesemi'],
+=======
+             ['Metabolism',
+              u'Hypomagnesemi Hypomagnesemi (se varningar och f\xf6rsiktighet (4.4))'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Aggression, hallucinationer'],
              ['Hepato', u'Leversvikt, encefalopati hos leversjuka patienter'],
              ['Skin',
               u'Erythema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys (TEN)'],
              ['Musculoskeletal', u'Muskeltr\xf6tthet'],
+<<<<<<< HEAD
              ['Reproductive system', u'Gynekomasti']]],
            ['Unknown',
             [['Metabolism', u'Hypomagnesemi (se varningar och f\xf6rsiktighet (4.4))']]]],
  '_pages': [7, 8],
  u'_rank': 30,
+=======
+             ['Reproductive system', u'Gynekomasti']]]],
+ '_pages': [7, 8],
+ u'_rank': 29,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -1,6 +1,10 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Blood', u''],
              ['Eye', u'Konjunktivit'],
+=======
+            [['Eye', u'Konjunktivit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende'],
              ['GI', u'Kr\xe4kning'],
              ['GI', u'Diarr\xe9'],
@@ -19,11 +23,16 @@
              ['Metabolism', u'Hyponatremi'],
              ['Metabolism', u'V\xe4tskeretention'],
              ['Metabolism', u'Anorexi'],
+<<<<<<< HEAD
              ['Nervous system', u'Yrsel'],
              ['Eye', u'Dimsyn'],
              ['Cardiac', u'Kardiotoxiska effekter'],
              ['Respiratory', u'Interstitiell pulmonell fibros'],
              ['Respiratory', u'Rinit'],
+=======
+             ['Eye', u'Dimsyn'],
+             ['Cardiac', u'Kardiotoxiska effekter'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Hemorragisk kolit'],
              ['GI', u'Mukosit'],
              ['GI', u'Akut pankreatit'],
@@ -36,20 +45,30 @@
              ['Renal', u'Atypiska epitelceller fr\xe5n urinbl\xe5san'],
              ['Renal', u'Renala lesioner'],
              ['Reproductive system', u'Amenorr\xe9*****'],
+<<<<<<< HEAD
              ['Reproductive system', u'Azoospermi/aspermi*****'],
              ['General', u'Feber'],
              ['General', u'Huvudv\xe4rk'],
              ['General', u'Lokala reaktioner vid  injektions-/infusionsst\xe4llet'],
              ['General', u'']]],
+=======
+             ['General', u'Feber  injektions-/infusionsst\xe4llet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Skin', u'Toxisk epidermal nekrolys'], ['Skin', u'Stevens-Johnsons syndrom']]],
            ['Unknown',
             [['Blood', u'Myelosuppression (manifisterad som  benm\xe4rgssvikt)'],
+<<<<<<< HEAD
+=======
+             ['Immune system', u'Immunsuppression'],
+             ['Immune system', u'\xd6verk\xe4nslighetsreaktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Endocrine', u'Vattenf\xf6rgiftning'],
              ['Metabolism', u'Blodglukosf\xf6r\xe4ndringar (\xf6kning, minskning)'],
              ['Psychiatric', u'F\xf6rvirring'],
              ['Nervous system', u'Encefalopati'],
              ['Nervous system', u'Kramper  Neurotoxicitet'],
+<<<<<<< HEAD
              ['Nervous system', u''],
              ['Nervous system', u'Myelopati'],
              ['Nervous system', u''],
@@ -59,6 +78,8 @@
              ['Nervous system', u'Tremor'],
              ['Nervous system', u''],
              ['Nervous system', u''],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Synneds\xe4ttning'],
              ['Eye', u'\xd6kat t\xe5rfl\xf6de'],
              ['Ear', u'D\xf6vhet'],
@@ -67,7 +88,10 @@
              ['Cardiac', u'Hj\xe4rtstopp'],
              ['Cardiac', u'Kardiogen chock'],
              ['Cardiac', u'Arrytmier'],
+<<<<<<< HEAD
              ['Cardiac', u''],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Pulmon\xe4r embolism'],
              ['Vascular', u'Ventrombos'],
              ['Vascular', u'Vaskulit'],
@@ -75,6 +99,7 @@
              ['Vascular', u'Hypertension'],
              ['Vascular', u'Hypotension'],
              ['Vascular', u'Blodvallningar'],
+<<<<<<< HEAD
              ['Respiratory', u'Pulmon\xe4r veno-ocklusiv sjukdom'],
              ['Respiratory', u'Akut andn\xf6dssyndrom (ARDS)'],
              ['Respiratory', u'Lungsvikt*'],
@@ -94,6 +119,27 @@
              ['Respiratory', u'Rinorr\xe9'],
              ['Respiratory', u'Nysning'],
              ['Respiratory', u'Orofaryngeal sm\xe4rta'],
+=======
+             ['Vascular', u'Pulmon\xe4r veno-ocklusiv sjukdom'],
+             ['Vascular', u'Akut andn\xf6dssyndrom (ARDS)'],
+             ['Vascular', u'Lungsvikt*'],
+             ['Vascular', u'Obliterativ bronkiolit'],
+             ['Vascular', u'Pneumonit'],
+             ['Vascular', u'Allergisk alveolit'],
+             ['Vascular', u'Organiserad pneumoni'],
+             ['Vascular', u'Pulmonell hypertension'],
+             ['Vascular', u'Pleural effusion'],
+             ['Vascular', u'Pulmon\xe4rt \xf6dem'],
+             ['Vascular', u'Bronkospasm'],
+             ['Vascular', u'Hypoxi'],
+             ['Vascular', u'Dyspn\xe9'],
+             ['Vascular', u'Hosta'],
+             ['Vascular', u'N\xe4st\xe4ppa'],
+             ['Vascular', u'Nasalt obehag'],
+             ['Vascular', u'Rinorr\xe9'],
+             ['Vascular', u'Nysning'],
+             ['Vascular', u'Orofaryngeal sm\xe4rta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Gastrointestinal bl\xf6dning'],
              ['GI', u'Kolit'],
              ['GI', u'Enterit'],
@@ -101,6 +147,10 @@
              ['GI', u'Inflammation i \xf6ronspottk\xf6rteln'],
              ['GI', u'Bukobehag'],
              ['Hepato', u'Veno-ocklusiv leversjukdom'],
+<<<<<<< HEAD
+=======
+             ['Hepato', u'Hepatit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Erythema multiforme'],
              ['Skin', u'Palmar-plantar erythrodysestesi- syndrom'],
              ['Skin', u'\u201dRadiation recall\u201d-dermatit'],
@@ -110,11 +160,17 @@
              ['Skin', u'Bl\xe5sor'],
              ['Skin', u'Ansiktssvullnad'],
              ['Skin', u'Hyperhidros'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Rabdomyolys'],
              ['Musculoskeletal', u'Sklerodermi'],
              ['Musculoskeletal', u'Kramp'],
              ['Musculoskeletal', u'Myalgi'],
              ['Musculoskeletal', u'Artralgi'],
+=======
+             ['Skin', u'Kramp'],
+             ['Skin', u'Myalgi'],
+             ['Skin', u'Artralgi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Njursvikt/nedsatt njurfunktion'],
              ['Renal', u'Rubbningar i njurtubuli'],
              ['Renal', u'Toxisk nefropati'],
@@ -125,7 +181,11 @@
              ['Renal', u'Hematuri'],
              ['Renal', u'Nefrogen diabetes insipidus'],
              ['Renal', u'\xd6kat blodkreatinin'],
+<<<<<<< HEAD
              ['Pregnancy', u'F\xf6r tidig f\xf6dsel'],
+=======
+             ['Renal', u'Stegring av urea i blodet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Oligomenorr\xe9*****'],
              ['Reproductive system', u'Infertilitet'],
              ['Reproductive system', u'Ovariesvikt/sjukdom'],
@@ -134,6 +194,7 @@
              ['Reproductive system', u'Oligospermi*****'],
              ['Reproductive system', u'Minskad \xf6strogenhalt i blod'],
              ['Reproductive system', u'\xd6kad gonadotropinhalt i blod'],
+<<<<<<< HEAD
              ['General', u''],
              ['General', u''],
              ['General', u''],
@@ -151,4 +212,13 @@
              ['Investigations', u'\xd6kning av C-reaktivt protein']]]],
  '_pages': [7, 11],
  u'_rank': 134,
+=======
+             ['Reproductive system', u'Tillv\xe4xth\xe4mning av foster'],
+             ['Reproductive system',
+              u'Fostertoxicitet (inklusive myelosuppression  och gastroenterit)'],
+             ['Investigations', u'\xd6kning av laktatdehydrogenas i blod'],
+             ['Investigations', u'\xd6kning av C-reaktivt protein']]]],
+ '_pages': [7, 12],
+ u'_rank': 118,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

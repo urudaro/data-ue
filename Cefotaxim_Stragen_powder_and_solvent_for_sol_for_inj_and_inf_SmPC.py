@@ -2,6 +2,7 @@
             [['Nervous system', u'och '],
              ['General', u'I.m. administ ration; Sm\xe4rta p\xe5 injektions st\xe4llet']]],
            ['Common',
+<<<<<<< HEAD
             [['GI', u'Illam\xe5en Kr\xe4knin g Magont Diarr\xe9'],
              ['Renal',
               u'Tempor \xe4r \xf6kning av serumkr eatinin (speciell t n\xe4r det f\xf6rskrivs tillsam-mans med amino-gl ykosider ) och serumur ea'],
@@ -15,13 +16,34 @@
              ['Hepato',
               u'\xd6kning av lever-enzy mer (ASAT, ALAT, LDH, gamma-GT och /eller alkaliskt fosfatas) och/eller bilirubin'],
              ['Skin', u'Utslag Kl\xe5da N\xe4ssel-utsl ag']]],
+=======
+            [['GI', u'Illam\xe5en de Kr\xe4knin g Magont Diarr\xe9'],
+             ['Renal',
+              u'Tempor \xe4r \xf6kning av serum-kreatinin (speciell t n\xe4r det f\xf6rskrivs tillsam-mans med amino-glykosid er) och serum-urea'],
+             ['General',
+              u'Feber Inflam-mationer p\xe5 injektion s-st\xe4llet, inklusive flebiter/ trombo-flebiter']]],
+           ['Uncommon',
+            [['Blood', u'Leukopeni Eusinofili Trombo-cytopeni (se avsnitt 4.4)'],
+             ['Immune system', u'Jarisch-Herxheimer * reaktion'],
+             ['Nervous system', u'Kramper (se avsnitt 4.4)'],
+             ['GI', u'Aptitl\xf6shet'],
+             ['Hepato',
+              u'\xd6kning av lever-enzymer (ASAT, ALAT, LDH, gamma-GT och /eller alkaliskt fosfatas) och/eller bilirubin'],
+             ['Skin', u'Utslag Kl\xe5da N\xe4ssel-utslag']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Blood',
               u'Granylocyto peni Agranulocyt os och neutropeni Hemolytisk anemi (se avsnitt 4.4)'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Encefalopati (dvs p\xe5verkan p\xe5 medvetandet, onormala r\xf6relser (se avsnitt 4.4) yrsel och tr\xf6tthet (efter administrerin g av h\xf6ga doser)']]],
            ['Very rare',
             [['GI', u'Pseudome kolit (se avsnitt 4.4)'],
+=======
+              u'Encefalopati (dvs p\xe5verkan p\xe5 medvetandet, onormala r\xf6relser (se avsnitt 4.4) yrsel och tr\xf6tthet (efter administrer-ing av h\xf6ga doser)']]],
+           ['Very rare',
+            [['GI', u'Pseudo-membran\xf6s kolit (se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Akut interstitiell nefrit']]],
            ['Unknown',
             [['Immune system',

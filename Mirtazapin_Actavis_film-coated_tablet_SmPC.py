@@ -16,6 +16,7 @@
              ['GI', u'Oral hypoestesi'],
              ['Vascular', u'Hypotension'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Mardr\xf6mmar Mani Agitation Hallucina-tio ner Psyko-motori sk oro (inkl. akatisi, hyperkinesi)']]],
            ['Rare',
             [['Nervous system', u'Myoklonus'],
@@ -24,11 +25,25 @@
            ['Unknown',
             [['Blood',
               u'Benm\xe4rgs-depr ession (granulocyto-pe ni, agranulocytos, aplastisk anemi, trombocyto-pen Eosinofili'],
+=======
+              u'Mardr\xf6mmar Mani Agitation Hallucina-tioner Psyko-motorisk oro (inkl. akatisi, hyperkinesi)']]],
+           ['Rare',
+            [['Nervous system', u'Myoklonus'],
+             ['Hepato', u'F\xf6rh\xf6jda trans-aminaser i serum'],
+             ['Psychiatric', u'Agression']]],
+           ['Unknown',
+            [['Blood',
+              u'Benm\xe4rgs-depression (granulocyto-peni, agranulocytos, aplastisk anemi, trombocyto-peni) Eosinofili'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Kramper (anfall) Serotonergt syndrom Oral parestesi Dysartri'],
              ['GI', u'\xd6dem i munnen \xd6kad salivuts\xf6ndring'],
              ['Skin',
+<<<<<<< HEAD
               u'Stevens-Johnso ns syndrom Bl\xe5sdermatoser Erythema multiforme Toxisk epidermal nekrolys'],
+=======
+              u'Stevens-Johnsons syndrom Bl\xe5sdermatoser Erythema multiforme Toxisk epidermal nekrolys'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Hyponatremi'],
              ['General', u'Somnambulism'],
              ['Psychiatric', u'Suicidtankar Suicidalt beteende'],

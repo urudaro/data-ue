@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['General', u'\u2022Sm\xe4rta vid injektionsst\xe4llet.']]],
            ['Common',
             [['GI',
@@ -6,6 +7,17 @@
               u'\u2022\xd6verk\xe4nslighetsreaktioner har rapporterats, inklusive hudreaktioner som hudrodnad, kl\xe5da, urtikaria. L\xe4kemedelsinducerad feber.'],
              ['General',
               u'\u2022\xd6verg\xe5ende lokal sm\xe4rta kan f\xf6rekomma vid injektionsst\xe4llet. Detta \xe4r vanligare vid h\xf6ga doser. Flebit/tromboflebit har rapporterats hos patienter som administrerats cefotaxim intraven\xf6st. Detta har dock s\xe4llan varit en orsak f\xf6r att avbryta behandlingen.']]],
+=======
+{'_data': [['Very common',
+            [['General', u'Mycket vanliga \u2022Sm\xe4rta vid injektionsst\xe4llet.']]],
+           ['Common',
+            [['GI',
+              u'Vanliga \u2022Patienter som ges cefotaxim upplever ibland gastrointestinala st\xf6rningar som candidias, illam\xe5ende, kr\xe4kningar, magsm\xe4rtor, diarr\xe9. Vid sv\xe5r och l\xe5ngvarig diarr\xe9 b\xf6r diagnosen pseudomembran\xf6s kolit \xf6verv\xe4gas. Vid pseudomembran\xf6s kolit ska behandling med Cefotaxim Sandoz avbrytas och l\xe4mplig terapi initieras.'],
+             ['Skin',
+              u'Vanliga \u2022\xd6verk\xe4nslighetsreaktioner har rapporterats, inklusive hudreaktioner som hudrodnad, kl\xe5da, urtikaria. L\xe4kemedelsinducerad feber.'],
+             ['General',
+              u'Vanliga \u2022\xd6verg\xe5ende lokal sm\xe4rta kan f\xf6rekomma vid injektionsst\xe4llet. Detta \xe4r vanligare vid h\xf6ga doser. Flebit/tromboflebit har rapporterats hos patienter som administrerats cefotaxim intraven\xf6st. Detta har dock s\xe4llan varit en orsak f\xf6r att avbryta behandlingen.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Blood', u'\u2022Leukopeni, eosinofili, trombocytopeni'],
              ['Immune system',
@@ -14,8 +26,13 @@
              ['Hepato',
               u'\u2022F\xf6rh\xf6jda leverenzymv\xe4rden (ASAT, ALAT, LDH, \u03b3-GT, alkalisk fosfatas) och/eller bilirubin. Dessa avvikelser i laboratoriev\xe4rdena kan i s\xe4llsynta fall \xf6verstiga det \xf6vre referensv\xe4rdet med det dubbla och antyda leverskada som vanligen \xe4r av kolestatisk typ och oftast utan symtom.'],
              ['Renal',
+<<<<<<< HEAD
               u'\u2022Nedsatt njurfunktion/f\xf6rh\xf6jda kreatininv\xe4rden (s\xe4rskild vid samtidig administrering med aminoglykosider.'],
              ['General', u'\u2022Feber.']]],
+=======
+              u'Mindre vanliga \u2022Nedsatt njurfunktion/f\xf6rh\xf6jda kreatininv\xe4rden (s\xe4rskild vid samtidig administrering med aminoglykosider.'],
+             ['General', u'Mindre vanliga \u2022Feber.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Infections',
               u'\u2022L\xe5ngvarig behandling med antibiotika kan orsaka kraftig tillv\xe4xt av ok\xe4nsliga organismer (se avsnitt 4.4).'],
@@ -24,6 +41,7 @@
              ['Nervous system',
               u'\u2022Administrering av h\xf6ga doser cefalosporinantibiotika, speciellt till patienter med njurinsufficiens, kan orsaka encefalopati vilket kan resultera i yrsel, kramper och tr\xf6tthet.'],
              ['Renal',
+<<<<<<< HEAD
               u'\u2022En tempor\xe4r f\xf6rh\xf6jning av serumkreatinin och serumurea f\xf6rekommer.']]],
            ['Very rare',
             [['Cardiac',
@@ -31,11 +49,25 @@
              ['Skin',
               u'\u2022Erythema multiforme exsudativum, Stevens-Johnsons syndrom, toxisk epidermal nekrolys, anafylaktisk chock (se avsnitt 4.9). \u2022Hos patienter med anlag f\xf6r allergi \xe4r risken f\xf6r \xf6verk\xe4nslighetsreaktioner f\xf6rh\xf6jd efter administrering av Cefotaxim Sandoz.'],
              ['Renal', u'\u2022Reversibel interstitiell nefrit har rapporterats.']]],
+=======
+              u'S\xe4llsynta \u2022En tempor\xe4r f\xf6rh\xf6jning av serumkreatinin och serumurea f\xf6rekommer.']]],
+           ['Very rare',
+            [['Cardiac',
+              u'Mycket s\xe4llsynta \u2022Mycket f\xe5 fall av arytmier har setts efter en snabb bolusinjektion genom en central venkateter.'],
+             ['Skin',
+              u'\u2022Erythema multiforme exsudativum, Stevens-Johnsons syndrom, toxisk epidermal nekrolys, anafylaktisk chock (se avsnitt 4.9). \u2022Hos patienter med anlag f\xf6r allergi \xe4r risken f\xf6r \xf6verk\xe4nslighetsreaktioner f\xf6rh\xf6jd efter administrering av Cefotaxim Sandoz.'],
+             ['Renal',
+              u'Mycket s\xe4llsynta \u2022Reversibel interstitiell nefrit har rapporterats.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Immune system',
               u'\u2022Anafylaktiska reaktioner, angio\xf6dem, bronkospasm, anafylaktisk chock.'],
              ['Nervous system', u'\u2022Huvudv\xe4rk, yrsel.'],
+<<<<<<< HEAD
              ['Hepato', u'\u2022Hepatit (ibland med ikterus).']]]],
+=======
+             ['Hepato', u'Ingen k\xe4nd frekvens \u2022Hepatit (ibland med ikterus).']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [6, 7],
  u'_rank': 20,
  u'_type': u'LSFU'}

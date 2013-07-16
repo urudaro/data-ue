@@ -8,6 +8,7 @@
              ['Nervous system', u'Huvudv\xe4rk'],
              ['GI', u'Diarr\xe9'],
              ['Hepato', u'(\xb3'],
+<<<<<<< HEAD
              ['Metabolism', u'Hyper-triglyce ridemi Hyper-lipidem'],
              ['Nervous system', u'Encefalopati'],
              ['Eye',
@@ -36,6 +37,35 @@
               u'Depression \xc5ngest F\xf6r\xe4ndrad mental status F\xf6rvirrings-til lst\xe5nd Beteende-st\xf6r ningar Nervositet F\xf6rs\xe4mrat minne S\xf6mn-st\xf6rnin gar'],
              ['Nervous system', u'Neuropati Yrsel Hypoestesi Parestesi Tremor Somnolens'],
              ['Eye', u'Syn-st\xf6rninga Konjunktivit'],
+=======
+             ['Metabolism', u'Hyper-triglyceridemi Hyper-lipidemi'],
+             ['Nervous system', u'Encefalopati'],
+             ['Eye',
+              u'Obstruktion i retinal art\xe4r Optisk neuropati Retinal-bl\xf6dning Obstruktion i retinal ven Retinal-exudat Retinopati Papill\xf6dem'],
+             ['GI', u'Recidiv av mags\xe5r Icke livshotande gastrointesti-nal bl\xf6dning'],
+             ['Hepato', u's\xe4llsynt'],
+             ['Skin', u'Alopeci \xd6kad svettning'],
+             ['Musculoskeletal', u'Myalgi Artralgi'],
+             ['General', u'Influensa-liknande symptom Minskad aptit Feber Stelhet Tr\xf6tthet'],
+             ['General',
+              u'Nekrotiska reaktioner vid injektions-st\xe4llet Reaktioner vid injektions-st\xe4llet']]],
+           ['Common',
+            [['Blood', u'Trombo-cytopeni Anemi'],
+             ['Endocrine', u'(\xb3'],
+             ['Nervous system', u'Dysgeusi'],
+             ['Cardiac', u'Arytmier Palpita-tioner Cyanos'],
+             ['GI', u'Kr\xe4kning Buksm\xe4rta Illam\xe5ende Muntorr-het'],
+             ['Hepato', u'(\xb3'],
+             ['General', u'Br\xf6st-sm\xe4rta \xd6dem'],
+             ['Investigations', u'Viktned-g\xe5ng']]],
+           ['Uncommon',
+            [['Endocrine', u'(\xb3'],
+             ['Metabolism', u'Dehydrering Rubbad elektrolyt-balans'],
+             ['Psychiatric',
+              u'Depression \xc5ngest F\xf6r\xe4ndrad mental status F\xf6rvirrings-tillst\xe5nd Beteende-st\xf6rningar Nervositet F\xf6rs\xe4mrat minne S\xf6mn-st\xf6rningar'],
+             ['Nervous system', u'Neuropati Yrsel Hypoestesi Parestesi Tremor Somnolens'],
+             ['Eye', u'Syn-st\xf6rningar Konjunktivit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'Vertigo'],
              ['Vascular', u'Hyper-tension Hypotension'],
              ['Hepato', u'(\xb3'],
@@ -46,7 +76,11 @@
            ['Rare',
             [['Infections', u'Pneumoni Herpes simplex'],
              ['Blood', u'Agranulocytos Hemolytisk anemi'],
+<<<<<<< HEAD
              ['Immune system', u'Autoimmun sjukdom Akuta \xf6verk\xe4nslighets-re aktioner'],
+=======
+             ['Immune system', u'Autoimmun sjukdom Akuta \xf6verk\xe4nslighets-reaktioner'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Endocrine', u'Hypotyroidism (\xb3'],
              ['Metabolism', u'Diabetes mellitus Hyperglykemi'],
              ['Psychiatric', u'Sj\xe4lvmord Sj\xe4lvmords-f\xf6rs\xf6k Sj\xe4lvmords-tankar'],
@@ -65,7 +99,11 @@
              ['Investigations',
               u'\xd6kning i blodet av kreatinin \xd6kning i blodet av urea \xd6kning i blodet av bilirubin \xd6kning i blodet av urinsyra \xd6kning i blodet av LDH']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Immune system', u'Transplan-tata vst\xf6tning'],
+=======
+            [['Immune system', u'Transplan-tatavst\xf6tning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Endocrine', u'frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data)'],
              ['Hepato', u'frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data)']]]],
  '_note': u' ?MSFU',

@@ -1,19 +1,33 @@
 {'_data': [['Very common',
             [['General',
+<<<<<<< HEAD
               u'F\xf6r intra-muskul\xe4ra berednin gar: Sm\xe4rta vid injektion sst\xe4llet']]],
            ['Common', []],
            ['Uncommon',
             [['Blood', u'Leukopeni Eosinofili Trombocyto-pe ni'],
              ['Immune system', u'Jarisch-Herxhe imers reaktion'],
+=======
+              u'F\xf6r intra-muskul\xe4ra bered-ningar: Sm\xe4rta vid injektion sst\xe4llet']]],
+           ['Common', []],
+           ['Uncommon',
+            [['Blood', u'Leukopeni Eosinofili Trombocyto-peni'],
+             ['Immune system', u'Jarisch-Herxheimers reaktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Kramper (se avsnitt 4.4).'],
              ['GI', u'Diarr\xe9'],
              ['Hepato',
               u'F\xf6rh\xf6jda niv\xe5er av leverenzymer (ALAT, ASAT, LDH, gamma-GT och/eller alkaliskt fosfatas) och/eller bilirubin'],
              ['Skin', u'Hudutslag Kl\xe5da Urtikaria'],
              ['Renal',
+<<<<<<< HEAD
               u'Minskad njurfunktion /kreatinin\xf6knin g (s\xe4rskilt vid samtidig f\xf6rskrivning av aminoglyko-si der)'],
              ['General',
               u'Feber Inflammato-ris ka reaktioner vid injektions-st\xe4ll et inklusive flebit/trombo-fl ebit']]],
+=======
+              u'Minskad njurfunktion /kreatinin-\xf6kning (s\xe4rskilt vid samtidig f\xf6rskrivning av aminoglyko-sider)'],
+             ['General',
+              u'Feber Inflammato-riska reaktioner vid injektions-st\xe4llet inklusive flebit/trombo-flebit']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare', []],
            ['Very rare', []],
            ['Unknown',
@@ -25,7 +39,11 @@
               u'Huvudv\xe4rk Yrsel Encefalopati (t.ex. f\xf6rs\xe4mrad medvetandegrad, onormala r\xf6relser) (se avsnitt 4.4).'],
              ['Cardiac', u'Arytmi efter snabb bolusinfusion genom central venkateter'],
              ['GI',
+<<<<<<< HEAD
               u'Illam\xe5ende Kr\xe4kningar Buksm\xe4rta Pseudomembra-n\xf6 s kolit (se avsnitt 4.4).'],
+=======
+              u'Illam\xe5ende Kr\xe4kningar Buksm\xe4rta Pseudomembra-n\xf6s kolit (se avsnitt 4.4).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Hepatit* (ibland med gulsot)'],
              ['Skin',
               u'Erythema multiforme Stevens-Johnsons syndrom Toxisk epidermal nekrolys (se avsnitt 4.4).'],

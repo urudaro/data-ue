@@ -1,7 +1,11 @@
 {'_data': [['Very common',
             [['Metabolism', u'Viktuppg\xe5ng'],
              ['Nervous system', u'Somnolens'],
+<<<<<<< HEAD
              ['Investigations', u'F\xf6rh\xf6jd Plasma-prolakti nniv\xe5']]],
+=======
+             ['Investigations', u'F\xf6rh\xf6jd Plasma-prolaktinniv\xe5']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Blood', u'Eosinofili'],
              ['Metabolism',
@@ -11,7 +15,11 @@
              ['GI',
               u'Milda, \xf6verg\xe5ende antikolinerga effekter, inklusive f\xf6rstoppning och muntorrhet'],
              ['Hepato',
+<<<<<<< HEAD
               u'\xd6verg\xe5ende, asymtomatiska f\xf6rh\xf6jningar av levertrans-amina ser (ALAT, ASAT), s\xe4rskilt i b\xf6rjan av behandlingen (se avsnitt 4.4)'],
+=======
+              u'\xd6verg\xe5ende, asymtomatiska f\xf6rh\xf6jningar av levertrans-aminaser (ALAT, ASAT), s\xe4rskilt i b\xf6rjan av behandlingen (se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Utslag'],
              ['General', u'Asteni Tr\xf6tthet \xd6dem']]],
            ['Uncommon',
@@ -25,7 +33,11 @@
             [['Blood', u'Trombocytopeni'],
              ['Immune system', u'Allergisk reaktion'],
              ['Metabolism',
+<<<<<<< HEAD
               u'Utveckling eller f\xf6rs\xe4mring av diabetes-sjukdom en, ibland associerat med ketoacidos eller koma, inklusive n\xe5gra fall med d\xf6dlig utg\xe5ng (se avsnitt 4.4) Hypotermi'],
+=======
+              u'Utveckling eller f\xf6rs\xe4mring av diabetes-sjukdomen, ibland associerat med ketoacidos eller koma, inklusive n\xe5gra fall med d\xf6dlig utg\xe5ng (se avsnitt 4.4) Hypotermi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Kramper, d\xe4r det i de flesta fall finns kramper eller riskfaktorer f\xf6r kramper i anamnesen. Malignt neuroleptika syndrom (se avsnitt 4.4) Dystoni (inklusive okulogyration) Tardiv dyskinesi Uts\xe4ttnings-symtom'],
              ['Cardiac',

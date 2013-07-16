@@ -1,12 +1,21 @@
 {'_data': [['Common',
             [['Metabolism', u'metabolisk acidos'],
              ['Nervous system', u'yrsel'],
+<<<<<<< HEAD
              ['GI', u'smak-st\xf6rni ngar'],
              ['General', u'tr\xf6tthet']]],
            ['Uncommon',
             [['Metabolism', u'urinsyra-st egring'],
              ['Nervous system', u'parestesier kramper'],
              ['GI', u'illam\xe5-end e kr\xe4kningar'],
+=======
+             ['GI', u'smak-st\xf6rningar'],
+             ['General', u'tr\xf6tthet']]],
+           ['Uncommon',
+            [['Metabolism', u'urinsyra-stegring'],
+             ['Nervous system', u'parestesier kramper'],
+             ['GI', u'illam\xe5-ende kr\xe4kningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'kl\xe5da'],
              ['Renal', u'njursten'],
              ['General', u'feber asteni']]],

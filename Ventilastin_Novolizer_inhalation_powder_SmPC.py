@@ -8,9 +8,23 @@
             [['Metabolism',
               u'niv\xe5er av insulin, fria fettsyror,  glycerol och ketonkroppar'],
              ['Nervous system', u'Hyperaktivt beteende'],
+<<<<<<< HEAD
              ['Nervous system', u'hj\xe4rtklappning, angina pectoris,'],
              ['Cardiac', u'Perifer vasodilatation'],
              ['Respiratory', u'Hosta  Paradoxal bronkialspasm']]]],
  '_pages': [5, 6],
  u'_rank': 10,
+=======
+             ['Nervous system',
+              u'takykardi, extra hj\xe4rtslag),  hj\xe4rtklappning, angina pectoris,'],
+             ['Respiratory', u'Paradoxal bronkialspasm']]],
+           ['Very rare',
+            [['Blood', u'Trombopeni'],
+             ['Nervous system',
+              u'Hyperexcitabilitet, s\xf6mnst\xf6rningar,  hallucinationer  Takykardi, hj\xe4rtarytmi (f\xf6rmaksflimmer, supraventrikul\xe4r'],
+             ['Skin', u'Pruritus, hudutslag, erytem, urtikaria,  angio\xf6dem'],
+             ['Renal', u'Nefrit  Huvudv\xe4rk, reaktion vid']]]],
+ '_pages': [5, 6],
+ u'_rank': 13,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

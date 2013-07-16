@@ -26,7 +26,11 @@
             [['Nervous system', u'parestesier'],
              ['Cardiac', u'synkope, f\xf6rmaksflimmer, cerebrovaskul\xe4r h\xe4ndelse'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xf6verk\xe4nslighet anafylaktiska reaktioner, angio\xf6dem inkluderande svullnad av larynx och glottis orsakande luftv\xe4gsobstruktion och/eller svullnad av ansikte, l\xe4ppar, svalg och/eller tunga (vissa av patienterna som upplevde angio\xf6dem hade tidigare haft denna biverkning vid behandling med andra l\xe4kemedel inklusive ACE-h\xe4mmare), vaskulit inkluderande Henoch-Sch\xf6nleins purpura'],
+=======
+              u'\xf6verk\xe4nslighet anafylaktiska reaktioner, angio\xf6dem inkluderande svullnad av larynx och glottis orsakande luftv\xe4gsobstruktion och/eller svullnad av ansikte, l\xe4ppar, svalg och/eller tunga (vissa av patienterna som upplevde angio\xf6dem hade tidigare haft denna biverkning vid behandling med andra l\xe4kemedel inklusive ACE-h\xe4mmare), vaskulit inkluderande Henoch Sch\xf6nleins purpura'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'hepatit']]],
            ['Unknown',
             [['Investigations',
@@ -37,6 +41,10 @@
              ['GI', u'diarr\xe9'],
              ['Musculoskeletal', u'ryggv\xe4rk'],
              ['Renal', u'urinv\xe4gsinfektion'],
+<<<<<<< HEAD
+=======
+             ['General', u'influensaliknande symtom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations',
               u'I en klinisk studie med patienter med typ 2-diabetes och nefropati utvecklade 9,9 % av patienterna som behandlades med losartantabletter hyperkalemi med >5,5 mEq/l. I gruppen som behandlades med placebo utvecklade 3,4 % hyperkalemi. Uppf\xf6ljning efter godk\xe4nnandet F\xf6ljande biverkningar har rapporterats efter godk\xe4nnandet'],
              ['Blood', u'anemi, trombocytopeni'],
@@ -44,6 +52,10 @@
              ['Nervous system', u'L\xe4kemedelsverekt 2010-04-23'],
              ['Respiratory', u'hosta'],
              ['GI', u'diarr\xe9, pankreatit'],
+<<<<<<< HEAD
+=======
+             ['General', u'sjukdomsk\xe4nsla'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'onormal leverfunktion'],
              ['Skin', u'urtikaria, pruritus, utslag, fotosensitivitet'],
              ['Musculoskeletal', u'myalgi, artralgi, rabdomyolys'],
@@ -53,5 +65,9 @@
              ['Psychiatric', u'depression'],
              ['Investigations', u'hyponatremi']]]],
  '_pages': [7, 11],
+<<<<<<< HEAD
  u'_rank': 44,
+=======
+ u'_rank': 46,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -20,7 +20,12 @@
              ['Investigations',
               u'f\xf6rh\xf6jda leverenzymer, f\xf6rh\xf6jda alkaliska fosfataser i blodet.']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Blood', u'trombocytopeni.'],
+=======
+            [['Blood',
+              u'trombocytopeni. benm\xe4rgsdepression, aplastisk anemi, agranulocytos, pancytopeni, neutropeni.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'\xf6verk\xe4nslighetsreaktioner (inklusive \xf6verk\xe4nslighetsreaktioner av multi-organ karakt\xe4r) karakt\xe4riserade av hudutslag, feber. Andra organ eller system kan p\xe5verkas t ex blod och lymfsystem (t ex eosinofili, trombocytopeni, leukopeni, lymfadenopati, splenomegali), lever (t ex avvikande leverfunktionsv\xe4rden, hepatit), muskler och leder (t ex ledsvullnad, muskelsm\xe4rtor, ledsm\xe4rtor), nervsystem (t ex leverencefalopati), njurar (t ex proteinuri, interstitiell nefrit, njursvikt), lungor (t ex dyspn\xe9, lung\xf6dem, astma, bronkialspasm, interstitiell lungsjukdom), angio\xf6dem.'],
              ['Metabolism',
@@ -33,6 +38,7 @@
              ['Skin',
               u'systemisk lupus erythematosus. Allm\xe4nna symtom och/eller symtom vid administrationsst\xe4llet']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Blood',
               u'benm\xe4rgsdepression, aplastisk anemi, agranulocytos, pancytopeni, neutropeni.'],
              ['Immune system', u'anafylaktiska reaktioner.'],
@@ -41,4 +47,13 @@
              ['Investigations', u'minskade T4-niv\xe5er (oklar klinisk signifikans).']]]],
  '_pages': [6, 7],
  u'_rank': 28,
+=======
+            [['Immune system', u'anafylaktiska reaktioner.'],
+             ['Metabolism', u'Ingen k\xe4nd frekvens'],
+             ['Vascular', u'hypertension.'],
+             ['Investigations',
+              u'minskade T4-niv\xe5er (oklar klinisk signifikans). * enligt CIOMS III frekvensklassifikation **I mycket s\xe4llsynta fall kan kliniskt signifikant hyponatremi (natrium <125 mmol/l) utvecklas under behandling med Trileptal. Vanligen intr\xe4ffade detta under behandlingens 3 f\xf6rsta m\xe5nader, \xe4ven om det fanns patienter som utvecklade natriumniv\xe5er i serum understigande 125 mmol/l f\xf6rst efter mer \xe4n 1 \xe5r efter behandlingens b\xf6rjan (se avsnitt 4.4). Det har kommit rapporter om s\xe4nkning av benmineraldensitet, osteopeni, osteoporos och frakturer hos patienter som st\xe5r p\xe5 l\xe5ngtidsbehandling med Trileptal. Mekanismen, genom vilken Trileptal p\xe5verkar benmetabolismen, har inte identifierats.']]]],
+ '_pages': [6, 7],
+ u'_rank': 27,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

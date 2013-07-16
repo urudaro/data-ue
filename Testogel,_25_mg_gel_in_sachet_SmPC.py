@@ -12,7 +12,11 @@
              ['Musculoskeletal', u'Muskelkramper'],
              ['Nervous system', u'Nervositet, depression, fientlighet'],
              ['Respiratory', u'S\xf6mnapn\xe9'],
+<<<<<<< HEAD
              ['Skin', u'Olika hudreaktioner kan f\xf6rekomma'],
+=======
+             ['Skin', u'Olika hudreaktioner kan f\xf6rekomma d\xe4ribland'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'\xc4ndrad libido, \xf6kat antal erektioner;'],
              ['General',
               u'Administrering av testosteron i h\xf6ga doser   eller under l\xe5ng tid \xf6kar i enstaka fall']]]],

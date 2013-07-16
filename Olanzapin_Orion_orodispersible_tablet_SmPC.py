@@ -34,7 +34,11 @@
            ['Uncommon',
             [['Blood', u'Leukopeni Neutropeni'],
              ['Cardiac', u'Bradykardi QTc-f\xf6rl\xe4ngning (se avsnitt 4.4)'],
+<<<<<<< HEAD
              ['GI', u'Fotosensitivitetsre aktioner Alopeci'],
+=======
+             ['GI', u'Fotosensitivitets-reaktioner Alopeci'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations',
               u'H\xf6g kreatin-fosfokinasniv\xe5 \xd6kad total bilirubinniv\xe5']]],
            ['Unknown',

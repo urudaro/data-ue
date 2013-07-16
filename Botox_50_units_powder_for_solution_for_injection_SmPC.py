@@ -10,9 +10,13 @@
              ['Infections', u'Urinv\xe4gsinfektion.'],
              ['Renal', u'Urinretention (urinstopp).']]],
            ['Common',
+<<<<<<< HEAD
             [['General',
               u'(>1/1000, <1/100), s\xe4llsynta (>1/10 000, <1/1000), mycket s\xe4llsynta (<1/10 000). Blefarospasm/hemifacial spasm'],
              ['Eye',
+=======
+            [['Eye',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Punktuell keratit, lagoftalmi, torra \xf6gon, fotofobi, \xf6gonirritation, \xf6kat t\xe5rfl\xf6de.'],
              ['Skin', u'Ekkymos.'],
              ['General', u'Irritation, ansikts\xf6dem.'],
@@ -42,13 +46,23 @@
              ['General',
               u'Sm\xe4rta, \xf6dem vid injektionsst\xe4llet, bl\xf6dning vid injektionsst\xe4llet, \xf6verk\xe4nslighet vid injektionsst\xe4llet, irritation vid injektionsst\xe4llet, asteni och reaktioner p\xe5 injektionsst\xe4llena. Vid behandling av prim\xe4r hyperhidros i axillerna rapporterades en \xf6kning av icke-axilli\xe4r svettning hos 4,5% av patienterna inom 1 m\xe5nad utan m\xf6nster p\xe5 vilka anatomiska delar som p\xe5verkades. F\xf6r ungef\xe4r 30% av patienterna upph\xf6rde problemet inom 4 m\xe5nader.'],
              ['Infections', u'Bakteriuri'],
+<<<<<<< HEAD
              ['Renal', u'Urinretention, residualurinvolym*, pollakiuri, leukocyturi.'],
+=======
+             ['Renal',
+              u'Urinretention, residualurinvolym*, pollakiuri, leukocyturi. *f\xf6rh\xf6jd residualurinvolym (PVR, post-void residual) som inte kr\xe4ver kateterisering Biverkningar som f\xf6rknippades med procedur som uppstod med vanlig frekvens var dysuri och hematuri. Ren oregelbunden kateterisering initierades hos 6,5 % av patienter efter behandling med Botox 100 enheter j\xe4mf\xf6rt med 0,4 % i placebogruppen. Av 1 242 patienter i de placebokontrollerade kliniska studierna var 41,4 % av patienterna (n = 514) \u2265 65 \xe5r och 14,7 % (n = 182) var \u226575 \xe5r. Ingen \xf6vergripande skillnad i s\xe4kerhetsprofilen observerades efter Botox-behandling mellan patienter \u226565 \xe5r j\xe4mf\xf6rt med patienter <65 \xe5r i dessa studier, med undantag f\xf6r urinv\xe4gsinfektion d\xe4r incidensen var h\xf6gre hos \xe4ldre patienter i b\xe5de placebo- och Botox grupperna j\xe4mf\xf6rt med de yngre patienterna. Ingen f\xf6r\xe4ndring i den \xf6vergripande s\xe4kerhetsprofilen observerades vid upprepad dosering. Urininkontinens p\xe5 grund av neurogen \xf6veraktiv detrusor'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'S\xf6mnl\xf6shet.'],
              ['GI', u'F\xf6rstoppning.'],
              ['Musculoskeletal', u'Muskelsvaghet, muskelkramp.'],
              ['Renal', u'Hematuri*, dysuri*, bl\xe5sdivertikel.'],
              ['General', u'Tr\xf6tthet, onormal g\xe5ng.'],
+<<<<<<< HEAD
              ['Injury', u'Autonom dysreflexi*, fall.'],
+=======
+             ['Injury',
+              u'Autonom dysreflexi*, fall. * behandlingsrelaterade biverkningar I kliniska studier rapporterades urinv\xe4gsinfektion hos 49,2 % av patienterna som behandlades med 200 enheter Botox och hos 35,7 % av patienterna som behandlades med placebo (53,0 % av patienterna med multipel skleros som behandlades med 200 enheter j\xe4mf\xf6rt med 29,3 % med placebo; 45,4 % av patienterna med ryggm\xe4rgsskada som behandlades med 200enheter j\xe4mf\xf6rt med 41,7 % med placebo). Urinv\xe4gsinfektion rapporterades hos 17,2 % av patienterna som behandlades med 200 enheter Botox och hos 2,9 % av patienterna som behandlades med placebo (28,8 % av patienterna med multipel skleros som behandlades med 200 enheter j\xe4mf\xf6rt med 4,5 % med placebo; 5,4 % av patienterna med ryggm\xe4rgsskada som behandlades med 200 enheter j\xe4mf\xf6rt med 1,4 % med placebo). Ingen f\xf6r\xe4ndring i typen av biverkningar observerades vid upprepad dosering. Ingen skillnad i den \xe5rliga skovfrekvensen av multipel skleros (MS) (dvs antal MS-skov per patient/\xe5r) observerades (Botox=0,23, placebo=0,20) hos MS-patienter som ingick i de pivotala studierna. Bland patienter som inte kateteriserats i baseline f\xf6re behandling kateteriserades 38,9 % efter behandlingen med Botox 200 enheter j\xe4mf\xf6rt med 17,3 % som fick placebo. Kronisk migr\xe4n'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Huvudv\xe4rk, migr\xe4n, ansiktspares.'],
              ['Eye', u'\xd6gonlocksptos.'],
              ['Skin', u'Kl\xe5da, hudutslag.'],
@@ -89,7 +103,13 @@
             [['Eye', u'Ulcerativ keratit, korneal epitelskada, korneal perforation.']]],
            ['Unknown',
             [['General',
+<<<<<<< HEAD
               u'I kontrollerade kliniska studier, har biverkningar, som av pr\xf6vare ansetts relaterade till Botox, rapporterats hos 35 % av patienter med blefarospasm, 28 % med cervikal dystoni, 17 % med pediatrisk cerebral pares, 11 % med prim\xe4r hyperhidros i axillerna och 16 % med fokal spasticitet i \xf6vre extremitet i samband med stroke. I kliniska studier f\xf6r \xf6veraktiv bl\xe5sa var incidensen 26 % med den f\xf6rsta behandlingen och 22 % med en andra behandling. I kliniska studier av urininkontinens p\xe5 grund av neurogen \xf6veraktiv detrusor var f\xf6rekomsten 32 % vid f\xf6rsta behandlingen och minskade till 18 % vid andra behandlingen. I kliniska pr\xf6vningar f\xf6r kronisk migr\xe4n var incidensen 26 % vid den f\xf6rsta behandlingen och minskade till 11 % vid den andra behandlingen. Biverkningar upptr\xe4der vanligen inom de f\xf6rsta dagarna efter injektion och \xe4r vanligtvis \xf6verg\xe5ende, men kan kvarst\xe5 flera m\xe5nader eller i s\xe4llsynta fall \xe4nnu l\xe4ngre. Lokal muskelsvaghet utg\xf6r den f\xf6rv\xe4ntade farmakologiska effekten av botulinum toxin i muskulatur. Som vid all injektionsbehandling kan lokal sm\xe4rta, inflammation, parestesi, hypoestesi, \xf6mhet, svullnad/\xf6dem, erytem, lokal infektion, bl\xf6dning och/eller bl\xe5m\xe4rken uppst\xe5 efter injektionen. Sm\xe4rta och/eller oro f\xf6renad med n\xe5lsticket kan resultera i vasovagal respons, inklusive \xf6verg\xe5ende symtomatisk hypertoni och synkope. Feber och influensaliknande symptom har \xe4ven rapporterats efter injektioner av botulinum toxin. Biverkningar \u2013 frekvens per indikation F\xf6r varje indikation har frekvens biverkningar som dokumenterats i kliniska studier angivits. Frekvensen definieras p\xe5 f\xf6ljande s\xe4tt: mycket vanliga (\u2265 1/10), vanliga (\u22651/100, <1/10), mindre']]]],
  '_pages': [12, 17],
  u'_rank': 72,
+=======
+              u'I kontrollerade kliniska studier, har biverkningar, som av pr\xf6vare ansetts relaterade till Botox, rapporterats hos 35 % av patienter med blefarospasm, 28 % med cervikal dystoni, 17 % med pediatrisk cerebral pares, 11 % med prim\xe4r hyperhidros i axillerna och 16 % med fokal spasticitet i \xf6vre extremitet i samband med stroke. I kliniska studier f\xf6r \xf6veraktiv bl\xe5sa var incidensen 26 % med den f\xf6rsta behandlingen och 22 % med en andra behandling. I kliniska studier av urininkontinens p\xe5 grund av neurogen \xf6veraktiv detrusor var f\xf6rekomsten 32 % vid f\xf6rsta behandlingen och minskade till 18 % vid andra behandlingen. I kliniska pr\xf6vningar f\xf6r kronisk migr\xe4n var incidensen 26 % vid den f\xf6rsta behandlingen och minskade till 11 % vid den andra behandlingen. Biverkningar upptr\xe4der vanligen inom de f\xf6rsta dagarna efter injektion och \xe4r vanligtvis \xf6verg\xe5ende, men kan kvarst\xe5 flera m\xe5nader eller i s\xe4llsynta fall \xe4nnu l\xe4ngre. Lokal muskelsvaghet utg\xf6r den f\xf6rv\xe4ntade farmakologiska effekten av botulinum toxin i muskulatur. Som vid all injektionsbehandling kan lokal sm\xe4rta, inflammation, parestesi, hypoestesi, \xf6mhet, svullnad/\xf6dem, erytem, lokal infektion, bl\xf6dning och/eller bl\xe5m\xe4rken uppst\xe5 efter injektionen. Sm\xe4rta och/eller oro f\xf6renad med n\xe5lsticket kan resultera i vasovagal respons, inklusive \xf6verg\xe5ende symtomatisk hypertoni och synkope. Feber och influensaliknande symptom har \xe4ven rapporterats efter injektioner av botulinum toxin. Biverkningar \u2013 frekvens per indikation F\xf6r varje indikation har frekvens biverkningar som dokumenterats i kliniska studier angivits. Frekvensen definieras p\xe5 f\xf6ljande s\xe4tt: mycket vanliga (\u2265 1/10), vanliga (\u22651/100, <1/10), mindre vanliga (\u22651/1000, <1/100), s\xe4llsynta (\u22651/10 000, <1/1000), mycket s\xe4llsynta (<1/10 000). Blefarospasm/hemifacial spasm']]]],
+ '_pages': [12, 17],
+ u'_rank': 71,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -23,6 +23,10 @@
              ['Nervous system', u'Krampanfall'],
              ['Cardiac', u'AV-block'],
              ['General', u'Toleransutveckling']]]],
+<<<<<<< HEAD
  '_pages': [13, 14],
+=======
+ '_pages': [13, 15],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 18,
  u'_type': u'LSFU'}

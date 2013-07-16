@@ -16,7 +16,11 @@
              ['Endocrine',
               u'Hyperprolaktinemi ,minskning av totalt T 4 minskning av fritt T4 minskning av totalt T 3 \xf6kning av TSH'],
              ['Metabolism',
+<<<<<<< HEAD
               u'\xd6kad aptit, f\xf6rh\xf6jt blodsocker till hyperglykemisk niv\xe5'],
+=======
+              u'\xd6kad aptit, f\xf6rh\xf6jt blodsocker till hyperglykemisk niv\xe5 Biverkningsfrekvenserna indelas enligt f\xf6ljande: Mycket vanliga (\u22651/10); vanliga (\u22651/100, <1/10); mindre vanliga (\u22651/1 000, <1/100); s\xe4llsynta (\u22651/10 000, <1/1 000); mycket'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric',
               u'Onormala dr\xf6mmar och mardr\xf6mmar Suicidtankar och suicidbeteende'],
              ['Nervous system', u'Synkope , extrapyramidala symptom , dysartri'],
@@ -25,7 +29,11 @@
              ['Vascular', u'Ortostatisk hypotension'],
              ['Respiratory', u'Rinit, dyspn\xe9'],
              ['GI', u'F\xf6rstoppning, dyspepsi, kr\xe4kningar'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jt serumtransaminas'],
+=======
+             ['Hepato', u'F\xf6rh\xf6jt serumtransaminas (ALAT, ASAT) , f\xf6rh\xf6jda'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Mild asteni, perifert \xf6dem, irritabilitet, feber'],
              ['General',
               u'Irritabilitet _______________ ___________________________________________________']]],
@@ -40,12 +48,24 @@
              ['Reproductive system', u'Sexuell dysfunktion']]],
            ['Rare',
             [['Blood', u'Agranulocytosis'],
+<<<<<<< HEAD
+=======
+             ['Metabolism',
+              u'(<1/10 000) samt ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Metabolt syndrom'],
              ['Psychiatric',
               u'Somnambulism och relaterade reaktioner s\xe5som tal i s\xf6mnen och s\xf6mnrelaterade \xe4tst\xf6rningar'],
              ['Vascular', u'Ven\xf6s tromboembolism'],
              ['GI', u'Pankreatit'],
+<<<<<<< HEAD
              ['Hepato', u'(ALAT, ASAT) , f\xf6rh\xf6jda gamma-GT-niv\xe5erGulsot hepatit'],
+=======
+             ['Hepato',
+              u'gamma-GT-niv\xe5erGulsot hepatit Biverkningsfrekvenserna indelas enligt f\xf6ljande: Mycket vanliga (\u22651/10); vanliga (\u22651/100, <1/10); mindre vanliga (\u22651/1 000, <1/100); s\xe4llsynta (\u22651/10 000, <1/1 000); mycket'],
+             ['Hepato',
+              u'(<1/10 000) samt ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system',
               u'Priapism, galaktorr\xe9, br\xf6stsvullnad, menstruationsrubbning'],
              ['General', u'Malignt neuroleptikasyndrom hypotermi'],
@@ -54,6 +74,7 @@
            ['Very rare',
             [['Immune system', u'Anafylaktisk reaktion'],
              ['Endocrine', u'Inadekvat sekretion av antidiuretiskt hormon'],
+<<<<<<< HEAD
              ['Metabolism',
               u'samt ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
              ['Hepato',
@@ -70,4 +91,14 @@
              ['Pregnancy', u'Drogabstinenssyndrom hos nyf\xf6dd']]]],
  '_pages': [9, 13],
  u'_rank': 50,
+=======
+             ['Skin', u'Angi\xf6dem , Stevens-Johnsons syndrom Toxisk epidermal nekrolys,'],
+             ['Musculoskeletal', u'Rabdomyolys']]],
+           ['Unknown',
+            [['Blood', u'Neutropeni'],
+             ['Skin', u'erythema multiforme'],
+             ['Pregnancy', u'Drogabstinenssyndrom hos nyf\xf6dd']]]],
+ '_pages': [9, 13],
+ u'_rank': 48,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

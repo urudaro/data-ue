@@ -1,6 +1,7 @@
 {'_data': [['Very common',
             [['Psychiatric', u'Insomni'],
              ['Nervous system', u'Huvudv\xe4rk'],
+<<<<<<< HEAD
              ['Vascular', u'Blod-vallning ar'],
              ['GI', u'Illam\xe5ende'],
              ['Skin', u'\xd6kad svettning'],
@@ -11,6 +12,18 @@
              ['Nervous system', u'Yrsel, karpaltunnel-syn drom'],
              ['GI', u'Buksm\xe4rta. kr\xe4kningar, f\xf6rstoppning, dyspepsi, diarr\xe9'],
              ['Skin', u'Utslag, alopeci'],
+=======
+             ['Vascular', u'Blod-vallningar'],
+             ['GI', u'Illam\xe5ende'],
+             ['Skin', u'\xd6kad svettning Utslag, alopeci'],
+             ['Musculoskeletal', u'Ledsm\xe4rta och muskulo-skeletal sm\xe4rta (*)'],
+             ['General', u'Tr\xf6tthet']]],
+           ['Common',
+            [['Metabolism', u'Anorexi'],
+             ['Psychiatric', u'Depression'],
+             ['Nervous system', u'Yrsel, karpaltunnel-syndrom'],
+             ['GI', u'Buksm\xe4rta. kr\xe4kningar, f\xf6rstoppning, dyspepsi, diarr\xe9'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Osteoporos, frakturer'],
              ['General', u'Sm\xe4rta, perifert \xf6dem']]],
            ['Uncommon', [['Nervous system', u'Somnolens'], ['General', u'Asteni']]],

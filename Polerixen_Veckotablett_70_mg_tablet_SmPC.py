@@ -7,6 +7,7 @@
              ['GI',
               u' buksm\xe4rta, dyspepsi, f\xf6rstoppning, diarr\xe9, flatulens, esofaguss\xe5r, dysfagi, buksp\xe4nning, sura uppst\xf6tningar'],
              ['Skin', u' h\xe5ravfall, kl\xe5da'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'svullnad i lederna'],
              ['General', u' asteni, perifert \xf6dem']]],
            ['Uncommon',
@@ -15,6 +16,16 @@
              ['GI',
               u'illam\xe5ende, kr\xe4kning, gastrit, esofagit, esofaguserosioner, melena'],
              ['Skin', u'hudutslag, erytem'],
+=======
+             ['Musculoskeletal', u' svullnad i lederna'],
+             ['General', u' asteni, perifert \xf6dem']]],
+           ['Uncommon',
+            [['Nervous system', u' smakf\xf6r\xe4ndringar'],
+             ['Eye', u' \xf6goninflammation (uveit, sklerit eller episklerit)'],
+             ['GI',
+              u' illam\xe5ende, kr\xe4kning, gastrit, esofagit, esofaguserosioner, melena'],
+             ['Skin', u' hudutslag, erytem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General',
               u' \xf6verg\xe5ende symtom som vid en akutfasreaktion (muskelv\xe4rk, allm\xe4n sjukdomsk\xe4nsla och i s\xe4llsynta fall feber) vanligtvis i samband med behandlingsstart ']]],
            ['Rare',
@@ -25,7 +36,11 @@
              ['GI',
               u' esofagusstriktur, s\xe5r i munh\xe5la eller svalg, \xf6vre gastrointestinala PUB (perforationer, s\xe5r och bl\xf6dningar)'],
              ['Skin',
+<<<<<<< HEAD
               u'hudutslag med fotosensitivitet, allvarliga hudreaktioner inkluderande Stevens-Johnsons syndrom och toxisk epidermal nekrolys'],
+=======
+              u' hudutslag med fotosensitivitet, allvarliga hudreaktioner inkluderande Stevens-Johnsons syndrom och toxisk epidermal nekrolys'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal',
               u' osteonekros i k\xe4ken, atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning)\u2534']]]],
  '_pages': [5, 6],

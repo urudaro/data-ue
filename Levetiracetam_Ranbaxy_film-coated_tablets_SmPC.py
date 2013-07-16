@@ -1,12 +1,22 @@
 {'_data': [['Very common',
             [['Infections', u'Nasofaryngit'], ['Nervous system', u'Somnolens, huvudv\xe4rk']]],
            ['Common',
+<<<<<<< HEAD
             [['Metabolism', u'Anorexi Depression, fientlighet/'],
              ['Psychiatric', u'aggression, \xe5ngest, insomni, nervositet/ irritabilitet'],
              ['Nervous system', u'Konvulsion, balansrubbning, yrsel, letargi, tremor'],
              ['Ear', u'Vertigo'],
              ['Respiratory', u'Hosta Buksm\xe4rta, diarr\xe9, dyspepsi,'],
              ['GI', u'kr\xe4kningar, illam\xe5ende'],
+=======
+            [['Metabolism', u'Anorexi Depression,'],
+             ['Psychiatric',
+              u'fientlighet/ aggression, \xe5ngest, insomni, nervositet/ irritabilitet'],
+             ['Nervous system', u'Konvulsion, balansrubbning, yrsel, letargi, tremor'],
+             ['Ear', u'Vertigo'],
+             ['Respiratory', u'Hosta Buksm\xe4rta, diarr\xe9,'],
+             ['GI', u'dyspepsi, kr\xe4kningar, illam\xe5ende'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Utslag'],
              ['General', u'Asteni/utmattning']]],
            ['Uncommon',

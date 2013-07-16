@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['Nervous system', u'Huvudv\xe4rk']]],
            ['Common',
             [['Nervous system', u'Yrsel'],
@@ -35,4 +36,11 @@
               u'Priapism, f\xf6rl\xe4ngda erektioner Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet']]]],
  '_pages': [6, 9],
  u'_rank': 26,
+=======
+{'_data': [['Unknown',
+            [['GI',
+              u'Skin and subcutaneous tissue disorders Uncommon Not known Skin rash Steven Johnson Syndrome (SJS), Toxic Musculoskeletal and connective tissue Epidermal Necrolysis (TEN). disorders Uncommon Reproductive system and breast disorders Myalgia Not known General disorders and administration site Priapism, Prolonged erection conditions Uncommon Chest pain, Fatigue Investigations Uncommon Heart rate increased * Ear disorders: Sudden deafness. Sudden decrease or loss of hearing has been reported in a small number of post-marketing and clinical trials cases with the use of all PDE5 inhibitors, including sildenafil.']]]],
+ '_pages': [6, 8],
+ u'_rank': 1,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

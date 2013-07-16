@@ -32,9 +32,15 @@
              ['GI', u'Pankreatit'],
              ['Skin', u'\xd6verk\xe4nslighetsreaktioner, t.ex. l\xe4kemedelsexantem'],
              ['Musculoskeletal',
+<<<<<<< HEAD
               u'Aseptisk osteonekros (\xf6verarmsbenets huvud och l\xe5rbenshuvudet)']]],
            ['Unknown',
             [['Metabolism', u'Reversibel epidural, epikardiell eller mediastinal lipomatos']]]],
  '_pages': [5, 6],
  u'_rank': 21,
+=======
+              u'Aseptisk osteonekros (\xf6verarmsbenets huvud och l\xe5rbenshuvudet)']]]],
+ '_pages': [5, 6],
+ u'_rank': 20,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -18,8 +18,12 @@
              ['Nervous system', u'f\xf6rv\xe4rrad myastenia gravis, huvudv\xe4rk'],
              ['Ear', u'yrsel (svindel), tinnitus'],
              ['Cardiac', u'cyanos, takykardi, palpitationer'],
+<<<<<<< HEAD
              ['Vascular', u'rodnad'],
              ['General', u'']]]],
+=======
+             ['Vascular', u'rodnad']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [7, 9],
  u'_rank': 17,
  u'_type': u'TSFU'}

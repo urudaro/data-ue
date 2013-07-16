@@ -8,7 +8,11 @@
              ['Skin',
               u'Furunkel, impetigo, herpes simplex, herpes zoster, herpes simplex-dermatit (eczema herpeticum), hudpapillom och f\xf6rs\xe4mring av tillst\xe5ndet'],
              ['General',
+<<<<<<< HEAD
               u'Reaktioner p\xe5 appliceringsst\xe4llet s\xe5som hudutslag, sm\xe4rta, parestesier, fj\xe4llning, torrhet, \xf6dem Efter registrering: Fall av maligniteter, inklusive hud- och andra typer av lymfom och hudcancer har rapporterats hos patienter som anv\xe4nt pimekrolimus kr\xe4m (se avsnitt 4.4). Fall med lymfadenopati har rapporterats vid anv\xe4ndning efter godk\xe4nnandet av marknadsf\xf6ring och i kliniska pr\xf6vningar. Emellertid har inte n\xe5got kausalt samband med behandling med Elidel kunnat fastst\xe4llas (se avsnitt 4.4).']]],
+=======
+              u'Reaktioner p\xe5 appliceringsst\xe4llet s\xe5som hudutslag, sm\xe4rta, parestesier, fj\xe4llning, torrhet, \xf6dem']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Metabolism',
               u'Alkoholintolerans (vanligtvis med ansiktsrodnad, utslag, br\xe4nnande k\xe4nsla, kl\xe5da eller svullnad kort tid efter alkoholintag)'],

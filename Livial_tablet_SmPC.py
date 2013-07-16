@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['Investigations', u'Vikt\xf6kning Onormalt cervix smear*'],
              ['GI', u'Buksm\xe4rtor, i nedre delen av buken'],
@@ -12,3 +13,13 @@
  '_pages': [6, 8],
  u'_rank': 6,
  u'_type': u'MSFU'}
+=======
+{'_data': [[u'Unknown',
+            [['Investigations', u'Vikt\xf6kning'],
+             ['GI', u'Buksm\xe4rtor, i nedre delen av'],
+             ['Skin', u'\xd6kad h\xe5rv\xe4xt   Acne'],
+             ['Reproductive system', u'Vaginal flytning   Symtom fr\xe5n br\xf6sten']]]],
+ '_pages': [6, 8],
+ u'_rank': 4,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

@@ -1,18 +1,30 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'Huvudv\xe4rk'],
              ['Eye', u'Ackommodationsst\xf6rningar'],
              ['Cardiac', u'Palpitationer, takykardi'],
              ['Respiratory', u'Hosta, dysfoni'],
+=======
+            [['Eye', u'Ackommodationsst\xf6rningar'],
+             ['Cardiac', u'Palpitationer, takykardi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Muntorrhet, illam\xe5ende']]],
            ['Uncommon',
             [['Nervous system', u'Yrsel, nervositet'],
              ['Cardiac', u'\xd6kat systoliskt blodtryck, arytmi'],
              ['GI', u'Kr\xe4kningar'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Skakningar'],
              ['Renal', u'Urinretention']]],
            ['Rare',
             [['Immune system',
               u'Anafylaktisk reaktion,  angio\xf6dem i ansikte, p\xe5 l\xe4ppar och i hals'],
+=======
+             ['Renal', u'Urinretention']]],
+           ['Rare',
+            [['Immune system',
+              u'Anafylaktisk reaktion, angio\xf6dem  i ansikte, p\xe5 l\xe4ppar och i hals'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Hypokalemi'],
              ['Psychiatric',
               u'Rastl\xf6shet, minnesst\xf6rningar,  \xe5ngest, hyperaktivitet hos barn'],
@@ -21,6 +33,7 @@
               u'Sm\xe4rta i \xf6gonen, mydriasis, \xf6kat  intraokul\xe4rt tryck, glaukom med st\xe4ngd kammarvinkel'],
              ['Cardiac',
               u'Reducerat diastoliskt blodtryck,  perifer vasodilation, arytmier (inklusive f\xf6rmaksflimmer, supraventrikul\xe4r takykardi, extrasystole) och koronar ischemisk sjukdom'],
+<<<<<<< HEAD
              ['Respiratory',
               u'Bronkospasm, laryngospasm,  dyspn\xe9, paradoxal bronkospasm (d.v.s. inhaleringsinducerad bronkospasm)'],
              ['GI', u'Munirritation,  motilitetsst\xf6rningar'],
@@ -29,4 +42,14 @@
            ['Unknown', [['Cardiac', u'4.4)']]]],
  '_pages': [4, 5],
  u'_rank': 21,
+=======
+             ['Cardiac',
+              u'Bronkospasm, laryngospasm,  dyspn\xe9, paradoxal bronkospasm (d.v.s. inhaleringsinducerad bronkospasm)'],
+             ['GI', u'Munirritation,  motilitetsst\xf6rningar'],
+             ['Skin', u'Utslag, kl\xe5da, urticaria'],
+             ['Skin', u'Myalgi, muskelkramp och  muskelsvaghet']]],
+           ['Unknown', [['Cardiac', u'Myokardial ischemi (se avsnitt  4.4)']]]],
+ '_pages': [4, 5],
+ u'_rank': 18,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

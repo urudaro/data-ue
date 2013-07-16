@@ -31,7 +31,11 @@
              ['Investigations', u'Vikt\xf6kning']]],
            ['Very rare',
             [['Skin',
+<<<<<<< HEAD
               u'Erythema multiforme Toxisk epidermal nekrolys (TEN) Stevens-Jo hnsons syndrom (SJS)']]],
+=======
+              u'Erythema multiforme Toxisk epidermal nekrolys (TEN) Stevens-Johnsons syndrom (SJS)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Metabolism',
               u'Hyponatremi, Hypomagnesemi (se avsnitt 4.4 Varningar och f\xf6rsiktighet)'],

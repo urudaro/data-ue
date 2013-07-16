@@ -18,7 +18,11 @@
              ['Respiratory', u'Lungfibros'],
              ['GI', u'Gastrointestinalt ulcer och bl\xf6dning'],
              ['Hepato',
+<<<<<<< HEAD
               u'Utveckling av fettlever, fibros och cirros (sker ofta trots regelbunden kontroll och normala leverenzym-v\xe4rde n), diabetesmetabolis m, minskning av serumalbumin'],
+=======
+              u'Utveckling av fettlever, fibros och cirros (sker ofta trots regelbunden kontroll och normala leverenzym-v\xe4rden), diabetesmetabolis m, minskning av serumalbumin'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Urtikaria, fotosensibilitet, \xf6kad pigmentering av huden, h\xe5ravfall, \xf6kning av reumatoida knutor, herpes zoster, sm\xe4rtsamma skador av psoriasisplack, allvarliga toxiska reaktioner: vaskulit, herpetiforma hudutslag, Stevens-Johnsons syndrom, toxisk epidermal nekrolys (Lyells syndrom).'],
              ['Musculoskeletal', u'Artralgi, myalgi, osteoporos'],
@@ -30,6 +34,7 @@
            ['Rare',
             [['Cardiac', u'Perikardit, perikardiell effusion, perikardiell tamponad'],
              ['Blood', u'Megaloblastisk anemi'],
+<<<<<<< HEAD
              ['Nervous system', u'Kraftigt nedsatt syn, hum\xf6r-sv\xe4ngnin gar'],
              ['Eye', u'Synst\xf6rningar'],
              ['Vascular',
@@ -39,6 +44,17 @@
              ['Hepato', u'Akut hepatit och Reaktivering av kronisk hepatotoxicitet'],
              ['Skin',
               u'\xd6kade pigmenterings-f \xf6r\xe4ndringar p\xe5 naglarna, akne, petekier, bl\xe5m\xe4rken, erythema multiformae, erytemat\xf6sa hudutslag.'],
+=======
+             ['Nervous system', u'Kraftigt nedsatt syn, hum\xf6r-sv\xe4ngningar'],
+             ['Eye', u'Synst\xf6rningar'],
+             ['Vascular',
+              u'Hypotension, trombo-emboliska h\xe4ndelser (inklusive arteriell och cerebral trombos, tromboflebit, djup ventrombos, retinal ventrombos, lungemboli)'],
+             ['Respiratory', u'Faryngit, apn\xe9, bronkialastma'],
+             ['GI', u'Enterit, melaena Gingivit, malabsorption'],
+             ['Hepato', u'Akut hepatit och hepatotoxicitet'],
+             ['Skin',
+              u'\xd6kade pigmenterings-f\xf6r\xe4ndringar p\xe5 naglarna, akne, petekier, bl\xe5m\xe4rken, erythema multiformae, erytemat\xf6sa hudutslag.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Stressfraktur'],
              ['Renal', u'Njursvikt, oliguri, anuri, azotemi']]],
            ['Very rare',
@@ -55,7 +71,11 @@
               u'Pneumocystis carinii pneumoni, andf\xe5ddhet, kronisk obstruktiv lungsjukdom. Infektioner inklusive pneumoni har ocks\xe5 observerats. Pleuraeffusion'],
              ['GI', u'Hematemes, toxisk megakolon'],
              ['Hepato',
+<<<<<<< HEAD
               u'hepatit, akut nedbrytning av levern. Dessutom har herpes simplex, hepatit och leverinsufficiens observerats (se \xe4ven informationen om leverbiopsi i avsnitt 4.4)'],
+=======
+              u'Reaktivering av kronisk hepatit, akut nedbrytning av levern. Dessutom har herpes simplex, hepatit och leverinsufficiens observerats (se \xe4ven informationen om leverbiopsi i avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'akut paronyki, furunkulos, telangiektasier Dessutom har nocardios, histoplasma och cryptococcus mycosis och spridd herpes simplex rapporterats. Allergisk vaskulit, hidradenit'],
              ['Renal', u'Proteinuri'],

@@ -11,7 +11,15 @@
              ['Vascular', u'Tr\xf6tthet'],
              ['Hepato', u'Hepatit'],
              ['Psychiatric', u'S\xf6mnl\xf6shet']]],
+<<<<<<< HEAD
            ['Uncommon', [['Hepato', u'Hepatit'], ['Hepato', u'Gynekomasti']]],
+=======
+           ['Uncommon',
+            [['Hepato', u'Hepatit'],
+             ['Hepato', u'Gynekomasti'],
+             ['Psychiatric',
+              u'biverkningar i form av mikronodul\xe4r f\xf6r\xe4ndring i br\xf6stv\xe4vnaden kan f\xf6rekomma. En \xf6kning av serumtestosteron kan f\xf6rekomma i b\xf6rjan av monoterapibehandling. Dessutom kan vallningar och f\xf6r\xe4ndringar i h\xe5rets struktur f\xf6rekomma. Efter marknadsintroduktionen av flutamid har fall av akut njursvikt,interstitiell nefrit och kardiell ischemi rapporterats. Frekvensen f\xf6r dessa biverkningar \xe4r inte k\xe4nd']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Investigations',
               u'F\xf6rh\xf6jd ureakoncentration i serum, serumkreatininstegring'],
@@ -31,7 +39,12 @@
              ['Immune system', u'Lupus-liknande syndrom'],
              ['Hepato', u'Nedsatt leverfunktion, gulsot Kolestatisk ikterus,'],
              ['Hepato', u'Minskad libido, reducerat spermieantal'],
+<<<<<<< HEAD
              ['Psychiatric', u'\xc5ngest, depression Depression, \xe5ngest']]],
+=======
+             ['Psychiatric',
+              u'\xc5ngest, depression Depression, \xe5ngest * Enstaka fall av br\xf6stmalignitet hos m\xe4n under behandling med flutamid har rapporterats. I ett fall noterades progress av en befintlig resistens, som ursprungligen uppt\xe4cktes 3-4 m\xe5nader f\xf6re inledande behandling med flutamid hos en patient med godartad prostatahypertrofi. Efter borttagande diagnoserades en l\xe5gt differentierad duktal cancer i f\xf6r\xe4ndringen. Den andra rapporten r\xf6rde en patient med gynekomasti och en resistens som uppt\xe4cktes 2 respektive 6 m\xe5nader efter p\xe5b\xf6rjad flutamidterapi f\xf6r behandling av avancerad prostatacancer. Nio m\xe5nader efter behandlingsstart avl\xe4gsnades tum\xf6ren och diagnostiserades som en medelh\xf6gt differentierad invasiv duktal cancer, stadium T4N0M0, G3.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Blood',
               u'Hemolytisk anemi, makrocyt\xe4r anemi, methemoglobinemi, sulfhemoglobinemi Central och perifera'],
@@ -47,5 +60,9 @@
             [['Vascular',
               u'Tromboembolism Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet']]]],
  '_pages': [3, 5],
+<<<<<<< HEAD
  u'_rank': 35,
+=======
+ u'_rank': 36,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

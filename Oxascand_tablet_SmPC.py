@@ -8,6 +8,10 @@
              ['Nervous system', u' Respiratorisk depression.  '],
              ['Psychiatric',
               u' Insomnia, mardr\xf6mmar, paradoxala reaktioner som excitationstillst\xe5nd, aggressivitet, hallucinationer. ']]]],
+<<<<<<< HEAD
  '_pages': [3, 3],
+=======
+ '_pages': [3, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 7,
  u'_type': u'DFSU'}

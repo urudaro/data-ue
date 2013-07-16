@@ -26,7 +26,11 @@
             [['Blood',
               u'hematologiska avvikelser s\xe5som neutropeni, leukopeni, anemi, trombocytopeni, pancytopeni, aplastisk anemi, agranulocytos'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xf6verk\xe4nslighetssyndrom** (inkluderande symtom som feber, lymfadenopati, ansikts\xf6dem, blod- och leverabnormiteter, disseminerad intravaskul\xe4r koagulation, multipel organsvikt).'],
+=======
+              u'\xf6verk\xe4nslighetssyndrom** (inkluderande symtom som feber, lymfadenopati, ansikts\xf6dem, blod- och leverabnormiteter, disseminerad intravaskul\xe4r koagulation, multipel organsvikt). **Hudutslag har \xe4ven rapporterats som delsymtom i ett \xf6verk\xe4nslighetssyndrom med ett varierande m\xf6nster av systemiska symtom med bland annat feber, lymfadenopati, ansikts\xf6dem samt blod- och leverabnormiteter. Syndromet uppvisar mycket varierande klinisk sv\xe5righetsgrad och kan i s\xe4llsynta fall leda till disseminerad intravasal koagulation och multiorgansvikt. Det \xe4r viktigt att notera att tidiga tecken p\xe5 \xf6verk\xe4nslighet (t.ex. feber, lymfadenopati) kan upptr\xe4da utan tecken p\xe5 samtidiga hudreaktioner. Om patienten uppvisar s\xe5dana statusfynd och symtom ska patienten omedelbart utv\xe4rderas och Lamotrigin Teva uts\xe4ttas om inte en annan orsak kan fastst\xe4llas.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'konfusion, hallucinationer, tics.'],
              ['Nervous system',
               u'agitation, ostadighet, motorikst\xf6rningar, f\xf6rs\xe4mring av Parkinsons sjukdom*, extrapyramidala biverkningar, koreoatetos , \xf6kad anfallsfrekvens.'],
@@ -39,7 +43,12 @@
            ['Unknown',
             [['Blood',
               u'lymfadenopati Hematologiska avvikelser \xe4r m\xf6jligen kopplade till \xf6verk\xe4nslighetssyndromet (se Immunsystemet**).'],
+<<<<<<< HEAD
              ['Nervous system', u'aseptisk meningit (se avsnitt 4.4).']]]],
+=======
+             ['Nervous system',
+              u'aseptisk meningit (se avsnitt 4.4). *Dessa biverkningar har rapporterats under annan klinisk erfarenhet. Det finns rapporter om att lamotrigin kan f\xf6rv\xe4rra Parkinson-symtom hos patienter med Parkinsons sjukdom samt enstaka rapporter om extrapyramidala biverkningar och koreoatetos hos patienter utan denna bakomliggande sjukdom.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [17, 19],
  u'_rank': 28,
  u'_type': u'LSFU'}

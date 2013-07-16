@@ -1,11 +1,16 @@
 {'_data': [['Uncommon',
             [['GI',
+<<<<<<< HEAD
               u' illam\xe5ende, kr\xe4kningar, diarr\xe9, buksm\xe4rtor och f\xf6rstoppning.  Allm\xe4nt: muskelsvaghet och kramper, artropati.  '],
+=======
+              u' illam\xe5ende, kr\xe4kningar, diarr\xe9, buksm\xe4rtor och f\xf6rstoppning.     Allm\xe4nt: muskelsvaghet och kramper, artropati.  '],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u' bradykardi, AV-\xf6verledningsrubbningar (minskad AV-\xf6verledning eller  '],
              ['Nervous system', u' s\xf6mnst\xf6rningar, depression.  '],
              ['Respiratory',
               u' bronkospasm hos patienter med bronkialastma eller tidigare k\xe4nd obstruktiv  luftv\xe4gssjukdom. ']]],
+<<<<<<< HEAD
            ['Rare',
             [['Nervous system', u' mardr\xf6mmar, hallucinationer.  '],
              ['Skin', u' \xf6verk\xe4nslighetsreaktioner (kl\xe5da, rodnad, utslag).  '],
@@ -20,4 +25,16 @@
               u' betablockerare kan framkalla eller f\xf6rv\xe4rra psoriasis eller inducera psoriasisliknande  utslag, alopeci. ']]]],
  '_pages': [4, 5],
  u'_rank': 12,
+=======
+           ['Very rare',
+            [['Reproductive system',
+              u' potensst\xf6rningar.  \xd6ron-n\xe4sa-hals: h\xf6rselneds\xe4ttning, allergisk rinit.  '],
+             ['Eye',
+              u' minskat t\xe5rfl\xf6de (att t\xe4nka p\xe5 om patienten anv\xe4nder kontaktlinser).  Biologiska problem: uppkomst av antinukle\xe4ra antikroppar med ovanliga kliniska symtom  , inklusive enstaka rapporter  '],
+             ['Eye', u' konjunktivit.  '],
+             ['Skin',
+              u' betablockerare kan framkalla eller f\xf6rv\xe4rra psoriasis eller inducera psoriasisliknande  utslag, alopeci. ']]]],
+ '_pages': [5, 5],
+ u'_rank': 8,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'DFSU'}

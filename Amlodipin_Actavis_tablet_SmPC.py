@@ -14,8 +14,12 @@
               u'Somnolens, yrsel, huvudv\xe4rk (s\xe4rskilt i b\xf6rjan  av behandlingen)'],
              ['Vascular', u'V\xe4rmevallningar'],
              ['Musculoskeletal', u'Svullna fotleder'],
+<<<<<<< HEAD
              ['General', u'\xd6dem, tr\xf6tthet'],
              ['Investigations', u'sjukdomsk\xe4nsla']]],
+=======
+             ['General', u'\xd6dem, tr\xf6tthet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric',
               u'Insomni, st\xe4mningsf\xf6r\xe4ndringar, inklusive  \xe5ngest, depression'],
@@ -32,6 +36,10 @@
              ['Musculoskeletal', u'Muskelkramper, ryggv\xe4rk, muskelv\xe4rk och  ledv\xe4rk'],
              ['Renal', u'Miktionsrubbningar, nokturi, \xf6kad  bl\xe5st\xf6mningsfrekvens.'],
              ['Reproductive system', u'Impotens, gynekomasti'],
+<<<<<<< HEAD
+=======
+             ['General', u'Br\xf6stsm\xe4rta, asteni, sm\xe4rta, allm\xe4n  sjukdomsk\xe4nsla'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'Vikt\xf6kning, viktminskning']]],
            ['Rare',
             [['Blood', u''],

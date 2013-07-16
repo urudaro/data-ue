@@ -19,7 +19,12 @@
              ['General',
               u'Feber. Vid tecken p\xe5 pseudoporfyri b\xf6r behandlingen avslutas och patienten f\xf6ljas upp. F\xf6rh\xf6jda leverfunktionsv\xe4rden har i vissa fall rapporterats f\xf6r icke-steroida antiinflammatoriska l\xe4kemedel. Natriumretention har ej rapporterats i metaboliska studier, men det \xe4r m\xf6jligt att patienter med misst\xe4nkt eller verifierad hj\xe4rtsvikt l\xf6per st\xf6rre risk vid medicinering med naproxen. Naproxen h\xe4mmar trombocytaggregationen och f\xf6rl\xe4nger bl\xf6dningstiden. Gastroduodenals\xe5r, perforation eller gastrointestinal bl\xf6dning kan ibland vara d\xf6dlig, s\xe4rskilt hos \xe4ldre (se avsnitt 4.4). Kliniska pr\xf6vningar och epidemiologiska data tyder p\xe5 att anv\xe4ndning av vissa NSAID (s\xe4rskilt i h\xf6ga doser och vid l\xe5ngtidsbehandling) kan medf\xf6ra en liten \xf6kad risk f\xf6r arteriella trombotiska h\xe4ndelser (t.ex. hj\xe4rtinfarkt och stroke, se avsnitt 4.4). I s\xe4llsynta fall f\xf6rekommer allvarliga hud- och mjukdelsinfektioner i samband med vattkoppor.']]],
            ['Rare',
+<<<<<<< HEAD
             [['GI', u'och mycket s\xe4llsynta (<1/10000 inkluderande enskilda fallrapporter).'],
+=======
+            [['GI',
+              u'(>1/10000, <1/1000) och mycket s\xe4llsynta (<1/10000 inkluderande enskilda fallrapporter).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood',
               u'Trombocytopeni, granulocytopeni, leukopeni, aplastisk och hemolytisk anemi, agranulocytos.'],
              ['Immune system', u'Angioneurotiskt \xf6dem.'],

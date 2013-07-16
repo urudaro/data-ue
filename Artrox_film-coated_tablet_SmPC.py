@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [[u'Unknown',
             [['Nervous system', u'Huvudv\xe4rk   Yrsel   Tr\xf6tthet'],
              ['Respiratory', u'Astma eller'],
@@ -9,3 +10,22 @@
  '_pages': [2, 3],
  u'_rank': 7,
  u'_type': u'LFSU'}
+=======
+{'_data': [['Common',
+            [['Nervous system', u'Huvudv\xe4rk Tr\xf6tthet'],
+             ['GI', u'Illam\xe5ende Buksm\xe4rtor Dyspepsi Diarr\xe9 F\xf6rstoppning']]],
+           ['Uncommon', [['Skin', u'Hudutslag Pruritus Rodnad']]],
+           ['Rare', []],
+           ['Unknown',
+            [['Nervous system', u'Yrsel'],
+             ['Respiratory', u'Astma eller f\xf6rv\xe4rrad astma'],
+             ['GI', u'Kr\xe4kningar'],
+             ['Hepato', u'F\xf6rh\xf6jda leverenzymer, gulsot'],
+             ['Skin', u'Angio\xf6dem Urtikaria'],
+             ['Metabolism', u'F\xf6rs\xe4mrad kontroll av blodglukos hos diabetiker'],
+             ['General', u'\xd6dem/perifera \xf6dem']]]],
+ '_note': u' ?MSFU',
+ '_pages': [2, 3],
+ u'_rank': 10,
+ u'_type': u'MSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

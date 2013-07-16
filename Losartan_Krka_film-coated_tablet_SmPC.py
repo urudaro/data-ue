@@ -1,5 +1,11 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'yrsel'],
+=======
+            [['Nervous system', u'yrsel, vertigo'],
+             ['Investigations', u'hyperkalemi'],
+             ['Nervous system', u'yrsel'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'vertigo'],
              ['General', u'asteni/tr\xf6tthet'],
              ['Nervous system', u'yrsel'],
@@ -13,14 +19,29 @@
              ['General', u'asteni, tr\xf6tthet'],
              ['Investigations', u'hypoglykemi, hyperkalemi*']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Nervous system', u'huvudv\xe4rk'],
+=======
+            [['Nervous system', u'somnolens, huvudv\xe4rk, s\xf6mnst\xf6rningar'],
+             ['Cardiac', u'palpitationer, angina pectoris'],
+             ['Vascular',
+              u'symtomatisk hypotoni (s\xe4rskilt hos patienter  med minskad blodvolym t ex patienter med sv\xe5r hj\xe4rtsvikt eller kraftigt diuretikabehandlade patienter), dosrelaterade ortostatiska effekter, utslag'],
+             ['GI', u'buksm\xe4rta, f\xf6rstoppning'],
+             ['General', u'asteni, tr\xf6tthet, \xf6dem'],
+             ['Nervous system', u'huvudv\xe4rk'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'dyspn\xe9, hosta'],
              ['GI', u'diarr\xe9, illam\xe5ende, kr\xe4kningar'],
              ['Skin', u'urtikaria, pruritus, utslag'],
              ['General', u'asteni, tr\xf6tthet'],
              ['Metabolism', u'hyperkalemi']]],
            ['Rare',
+<<<<<<< HEAD
             [['Nervous system', u'parestesier'],
+=======
+            [['Investigations', u'f\xf6rh\xf6jt alaninaminotransferas (ALAT)*'],
+             ['Nervous system', u'parestesier'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'synkope, f\xf6rmaksflimmer, cerebrovaskul\xe4r  h\xe4ndelse'],
              ['Immune system',
               u'\xf6verk\xe4nslighet: anafylaktiska reaktioner,  angio\xf6dem inkluderande svullnad av larynx och glottis orsakande luftv\xe4gsobstruktion och/eller svullnad av ansikte, l\xe4ppar, svalg och/eller tunga (vissa av patienterna som upplevde angio\xf6dem hade tidigare haft denna biverkning vid behandling med andra l\xe4kemedel inklusive ACEh\xe4mmare), vaskulit inkluderande HenochSch\xf6nleins purpura'],
@@ -45,6 +66,11 @@
              ['Reproductive system', u'erektil dysfunktion/impotens'],
              ['Psychiatric', u'depression'],
              ['Investigations', u'hyponatremi']]]],
+<<<<<<< HEAD
  '_pages': [6, 9],
  u'_rank': 41,
+=======
+ '_pages': [6, 10],
+ u'_rank': 49,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

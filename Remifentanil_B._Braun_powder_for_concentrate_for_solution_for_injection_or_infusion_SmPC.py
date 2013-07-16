@@ -18,13 +18,25 @@
              ['Nervous system',
               u'sedering (under \xe5terh\xe4mtning efter allm\xe4n anestesi)'],
              ['Cardiac',
+<<<<<<< HEAD
               u'asystoli/hj\xe4rtstillest\xe5nd som f\xf6reg\xe5s av bradykardi hos patienter som behandlats med remifentanil tillsammans med andra anestesimedel']]],
+=======
+              u'asystoli/hj\xe4rtstillest\xe5nd som f\xf6reg\xe5s av bradykardi hos patienter som behandlats med remifentanil tillsammans med andra anestesimedel'],
+             ['General',
+              u'fall vid snabbt avbrytande, s\xe4rskilt efter l\xe5ngvarig administrering l\xe4ngre \xe4n 3 dagar (se avsnitt 4.4).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Psychiatric', u'l\xe4kemedelsberoende'],
              ['Nervous system', u'kramper'],
              ['Cardiac', u'atrioventrikul\xe4rt block'],
              ['General',
+<<<<<<< HEAD
               u'toleransutveckling Uts\xe4ttning av behandlingen Uts\xe4ttningssymtom av remifentanil inkluderande takykardi, hypertension och agitation har rapporterats i s\xe4llsynta fall vid snabbt avbrytande, s\xe4rskilt efter l\xe5ngvarig administrering l\xe4ngre \xe4n 3 dagar (se avsnitt 4.4).']]]],
  '_pages': [14, 15],
  u'_rank': 18,
+=======
+              u'toleransutveckling Uts\xe4ttning av behandlingen Uts\xe4ttningssymtom av remifentanil inkluderande takykardi, hypertension och agitation har rapporterats i']]]],
+ '_pages': [14, 15],
+ u'_rank': 19,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

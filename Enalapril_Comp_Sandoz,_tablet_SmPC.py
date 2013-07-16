@@ -25,7 +25,11 @@
              ['Ear', u'tinnitus Hj\xe4rtat och blodk\xe4rl'],
              ['Ear',
               u'flushing, palpitationer , hj\xe4rtinfarkt eller cerebrovaskul\xe4r h\xe4ndelse m\xf6jligtvis sekund\xe4r till uttalad hypotoni hos h\xf6griskpatienter (se avsnitt 4.4)'],
+<<<<<<< HEAD
              ['Respiratory', u'rinorr\xe9, halont och heshet, bronkospasm/astma'],
+=======
+             ['Respiratory', u'; rinorr\xe9, halont och heshet, bronkospasm/astma'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'ileus, pankreatit, kr\xe4kningar, dyspepsi, f\xf6rstoppning, anorexi, magirritation, muntorrhet, mags\xe5r, flatulens'],
              ['Skin', u'diafores, pruritus, urtikaria, alopeci'],

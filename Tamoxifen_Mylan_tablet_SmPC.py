@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Skin',
               u'erytema multiforme, Stevens-John sons syndrom, pemfigus-likn ande bl\xe5sor'],
@@ -31,3 +32,20 @@
  '_pages': [3, 4],
  u'_rank': 19,
  u'_type': u'MSFU'}
+=======
+{'_data': [[u'Unknown',
+            [['General', u'huvudv\xe4rk, yrsel,   \xf6verk\xe4nslighets-'],
+             ['Blood', u'trombocytopeni,'],
+             ['Vascular', u'Ischemiska'],
+             ['Endocrine', u'blodvallningar'],
+             ['Skin', u'alopeci,   erytema'],
+             ['Hepato', u'stegring av   fettlever, kolestas,'],
+             ['Respiratory', u'interstitiell'],
+             ['Metabolism', u'hyperkalcemi'],
+             ['Reproductive system', u'vaginal bl\xf6dning,   myom,   uterus sarkom'],
+             ['Eye', u'katarakt,   Kornea-'],
+             ['Musculoskeletal', u'kramp i benen']]]],
+ '_pages': [3, 4],
+ u'_rank': 11,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

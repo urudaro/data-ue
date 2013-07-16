@@ -5,7 +5,11 @@
              ['Nervous system', u'Yrsel#, huvudv\xe4rk#,  somnolens#'],
              ['Cardiac', u'Angina pectoris##,  takykardi#, hj\xe4rtklappning#'],
              ['Vascular', u'Vasodilatation#'],
+<<<<<<< HEAD
              ['Vascular', u'Hosta#'],
+=======
+             ['Respiratory', u'Hosta#'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Kr\xe4kningar#, diarr\xe9#,  dyspepsi#, buksm\xe4rta#, illam\xe5ende#'],
              ['Musculoskeletal', u'Ryggv\xe4rk#, myalgi#'],
              ['General', u'Tr\xf6tthet#, asteni#,  br\xf6stsm\xe4rta#'],
@@ -20,7 +24,11 @@
              ['Ear', u'Vertigo#, tinnitus#'],
              ['Cardiac', u'Hj\xe4rtinfarkt#'],
              ['Vascular', u'Hypotoni#'],
+<<<<<<< HEAD
              ['Vascular', u'Dyspn\xe9#, torr hals'],
+=======
+             ['Respiratory', u'Dyspn\xe9#, torr hals'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Flatulens#, torr mun#'],
              ['Skin',
               u'Alopeci#,  ljusk\xe4nslighetsreaktion#, pruritus#, utslag#, angio\xf6dem##, \xf6kad transpiration##'],
@@ -30,7 +38,11 @@
              ['General', u'Generaliserat \xf6dem##,  feber#, perifert \xf6dem#']]],
            ['Rare',
             [['Nervous system', u'Balansst\xf6rningar'],
+<<<<<<< HEAD
              ['Vascular',
+=======
+             ['Respiratory',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Eosinofil pneumonit##, \xf6vre  luftv\xe4gsobstruktion orsakad av angio\xf6dem (kan vara fatal)#'],
              ['GI', u'F\xf6rstoppning, glossit'],
              ['Skin',
@@ -46,7 +58,11 @@
              ['Nervous system', u'Cerebrovaskul\xe4r h\xe4ndelse#'],
              ['Cardiac', u'Arytmi'],
              ['Vascular', u'Ortostatisk hypotoni#'],
+<<<<<<< HEAD
              ['Vascular', u'Bronkospasm#'],
+=======
+             ['Respiratory', u'Bronkospasm#'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Pankreatit#'],
              ['Hepato', u'Hepatit#, kolestatisk ikterus#'],
              ['Skin',

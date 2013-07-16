@@ -1,6 +1,10 @@
 {'_data': [['Common',
             [['Nervous system',
+<<<<<<< HEAD
               u'Yrsel, d\xe5sighet, k\xe4nselst\xf6rningar som parestesi och hypoestesi.'],
+=======
+              u'Yrsel, d\xe5sighet, K\xe4nselst\xf6rningar som parestesi och hypoestesi.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'\xd6verg\xe5ende blodtrycksf\xf6rh\xf6jning strax efter behandling. Flush.'],
              ['Respiratory', u'Dyspn\xe9.'],
@@ -21,7 +25,11 @@
              ['Eye',
               u'Flimmer, dubbelseende, nedsatt syn. Synbortfall inklusive rapporter om permanenta syndefekter. Emellertid kan sj\xe4lva migr\xe4nattacken ge upphov till synst\xf6rningar.'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Bradykardi, takykardi, palpitationer, hj\xe4rtarytmier, \xf6verg\xe5ende ischemiska EKG-f\xf6r\xe4ndringar, spasm i hj\xe4rtats koronark\xe4rl, angina, hj\xe4rtinfarkt (se avsnitt 4.3 och 4.4)'],
+=======
+              u'Bradykardi, takykardi, palpitationer, hj\xe4rtarytmier, \xf6verg\xe5ende ischemiska EKG-f\xf6r\xe4ndringar, spasm i hj\xe4rtats koronark\xe4rl, angina, hj\xe4rtinfarkt (se 4.3 och 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypotension. Raynauds fenomen.'],
              ['GI', u'Ischemisk kolit. Diarr\xe9'],
              ['Musculoskeletal', u'Nackstelhet. Artralgi'],

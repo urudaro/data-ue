@@ -15,13 +15,29 @@
              ['Nervous system',
               u'\u2022Huvudv\xe4rk. \u2022S\xf6mnl\xf6shet. \u2022S\xf6mnighet.'],
              ['Respiratory', u'\u2022Hosta. \u2022Rinit.'],
+<<<<<<< HEAD
+=======
+             ['GI',
+              u'\u2022Diarr\xe9. \u2022Stomatit och s\xe5r i munnen \u2022F\xf6rstoppning.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'\u2022\xd6kat bilirubin.'],
              ['Skin', u'\u2022Kl\xe5da. \u2022Svettningar.'],
              ['Musculoskeletal', u'\u2022Ryggsm\xe4rta. \u2022Myalgi.'],
              ['General', u'\u2022Feber. \u2022Asteni. \u2022Frossa.']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Respiratory',
               u'\u2022Interstitiell pneumonit (se avsnitt 4.4). \u2022Bronkospasm - vanligen l\xe4tt och \xf6verg\xe5ende, men kan kr\xe4va parenteral behandling.']]],
+=======
+            [['Nervous system', u'\u2022Cerebrovaskul\xe4r skada.'],
+             ['Cardiac',
+              u'\u2022Arytmi, f\xf6retr\xe4desvis supraventrikul\xe4r. \u2022Hj\xe4rtsvikt.'],
+             ['Respiratory',
+              u'\u2022Interstitiell pneumonit (se avsnitt 4.4). \u2022Bronkospasm - vanligen l\xe4tt och \xf6verg\xe5ende, men kan kr\xe4va parenteral behandling.'],
+             ['Hepato', u'\u2022Allvarlig hepatotoxicitet, inklusive leversvikt och d\xf6d.'],
+             ['Renal',
+              u'\u2022Njursvikt (se avsnitt 4.4). \u2022Hemolytiskt uremiskt syndrom (HUS) (se avsnitt 4.4). Frekvens']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Cardiac', u'\u2022Hj\xe4rtinfarkt.'],
              ['Vascular',
@@ -35,7 +51,17 @@
               u'\u2022Reaktioner p\xe5 injektionsst\xe4llet -- huvudsakligen av mild karakt\xe4r.'],
              ['Injury',
               u'\u2022Str\xe5lningstoxicitet (se avsnitt 4.5). \u2022Str\xe5lningsinducerad hudreaktion (radiation recall).']]],
+<<<<<<< HEAD
            ['Very rare', [['Immune system', u'\u2022Anafylaktoid reaktion.']]]],
  '_pages': [6, 10],
  u'_rank': 24,
+=======
+           ['Very rare',
+            [['Blood', u'\u2022Trombocytos.'],
+             ['Immune system', u'\u2022Anafylaktoid reaktion.'],
+             ['GI', u'\u2022Ischemisk kolit.'],
+             ['Skin', u'\u2022Toxisk epidermal nekrolys \u2022Stevens-Johnson syndrom.']]]],
+ '_pages': [6, 10],
+ u'_rank': 32,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU2'}

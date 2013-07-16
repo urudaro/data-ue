@@ -3,6 +3,7 @@
               u'Mild trombocytopeni (typ I), som vanligen \xe4r reversibel  under behandlingen.'],
              ['Vascular', u'Bl\xf6dning'],
              ['Hepato', u'\xd6verg\xe5ende transaminasstegring'],
+<<<<<<< HEAD
              ['General',
               u'Subkutant hematom vid injektionsst\xe4llet, sm\xe4rta vid  injektionsst\xe4llet']]],
            ['Uncommon', [['Immune system', u'\xd6verk\xe4nslighet']]],
@@ -16,4 +17,15 @@
              ['Injury', u'Spinalt eller epiduralt hematom']]]],
  '_pages': [9, 10],
  u'_rank': 12,
+=======
+             ['General', u'Subkutant hematom vid injektionsst\xe4llet, sm\xe4rta vid']]],
+           ['Uncommon', [['Immune system', u'\xd6verk\xe4nslighet']]],
+           ['Unknown',
+            [['Blood', u'Immunologiskt medierad heparin-inducerad trombocytopeni'],
+             ['Immune system', u'Anafylaktiska reaktioner'],
+             ['GI', u'Retroperitoneala bl\xf6dningar, i n\xe5got fall fatal'],
+             ['Injury', u'Spinalt eller epiduralt hematom']]]],
+ '_pages': [9, 10],
+ u'_rank': 9,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

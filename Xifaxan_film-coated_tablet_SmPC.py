@@ -8,12 +8,17 @@
              ['Psychiatric', u'Depression   8   5,0   10   7,1'],
              ['Respiratory', u'Dyspn\xe9   7   4,4   9   6,4'],
              ['Skin', u'Kl\xe5da   10   6,3   13   9,3'],
+<<<<<<< HEAD
              ['Infections', u'Clostridium-infekti   Pneumoni, cellulit,   on,   \xf6vre'],
+=======
+             ['Infections', u'Clostridium-   Pneumoni, cellulit,   infektion,   \xf6vre'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'Anemi   Trombocytopeni'],
              ['Metabolism', u'Anorexi,   Dehydrering   hyperkalemi'],
              ['Psychiatric',
               u'Depression   F\xf6rvirringstillst\xe5nd,   \xe5ngest, hypersomni,'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Yrsel,   Balansrubbningar,   Anafylaktiska   huvudv\xe4rk   amnesi, konvulsion,   reaktioner,   uppm\xe4rksamhets-st   angio\xf6dem,'],
              ['Vascular', u'V\xe4rmevallningar   Hypertoni,   Presyncope,'],
              ['Respiratory', u'Dyspn\xe9   Pleurautgjutning   Kroniskt obstruktiv'],
@@ -25,5 +30,18 @@
              ['General', u'Perifert \xf6dem   \xd6dem, pyrexi   Asteni'],
              ['Investigations', u'Avvikelser i']]]],
  '_pages': [3, 6],
+=======
+              u'Yrsel,   Balansrubbningar,   Anafylaktiska   huvudv\xe4rk   amnesi, konvulsion,   reaktioner,   uppm\xe4rksamhets-   angio\xf6dem,'],
+             ['Vascular', u'V\xe4rmevallningar   Hypertoni,   Presyncope,'],
+             ['Respiratory', u'Dyspn\xe9   Pleurautgjutning   Kroniskt obstruktiv'],
+             ['GI', u'Sm\xe4rta i \xf6vre   Buksm\xe4rta,   F\xf6rstoppning'],
+             ['Hepato', u'Onormala   leverfunktions-'],
+             ['Skin', u'Utslag, kl\xe5da   Dermatit, eksem'],
+             ['Musculoskeletal', u'Muskel-   Myalgi   Ryggsm\xe4rta   spasmer,   artralgi'],
+             ['Renal', u'Dysuri, pollakisuri   Proteinuri'],
+             ['General', u'Perifert \xf6dem   \xd6dem, pyrexi   Asteni'],
+             ['Investigations', u'Avvikelser i']]]],
+ '_pages': [3, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 22,
  u'_type': u'LFSU'}

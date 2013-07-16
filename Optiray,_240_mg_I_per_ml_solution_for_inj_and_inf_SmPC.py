@@ -14,7 +14,11 @@
            ['Very rare',
             [['Psychiatric', u'amnesi, \xe5ngest, s\xf6mnighet. (< 0,01 %)'],
              ['Nervous system',
+<<<<<<< HEAD
               u'agitation, f\xf6rvirrning, konvulsioner, desorientering, (< 0,01 %) dyskinesi, dysfasi, hypestesi, muskelkramper, f\xf6rlamning, talrubbningar, stupor'],
+=======
+              u'agitation, f\xf6rvirrning, konvulsioner, desorientering, dyskinesi, (< 0,01 %) dysfasi, hypestesi, muskelkramper, f\xf6rlamning, talrubbningar, stupor'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye',
               u'konjunktivit, \xf6verg\xe5ende kortikal synf\xf6rlust, synrubbningar (< 0,01 %)'],
              ['Ear', u'tinnitus (< 0,01 %)'],
@@ -30,7 +34,11 @@
              ['Renal',
               u'inkontinens, akut njursvikt, f\xf6rh\xf6jda ureav\xe4rden, onormal (< 0,01 %) njurfunktion, nedsatt kreatininclearance, hematuri, oliguri'],
              ['General',
+<<<<<<< HEAD
               u'anafylaktisk chock, ansiktssvullnad, periorbital svullnad, (< 0,01 %) feber, \xf6dem, blekhet, br\xf6stsm\xe4rta, buksm\xe4rta, asteni/tr\xf6tthet, onormal gr\xe5t, reaktioner p\xe5 injektionsst\xe4llet, \xf6kad svettning']]],
+=======
+              u'anafylaktisk chock, ansiktssvullnad, periorbital svullnad, feber, (< 0,01 %) \xf6dem, blekhet, br\xf6stsm\xe4rta, buksm\xe4rta, asteni/tr\xf6tthet, onormal gr\xe5t, reaktioner p\xe5 injektionsst\xe4llet, \xf6kad svettning']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Local',
               u'inflammation. g. Extravasation kan orsaka allvarliga v\xe4vnadsreaktioner inklusive bl\xe5sbildning och exfoliering av huden, vilkas omfattning beror p\xe5 m\xe4ngden och styrkan av kontrastmedlet i v\xe4vnaderna. I kliniska pr\xf6vningar observerades lindrigt obehag, inklusive v\xe4rme- och k\xf6ldf\xf6rnimmelser, sm\xe4rta under injektionen, och/eller \xf6verg\xe5ende smakf\xf6r\xe4ndringar, hos 10\u201350 % av patienterna. Under en omfattande pr\xf6vning efter preparatet godk\xe4nts f\xf6r f\xf6rs\xe4ljning f\xf6rekom det andra biverkningar hos 1,1 % av patienterna. De vanligaste biverkningarna var illam\xe5ende (0,4 %), hudreaktioner s\xe5som urtikaria eller erytem (0,3 %), och kr\xe4kningar (0,1 %). \xd6vriga biverkningar f\xf6rekom hos mindre \xe4n 0,1 % av patienterna.']]]],

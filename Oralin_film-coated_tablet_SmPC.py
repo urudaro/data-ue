@@ -4,9 +4,15 @@
              ['Respiratory', u'G\xe4spningar*'],
              ['GI', u'Diarr\xe9 (18 %), Illam\xe5ende (24 %), Muntorrhet (14 %)'],
              ['Musculoskeletal', u'Myalgi'],
+<<<<<<< HEAD
              ['Reproductive system', u'Ejakula-tio nssvikt (14 %) Tr\xf6tthet %)*'],
              ['Other',
               u'placeboarmen. avslutas (se \xc4ldre Barn mycket vanliga %). vanliga : n\xe4sblod, v\xe4dersp\xe4nning. mindre vanliga bruxism, vallningar. ok\xe4nd frekvens Enures Klasseffekter']]],
+=======
+             ['Reproductive system', u'Ejakula-Sexuella tionssvikt (14 %) Tr\xf6tthet %)*'],
+             ['Other',
+              u'placeboarmen. avslutas (se \xc4ldre Barn mycket vanliga %). vanliga n\xe4sblod, v\xe4dersp\xe4nning. mindre vanliga bruxism, vallningar. ok\xe4nd frekvens Enures Klasseffekter']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Infections', u'Faryngit'],
              ['Metabolism', u'Anorexi \xd6kad aptit*'],
@@ -22,9 +28,15 @@
               u'Buksm\xe4rta* Kr\xe4kningar* F\xf6rstoppning* Dyspepsi V\xe4dersp\xe4nning'],
              ['Skin', u'Utslag* Hyperhidros'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Sexuella -st\xf6rningar hos m\xe4n Erektil dysfunktion Sm\xe4rta i br\xf6stkorgen*'],
              ['Other',
               u'avsnitten 4.2 och 4.4). -: huvudv\xe4rk (22 %), insomni (21 %), diarr\xe9 (11 %) och illam\xe5ende (15 sm\xe4rta i br\xf6stkorgen, mani, feber, kr\xe4kningar, anorexi, labilitet, : -( frekvens kan ej ber\xe4knas fr\xe5n tillg\xe4ngliga data)']]],
+=======
+              u'st\xf6rningar hos m\xe4n Erektil dysfunktion Sm\xe4rta i br\xf6stkorgen*'],
+             ['Other',
+              u'avsnitten 4.2 och 4.4). -: huvudv\xe4rk (22 %), insomni (21 %), diarr\xe9 (11 %) och illam\xe5ende (15 : sm\xe4rta i br\xf6stkorgen, mani, feber, kr\xe4kningar, anorexi, labilitet, : F\xf6rl\xe4ngd EKG QT, suicidf\xf6rs\xf6k, konvulsioner, (frekvens kan ej ber\xe4knas fr\xe5n tillg\xe4ngliga data)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'\xd6vre luftv\xe4gsinfektion Rinit'],
              ['Psychiatric', u'Hallucinationer* Eufori* Apati Onormala tankar'],
@@ -42,8 +54,12 @@
              ['Renal', u'Nykturi Urinretention* Polyuri Pollakisuri Miktionsst\xf6rning'],
              ['Reproductive system',
               u'Vaginal bl\xf6dning Kvinnlig sexuell dysfunktion Sjukdomsk\xe4nsla* Frossa Pyrexi* Asteni* T\xf6rst'],
+<<<<<<< HEAD
              ['Investigations', u'Viktnedg\xe5ng* Viktuppg\xe5ng*'],
              ['Other', u'F\xf6rl\xe4ngd EKG QT, suicidf\xf6rs\xf6k, konvulsioner,']]],
+=======
+             ['Investigations', u'Viktnedg\xe5ng* Viktuppg\xe5ng*']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Infections', u'Divertikulit Gastroenterit Otitis media'],
              ['Neoplasms', u'Neoplasm\u2020'],
@@ -68,7 +84,11 @@
              ['Reproductive system',
               u'Menorragi Atrofisk vulvovaginit Balanopostit Genital flytning Priapism* Galaktorr\xe9* Br\xe5ck Fibros p\xe5 injektionsst\xe4llet Minskad l\xe4kemedelstolerans G\xe5ngsv\xe5righeter Obest\xe4mbara symtom'],
              ['Investigations', u'\xd6kat ALAT* \xd6kat ASAT* Onormal sperma Skada'],
+<<<<<<< HEAD
              ['Other', u'K\xe4rlutvidgnings-oper ation']]],
+=======
+             ['Other', u'K\xe4rlutvidgnings-operation']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood', u'Leukopeni Trombocytopeni'],
              ['Immune system', u'Anafylaktoid reaktion Allergisk reaktion Allergi'],
@@ -92,5 +112,9 @@
               u'Onormala kliniska laboratorieresultat F\xf6r\xe4ndrad trombocytfunktion \xd6kat serumkolesterol']]]],
  '_note': u' ?MSFU',
  '_pages': [9, 14],
+<<<<<<< HEAD
  u'_rank': 66,
+=======
+ u'_rank': 65,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

@@ -4,16 +4,26 @@
              ['Respiratory', u'G\xe4spningar*'],
              ['GI', u'Diarr\xe9 (18 %), Illam\xe5ende (24 %), Muntorrhet (14 %)'],
              ['Musculoskeletal', u'Myalgi'],
+<<<<<<< HEAD
              ['Reproductive system', u'Ejakula-tion ssvikt (14 %) Tr\xf6tthet %)*'],
              ['Other',
               u'fall i placeboarmen. 1 424 kvinnor) Vid OCD, korttidsstudier, \xc4ldre (se avsnitt 4.4). Barn mycket vanliga (15 %). vanliga : akne, n\xe4sblod, mindre vanliga onormal hudlukt, ingen k\xe4nd frekvens: Klasseffekt']]],
+=======
+             ['Reproductive system', u'Ejakula-tionssvikt (14 %) Tr\xf6tthet %)*'],
+             ['Other',
+              u'fall i placeboarmen. 1 424 kvinnor) Vid OCD, korttidsstudier, \xc4ldre 4.4). Barn mycket vanliga (15 %). vanliga akne, n\xe4sblod, mindre vanliga urtikaria, bruxism, ingen k\xe4nd frekvens Klasseffekt']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Infections', u'Faryngit'],
              ['Metabolism', u'Anorexi \xd6kad aptit*'],
              ['Psychiatric',
               u'Depression* Depersonalisation Mardr\xf6mmar \xc5ngest* Agitation* Oro Minskad libido* Bruxism'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Parestesier* Tremor Hypertoni Dysgeusi Uppm\xe4rksamhets-st \xf6rning'],
+=======
+              u'Parestesier* Tremor Hypertoni Dysgeusi Uppm\xe4rksamhets-st\xf6rning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Synst\xf6rning'],
              ['Ear', u'Tinnitus*'],
              ['Cardiac', u'Palpitationer*'],
@@ -24,12 +34,20 @@
              ['Reproductive system',
               u'Sexuella st\xf6rningar hos m\xe4n Erektil dysfunktion Sm\xe4rta i br\xf6stkorgen*'],
              ['Other',
+<<<<<<< HEAD
               u'placebo (926 m\xe4n, 1 219 kvinnor) -endast 1-12 veckor. -: huvudv\xe4rk (22 %), insomni (21 %), diarr\xe9 (11 %) och illam\xe5ende v\xe4dersp\xe4nning. -: -urtikaria, bruxism, vallningar. -Enures']]],
+=======
+              u'placebo (926 m\xe4n, 1 219 kvinnor) -endast 1-12 veckor. -: huvudv\xe4rk (22 %), insomni (21 %), diarr\xe9 (11 %) och illam\xe5ende : sm\xe4rta i br\xf6stkorgen, mani, feber, kr\xe4kningar, anorexi, labilitet, v\xe4dersp\xe4nning. -: F\xf6rl\xe4ngd EKG QT, suicidf\xf6rs\xf6k, konvulsioner, vallningar. -: Enures']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'\xd6vre luftv\xe4gsinfektion Rinit'],
              ['Psychiatric', u'Hallucinationer* Eufori* Apati Onormala tankar'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Konvulsioner* Ofrivilliga muskelkontrak-tio ner* Onormal koordination Hyperkinesi Amnesi Hypoestesi* Talst\xf6rning Postural yrsel Migr\xe4n*'],
+=======
+              u'Konvulsioner* Ofrivilliga muskelkontrak-tioner* Onormal koordination Hyperkinesi Amnesi Hypoestesi* Talst\xf6rning Postural yrsel Migr\xe4n*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'\xd6ronv\xe4rk'],
              ['Cardiac', u'Takykardi*'],
              ['Vascular', u'Hypertoni* Vallningar'],
@@ -42,9 +60,13 @@
              ['Renal', u'Nykturi Urinretention* Polyuri Pollakisuri Miktionsst\xf6rning'],
              ['Reproductive system',
               u'Vaginal bl\xf6dning Kvinnlig sexuell dysfunktion Sjukdomsk\xe4nsla* Frossa Pyrexi* Asteni* T\xf6rst'],
+<<<<<<< HEAD
              ['Investigations', u'Viktnedg\xe5ng* Viktuppg\xe5ng*'],
              ['Other',
               u'sm\xe4rta i br\xf6stkorgen, mani, feber, kr\xe4kningar, anorexi, labilitet, F\xf6rl\xe4ngd EKG QT, suicidf\xf6rs\xf6k, konvulsioner,']]],
+=======
+             ['Investigations', u'Viktnedg\xe5ng* Viktuppg\xe5ng*']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Infections', u'Divertikulit Gastroenterit Otitis media'],
              ['Neoplasms', u'Neoplasm\u2020'],
@@ -65,6 +87,7 @@
              ['Skin',
               u'Dermatit Bull\xf6s dermatit Follikelutslag, Onormal h\xe5rstruktur, Onormal hudlukt'],
              ['Musculoskeletal', u'Bensjukdom'],
+<<<<<<< HEAD
              ['Renal', u'Oliguri Urininkontinens* Bl\xe5st\xf6mningssv\xe5rig-he ter'],
              ['Reproductive system',
               u'Menorragi Atrofisk vulvovaginit Balanopostit Genital flytning Priapism* Galaktorr\xe9* Br\xe5ck Fibros p\xe5 injektionsst\xe4llet Minskad l\xe4kemedelstolerans G\xe5ngsv\xe5righeter Obest\xe4mbara symtom'],
@@ -79,11 +102,28 @@
              ['Psychiatric', u'Paroniri'],
              ['Nervous system',
               u'R\xf6relse-st\xf6rnin gar (inklusive extrapyramidala symtom s\xe5som hyperkinesi, hypertoni, tandagnisslan eller onormal g\xe5ng), Synkope Tecken och symtom p\xe5 serotonergt syndrom eller malignt neuroleptiskt syndrom har ocks\xe5 rapporterats, i vissa fall associerat med samtidig anv\xe4ndning av serotonerga l\xe4kemedel, s\xe5som agitation, f\xf6rvirring, diafores, diarr\xe9, feber, hypertoni, rigiditet och takykardi. Akatisi och psykomotorisk rastl\xf6shet (se avsnitt 4.4)'],
+=======
+             ['Renal', u'Oliguri Urininkontinens* Bl\xe5st\xf6mningssv\xe5rig-heter'],
+             ['Reproductive system',
+              u'Menorragi Atrofisk vulvovaginit Balanopostit Genital flytning Priapism* Galaktorr\xe9* Br\xe5ck Fibros p\xe5 injektionsst\xe4llet Minskad l\xe4kemedelstolerans G\xe5ngsv\xe5righeter Obest\xe4mbara symtom'],
+             ['Investigations', u'\xd6kat ALAT* \xd6kat ASAT* Onormal sperma Skada'],
+             ['Other', u'K\xe4rlutvidgnings-operation']]],
+           ['Very rare', []],
+           ['Unknown',
+            [['Blood', u'Leukopeni Trombocyto-peni'],
+             ['Immune system', u'Anafylaktoid reaktion Allergisk reaktion Allergi'],
+             ['Endocrine', u'Hyperpro-laktinemi Hypotyreos Inadekvat ins\xf6ndring av ADH'],
+             ['Metabolism', u'Hyponatremi Diabetes mellitus Hyperglykemi'],
+             ['Psychiatric', u'Paroniri'],
+             ['Nervous system',
+              u'R\xf6relse-st\xf6rningar (inklusive extrapyramidala symtom s\xe5som hyperkinesi, hypertoni, tandagnisslan eller onormal g\xe5ng), Synkope Tecken och symtom p\xe5 serotonergt syndrom eller malignt neuroleptiskt syndrom har ocks\xe5 rapporterats, i vissa fall associerat med samtidig anv\xe4ndning av serotonerga l\xe4kemedel, s\xe5som agitation, f\xf6rvirring, diafores, diarr\xe9, feber, hypertoni, rigiditet och takykardi. Akatisi och psykomotorisk rastl\xf6shet (se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Onormal syn'],
              ['Vascular', u'Onormala bl\xf6dningar (s\xe5som n\xe4sblod,'],
              ['GI', u'bl\xf6dning eller hematuri)'],
              ['GI', u'Pankreatit'],
              ['Hepato',
+<<<<<<< HEAD
               u'Allvarliga leverbiverkning ar (inklusive hepatit, gulsot och leversvikt)'],
              ['Skin',
               u'S\xe4llsynta rapporter om sv\xe5ra hudreaktioner (SCAR), t.ex. Stevens-Johnso ns syndrom och epidermal nekrolys Angio\xf6dem Ansikts\xf6dem Fotosensitivitet Hudreaktion Pruritus'],
@@ -95,4 +135,17 @@
  '_note': u' ?MSFU',
  '_pages': [9, 16],
  u'_rank': 66,
+=======
+              u'Allvarliga lever-biverkningar (inklusive hepatit, gulsot och leversvikt)'],
+             ['Skin',
+              u'S\xe4llsynta rapporter om sv\xe5ra hudreaktioner (SCAR), t.ex. Stevens-Johnsons syndrom och epidermal nekrolys Angio\xf6dem Ansikts\xf6dem Fotosensitivitet Hudreaktion Pruritus'],
+             ['Musculoskeletal', u'Artralgi Muskel-kramper'],
+             ['Reproductive system',
+              u'Gynekomasti Oregelbundna menstruationer Perifert \xf6dem'],
+             ['Investigations',
+              u'Onormala kliniska laboratorie-resultat F\xf6r\xe4ndrad trombocyt-funktion \xd6kat serum-kolesterol']]]],
+ '_note': u' ?MSFU',
+ '_pages': [9, 15],
+ u'_rank': 65,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

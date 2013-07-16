@@ -2,7 +2,11 @@
             [['Investigations', u'Vikt\xf6kning'],
              ['Nervous system', u'Tr\xf6tthet -Sedering -Huvudv\xe4rk'],
              ['GI', u'Muntorrhet '],
+<<<<<<< HEAD
              ['Metabolism', u'\xd6kad aptit Viktuppg\xe5ng']]],
+=======
+             ['Metabolism', u'\xd6kad aptit']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Nervous system', u'Letargi -Yrsel -Tremor'],
              ['GI', u'Illam\xe5ende -Diarre -Kr\xe4kningar'],
@@ -15,6 +19,7 @@
             [['Nervous system', u'Paraestesi -Restless legs -Synkope'],
              ['GI', u'Oral hypoestesi'],
              ['Vascular', u'Hypotension'],
+<<<<<<< HEAD
              ['Psychiatric',
               u'Mardr\xf6mmar -Mani Agitation -Hallucinatione r -Psykomotorisk oro (inkl. akatisi, hyperkinesi)']]],
            ['Rare',
@@ -30,9 +35,28 @@
               u'Stevens-Johnsons syndrom Bull\xf6s dermatit erythema multiforme toxisk epidermal nekrolys'],
              ['Metabolism', u'Hyponatremi'],
              ['General', u'Somnambulism'],
+=======
+             ['General', u'1'],
+             ['Psychiatric',
+              u'Mardr\xf6mmar -Mani Agitation -Hallucinationer -Psykomotorisk oro (inkl. akatisi, hyperkinesi)']]],
+           ['Rare',
+            [['Nervous system', u'Myoklonus'],
+             ['Hepato', u'F\xf6rh\xf6jda transaminaser i serum'],
+             ['Psychiatric', u'2']]],
+           ['Unknown',
+            [['Blood',
+              u'Benm\xe4rgsdepression (granulocytopeni, agranulocytos, aplastisk anemi trombocytopeni) -Eosinofili'],
+             ['Nervous system', u'Kramper (anfall) -Serotoninsyndrom -Oral parestesi'],
+             ['GI', u'\xd6dem i munnen'],
+             ['Metabolism', u'Hyponatremi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Suicidtankar -Suicidalt beteende 6'],
              ['Endocrine', u'Felaktig sekretion av antidiuretiskt hormon']]]],
  '_note': u' ?MSFU',
  '_pages': [5, 7],
+<<<<<<< HEAD
  u'_rank': 26,
+=======
+ u'_rank': 25,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

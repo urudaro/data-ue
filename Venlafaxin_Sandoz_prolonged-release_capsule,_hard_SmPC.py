@@ -15,9 +15,15 @@
              ['GI', u'Minskad aptit (anorexi), f\xf6rstoppning, kr\xe4kning'],
              ['Reproductive system',
               u'Onormal ejakulation/ orgasm (m\xe4n), anorgasmi, erektil dysfunktion (impotens), f\xf6rs\xe4mrad urinering (mest sv\xe5righeter att komma ig\xe5ng), menstruations st\xf6rningar s\xe5som \xf6kad bl\xf6dning eller mer oregelbunden bl\xf6dning (tex menorragi, metrorragi), pollakisuri'],
+<<<<<<< HEAD
              ['Systemic', u'Asteni (tr\xf6tthet), fross-brytning ar']]],
            ['Uncommon',
             [['Blood', u'Ekkymos, gastrointesti-n al bl\xf6dning'],
+=======
+             ['Systemic', u'Asteni (tr\xf6tthet), fross-brytningar']]],
+           ['Uncommon',
+            [['Blood', u'Ekkymos, gastrointesti-nal bl\xf6dning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Vikt\xf6kning'],
              ['Nervous system',
               u'Apati, Hallucination-er, myoklonus, agitation, f\xf6rs\xe4mrad koordination och balans'],
@@ -30,8 +36,13 @@
              ['Systemic', u'Angio\xf6dem, ljusk\xe4nslighet sreaktion']]],
            ['Rare',
             [['Nervous system',
+<<<<<<< HEAD
               u'Akatisi/ Psyko-moto risk rastl\xf6shet, kramper, manisk reaktion'],
              ['Reproductive system', u'Urin-inkonti nens']]],
+=======
+              u'Akatisi/ Psyko-motorisk rastl\xf6shet, kramper, manisk reaktion'],
+             ['Reproductive system', u'Urin-inkontinens']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood',
               u'Slemhinnebl\xf6dning, f\xf6rl\xe4ngd bl\xf6dningstid, trombocytopeni, bloddyskrasier (inklusive agranulocytos, aplastisk anemi, neutropeni och pancytopeni)'],
@@ -40,15 +51,29 @@
              ['Nervous system',
               u'Malignt Neuroleptika-syndrom (NMS), serotonergt syndrom, delirium, extrapyramidala reaktioner (inklusive dystoni och dyskinesi), tardiv dyskinesi, suicidalt beteende, suicidtankar**, yrsel, aggression***'],
              ['Special Senses', u'Tr\xe5ngvinkel-glau kom'],
+<<<<<<< HEAD
              ['Cardiac', u'Hypotoni,'],
              ['Vascular',
               u'QT-f\xf6rl\xe4ngning, kammarflimmer, kammartakykardi (inklusive Torsade de Pointes)'],
+=======
+             ['Cardiac', u'Hypotoni, QT'],
+             ['Vascular',
+              u'f\xf6rl\xe4ngning, kammarflimmer, kammartakykardi (inklusive Torsade de Pointes)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Pulmonell eosinofili'],
              ['GI', u'Pankreatit'],
              ['Skin',
               u'Erythema multiforme, toxisk epidermal nekrolys, Stevens-Johnsons syndrom kl\xe5da, n\xe4sselutslag'],
+<<<<<<< HEAD
              ['Systemic', u'Anafylaxi']]]],
  '_note': u' ?MSFU',
  '_pages': [8, 10],
  u'_rank': 35,
+=======
+             ['Musculoskeletal', u'Rabdomyolys'],
+             ['Systemic', u'Anafylaxi']]]],
+ '_note': u' ?MSFU',
+ '_pages': [8, 10],
+ u'_rank': 36,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

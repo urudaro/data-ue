@@ -1,6 +1,10 @@
 {'_data': [['Very common',
             [['General',
+<<<<<<< HEAD
               u'Lokal sm\xe4rta vid f\xf6rsta injektionen. F\xf6r profylax och behandling, se nedan. Den lokala sm\xe4rta som kan f\xf6rekomma vid den initiala injektionen av Propofol Fresenius Kabi 10 mg/ml kan minimeras genom samtidig administrering av lidokain och genom administrering i st\xf6rre vener p\xe5 underarmen och i armvecket (se avsnitt 4.2 Dosering och administreringss\xe4tt - Infusion med utsp\xe4dd Propofol Fresenius Kabi 10 mg/ml). Vid administrering av lidokain kan f\xf6ljande s\xe4llsynta biverkningar f\xf6rekomma (\u2265 1/10000 till < 1/1000): yrsel, kr\xe4kningar, s\xf6mnighet, konvulsioner, bradykardi, hj\xe4rtarytmi och chock.']]],
+=======
+              u'Lokal sm\xe4rta vid f\xf6rsta injektionen. F\xf6r profylax och behandling, se nedan. Den lokala sm\xe4rta som kan f\xf6rekomma vid den initiala injektionen av Propofol Fresenius Kabi 10 mg/ml kan minimeras genom samtidig administrering av lidokain och genom administrering i st\xf6rre vener p\xe5 underarmen och i armvecket (se avsnitt 4.2 Dosering och administreringss\xe4tt Infusion med utsp\xe4dd Propofol Fresenius Kabi 10 mg/ml). Vid administrering av lidokain kan f\xf6ljande s\xe4llsynta biverkningar f\xf6rekomma (\u2265 1/10000 till < 1/1000): yrsel, kr\xe4kningar, s\xf6mnighet, konvulsioner, bradykardi, hj\xe4rtarytmi och chock.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Metabolism', u'Hypertriglyceridemi'],
              ['Nervous system',

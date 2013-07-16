@@ -2,7 +2,11 @@
             [['Nervous system', u'Tr\xf6tthet \u2022 Sedering \u2022 Huvudv\xe4rk \u2022'],
              ['GI', u'Muntorrhet \u2022'],
              ['Metabolism', u'\u2022Vikt\xf6kning \xd6kad aptit  \u2022'],
+<<<<<<< HEAD
              ['General', u'gallv\xe4gar ']]],
+=======
+             ['General', u'st\xe4llet -gallv\xe4gar ']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Nervous system', u'Letargi \u2022 Yrsel \u2022 Tremor \u2022'],
              ['GI', u'Illam\xe5ende \u2022 Diarre \u2022 Kr\xe4kningar  \u2022'],

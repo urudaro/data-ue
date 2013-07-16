@@ -6,7 +6,11 @@
              ['Hepato', u'F\xf6rh\xf6jda leverenzymer, onormal'],
              ['Skin', u'Angio\xf6dem, hudutslag, urtikaria, kl\xe5da'],
              ['Musculoskeletal', u'Ryggsm\xe4rtor, artralgi, myalgi'],
+<<<<<<< HEAD
              ['Renal', u'Nedsatt njurfunktion, inklusive']]],
+=======
+             ['Renal', u'Nedsatt njurfunktion, inklusive njursvikt']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Infections', u'Luftv\xe4gsinfektion'],
              ['Nervous system', u'Yrsel/vertigo, huvudv\xe4rk'],
@@ -29,7 +33,11 @@
              ['Hepato', u'leverfunktion eller hepatit'],
              ['Skin', u''],
              ['Musculoskeletal', u''],
+<<<<<<< HEAD
              ['Renal', u'njursvikt hos predisponerade patienter  (se avsnitt 4.4)'],
+=======
+             ['Renal', u'hos predisponerade patienter (se  avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood',
               u'Leukopeni, neutropeni/agranulocytos,  trombocytopeni, aplastisk anemi, benm\xe4rgsdepression, hemolytisk anemi'],
              ['Immune system', u'Anafylaktiska reaktioner'],
@@ -40,9 +48,15 @@
              ['Vascular', u'Nekrotiserande angit (vaskulit, kutan  vaskulit)'],
              ['Respiratory', u'Andningssv\xe5righeter (inklusive  pneumonit och lung\xf6dem)'],
              ['GI', u'Pankreatit'],
+<<<<<<< HEAD
              ['Hepato', u'Ikterus (intrahepatisk kolestatisk  ikterus)'],
              ['Skin',
               u'Toxisk epidermal nekrolys, kutana  lupus erythematosus-liknande reaktioner, \xe5teraktivering av kutan lupus erythematosus'],
+=======
+             ['Hepato', u'Ikterus (intrahepatisk kolestatisk ikterus)'],
+             ['Skin',
+              u'Toxisk epidermal nekrolys, kutana lupus  erythematosus-liknande reaktioner, \xe5teraktivering av kutan lupus erythematosus'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Muskelspasm'],
              ['Renal', u'Renal dysfunktion och interstitiell nefrit'],
              ['General', u'Feber'],

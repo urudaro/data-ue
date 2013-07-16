@@ -5,7 +5,11 @@
               u'vanliga parestesier s\xe4llsynta migr\xe4n ingen k\xe4nd frekvens dysgeusi ingen k\xe4nd frekvens'],
              ['Cardiac', u'vanliga angina pectoris mindre'],
              ['Cardiac',
+<<<<<<< HEAD
               u'vanliga synkope s\xe4llsynta f\xf6rmaksflimmer s\xe4llsynta cerebrovaskul\xe4r s\xe4llsynta h\xe4ndelse'],
+=======
+              u'vanliga synkope s\xe4llsynta f\xf6rmaksflimme s\xe4llsynta cerebrovaskul\xe4r s\xe4llsynta h\xe4ndelse'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'vanliga hosta mindre ingen k\xe4nd'],
              ['Respiratory', u'frekvens'],
              ['GI', u'vanliga f\xf6rstoppning mindre'],
@@ -20,7 +24,11 @@
              ['General', u'vanliga \xf6dem mindre'],
              ['General', u'vanliga sjukdomsk\xe4nsla ingen k\xe4nd frekvens'],
              ['Investigations',
+<<<<<<< HEAD
               u'vanliga f\xf6rh\xf6jt s\xe4llsynta alaninamino-tra nsferas (ALAT) f\xf6rh\xf6jda v\xe4rden vanliga av urea i blodet, serumkreatinin och serumkalium hyponatremi ingen k\xe4nd frekvens hypoglykemi vanliga 1. Inkluderande svullnad av larynx och glottis orsakande luftv\xe4gsobstruktion och/eller svullnad av ansikte, l\xe4ppar, svalg och/eller tunga (vissa av patienterna som upplevde angio\xf6dem hade tidigare haft denna biverkning vid behandling med andra l\xe4kemedel inklusive ACE-h\xe4mmare) 2. Inkluderande Henoch-Sch\xf6nleins purpura 3. S\xe4rskilt hos patienter med minskad blodvolym t ex patienter med sv\xe5r hj\xe4rtsvikt eller kraftigt diuretikabehandlade patienter 4. Vanliga hos patienter som fick 150 mg losartan ist\xe4llet f\xf6r 50 mg losartan 5. I en klinisk studie p\xe5 patienter med typ 2-diabetes och nefropati utvecklades hyperkalemi >5,5 mmol/l hos 9,9% av patienterna som behandlades med losartantabletter och hos 3,4% av patienterna som behandlades med placebo 6. Vanligen reversibla efter uts\xe4ttande F\xf6ljande biverkningar f\xf6rekom oftare hos patienter som fick losartan \xe4n hos patienter som fick placebo: ryggv\xe4rk, urinv\xe4gsinfektion och influensaliknande symtom.']]],
+=======
+              u'vanliga f\xf6rh\xf6jt s\xe4llsynta alaninamino transferas (ALAT) 6 f\xf6rh\xf6jda v\xe4rden vanliga av urea i blodet, serumkreatinin och serumkalium hyponatremi ingen k\xe4nd frekvens hypoglykemi vanliga 1. Inkluderande svullnad av larynx och glottis orsakande luftv\xe4gsobstruktion och/eller svullnad av ansikte, l\xe4ppar, svalg och/eller tunga (vissa av patienterna som upplevde angio\xf6dem hade tidigare haft denna biverkning vid behandling med andra l\xe4kemedel inklusive ACE-h\xe4mmare) 2. Inkluderande Henoch-Sch\xf6nleins purpura 3. S\xe4rskilt hos patienter med minskad blodvolym t ex patienter med sv\xe5r hj\xe4rtsvikt eller kraftigt diuretikabehandlade patienter 4. Vanliga hos patienter som fick 150 mg losartan ist\xe4llet f\xf6r 50 mg losartan 5. I en klinisk studie p\xe5 patienter med typ 2-diabetes och nefropati utvecklades hyperkalemi >5,5 mmol/l hos 9,9% av patienterna som behandlades med losartantabletter och hos 3,4% av patienterna som behandlades med placebo 6. Vanligen reversibla efter uts\xe4ttande F\xf6ljande biverkningar f\xf6rekom oftare hos patienter som fick losartan \xe4n hos patienter som fick placebo: ryggv\xe4rk, urinv\xe4gsinfektion och influensaliknande symtom.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood',
               u'anemi vanliga ingen k\xe4nd frekvens trombocytopeni ingen k\xe4nd frekvens'],

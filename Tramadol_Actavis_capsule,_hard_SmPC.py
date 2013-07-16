@@ -6,10 +6,17 @@
              ['General', u'tr\xf6tthet']]],
            ['Uncommon',
             [['Cardiac',
+<<<<<<< HEAD
               u'kardiovaskul\xe4ra effekter (hj\xe4rtklappning, takykardi, postural hypotension eller kardiovaskul\xe4r kollaps). Dessa effekter upptr\xe4der s\xe4rskilt i samband med intraven\xf6s administrering och p\xe5 patienter som uts\xe4tts f\xf6r fysisk belastning.'],
              ['GI',
               u'kv\xe4ljningar, Gastrointestinal irritation (tryckk\xe4nsla i magen, uppsv\xe4lldhet), diarr\xe9.'],
              ['Skin', u'Hudreaktioner (t ex kl\xe5da, hudutslag och n\xe4sselutslag)']]],
+=======
+              u'(>1/1000, <1/100): kardiovaskul\xe4ra effekter (hj\xe4rtklappning, takykardi, postural hypotension eller kardiovaskul\xe4r kollaps). Dessa effekter upptr\xe4der s\xe4rskilt i samband med intraven\xf6s administrering och p\xe5 patienter som uts\xe4tts f\xf6r fysisk belastning.'],
+             ['GI',
+              u'kv\xe4ljningar, gastrointestinal irritation (tryckk\xe4nsla i magen, uppsv\xe4lldhet), diarr\xe9.'],
+             ['Skin', u'hudreaktioner (t ex kl\xe5da, hudutslag och n\xe4sselutslag)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Cardiac', u'bradykardi, f\xf6rh\xf6jt blodtryck'],
              ['Nervous system',
@@ -25,9 +32,16 @@
              ['General',
               u'Allergiska reaktioner (t ex andn\xf6d, bronkospasmer, v\xe4sljud, angioneurotiskt \xf6dem inklusive svullnad av munh\xe5la, svalg och larynx) och anafylaktisk chock. Symtom p\xe5 abstinensbesv\xe4r, liknande de som f\xf6rekommer i samband med opiatavv\xe4njning, kan visa sig p\xe5 f\xf6ljande s\xe4tt: upphetsning, \xe4ngslan, nervositet, s\xf6mnl\xf6shet, hyperkinesi, darrningar och gastrointestinala rubbningar. Andra symptom som mycket s\xe4llan har observerats i samband med avbrytande av tramadolbehandling inkluderar: panikattacker, sv\xe5r \xe5ngest, hallucinationer, parestesier, tinnitus samt ovanliga CNS-symptom.']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Nervous system', u'talst\xf6rningar.'],
              ['Hepato',
               u'Enstaka fall av leverenzymstegring i blod har rapporterats i samband med behandling med tramadol.']]]],
  '_pages': [4, 6],
  u'_rank': 19,
+=======
+            [['Hepato',
+              u'Enstaka fall av leverenzymstegring i blod har rapporterats i samband med behandling med tramadol.']]]],
+ '_pages': [4, 6],
+ u'_rank': 18,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

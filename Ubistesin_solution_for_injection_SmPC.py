@@ -4,7 +4,11 @@
              ['Injury', u'Sm\xe4rta f\xf6rknippad med ingreppet']]],
            ['Uncommon',
             [['Psychiatric', u'Rastl\xf6shet'],
+<<<<<<< HEAD
              ['Ear', u'Paraestesi, yrsel, hypestesi'],
+=======
+             ['Eye', u'Paraestesi, yrsel, hypestesi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'Svindel, \xf6ronsm\xe4rta'],
              ['GI', u'Gingivit, illam\xe5ende, kr\xe4kningar'],
              ['Skin', u'Hyperhidros, kl\xe5da, hudutslag'],
@@ -13,13 +17,22 @@
              ['Investigations',
               u'L\xe5gt blodtryck, \xf6kad hj\xe4rtfrekvens, h\xf6gt blodtryck']]],
            ['Rare',
+<<<<<<< HEAD
             [['Ear', u'Dysgeusi, perifer neuropati, somnolens, synkope'],
              ['Ear', u'Blefarospasm'],
+=======
+            [['Eye', u'Dysgeusi, perifer neuropati, somnolens, synkope'],
+             ['Eye', u'Blefarospasm'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Hj\xe4rtklappning, takykardi'],
              ['Vascular', u'Bl\xf6dning, blekhet'],
              ['Respiratory', u'N\xe4st\xe4ppa'],
              ['GI',
               u'Diarr\xe9, tandlossning, buksm\xe4rta, keilit, f\xf6rstoppning, muntorrhet, dyspepsi, muns\xe5r, illam\xe5ende/kr\xe4kningar, saliv, hypersekretion, k\xe4nsliga t\xe4nder, stomatit'],
+<<<<<<< HEAD
+=======
+             ['Musculoskeletal', u'Ryggsm\xe4rta, muskelsp\xe4nningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Asteni, frossa, tr\xf6tthet, sjukdomsk\xe4nsla, t\xf6rst'],
              ['Investigations',
               u'EKG tecken p\xe5 myokardiell ischemi, onormala vitala funktioner, positivt allergitest'],
@@ -27,8 +40,13 @@
            ['Unknown',
             [['Immune system', u'Anafylaktisk chock'],
              ['Psychiatric', u'\xc5ngest'],
+<<<<<<< HEAD
              ['Ear', u'Krampanfall. Nedsatt medvetandegrad, medvetsl\xf6shet'],
              ['Ear', u'Dubbelseende, nedsatt synsk\xe4rpa'],
+=======
+             ['Eye', u''],
+             ['Eye', u'Dubbelseende, nedsatt synsk\xe4rpa'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'Tinnitus'],
              ['Cardiac', u'Arytmi, bradykardi, hj\xe4rtstopp'],
              ['Vascular', u'Hypotension, blekhet'],

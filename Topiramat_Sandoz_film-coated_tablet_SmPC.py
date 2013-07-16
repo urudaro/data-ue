@@ -1,13 +1,21 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Investigations', u'Viktminsknin g'],
+=======
+            [['Investigations', u'Viktminskning Vikt\xf6kning*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Parestesi, somnolens, yrsel'],
              ['GI', u'Illam\xe5ende, diarr\xe9'],
              ['Infections', u'Nasofaryngit*'],
              ['General', u'Tr\xf6tthet'],
              ['Psychiatric', u'Depression']]],
            ['Common',
+<<<<<<< HEAD
             [['Investigations', u'Vikt\xf6kning*'],
              ['Blood', u'Anemi'],
+=======
+            [['Blood', u'Anemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'St\xf6rd uppm\xe4rksamhet, minnesf\xf6rs\xe4mring, amnesi, kognitiv st\xf6rning, mental f\xf6rs\xe4mring, f\xf6rs\xe4mrade psykomotoriska f\xe4rdigheter, kramper, onormal koordination, tremor, letargi, hypestesi, nystagmus, smakrubbning, balansrubbning, dysartri, intensions tremor, sedering'],
              ['Eye', u'Dimsyn, diplopi, synst\xf6rning'],
@@ -41,7 +49,11 @@
              ['GI',
               u'Pankreatit, flatulens, gastroesofagal refluxsjukdom, nedre buksm\xe4rta, oral hypestesi, gingival bl\xf6dning, uppsp\xe4nd buk, epigastriskt obehag, \xf6m buk, salivhyper sekretion, oral sm\xe4rta, d\xe5lig andedr\xe4kt, glossodyni'],
              ['Renal',
+<<<<<<< HEAD
               u'Urinsten, urininkontinens, hematuri, inkontinens, miktions-tr\xe4ngnin gar, njurkolik, njursm\xe4rta'],
+=======
+              u'Urinsten, urininkontinens, hematuri, inkontinens, miktions-tr\xe4ngningar, njurkolik, njursm\xe4rta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Anhidros, facial hypestesi, urtikaria, erytem, generell kl\xe5da, makul\xe4ra utslag, hudmiss f\xe4rgningar, allergisk dermatit, svullet ansikte'],
              ['Musculoskeletal',
@@ -57,7 +69,11 @@
             [['Investigations', u'Minskat blodbikarbonat'],
              ['Blood', u'Neutropeni*'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Apraxi, s\xf6mnst\xf6rning vid dygnsrytmst\xf6rning hyperestesi, nedsatt luktf\xf6rm\xe5ga, avsaknad av luktsinne, essentiell tremor, akinesi, ok\xe4nslighet f\xf6r stimuli'],
+=======
+              u'Apraxi, s\xf6mnst\xf6rning vid dygnsrytmst\xf6rning, hyperestesi, nedsatt luktf\xf6rm\xe5ga, avsaknad av luktsinne, essentiell tremor, akinesi, ok\xe4nslighet f\xf6r stimuli'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye',
               u'Ensidig blindhet, \xf6verg\xe5ende blindhet, glaukom, ackommodations st\xf6rning, f\xf6r\xe4ndrat djupseende, flimmerskotom, \xf6gonlocks\xf6dem*, nattblindhet, amblyopi'],
              ['Renal', u'Uret\xe4rsten, renal tubul\xe4r acidos*'],
@@ -71,10 +87,18 @@
               u'Mani, anorgasmi, paniksyndrom, st\xf6rd sexuell upphetsning, k\xe4nsla av f\xf6rtvivlan*, onormal orgasm, hypomani, minskad orgasmk\xe4nsla']]],
            ['Unknown',
             [['Eye',
+<<<<<<< HEAD
               u'Glaukom med tr\xe5ng kammarvink el*, makulopati* \xf6gonr\xf6relse st\xf6rning*'],
+=======
+              u'Glaukom med tr\xe5ng kammarvink el*, makulopati*, \xf6gonr\xf6relse st\xf6rning*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Toxisk epidermal nekrolys*'],
              ['Immune system', u'Allergiskt \xf6dem*, bindhinne \xf6dem*']]]],
  '_note': u' ?MSFU',
  '_pages': [9, 14],
+<<<<<<< HEAD
  u'_rank': 50,
+=======
+ u'_rank': 49,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

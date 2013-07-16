@@ -9,10 +9,23 @@
               u'Allergiska typ I-reaktioner inklusive ansiktsflush, generell urtikaria, hypersensitivitet .'],
              ['Vascular', u'flush, hypotension'],
              ['Respiratory', u'dyspn\xe9, tryckk\xe4nsla i br\xf6stkorgen']]],
+<<<<<<< HEAD
            ['Unknown',
             [['Immune system', u'anafylaktisk reaktion/chock, bronkospasm'],
              ['Vascular', u'Arrytmi'],
              ['Skin', u'erytem, utslag']]]],
  '_pages': [3, 4],
  u'_rank': 12,
+=======
+           ['Very rare',
+            [['Skin',
+              u'fall har kollaps, synkope och kardiovaskul\xe4ra reaktioner rapporterats, men som med andra 5-HT -antagonister har ett orsakssamband ej kunnat fastst\xe4llas med Navoban.']]],
+           ['Unknown',
+            [['Immune system', u'anafylaktisk reaktion/chock, bronkospasm'],
+             ['Vascular', u'Arrytmi'],
+             ['Skin',
+              u'erytem, utslag *Biverkningar som har rapporterats sedan Navoban godk\xe4ndes f\xf6r f\xf6rs\xe4ljning: Eftersom dessa rapporter kommer fr\xe5n en population av os\xe4ker storlek och kan vara p\xe5verkade av andra faktorer \xe4r det inte m\xf6jligt att tillf\xf6rlitligt bed\xf6ma frekvensen eller fastst\xe4lla ett orsakssamband. F\xf6ljande biverkning har rapporterats mycket s\xe4llan:, exantem, \xc4ven enstaka fall av cirkulatorisk kollaps och hj\xe4rtstillest\xe5nd har rapporterats.']]]],
+ '_pages': [3, 4],
+ u'_rank': 13,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

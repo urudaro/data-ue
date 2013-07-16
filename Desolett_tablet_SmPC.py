@@ -1,7 +1,11 @@
 {'_data': [['Common',
             [['Psychiatric', u'Nedst\xe4mdhet, hum\xf6rf\xf6r\xe4ndring'],
              ['Nervous system', u'Huvudv\xe4rk'],
+<<<<<<< HEAD
              ['GI', u'Illam\xe5ende, buksm\xe4rta'],
+=======
+             ['GI', u'Illam\xe5ende, buksm\xe4rta Kr\xe4kningar, diarr\xe9'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system',
               u'Sm\xe4rta i br\xf6sten, br\xf6stsp\xe4nning Vaginal bl\xf6dning'],
              ['Investigations', u'Vikt\xf6kning']]],
@@ -9,7 +13,10 @@
             [['Metabolism', u'V\xe4tskeretention'],
              ['Psychiatric', u'Minskad libido'],
              ['Nervous system', u'Migr\xe4n'],
+<<<<<<< HEAD
              ['GI', u'Kr\xe4kningar, diarr\xe9'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Rodnad, utslag, urtikaria'],
              ['Reproductive system', u'Br\xf6stf\xf6rstoring Utebliven bortfallsbl\xf6dning'],
              ['Investigations', u'Blodtrycksf\xf6rh\xf6jning']]],
@@ -29,6 +36,11 @@
              ['Investigations',
               u'Viktnedg\xe5ng S\xe4nkt glukostolerans F\xf6rh\xf6jt blodsocker']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [8, 9],
  u'_rank': 24,
+=======
+ '_pages': [7, 9],
+ u'_rank': 23,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

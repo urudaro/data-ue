@@ -7,7 +7,11 @@
              ['Metabolism', u'Hyponatremi Anorexi'],
              ['Psychiatric', u'Onormala dr\xf6mmar Depression'],
              ['Nervous system', u'Insomni Yrsel'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jda leverenzymniv \xe5er'],
+=======
+             ['Hepato', u'F\xf6rh\xf6jda leverenzym-niv\xe5er'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Kl\xe5da Utslag'],
              ['General', u'Feber'],
              ['Respiratory', u'Hosta']]],

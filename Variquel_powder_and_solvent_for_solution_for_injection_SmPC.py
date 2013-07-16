@@ -22,6 +22,7 @@
            ['Very rare',
             [['Metabolism', u'hyperglykemi'],
              ['Nervous system', u'slaganfall'],
+<<<<<<< HEAD
              ['Cardiac', u'myokardischemi']]],
            ['Unknown',
             [['Cardiac', u'hj\xe4rtsvikt, Torsade de pointes'],
@@ -29,4 +30,12 @@
              ['Pregnancy', u'livmodersammandragningar, minskat blodfl\xf6de till livmodern']]]],
  '_pages': [3, 4],
  u'_rank': 21,
+=======
+             ['Cardiac', u'myokardischemi : hj\xe4rtsvikt, Torsade de pointes']]],
+           ['Unknown',
+            [['Skin', u'hudnekros som inte \xe4r relaterad till administreringsst\xe4llet'],
+             ['Pregnancy', u'livmodersammandragningar, minskat blodfl\xf6de till livmodern']]]],
+ '_pages': [3, 4],
+ u'_rank': 20,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -25,6 +25,10 @@
               u'F\xf6rh\xf6jda leverenzymv\xe4rden,  onormal leverfunktion eller hepatit'],
              ['Skin', u'Angio\xf6dem, hudutslag,  urtikaria, pruritus'],
              ['Musculoskeletal', u'Ryggsm\xe4rta, artralgi, myalgi']]]],
+<<<<<<< HEAD
  '_pages': [6, 7],
+=======
+ '_pages': [5, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 21,
  u'_type': u'TSFU'}

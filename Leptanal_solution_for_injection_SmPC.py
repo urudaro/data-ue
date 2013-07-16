@@ -10,8 +10,13 @@
            ['Uncommon',
             [['Psychiatric', u'Euforisk sinnest\xe4mmning'],
              ['Nervous system', u'Huvudv\xe4rk'],
+<<<<<<< HEAD
              ['Vascular', u'Flebit, blodtrycks-fluktu ation'],
              ['Respiratory', u'Hyperventilering , hicka'],
+=======
+             ['Vascular', u'Flebit, blodtrycks-fluktuation'],
+             ['Respiratory', u'Hyperventilering, hicka'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Frossa, hypotermi']]],
            ['Unknown',
             [['Immune system',

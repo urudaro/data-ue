@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Metabolism', u'\u2212Anorexi (\xe4tst\xf6rningar)'],
              ['Psychiatric', u'\u2212Nervositet (irritabilitet) \u2212Onormalt gr\xe5tande'],
@@ -7,6 +8,9 @@
              ['General',
               u'\u2212Rodnad vid injektionsst\xe4llet \u2212Sm\xe4rta vid injektionsst\xe4llet \u2212Svullnad vid injektionsst\xe4llet \u2212Pyrexi (feber) > 38 C \u2212Sjukdomsk\xe4nsla']]],
            ['Common',
+=======
+{'_data': [['Common',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
             [['Psychiatric', u'\u2212Insomni (s\xf6mnst\xf6rningar)'],
              ['GI', u'\u2212Diarr\xe9'],
              ['General', u'\u2212F\xf6rh\xe5rdnad vid injektionsst\xe4llet']]],
@@ -15,6 +19,17 @@
              ['General',
               u'\u2212Rodnad och svullnad > 5 cm p\xe5 injektionsst\xe4llet \u2212Pyrexi (feber) > 39 C']]],
            ['Rare', [['General', u'\u2212Pyrexi > 40 C (h\xf6g feber)']]],
+<<<<<<< HEAD
+=======
+           ['Very rare',
+            [['Metabolism', u'\u2212Anorexi (\xe4tst\xf6rningar)'],
+             ['Psychiatric', u'\u2212Nervositet (irritabilitet) \u2212Onormalt gr\xe5tande'],
+             ['Nervous system', u'\u2212Somnolens (d\xe5sighet) \u2212Huvudv\xe4rk'],
+             ['GI', u'\u2212Kr\xe4kningar'],
+             ['Musculoskeletal', u'\u2212Myalgi'],
+             ['General',
+              u'\u2212Rodnad vid injektionsst\xe4llet \u2212Sm\xe4rta vid injektionsst\xe4llet \u2212Svullnad vid injektionsst\xe4llet \u2212Pyrexi (feber) > 38 C \u2212Sjukdomsk\xe4nsla']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Immune system',
               u's: \u2212Anafylaktiska reaktioner s\xe5som ansikts\xf6dem, Quincke\xf6dem.'],

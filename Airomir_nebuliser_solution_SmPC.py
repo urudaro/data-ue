@@ -17,6 +17,10 @@
             [['Immune system', u'Hypokalemi'],
              ['Cardiac', u'Myokardiell ischemi* (se avsnitt 4.4)'],
              ['Investigations', u'\xd6kad puls']]]],
+<<<<<<< HEAD
  '_pages': [4, 4],
+=======
+ '_pages': [4, 5],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 14,
  u'_type': u'TSFU'}

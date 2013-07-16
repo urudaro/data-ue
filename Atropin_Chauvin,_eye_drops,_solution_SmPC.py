@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'Konfusion, hallucinationer, excitation.'],
              ['Eye',
               u'Sveda vid instillation, dimsyn, f\xf6rs\xe4mrat n\xe4rseende, ljusk\xe4nslighet.'],
@@ -9,6 +10,18 @@
             [['Renal', u') Miktionsbesv\xe4r.'],
              ['General',
               u') Allergi vid l\xe4ngre tids anv\xe4ndning. Barn har \xf6kad risk f\xf6r systemeffekter p.g.a. \xf6verdosering.']]]],
+=======
+            [['Nervous system', u'(>1/100, <1/10) Konfusion, hallucinationer, excitation.'],
+             ['Eye',
+              u'(>1/100, <1/10) Sveda vid instillation, dimsyn, f\xf6rs\xe4mrat n\xe4rseende, ljusk\xe4nslighet.'],
+             ['Cardiac', u'(>1/100, <1/10) Takykardi.'],
+             ['GI', u'(>1/100, <1/10) Obstipation.'],
+             ['General', u'(>1/100, <1/10) Ansiktsrodnad, feber.']]],
+           ['Uncommon',
+            [['Renal', u'(>1/1 000, <1/100) Miktionsbesv\xe4r.'],
+             ['General',
+              u'(>1/1 000, <1/100) Allergi vid l\xe4ngre tids anv\xe4ndning. Barn har \xf6kad risk f\xf6r systemeffekter p.g.a. \xf6verdosering.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [2, 2],
  u'_rank': 7,
  u'_type': u'LSFU'}

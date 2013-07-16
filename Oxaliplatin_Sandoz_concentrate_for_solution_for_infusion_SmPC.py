@@ -29,7 +29,11 @@
              ['Skin',
               u'Hudexfoliering (dvs. hand-och fotsyndrom) Erytemat\xf6sa utslag Hudutslag \xd6kad svettning Nagelbesv\xe4r'],
              ['Musculoskeletal', u'Artralgi Skelettsm\xe4rta'],
+<<<<<<< HEAD
              ['Renal', u'Hematuri Dysuri Onormal miktions-frekve ns'],
+=======
+             ['Renal', u'Hematuri Dysuri Onormal miktions-frekvens'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations',
               u'\xd6kat kreatinin Viktminskning (behandling av metastaserande cancer)']]],
            ['Uncommon',

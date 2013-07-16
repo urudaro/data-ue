@@ -8,7 +8,10 @@
            ['Uncommon',
             [['Blood', u'Trombocytop eni, eosinofili, leukopeni'],
              ['Psychiatric', u'Depression'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Artralgi,'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'\xd6dem']]],
            ['Rare',
             [['Blood', u'Anemi'],
@@ -25,12 +28,20 @@
            ['Very rare',
             [['Blood', u'Agranulocyto s, pancytopeni'],
              ['GI', u'Kolit, stomatit'],
+<<<<<<< HEAD
              ['Skin', u'Stevens-Johns ons syndrom, toxisk epidermal nekrolys'],
+=======
+             ['Skin', u'Stevens-Johnsons syndrom, toxisk epidermal nekrolys'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Anafylaktisk chock'],
              ['Investigations',
               u'F\xf6rh\xf6jda kolesterol-och triglyceridniv \xe5er, hyponatremi']]],
            ['Unknown', [['Metabolism', u'Hypomagnes emi (se avsnittet 4.4)']]]],
  '_note': u' ?MSFU',
  '_pages': [6, 7],
+<<<<<<< HEAD
  u'_rank': 25,
+=======
+ u'_rank': 24,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

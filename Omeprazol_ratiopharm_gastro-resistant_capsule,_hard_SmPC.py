@@ -1,21 +1,34 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'huvudv\xe4rk'],
+=======
+            [['Psychiatric', u'huvudv\xe4rk'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'magsm\xe4rtor, f\xf6rstoppning, diarr\xe9, flatulens, illam\xe5ende/kr\xe4kningar']]],
            ['Uncommon',
             [['Psychiatric', u's\xf6mnl\xf6shet'],
+<<<<<<< HEAD
              ['Nervous system', u'svindel, parestesier, d\xe5sighet'],
              ['Ear', u'yrsel (vertigo)'],
              ['Hepato', u'f\xf6rh\xf6jda leverenzymv\xe4rden'],
              ['Skin', u'dermatit, kl\xe5da, hudutslag, urtikaria'],
              ['Musculoskeletal', u'H\xf6ft-, handleds- eller kotfrakturer (se avsnitt 4.4)'],
              ['General', u'sjukdomsk\xe4nsla, perifert \xf6dem']]],
+=======
+             ['Psychiatric', u'svindel, parestesier, d\xe5sighet'],
+             ['Ear', u'yrsel (vertigo) Andningsv\xe4gar, br\xf6stkorg och mediastinum'],
+             ['Hepato', u'f\xf6rh\xf6jda leverenzymv\xe4rden'],
+             ['Skin', u'dermatit, kl\xe5da, hudutslag, urtikaria'],
+             ['Renal', u'sjukdomsk\xe4nsla, perifert \xf6dem']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Blood', u'leukopeni, trombocytopeni'],
              ['Immune system',
               u'\xf6verk\xe4nslighetsreaktioner som feber, angio\xf6dem och anafylaktiska reaktioner/anafylaktisk chock'],
              ['Metabolism', u'hyponatremi'],
              ['Psychiatric', u'agitation, f\xf6rvirring, depression'],
+<<<<<<< HEAD
              ['Nervous system', u'smakf\xf6r\xe4ndringar'],
              ['Eye', u'dimsyn'],
              ['Respiratory', u'bronkospasm'],
@@ -36,4 +49,27 @@
              ['Reproductive system', u'gynekomasti']]]],
  '_pages': [8, 10],
  u'_rank': 29,
+=======
+             ['Psychiatric', u'smakf\xf6r\xe4ndringar'],
+             ['Eye', u'dimsyn'],
+             ['Ear', u'bronkospasm'],
+             ['GI', u'muntorrhet, stomatit, gastrointestinal candida'],
+             ['Hepato', u'hepatit med eller utan gulsot'],
+             ['Skin', u'alopeci, fotosensitivitet'],
+             ['Skin', u'ledsm\xe4rta, myalgi'],
+             ['Renal', u'interstitiell nefrit Reproduktionsorgan och br\xf6stk\xf6rtel'],
+             ['Renal', u'\xf6kad svettning']]],
+           ['Very rare',
+            [['Blood', u'agranulocytos, pancytopeni'],
+             ['Metabolism', u'hypomagnesemi'],
+             ['Psychiatric', u'aggression, hallucinationer Centrala och perifera'],
+             ['Hepato', u'leversvikt, encefalopati hos leversjuka patienter'],
+             ['Skin',
+              u'erythema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys (TEN, Lyells syndrom). Muskuloskeletala systemet och bindv\xe4v'],
+             ['Skin', u'muskelsvaghet'],
+             ['Renal',
+              u'gynekomasti Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet']]]],
+ '_pages': [8, 9],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

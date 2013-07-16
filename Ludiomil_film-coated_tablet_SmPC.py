@@ -6,7 +6,11 @@
              ['GI', u'Muntorrhet, illam\xe5ende, kr\xe4kning, obstipation.'],
              ['Skin', u'Exantem, urtikaria, fotosensibilitet.'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Sinustakykardi, palpitationer, m\xe5ttlig postural hypotension, EKG-f\xf6r\xe4ndringar (T-v\xe5g, ST-segment).'],
+=======
+              u'Sinustakykardi, palpitationer, m\xe5ttlig postural hypotension, EKG-f\xf6r\xe4ndringar (T-v\xe5g, ST segment).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Miktionssv\xe5righeter.'],
              ['Reproductive system', u'Erektil dysfunktion'],
              ['Reproductive system',
@@ -20,7 +24,11 @@
            ['Rare',
             [['Endocrine', u'St\xf6rd ADH-ins\xf6ndring (SIADH).'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Parestesier, akatisi, myoklonus, ataxi, EEG-f\xf6r\xe4ndringar, dyskinesi, koordinationssv\xe5righeter.'],
+=======
+              u'Parestesier, akatisi, myoklonus, ataxi, EEG- f\xf6r\xe4ndringar, dyskinesi, koordinationssv\xe5righeter.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Aktivering av psykotiska symptom, depersonalisering.'],
              ['Ear', u'Tinnitus.'],
              ['GI', u'Smakf\xf6r\xe4ndring, stomatit.'],
@@ -31,7 +39,12 @@
              ['Cardiac', u'Retledningsrubbningar, AV-block, synkope.'],
              ['Reproductive system',
               u'Br\xf6stk\xf6rtelf\xf6rstoring, galaktorr\xe9. Allm\xe4nna symtom/fynd vid administrationsst\xe4llet'],
+<<<<<<< HEAD
              ['Reproductive system', u'Karies.']]],
+=======
+             ['Reproductive system',
+              u'Karies. *) Fall av suicidtankar och suicidalt beteende har rapporterats under behandling med maprotilin eller direkt efter avslutad behandling (se avsnitt 4.4). \xc4ldre patienter \xe4r speciellt k\xe4nsliga f\xf6r antikolinerga effekter och f\xf6r neurologiska, psykiska och kardiovaskul\xe4ra reaktioner, eftersom f\xf6rm\xe5gan att metabolisera och eliminera substanser kan vara nedsatt. Detta kan medf\xf6ra risk f\xf6r f\xf6rh\xf6jda niv\xe5er av plasmakoncentrationen vid terapeutiska doser (se avsnitt 4.2 och 5.2). Blodbiverkningar \xe4r ovanliga med Ludiomil men patienten b\xf6r uppmanas att vid pl\xf6tsligt upptr\xe4dande halsbesv\xe4r, feber eller hudbl\xf6dningar kontakta l\xe4kare. Detta \xe4r speciellt viktigt under de f\xf6rsta behandlingsm\xe5naderna och under l\xe5ngtidsbehandling. Kramper har rapporterats med terapeutiska doser hos patienter utan f\xf6reg\xe5ende krampben\xe4genhet eller om den rekommenderade dosen av Ludiomil hastigt \xf6verskridits. Kramprisken kan reduceras genom att inleda behandlingen med l\xe5g dos, beh\xe5lla inledningsdosen i ett par veckor och sedan \xf6ka den f\xf6rsiktigt eller beh\xe5lla underh\xe5llsdosen p\xe5 minimal effektniv\xe5. I h\xe4ndelse av allvarliga biverkningar, t ex av neurologisk eller psykiatrisk art skall behandling med Ludiomil avbrytas. Tri- och tetracykliska antidepressiva kan efter l\xe5ngvarig anv\xe4ndning och hastigt uts\xe4ttande ge upphov till symptom som illam\xe5ende, kr\xe4kningar, magsm\xe4rtor, s\xf6mnsv\xe5righeter, \xe5ngest, huvudv\xe4rk och allm\xe4n sjukdomsk\xe4nsla. Dessa symptom uteblir eller kan lindras om l\xe4kemedlet uts\xe4tts l\xe5ngsamt.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Skin', u'Toxisk epidermal nekrolys, Stevens-Johnson syndrom.'],
              ['Cardiac',

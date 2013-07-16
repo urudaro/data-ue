@@ -1,9 +1,20 @@
 {'_data': [['Very common', [['Nervous system', u'Huvudv\xe4rk.']]],
            ['Common',
+<<<<<<< HEAD
             [['Vascular', u'V\xe4rmek\xe4nsla och flush.'], ['GI', u'F\xf6rstoppning.']]],
            ['Uncommon',
             [['Nervous system',
               u'Krampanfall, r\xf6relsest\xf6rningar (inklusive extrapyramidala reaktioner s\xe5som dystoni, okulogyr kris och dyskinesi (1)'],
+=======
+            [['Vascular', u'V\xe4rmek\xe4nsla och flush.'],
+             ['GI',
+              u'F\xf6rstoppning. Lokalt br\xe4nnande k\xe4nsla efter ins\xe4ttning av stolpiller.'],
+             ['General',
+              u'Lokala reaktioner p\xe5 injektionsst\xe4llet vid intraven\xf6s administrering. 1. Har observerats utan definitiva tecken p\xe5 best\xe5ende kliniska f\xf6ljdtillst\xe5nd. 2. I de flesta fall d\xe4r det rapporterades blindhet, gick det \xf6ver p\xe5 20 minuter. De flesta av patienterna hade f\xe5tt cytostatika, inklusive cisplatin. N\xe5gra av fallen av \xf6verg\xe5ende blindhet rapporterades ha kortikalt ursprung. 3. Detta har huvudsakligen observerats hos patienter som f\xe5tt kemoterapibehandling med cisplatin. Barn Biverkningsprofilen hos barn och ungdomar var j\xe4mf\xf6rbar med den som s\xe5gs hos vuxna.']]],
+           ['Uncommon',
+            [['Nervous system',
+              u'Krampanfall, r\xf6relsest\xf6rningar (inklusive extrapyramidala reaktioner s\xe5som dystoni, okulogyr kris och dyskinesi)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac',
               u'Arytmier, br\xf6stsm\xe4rta med eller utan ST-s\xe4nkning, bradykardi.'],
              ['Vascular', u'Hypotension'],
@@ -12,6 +23,7 @@
            ['Rare',
             [['Immune system',
               u'Omedelbara \xf6verk\xe4nslighetsreaktioner, ibland allvarliga, inkluderande anafylaxi.'],
+<<<<<<< HEAD
              ['Nervous system',
               u'Yrsel vid snabb intraven\xf6s administrering, som i de flesta fall kan f\xf6rebyggas eller lindras genom f\xf6rl\xe4ngning av infusionstiden.'],
              ['Cardiac', u'F\xf6rl\xe4ngt QT-intervall (\xe4ven Torsade de Pointes).'],
@@ -20,6 +32,14 @@
            ['Very rare',
             [['Eye',
               u'\xd6verg\xe5ende blindhet, huvudsakligen vid intraven\xf6s administrering. 1. Har observerats utan definitiva tecken p\xe5 best\xe5ende kliniska f\xf6ljdtillst\xe5nd. 2. I de flesta fall d\xe4r det rapporterades blindhet, gick det \xf6ver p\xe5 20 minuter. De flesta av patienterna hade f\xe5tt cytostatika, inklusive cisplatin. N\xe5gra av fallen av \xf6verg\xe5ende blindhet rapporterades ha kortikalt ursprung. 3. Detta har huvudsakligen observerats hos patienter som f\xe5tt kemoterapibehandling med cisplatin. Barn Biverkningsprofilen hos barn och ungdomar var j\xe4mf\xf6rbar med den som s\xe5gs hos vuxna.']]]],
+=======
+             ['Nervous system', u'Yrsel vid snabb intraven\xf6s administrering.'],
+             ['Eye',
+              u'\xd6verg\xe5ende visuella f\xf6r\xe4ndringar (t ex dimsyn) huvudsakligen vid snabb intraven\xf6s administrering.']]],
+           ['Very rare',
+            [['Eye',
+              u'\xd6verg\xe5ende blindhet, huvudsakligen vid intraven\xf6s administrering.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [5, 6],
  u'_rank': 13,
  u'_type': u'LSFU'}

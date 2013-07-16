@@ -33,8 +33,12 @@
              ['Skin',
               u'Stevens-Johnsons syndrom, erytema multiforme, toxisk epidermal nekrolys (TEN)'],
              ['Musculoskeletal', u'muskelsvaghet'],
+<<<<<<< HEAD
              ['Renal',
               u'interstitiell nefrit; i somliga patienter kan njursvikt f\xf6rekomma samtidigt'],
+=======
+             ['Renal', u'interstitiell nefrit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'gynekomasti']]],
            ['Unknown',
             [['Metabolism',

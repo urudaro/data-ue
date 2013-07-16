@@ -8,7 +8,12 @@
               u'rodnad p\xe5 \xf6verkroppen och i ansiktet, sm\xe4rta och spasmer i br\xf6st- och ryggmuskler.']]],
            ['Uncommon', [['Ear', u'\xf6verg\xe5ende eller permanent h\xf6rselbortfall']]],
            ['Rare',
+<<<<<<< HEAD
             [['Blood', u'00): trombocytopeni, neutropeni, agranulocytos, eosinofili'],
+=======
+            [['Blood',
+              u'(> 1/10 000, < 1/1000): trombocytopeni, neutropeni, agranulocytos, eosinofili'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'anafylaktiska reaktioner, \xf6verk\xe4nslighetsreaktioner'],
              ['Ear', u'tinnitus, yrsel'],
              ['Vascular', u'vaskulit'],

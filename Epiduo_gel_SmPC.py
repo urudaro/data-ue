@@ -7,6 +7,10 @@
              ['Respiratory', u'F\xf6rtr\xe4ngning i svalget'],
              ['Skin',
               u'Allergisk kontaktdermatit, svullet  ansikte, sm\xe4rta i huden (stickande sm\xe4rta)']]]],
+<<<<<<< HEAD
  '_pages': [2, 3],
+=======
+ '_pages': [3, 3],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 5,
  u'_type': u'TSFU'}

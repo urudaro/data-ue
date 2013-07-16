@@ -1,10 +1,16 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Nervous system', u'Huvudv\xe4rk'],
              ['Vascular', u'V\xe4rmevallningar'],
              ['GI', u'Illam\xe5ende'],
              ['Skin', u'Hudutslag'],
              ['Musculoskeletal', u'Ledv\xe4rk/ledstelhet  Artrit  Osteoporos'],
              ['General', u'Asteni']]],
+=======
+            [['Vascular', u'V\xe4rmevallningar'],
+             ['GI', u'Illam\xe5ende'],
+             ['Skin', u'Hudutslag']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Metabolism', u'Anorexi  Hyperkolesterolemi'],
              ['Nervous system', u'Somnolens  Karpaltunnelsyndrom*'],
@@ -12,6 +18,7 @@
              ['Hepato',
               u'F\xf6rh\xf6jt alkaliskt fosfatas,  alaninaminotransferas (ALAT) och aspartataminotransferas (ASAT)'],
              ['Skin', u'H\xe5ravfall (alopeci)  Allergiska reaktioner'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Sm\xe4rta i skelettbenen'],
              ['Reproductive system', u'Vaginal torrhet  Vaginal bl\xf6dning***']]],
            ['Uncommon',
@@ -24,4 +31,18 @@
            ['Very rare', [['Skin', u'Stevens-Johnsons syndrom  Angio\xf6dem']]]],
  '_pages': [3, 6],
  u'_rank': 18,
+=======
+             ['Skin', u'Sm\xe4rta i skelettbenen'],
+             ['Reproductive system', u'Vaginal torrhet']]],
+           ['Uncommon',
+            [['Hepato', u'F\xf6rh\xf6jning av gamma-GT och  bilirubin Hepatit'],
+             ['Skin', u'Urtikaria'],
+             ['Skin', u'Triggerfinger']]],
+           ['Rare',
+            [['Skin',
+              u'Erythema multiforme  Anafylaktisk reaktion Kutan vaskulit (inklusive vissa rapporter om Henoch- Sch\xf6nleins purpura)**']]],
+           ['Very rare', [['Skin', u'Stevens-Johnsons syndrom  Angio\xf6dem Osteoporos']]]],
+ '_pages': [3, 5],
+ u'_rank': 15,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

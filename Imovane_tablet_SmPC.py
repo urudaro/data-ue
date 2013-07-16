@@ -1,5 +1,9 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'D\xe5sighet, dysgeusi (bitter/metallis k smak)'],
+=======
+            [['Nervous system', u'D\xe5sighet, dysgeusi (bitter/metallisk smak)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Muntorrhet']]],
            ['Uncommon',
             [['Psychiatric', u'Oro, mardr\xf6mmar'],
@@ -14,6 +18,10 @@
              ['Investigations',
               u'Mild till m\xe5ttlig h\xf6jning av serumtransaminaser och/eller alkaliska fosfataser']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [4, 4],
+=======
+ '_pages': [4, 5],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 10,
  u'_type': u'MSFU'}

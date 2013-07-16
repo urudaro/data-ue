@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [[u'Unknown',
             [['Immune system', u'F\xf6rs\xe4mring av'],
              ['Metabolism', u'\xd6dem,   \xd6kat aptit,'],
@@ -22,3 +23,14 @@
  '_pages': [7, 11],
  u'_rank': 16,
  u'_type': u'LFSU'}
+=======
+{'_data': [['Rare',
+            [['Vascular',
+              u'. Andra biverkningar har rapporterats i samband med \xf6strogen / gestagen behandling: \xd6strogenberoende benign eller malign tum\xf6r, t.ex. endometriecancer. Ven\xf6s tromboembolism, dvs djup ben-eller b\xe4cken ven\xf6s trombos och lungemboli, \xe4r vanligare bland HRT anv\xe4ndare \xe4n bland icke-anv\xe4ndare. F\xf6r ytterligare information se avsnitt 4.3 Kontraindikationer och 4.4 Varningar och f\xf6rsiktighetsm\xe5tt. Hj\xe4rtinfarkt och stroke. Gallbl\xe5sesjukdom Hudsjukdomar: kloasma, erytema multiforme, erytema nodosum och vaskul\xe4r purpura. Trolig demens \xf6ver 65 \xe5rs \xe5lder (se avsnitt 4.4) Risken f\xf6r br\xf6stcancer \u2022En upp till dubblerad risk f\xf6r att f\xe5 diagnosen br\xf6stcancer har rapporterats f\xf6r kvinnor som f\xe5tt kombinerad behandling med \xf6strogen och gestagen i mer \xe4n 5 \xe5r. \u2022F\xf6r kvinnor som tagit enbart \xf6strogen \xe4r en eventuellt \xf6kad risk p\xe5tagligt l\xe4gre j\xe4mf\xf6rt med risken hos kvinnor som f\xe5tt kombinerad behandling med \xf6strogen och gestagen. \u2022Risken \xe4r beroende av behandlingstidens l\xe4ngd (se sektion 4.4). \u2022Resultaten fr\xe5n den st\xf6rsta randomiserade placebokontrollerade studien (WHI studien) och fr\xe5n den st\xf6rsta observationella studien (Million Women Study, MWS) presenteras nedan']]],
+           ['Unknown',
+            [['Vascular',
+              u'flebit , purpura tromboembolism ischemiska h\xe4ndelser , Andningsv\xe4ga Dyspn\xe9 , rinit r, br\xf6stkorg och mediastinum Magtarmkanal Illam\xe5ende, F\xf6rstoppning, Magsm\xe4rtor, en kr\xe4kning, dyspepsi , diarr\xe9 ,uppbl\xe5sthet magkramper, rektala besv\xe4r (utsp\xe4nd buk), flatulens Lever och F\xf6r\xe4ndringar i Kolestatisk gallv\xe4gar leverfunktion och gulsot gallfl\xf6de Hud och Acne, alopecia, torr Hudutslag Kontaktdermatit, subkutan hud, nagelbesv\xe4r ,eksem v\xe4vnad hudknutor , hirsutism Muskulo- Ledbesv\xe4r, Skeletala muskelkramper systmet och bindv\xe4v Njurar och \xd6kad urinv\xe4gar miktionsfrekvens/ urintr\xe4ngningar, urininkontinens cystit , missf\xe4rgad urin , hematuri Reproduktions Oregelbunden Br\xf6stf\xf6rstoring, organ och vaginalbl\xf6dning \xf6mhet i br\xf6sten, br\xf6stk\xf6rtel eller endometriehyper st\xe4nkbl\xf6dning, plasi, sjukdomar i flytningar, livmodern sjukdom i vulva/vagina, menstruations rubbningar sm\xe4rta/sp\xe4nning i br\xf6sten Allm\xe4nna Hudirritation, Tr\xf6tthet, onormala symtom kl\xe5da p\xe5 laboratorietest , och/eller applikations- asteni , feber , symtom vid st\xe4llet, sm\xe4rta, influensa-syndrom , administrering \xf6kad svettning sjukdomsk\xe4nsla s-st\xe4llet har rapporterats i enstaka fall i kliniska pr\xf6vningar. Enligt den lilla studiepopulationen (n = 611) kan det inte best\xe4mmas utifr\xe5n dessa resultat om h\xe4ndelserna \xe4r ovanliga eller']]]],
+ '_pages': [7, 11],
+ u'_rank': 2,
+ u'_type': u'LSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

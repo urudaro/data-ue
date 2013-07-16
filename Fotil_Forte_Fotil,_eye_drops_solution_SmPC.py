@@ -16,7 +16,11 @@
              ['Skin', u'Exantem, urtikaria.'],
              ['Respiratory', u'Bronkospasm, andningsstillest\xe5nd.'],
              ['Eye',
+<<<<<<< HEAD
               u'Blefarit, ptos, dubbelseende, nedsatt kornealsensibilitet, linsgrumling vid  l\xe5ngtidsanv\xe4ndning, n\xe4thinneavlossning (speciellt hos yngre myopiska patienter),  konjunktival injektion, torra \xf6gon.']]]],
+=======
+              u'Blefarit, ptos, dubbelseende, nedsatt kornealsensibilitet, linsgrumling vid  l\xe5ngtidsanv\xe4ndning, n\xe4thinneavlossning (speciellt hos yngre myopiska patienter), konjunktival  injektion, torra \xf6gon.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [3, 4],
  u'_rank': 13,
  u'_type': u'LFSUR'}

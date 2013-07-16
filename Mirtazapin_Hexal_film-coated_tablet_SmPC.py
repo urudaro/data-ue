@@ -16,6 +16,7 @@
              ['GI', u'Oral hypoestesi'],
              ['Vascular', u'Hypotension'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Mar-dr\xf6mm ar Mani Agitation Hallucinatio ner Psykomotori sk oro (inkl. akatisi, hyperkinesi)']]],
            ['Rare',
             [['Nervous system', u'Myoklonu s'],
@@ -35,4 +36,21 @@
  '_note': u' ?MSFU',
  '_pages': [5, 8],
  u'_rank': 26,
+=======
+              u'Mar-dr\xf6mmar Mani Agitation Hallucinatio ner Psykomotori sk oro (inkl. akatisi, hyperkinesi)']]],
+           ['Rare',
+            [['Nervous system', u'Myoklonu s'],
+             ['Hepato', u'F\xf6rh\xf6jda transaminas er i serum']]],
+           ['Unknown',
+            [['Blood',
+              u'Benm\xe4rgsdepress ion (granulocytopeni, agranulocytos, aplastisk anemi trombocytopeni) Eosinofili'],
+             ['Nervous system', u'Kramper (anfall) Serotonin-syndrom Oral parestesi'],
+             ['GI', u'\xd6dem i munnen'],
+             ['Metabolism', u'Hyponatremi'],
+             ['Psychiatric', u'Suicidtankar Suicidalt beteende'],
+             ['Endocrine', u'Felaktig sekretion av antidiuretiskt']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 8],
+ u'_rank': 23,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

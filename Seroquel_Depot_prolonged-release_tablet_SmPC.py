@@ -4,7 +4,11 @@
               u'F\xf6rh\xf6jda triglyceridniv\xe5er i serum F\xf6rh\xf6jda totalkolesterolniv\xe5er (fr\xe4mst LDL-kolesterol) S\xe4nkta HDL-kolesterolniv\xe5er , vikt\xf6kning'],
              ['Nervous system', u'Yrsel , somnolens , huvudv\xe4rk'],
              ['GI', u'Muntorrhet'],
+<<<<<<< HEAD
              ['General', u'Uts\xe4ttningssymtom'],
+=======
+             ['Reproductive system', u'Uts\xe4ttningssymtom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'\xd6kad aptit'],
              ['Investigations', u'F\xf6rh\xf6jda prolaktinv\xe4rden , blodtrycksh\xf6jningar'],
              ['Nervous system', u'Extrapyramidala symtom']]],
@@ -24,7 +28,11 @@
              ['GI', u'F\xf6rstoppning, dyspepsi, kr\xe4kningar'],
              ['Hepato',
               u'F\xf6rh\xf6jda transaminasniv\xe5er i serum (ALAT, ASAT) , f\xf6rh\xf6jda gamma-GT-niv\xe5er'],
+<<<<<<< HEAD
              ['General', u'Mild asteni, perifert \xf6dem, irritabilitet, feber'],
+=======
+             ['Reproductive system', u'Mild asteni, perifert \xf6dem, irritabilitet, feber'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General',
               u'Irritabilitet 1. Prolaktinniv\xe5er (patienter < 18 \xe5r): >20 \xb5g/l (>869,56 pmol/l) m\xe4n; >26 \xb5g/l (>1130,428 pmol/l) kvinnor vid valfri tidpunkt. Mindre \xe4n 1 % av patienterna fick en h\xf6jning till en prolaktinniv\xe5 >100 \xb5g/l. 2. Baserat p\xe5 f\xf6r\xe4ndringar \xf6ver kliniskt signifikanta tr\xf6skelv\xe4rden (anpassade fr\xe5n kriterierna fr\xe5n amerikanska National Institutes of Health) eller h\xf6jningar p\xe5 >20 mm Hg i systoliskt eller >10 mm Hg f\xf6r diastoliskt blodtryck vid valfri tidpunkt i tv\xe5 akuta (3-6 veckor l\xe5nga) placebokontrollerade studier p\xe5 barn och ungdomar. 3. Se avsnitt 5.1 4. Kommentar: Frekvensen \xf6verensst\xe4mmer med den som observerats hos vuxna, men irritabilitet kan vara f\xf6renad med andra kliniska implikationer hos barn och ungdomar \xe4n hos vuxna.']]],
            ['Uncommon',
@@ -45,13 +53,19 @@
              ['GI', u'Pankreatit'],
              ['Hepato', u', hepatit Gulsot'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Priapism, galaktorr\xe9, br\xf6stsvullnad, menstruationsrubbning'],
              ['General', u'Malignt neuroleptika-syndrom , hypotermi'],
+=======
+              u'Priapism, galaktorr\xe9, br\xf6stsvullnad, menstruationsrubbning Allm\xe4nna symtom och/eller fynd vid administreringsst\xe4llet'],
+             ['Reproductive system', u'Malignt neuroleptika-syndrom , hypotermi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations',
               u'F\xf6rh\xf6jt kreatinfosfokinas i blod (1) Se avsnitt 4.4. (2) Somnolens kan intr\xe4ffa, f\xf6retr\xe4desvis under de f\xf6rsta tv\xe5 behandlingsveckorna och f\xf6rsvinner vanligen vid fortsatt administrering av quetiapin. (3) Asymtomatisk f\xf6rh\xf6jning (f\xf6r\xe4ndring fr\xe5n normal niv\xe5 till >3 x ULN vid n\xe5gon tidpunkt) av serumtransaminaser (ALAT, ASAT) eller gamma-GT har observerats hos patienter som behandlats med Seroquel. Dessa f\xf6rh\xf6jningar var i de flesta fall reversibla under fortsatt quetiapinbehandling. (4) Liksom andra antipsykotika som blockerar alfa-1-adrenerga receptorer kan quetiapin ofta inducera ortostatisk hypotoni, f\xf6rknippad med yrsel, takykardi och hos vissa patienter synkope. Detta intr\xe4ffar framf\xf6rallt under den initiala dostitreringsperioden (se 4.4) (5) F\xf6rs\xe4mring av befintlig diabetes har rapporterats i mycket s\xe4llsynta fall. (6) Ber\xe4kning av frekvens f\xf6r dessa biverkningar bygger endast p\xe5 data som erh\xe5llits efter marknadsintroduktion av quetiapintabletter med omedelbar fris\xe4ttning. (7) Fasteblodglukos p\xe5 \u2265126 mg/dl (\u22657,0 nmol/l) eller icke fastande blodglukos p\xe5 \u2265200 mg/dl (\u226511,1 nmol/l) vid \xe5tminstone ett tillf\xe4lle. (8) \xd6kad f\xf6rekomst av dysfagi vid behandling med quetiapin j\xe4mf\xf6rt med placebo har endast observerats i kliniska studier av bipol\xe4r depression. (9) Baserat p\xe5 >7% \xf6kning i kroppsvikt fr\xe5n baseline. Uppkommer fr\xe4mst under behandlingens f\xf6rsta veckor hos vuxna. (10) F\xf6ljande uts\xe4ttningssymtom s\xe5gs mest frekvent i akuta placebokontrollerade kliniska pr\xf6vningar vid monoterapi, som utv\xe4rderade symtom efter avslutad behandling: s\xf6mnl\xf6shet, illam\xe5ende, huvudv\xe4rk, diarr\xe9, kr\xe4kningar, yrsel och irritabilitet. Uppkomsten av dessa reaktioner hade minskat signifikant 1 vecka efter avslutad behandling. (11) Triglycerider \u2265200 mg/dl (\u22652,258 mmol/l) (patienter \u226518 \xe5r) eller \u2265150 mg/dl (\u22651,694 mmol/l) (patienter <18 \xe5r) vid \xe5tminstone ett tillf\xe4lle. (12) Kolesterol \u2265240 mg/dl (\u22656,2064 mmol/l) (patienter \u226518 \xe5r) eller \u2265200 mg/dl (\u22655,172 mmol/l) (patienter <18 \xe5r)vid \xe5tminstone ett tillf\xe4lle. Ett f\xf6rh\xf6jt LDL-kolesterolv\xe4rde p\xe5 \u226530 mg/dl (\u22650,769 mmol/l) har varit en mycket vanlig observation. Genomsnittlig f\xf6r\xe4ndring hos patienter med denna f\xf6rh\xf6jning var 41,7 mg/dl (\u22651,07 mmol/l). (13) Se nedanst\xe5ende text (14) Trombocytantal <100 x 10 /l vid \xe5tminstone ett tillf\xe4lle. (15) Baserat p\xe5 biverkningsrapporter fr\xe5n kliniska studier av f\xf6rh\xf6jt kreatinfosfokinas som inte var associerat till malignt neuroleptika-syndrom (16) Prolaktinniv\xe5er (patienter med \xe5lder>18 \xe5r): >20 \xb5g/l (>869,56 pmol/l) m\xe4n; >30 \xb5g/l (>1304,34 pmol/l) kvinnor oberoende av tidpunkt (17) Kan leda till fall (18) HDL-kolesterol: <40 mg/dl (1,025 mmol/l) f\xf6r m\xe4n; <50 mg/dl (1,282 mmol/l) f\xf6r kvinnor oberoende av tidpunkt. (19) F\xf6rekomst av patienter som f\xe5tt QTc-f\xf6r\xe4ndring fr\xe5n <450 msek till \u2265450 msek med en \u226530 msek f\xf6rl\xe4ngning. I placebokontrollerade kliniska studier med quetiapin \xe4r den genomsnittliga f\xf6r\xe4ndringen och f\xf6rekomsten hos patienter med en kliniskt signifikant f\xf6r\xe4ndring j\xe4mf\xf6rbar med placebo. (20) F\xf6rskjutning fr\xe5n >132 mmol/l till \u2264132 mmol/l vid minst ett tillf\xe4lle. (21) Fall av suicidtankar och suicidbeteende har rapporterats under behandling med quetiapin eller kort tid efter uts\xe4ttande av behandling (se avsnitt 4.4 och 5.1). (22) Se avsnitt 5.1 (23) En s\xe4nkning av hemoglobinv\xe4rdet till \u226413 g/dl (8,07 mmol/l) hos m\xe4n, \u226412 g/dl (7,45 mmol/l) hos kvinnor vid minst ett tillf\xe4lle f\xf6rekom hos 11 % av quetiapinpatienterna i samtliga studier inklusive \xf6ppna uppf\xf6ljningsstudier. F\xf6r dessa patienter var den genomsnittliga maximala s\xe4nkningen av hemoglobinv\xe4rdet vid n\xe5gon tidpunkt -1,50 g/dl. (24) Dessa rapporter f\xf6rekom ofta vid takykardi, yrsel, ortostatisk hypotoni och/eller bakomliggande hj\xe4rt-/luftv\xe4gssjukdom. (25) Baserat p\xe5 f\xf6r\xe4ndringar fr\xe5n normalt utg\xe5ngsv\xe4rde till potentiellt kliniskt viktigt v\xe4rde vid n\xe5gon tidpunkt efter utg\xe5ngsv\xe4rdet i alla studier. F\xf6r\xe4ndringar av totalt T , fritt T , totalt T och fritt T definieras som <0,8 x LLN (pmol/l) och f\xf6r\xe4ndring av TSH \xe4r >5 mIE/l vid n\xe5gon tidpunkt. (26) Baserat p\xe5 den \xf6kade frekvensen av kr\xe4kningar hos \xe4ldre patienter (>65 \xe5r). (27) F\xf6r\xe4ndring av antal neutrofiler fr\xe5n ett utg\xe5ngsv\xe4rde p\xe5 >1,5 x 10 /l till <0,5 x 10 /l vid n\xe5gon tidpunkt under behandlingen. (28) Baserat p\xe5 f\xf6r\xe4ndringar fr\xe5n normalt utg\xe5ngsv\xe4rde till potentiellt kliniskt viktigt v\xe4rde vid n\xe5gon tidpunkt efter studiestart i alla studier. F\xf6r\xe4ndringar i neutrofilantal definieras som >1 x 10 celler/l vid n\xe5gon tidpunkt. (29) Baserat p\xe5 f\xf6r\xe4ndringar fr\xe5n normalt utg\xe5ngsv\xe4rde till potentiellt kliniskt viktigt v\xe4rde vid n\xe5gon tidpunkt efter studiestart i alla studier. F\xf6r\xe4ndringar i Lkc definieras som <3 x 10 celler/l vid n\xe5gon tidpunkt. (30) Baserat p\xe5 biverkningsrapporter om metaboliskt syndrom fr\xe5n alla kliniska pr\xf6vningar med quetiapin. (31) Hos vissa patienter observerades en f\xf6rs\xe4mring av fler \xe4n en av de metabola faktorerna vikt, blodglukos och lipider i kliniska studier (se avsnitt 4.4). (32) Se avsnitt 4.6. Fall med QT-f\xf6rl\xe4ngning, ventrikul\xe4r arytmi, pl\xf6tslig of\xf6rklarlig d\xf6d, hj\xe4rtstillest\xe5nd och torsades de pointes har rapporterats vid anv\xe4ndning av neuroleptika och \xe4r att betrakta som klasseffekter.']]],
            ['Very rare',
             [['Immune system', u'Anafylaktisk reaktion Endokrina st\xf6rningar'],
              ['Immune system', u'Inadekvat sekretion av antidiuretiskt hormon'],
+<<<<<<< HEAD
              ['Skin', u'Angio\xf6dem , Stevens-Johnsons syndrom'],
              ['Musculoskeletal', u'Rabdomyolys']]],
            ['Unknown',
@@ -59,4 +73,12 @@
              ['Pregnancy', u'Neonatalt uts\xe4ttningssyndrom']]]],
  '_pages': [8, 11],
  u'_rank': 44,
+=======
+             ['Skin',
+              u'Angio\xf6dem , Stevens-Johnsons syndrom Toxisk epidermal nekrolys, erythema multiforme'],
+             ['Musculoskeletal', u'Rabdomyolys']]],
+           ['Unknown', [['Pregnancy', u'Neonatalt uts\xe4ttningssyndrom']]]],
+ '_pages': [8, 11],
+ u'_rank': 43,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

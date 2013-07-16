@@ -39,11 +39,19 @@
              ['General',
               u'Lokal nekros har observerats. R\xe4tt positionering av den intraven\xf6sa kanylen eller katetern och bolusinjektion f\xf6ljd av riklig sk\xf6ljning av venen kan begr\xe4nsa dessa effekter.']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Infections', u'Komplicerad septikemi och i vissa fall fatal septikemi.'],
              ['Cardiac', u'Takykardi, palpitation och hj\xe4rtrytmrubbningar.']]],
            ['Unknown',
             [['Infections', u'Neutropen sepsis.'],
              ['Blood', u'Febril neutropeni.'],
+=======
+            [['Infections',
+              u'Komplicerad septikemi och i vissa fall fatal septikemi. Neutropen sepsis.'],
+             ['Cardiac', u'Takykardi, palpitation och hj\xe4rtrytmrubbningar.']]],
+           ['Unknown',
+            [['Blood', u'Febril neutropeni.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'Systemiska allergiska reaktioner som rapporterats \xe4r anafylaksi, anafylaktisk chock eller anafylaktoida reaktioner.'],
              ['Endocrine',
@@ -51,5 +59,9 @@
              ['Metabolism', u'Anorexi.'],
              ['Skin', u'Erytem p\xe5 h\xe4nder och f\xf6tter.']]]],
  '_pages': [4, 6],
+<<<<<<< HEAD
  u'_rank': 30,
+=======
+ u'_rank': 29,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

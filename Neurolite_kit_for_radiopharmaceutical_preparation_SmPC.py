@@ -7,6 +7,7 @@
              ['Respiratory', u' Apn\xe9, cyanos '],
              ['GI', u' F\xf6rstoppning, illam\xe5ende, dyspepsi, diarr\xe9'],
              ['Skin', u' Exantem'],
+<<<<<<< HEAD
              ['Musculoskeletal', u' Ryggsm\xe4rta '],
              ['General', u' Sjukdomsk\xe4nsla ']]],
            ['Rare',
@@ -16,4 +17,13 @@
               u'Anafylaktiska reaktioner av mild till allvarlig sv\xe5righetsgrad (manifestationer s\xe5som \xf6dem, l\xe4ppsvullnad, hypotension)']]]],
  '_pages': [3, 4],
  u'_rank': 11,
+=======
+             ['Musculoskeletal', u' Ryggsm\xe4rta'],
+             ['General', u' Sjukdomsk\xe4nsla ']]],
+           ['Rare',
+            [['Immune system',
+              u' Anafylaktiska reaktioner av mild till allvarlig sv\xe5righetsgrad (manifestationer s\xe5som \xf6dem, l\xe4ppsvullnad, hypotension)']]]],
+ '_pages': [3, 4],
+ u'_rank': 10,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU2'}

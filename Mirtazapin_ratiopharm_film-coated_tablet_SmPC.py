@@ -9,14 +9,22 @@
              ['GI', u'Illam\xe5ende Diarr\xe9 Kr\xe4kningar'],
              ['Skin', u'Exantem'],
              ['Musculoskeletal', u'Artralgi Myalgi Ryggont'],
+<<<<<<< HEAD
              ['General', u'Perifera \xf6dem Tr\xf6tthet']]],
            ['Uncommon',
             [['Psychiatric',
               u'Mardr\xf6mmar Mani Agitation Hallucinationer Psykomotorisk oro (inkl. akatisi, hyperkinesi)'],
+=======
+             ['General', u'Perifera \xf6dem']]],
+           ['Uncommon',
+            [['Psychiatric',
+              u'Mardr\xf6mmar Mani Agitation Hallucinatione r Psykomotoris k oro (inkl. akatisi, hyperkinesi)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Paraestesi Restless legs Synkope'],
              ['Vascular', u'Hypotension'],
              ['GI', u'Oral hypoestesi']]],
            ['Rare',
+<<<<<<< HEAD
             [['Psychiatric', u'Aggression'],
              ['Nervous system', u'Myoklonus'],
              ['Hepato', u'F\xf6rh\xf6jda transaminaser i serum']]],
@@ -34,4 +42,21 @@
  '_note': u' ?MSFU',
  '_pages': [6, 8],
  u'_rank': 25,
+=======
+            [['Nervous system', u'Myoklonus'],
+             ['Hepato', u'F\xf6rh\xf6jda transaminaser i serum']]],
+           ['Unknown',
+            [['Blood',
+              u'Benm\xe4rgs-depression (granulocytop eni, agranulocytos , aplastisk anemi, trombocytope ni) Eosinofili'],
+             ['Endocrine', u'Felaktig sekretion av antidiuretiskt hormon'],
+             ['Metabolism', u'Hyponatremi'],
+             ['Psychiatric', u'Suicidtankar Suicidalt beteende'],
+             ['Nervous system', u'Kramper (anfall) Serotonin syndrom Oral parestesi'],
+             ['GI', u'\xd6dem i munnen'],
+             ['Skin',
+              u'Stevens-Johnsons syndrom Bull\xf6sa utslag Erythema multiforme Toxisk epidermal nekrolys']]]],
+ '_note': u' ?MSFU',
+ '_pages': [6, 8],
+ u'_rank': 23,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

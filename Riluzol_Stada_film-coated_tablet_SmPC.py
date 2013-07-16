@@ -6,7 +6,12 @@
            ['Common',
             [['Cardiac', u'takykar di Andningsv \xe4 gar, br\xf6stkorg och me diastinu m'],
              ['Cardiac', u'diarr\xe9, buks m \xe4 r t or, kr\xe4kning'],
+<<<<<<< HEAD
              ['Hepato', u'sm\xe4r t a']]],
+=======
+             ['Hepato',
+              u'sm\xe4r t a *Studied a t a tyder p\xe5 att asiatiska patient e r kan vara k\xe4nsligar e f\xf6r abnor m a leverfunktionsv \xe4 r d e n \u2013 3,2% (194/599 5) f\xf6r asiatiska patient e r och 1,8% (100/564 1) f\xf6r kauka siska patient e r.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Cardiac', u'interstitiell lungsjukdo m (se avsnitt 4.4) Magtar m k a n al e n'],
              ['Cardiac', u'pankr e a tit']]],

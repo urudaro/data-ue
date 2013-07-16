@@ -6,9 +6,14 @@
              ['Vascular', u'Hypotoni, s\xe4nkt ortostatiskt blodtryck, synkope'],
              ['Respiratory', u'Icke-produktiv rethosta, bronkit, sinuit, dyspn\xe9'],
              ['GI',
+<<<<<<< HEAD
               u'Gastro-intestin al inflammation, matsm\xe4ltnings st\xf6rningar, bukbesv\xe4r, dyspepsi, diarr\xe9, illam\xe5ende, kr\xe4kningar'],
              ['Skin', u'Utslag, s\xe4rskilt makulo-papul\xf6 sa'],
              ['Musculoskeletal', u'Muskel-kramp er, myalgi'],
+=======
+              u'Gastro-intestinal inflammation, matsm\xe4ltnings st\xf6rningar, bukbesv\xe4r, dyspepsi, diarr\xe9, illam\xe5ende, kr\xe4kningar'],
+             ['Skin', u'Utslag, s\xe4rskilt makulo-papul\xf6sa'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Br\xf6stsm\xe4rta, tr\xf6tthet']]],
            ['Uncommon',
             [['Nervous system', u'Yrsel, parestesier'],
@@ -19,6 +24,7 @@
              ['Blood', u'Eosinofili'],
              ['Metabolism', u'Anorexi, minskad aptit'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Nedst\xe4mdhet, \xe5ngest, nervositet, s\xf6mn-st\xf6rning ar inklusive somnolens'],
              ['Nervous system', u'Svindel, parestesi, ageusi, dysgeusi'],
              ['Eye', u'Synst\xf6rningar inklusive dimsyn'],
@@ -33,39 +39,82 @@
              ['Skin',
               u'Angio\xf6dem; i mycket s\xe4llsynta fall kan luftv\xe4gs-obstru ktion till f\xf6ljd av angio\xf6dem f\xe5 d\xf6dlig utg\xe5ng; kl\xe5da, hyperhidros'],
              ['Musculoskeletal', u'Artralgi'],
+=======
+              u'Nedst\xe4mdhet, \xe5ngest, nervositet, s\xf6mn-st\xf6rningar inklusive somnolens'],
+             ['Nervous system', u'Svindel, parestesi, ageusi, dysgeusi'],
+             ['Eye', u'Synst\xf6rningar inklusive dimsyn'],
+             ['Cardiac',
+              u'Myokard-ischemi inklusive angina pectoris eller myokard-infarkt, takykardi, arytmi, palpitationer, perifert \xf6dem'],
+             ['Vascular', u'Rodnad'],
+             ['Respiratory', u'Bronkospasm inklusive f\xf6rv\xe4rrad astma, n\xe4st\xe4ppa'],
+             ['GI',
+              u'Pankreatit (mycket s\xe4llsynta fall med d\xf6dlig utg\xe5ng har rapporterats med ACE-h\xe4mmare), f\xf6rh\xf6jda niv\xe5er av pankreas-enzymer, tunntarms-angio\xf6dem, sm\xe4rtor i \xf6vre delen av buken inklusive gastrit, f\xf6rstoppning, muntorrhet'],
+             ['Hepato',
+              u'F\xf6rh\xf6jda niv\xe5er av leverenzymer och/eller konjugerat bilirubin'],
+             ['Skin',
+              u'Angio\xf6dem; i mycket s\xe4llsynta fall kan luftv\xe4gs-obstruktion till f\xf6ljd av angio\xf6dem f\xe5 d\xf6dlig utg\xe5ng; kl\xe5da, hyperhidros'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal',
               u'Nedsatt njurfunktion inklusive akut njursvikt, \xf6kad urinproduktion , f\xf6rs\xe4mring av befintlig proteinuri, f\xf6rh\xf6jda niv\xe5er av urea och kreatinin i blodet'],
              ['Reproductive system', u'\xd6verg\xe5ende erektil impotens, minskad libido'],
              ['General', u'Pyrexi']]],
            ['Rare',
+<<<<<<< HEAD
             [['Psychiatric', u'Impotens/sexuell funktions-neds\xe4ttn ing'],
+=======
+            [['Psychiatric', u'Impotens/sexuell funktions-neds\xe4ttning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Synkope'],
              ['GI', u'Kr\xe4kning'],
              ['Skin', u'Urtikaria'],
              ['Musculoskeletal', u'Artralgi, myalgi'],
              ['Blood',
+<<<<<<< HEAD
               u'S\xe4nkt antal vita blodkroppar (inklusive neutropeni eller agranulocytos) , s\xe4nkt antal r\xf6da blodkroppar, s\xe4nkt hemoglobin-ni v\xe5, s\xe4nkt antal trombocyter'],
              ['Psychiatric', u'F\xf6rvirrings-till st\xe5nd'],
              ['Nervous system', u'Tremor, balans-rubbnin g'],
              ['Eye', u'Konjunktivit'],
              ['Ear', u'Nedsatt h\xf6rsel, tinnitus'],
              ['Vascular', u'Vaskul\xe4r stenos, hyperfusion, vaskulit'],
+=======
+              u'S\xe4nkt antal vita blodkroppar (inklusive neutropeni eller agranulocytos) , s\xe4nkt antal r\xf6da blodkroppar, s\xe4nkt hemoglobin-niv\xe5, s\xe4nkt antal trombocyter'],
+             ['Immune system', u'7(14)'],
+             ['Psychiatric', u'F\xf6rvirrings-tillst\xe5nd'],
+             ['Nervous system', u'Tremor, balans-rubbning'],
+             ['Eye', u'Konjunktivit'],
+             ['Ear', u'Nedsatt h\xf6rsel, tinnitus'],
+             ['Vascular', u'Vaskul\xe4r stenos, hyperfusion, vaskulit'],
+             ['Respiratory', u'8(14)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Glossit'],
              ['Hepato', u'Kolestatisk gulsot, hepatocellul\xe4r skada'],
              ['Skin', u'Exfoliativ dermatit, urtikaria, onykolys'],
              ['General', u'Asteni']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Immune system', u'\xd6verk\xe4nslighets-r eaktioner'],
+=======
+            [['Immune system', u'\xd6verk\xe4nslighets-reaktioner'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Hyperglykemi'],
              ['Vascular', u'Leukocytoklastisk vaskulit'],
              ['GI', u'Gingival hyperplasi, gingivit'],
              ['Hepato', u'F\xf6rh\xf6jda leverenzymer'],
+<<<<<<< HEAD
              ['Skin', u'Fotosensitivitets-r eaktioner, angio\xf6dem'],
              ['Renal', u'Pollakisuri'],
              ['General', u'Feber'],
              ['Skin', u'Ljusk\xe4nslig-he tsreaktion']]],
            ['Unknown',
             [['Blood', u'Benm\xe4rgs-svik t, pancytopeni, hemolytisk anemi'],
+=======
+             ['Skin', u'Fotosensitivitets-reaktioner, angio\xf6dem'],
+             ['Renal', u'Pollakisuri'],
+             ['General', u'Feber'],
+             ['Skin', u'Ljusk\xe4nslig-hetsreaktion']]],
+           ['Unknown',
+            [['Blood', u'Benm\xe4rgs-svikt, pancytopeni, hemolytisk anemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'Anafylaktiska eller anafylaktoida reaktioner, \xf6kat antal antinukle\xe4ra antikroppar'],
              ['Metabolism', u'S\xe4nkt natriumniv\xe5 i blodet'],
@@ -77,7 +126,11 @@
              ['Hepato',
               u'Akut leversvikt, kolestatisk eller cytolytisk hepatit (d\xf6dlig utg\xe5ng har varit mycket s\xe4llsynt)'],
              ['Skin',
+<<<<<<< HEAD
               u'Toxisk epidermal nekrolys, Stevens-Johns ons syndrom, erythema multiforme, pemfigus, f\xf6rv\xe4rrad psoriasis, psoriasisliknan de dermatit, pemfigoida eller likenoida exantem eller enantem, alopeci'],
+=======
+              u'Toxisk epidermal nekrolys, Stevens-Johnsons syndrom, erythema multiforme, pemfigus, f\xf6rv\xe4rrad psoriasis, psoriasisliknan de dermatit, pemfigoida eller likenoida exantem eller enantem, alopeci'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Gynekomasti']]]],
  '_note': u' ?MSFU',
  '_pages': [6, 10],

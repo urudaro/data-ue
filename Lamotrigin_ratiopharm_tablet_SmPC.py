@@ -28,12 +28,21 @@
              ['Skin', u'Stevens-Johnsons syndrom.'],
              ['Skin',
               u'associerade d\xf6dsfall har f\xf6rekommit (se avsnitt 4.4). Risken f\xf6r hudutslag f\xf6refaller generellt vara starkt kopplad till: h\xf6ga initialdoser av lamotrigin och \xf6verskridande av den rekommenderade dosupptrappningen av lamotriginbehandlingen (se avsnitt 4.2) samtidig anv\xe4ndning av valproat (se avsnitt 4.2). Hudutslag har \xe4ven rapporterats som del av ett \xf6verk\xe4nslighetssyndrom som s\xe4tts i samband med ett varierande m\xf6nster av systemiska symtom (se Immunsystemet**).'],
+<<<<<<< HEAD
              ['Skin', u'Stevens-Johnsons syndrom*.']]],
+=======
+             ['Skin',
+              u'Stevens-Johnsons syndrom*. *Allvarliga hudreaktioner (severe cutaneous adverse reactions, SCARs); Stevens-Johnsons syndrom (SJS) har rapporterats (se avsnitt 4.4). Vid sammanst\xe4llning av alla studier med bipol\xe4r sjukdom (kontrollerade och okontrollerade) som utf\xf6rts med lamotrigin har hudutslag rapporterats hos 12 % av de patienter som behandlats med lamotrigin. I de kontrollerade kliniska studierna med bipol\xe4r sjukdom rapporterades hudutslag d\xe4remot hos 8 % av patienterna som fick lamotrigin respektive 6 % av de patienter som fick placebo.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Blood',
               u'hematologiska avvikelser s\xe5som neutropeni, leukopeni, anemi, trombocytopeni, pancytopeni, aplastisk anemi, agranulocytos'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xf6verk\xe4nslighetssyndrom** (inkluderande symtom som feber, lymfadenopati, ansikts\xf6dem, blod- och leverabnormiteter, disseminerad intravaskul\xe4r koagulation, multipel organsvikt).'],
+=======
+              u'\xf6verk\xe4nslighetssyndrom** (inkluderande symtom som feber, lymfadenopati, ansikts\xf6dem, blod- och leverabnormiteter, disseminerad intravaskul\xe4r koagulation, multipel organsvikt). **Hudutslag har \xe4ven rapporterats som delsymtom i ett \xf6verk\xe4nslighetssyndrom med ett varierande m\xf6nster av systemiska symtom med bland annat feber, lymfadenopati, ansikts\xf6dem samt blod- och leverabnormiteter. Syndromet uppvisar mycket varierande klinisk sv\xe5righetsgrad och kan i s\xe4llsynta fall leda till disseminerad intravasal koagulation och multiorgansvikt. Det \xe4r viktigt att notera att tidiga tecken p\xe5 \xf6verk\xe4nslighet (t.ex. feber, lymfadenopati) kan upptr\xe4da utan tecken p\xe5 samtidiga hudreaktioner. Om patienten uppvisar s\xe5dana statusfynd och symtom ska patienten omedelbart utv\xe4rderas och Lamotrigin ratiopharm uts\xe4ttas om inte en annan orsak kan fastst\xe4llas.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'konfusion, hallucinationer, tics.'],
              ['Nervous system',
               u'agitation, ostadighet, motorikst\xf6rningar, f\xf6rs\xe4mring av Parkinsons sjukdom, extrapyramidala biverkningar, koreoatetos, \xf6kad anfallsfrekvens.'],

@@ -3,10 +3,17 @@
              ['GI', u': smakf\xf6r\xe4ndringar  ']]],
            ['Common',
             [['Eye',
+<<<<<<< HEAD
               u' konjunktival injektion, dimsyn, korneal erosion, \xf6gonkl\xe5da, \xf6kat t\xe5rfl\xf6de  '],
              ['Eye', u' \xf6gonlocksinflammation*, \xf6gonlocksirritation*  '],
              ['Eye',
               u' tecken och symtom p\xe5 okul\xe4r irritation inkluderande blefarit*, keratit*, minskad korneal  '],
+=======
+              u': konjunktival injektion, dimsyn, korneal erosion, \xf6gonkl\xe5da, \xf6kat t\xe5rfl\xf6de  '],
+             ['Eye', u': \xf6gonlocksinflammation*, \xf6gonlocksirritation*  '],
+             ['Eye',
+              u': tecken och symtom p\xe5 okul\xe4r irritation inkluderande blefarit*, keratit*, minskad korneal  '],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u': sinuit  '],
              ['GI', u': illam\xe5ende*  '],
              ['Reproductive system', u': asteni/tr\xf6tthet*  ']]],
@@ -14,6 +21,7 @@
             [['Eye', u': iridocyklit*  '], ['Reproductive system', u': asteni/tr\xf6tthet*  ']]],
            ['Rare',
             [['Eye',
+<<<<<<< HEAD
               u' irritation med rodnad*, sm\xe4rta*, bel\xe4ggningar p\xe5 \xf6gonlocken*, \xf6verg\xe5ende myopati  '],
              ['Ear', u' tinnitus*  '],
              ['Respiratory', u' andn\xf6d, respiratorisk insufficiens, rinit  '],
@@ -25,4 +33,16 @@
            ['Unknown', [['Reproductive system', u' Sexuell dysfunktion.  ']]]],
  '_pages': [5, 8],
  u'_rank': 18,
+=======
+              u': irritation med rodnad*, sm\xe4rta*, bel\xe4ggningar p\xe5 \xf6gonlocken*, \xf6verg\xe5ende myopati (f\xf6rsvann  '],
+             ['Ear', u': tinnitus*  '],
+             ['Respiratory', u': andn\xf6d, respiratorisk insufficiens, rinit  '],
+             ['Skin', u': kontaktdermatit  '],
+             ['Reproductive system', u': Peyronies sjukdom*  '],
+             ['Reproductive system',
+              u': tecken och symtom p\xe5 systemiska allergiska reaktioner inklusive angio\xf6dem, urtikaria,  ']]],
+           ['Unknown', [['Reproductive system', u': Sexuell dysfunktion.  ']]]],
+ '_pages': [5, 8],
+ u'_rank': 17,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU3'}

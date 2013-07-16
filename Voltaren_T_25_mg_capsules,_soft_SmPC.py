@@ -1,6 +1,10 @@
 {'_data': [['Common',
             [['GI',
+<<<<<<< HEAD
               u', <1/100), s\xe4llsynta (>1/10000, <1/1000), mycket s\xe4llsynta (<1/10000), inklusive enstaka rapporter.'],
+=======
+              u'(>1/1000, <1/100), s\xe4llsynta (>1/10000, <1/1000), mycket s\xe4llsynta (<1/10000), inklusive enstaka rapporter.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Epigastrisk sm\xe4rta, illam\xe5ende, kr\xe4kningar, diarr\xe9, buksm\xe4rta, dyspepsi, flatulens, anorexi.'],
              ['Nervous system', u'Huvudv\xe4rk, yrsel.'],

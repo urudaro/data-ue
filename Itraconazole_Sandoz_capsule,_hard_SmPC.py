@@ -14,9 +14,14 @@
              ['Nervous system', u'Hypoestesi'],
              ['Eye', u'Synst\xf6rninga'],
              ['Ear', u'Tinnitus'],
+<<<<<<< HEAD
              ['Respiratory', u'Dyspn\xe9'],
              ['GI', u'Pankreatit'],
              ['Hepato', u'Leverenzym-\xf6kning'],
+=======
+             ['GI', u'Pankreatit'],
+             ['Hepato', u'Leverenzym \xf6kning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Pollakisuri'],
              ['General', u'Feber']]],
            ['Unknown',
@@ -31,11 +36,19 @@
              ['Respiratory', u'Lung\xf6dem'],
              ['Hepato', u'Akut leversvikt*, hepatit, hepatotoxicitet*'],
              ['Skin',
+<<<<<<< HEAD
               u'Toxisk epidermal nekrolys, Stevens-Johnsons syndrom, erythema multiforme, akut generaliserad exantemat\xf6s pustulos, exfoliativ dermatit, leukocytoklastisk vaskulit, ljus\xf6verk\xe4nslighet'],
+=======
+              u'Toxisk epidermal nekrolys, Stevens-Johnsons syndrom, erythema multiforme, exfoliativ dermatit, leukocytoklastisk vaskulit, ljus\xf6verk\xe4nslighet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Muskelsm\xe4rta, ledsm\xe4rta'],
              ['Renal', u'Urininkontinens'],
              ['Reproductive system', u'Erektionsst\xf6rning']]]],
  '_note': u' ?MSFU',
  '_pages': [7, 9],
+<<<<<<< HEAD
  u'_rank': 31,
+=======
+ u'_rank': 30,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

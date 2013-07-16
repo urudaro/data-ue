@@ -14,7 +14,11 @@
             [['Infections',
               u'excerbation av infektionsrelaterade inflammationer (t.ex. utveckling av nekrotiserande fasciit) har intr\xe4ffat vid samtidig anv\xe4ndning av NSAID. Ett m\xf6jligt samband kan finnas med verkningsmekanismen f\xf6r NSAID. Vid tecken p\xe5 infektion eller f\xf6rs\xe4mring av infektion vid anv\xe4ndning av Nurofen Jordgubb ska patienten rekommenderas att upps\xf6ka l\xe4kare utan f\xf6rdr\xf6jning. En unders\xf6kning b\xf6r g\xf6ras om infektions-/antibiotikabehandling b\xf6r s\xe4ttas in.'],
              ['Infections',
+<<<<<<< HEAD
               u'symtom p\xe5 aseptisk meningit som nackstelhet, huvudv\xe4rk, illam\xe5ende, kr\xe4kning, feber och medvetsl\xf6shet har observerats vid behandling med ibuprofen. Patienter med autoimmuna sjukdomar (SLE och blandade bindv\xe4vssjukdomar) verkar var predisponerade.'],
+=======
+              u'; symtom p\xe5 aseptisk meningit som nackstelhet, huvudv\xe4rk, illam\xe5ende, kr\xe4kning, feber och medvetsl\xf6shet har observerats vid behandling med ibuprofen. Patienter med autoimmuna sjukdomar (SLE och blandade bindv\xe4vssjukdomar) verkar var predisponerade.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood',
               u'St\xf6rning av hematopoesen (anemi, leukopeni, trombocytopeni, pancytopeni, agranulocytos). F\xf6rsta tecken \xe4r: feber, halsont, ytliga muns\xe5r, influensaliknande symtom, sv\xe5r utmattning, bl\xf6dningar i n\xe4sa och hud.'],
              ['Immune system',

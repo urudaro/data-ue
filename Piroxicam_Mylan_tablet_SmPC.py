@@ -12,10 +12,19 @@
             [['Blood',
               u' Trombocytopeni, h\xe4mning av trombocytaggregationen,  aplastiskanemi.  '],
              ['GI', u' Perforering, pankreatit. '],
+<<<<<<< HEAD
              ['Skin', u'  Allvarliga hudreaktioner (severe cutaneous adverse reactions,  '],
              ['Hepato', u' Hepatit, gulsot. '],
              ['Respiratory', u' Rinit, astma, bronkospasm. -'],
              ['Ear', u' H\xf6rselneds\xe4ttning. -']]]],
  '_pages': [6, 6],
+=======
+             ['Skin',
+              u'  Allvarliga hudreaktioner (severe cutaneous adverse reactions,  purpura, urtikaria, ljus\xf6verk\xe4nslighet. '],
+             ['Hepato', u' Hepatit, gulsot. -'],
+             ['Respiratory', u' Rinit, astma, bronkospasm. -'],
+             ['Ear', u' H\xf6rselneds\xe4ttning. -']]]],
+ '_pages': [6, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 14,
  u'_type': u'DFSU'}

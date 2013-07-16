@@ -5,7 +5,11 @@
              ['General', u'Utsp\xe4nd buk']]],
            ['Uncommon',
             [['General',
+<<<<<<< HEAD
               u'Analt obehag; irritation vid administre-ring sst\xe4llet, sm\xe4rtsamma rektala tenesmer']]],
+=======
+              u'Analt obehag; irritation vid administre-ringsst\xe4llet, sm\xe4rtsamma rektala tenesmer']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Nervous system', u'Yrsel'],
              ['Cardiac', u'Myokardit*, perikardit*'],
@@ -23,7 +27,11 @@
              ['Immune system',
               u'\xd6verk\xe4nslighetsre aktioner s\xe5som allergiskt exantem, l\xe4kemedelsutl\xf6st feber, SLE, pankolit'],
              ['Hepato',
+<<<<<<< HEAD
               u'F\xf6r\xe4ndringar i leverfunktionsv\xe4r den (transaminasstegri ng och kolestasv\xe4rden) och bilirubin, levertoxicitet (inkl. hepatit*, cirrhos, leversvikt), kolestatisk hepatit'],
+=======
+              u'F\xf6r\xe4ndringar i leverfunktionsv\xe4rd en (transaminasstegri ng och kolestasv\xe4rden) och bilirubin, levertoxicitet (inkl. hepatit*, cirrhos, leversvikt), kolestatisk hepatit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Oligospermi (reversibel)']]]],
  '_note': u' ?MSFU',
  '_pages': [3, 4],

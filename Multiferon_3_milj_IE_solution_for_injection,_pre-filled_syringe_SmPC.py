@@ -12,12 +12,19 @@
             [['Blood', u'Trombocytopeni, anemi.'], ['GI', u'Illam\xe5nde/kr\xe4kning']]],
            ['Uncommon',
             [['Investigations',
+<<<<<<< HEAD
               u'): \xd6kningar av ALAT, alkaliskt fosfatas i blodet samt transaminaser, viktnedg\xe5ng.'],
+=======
+              u'(>1/1 000, <1/100): \xd6kningar av ALAT, alkaliskt fosfatas i blodet samt transaminaser, viktnedg\xe5ng.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Arytmier, inklusive atrioventrikul\xe4rblock, palpitationer.'],
              ['Nervous system',
               u'Neuropati, yrsel, somnolens, dysgeusi, parestesi, hypoestesi, tremor.'],
              ['Eye', u'Konjunktivitit, synst\xf6rningar.'],
+<<<<<<< HEAD
              ['Ear', u'Vertigo.'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Buksm\xe4rta, muntorrhet.'],
              ['Renal', u'Proteinuri och \xf6kat antal celler i urinen.'],
              ['Skin', u'Exacerbation av eller provokation av psoriasis, pruritus.'],
@@ -60,7 +67,11 @@
              ['General',
               u'Nekrotiska reaktioner vid injektionsst\xe4llet, reaktioner vid injektionsst\xe4llet.'],
              ['Immune system', u'Sarkoidos.']]],
+<<<<<<< HEAD
            ['Unknown', [['Musculoskeletal', u'Rabdomyolys']]]],
+=======
+           ['Unknown', [['Ear', u'Vertigo.'], ['Musculoskeletal', u'Rabdomyolys']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [6, 8],
  u'_rank': 45,
  u'_type': u'LSFU'}

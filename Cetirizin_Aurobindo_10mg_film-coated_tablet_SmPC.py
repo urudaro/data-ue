@@ -16,7 +16,12 @@
              ['Psychiatric', u'Aggression, konfusion, depression, hallucinationer, insomnia']]],
            ['Very rare',
             [['Blood', u'Trombocytopeni'],
+<<<<<<< HEAD
              ['Nervous system', u'Dysgeusi, synkope, tremor, dystoni, dyskinesi'],
+=======
+             ['Nervous system',
+              u'Dysgeusi, synkope, tremor, dystoni, dyskinesi : amnesi, f\xf6rs\xe4mrat minne'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Ackommodationsst\xf6rningar, dimsyn, okulogyr kris'],
              ['Renal', u'Dysuri, enures'],
              ['Skin', u'Angioneurotiskt \xf6dem, fixt l\xe4kemedelsutslag'],
@@ -33,8 +38,14 @@
              ['GI', u'Diarr\xe9 1,0 % 0,6 %'],
              ['Psychiatric', u'S\xf6mnighet 1,8 % 1,4 %'],
              ['Respiratory',
+<<<<<<< HEAD
               u'Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet Tr\xf6tthet 1,0 % 0,3 % Erfarenhet efter marknadsf\xf6ringen Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har enstaka fall av f\xf6ljande biverkningar rapporterats efter marknadsf\xf6ringen. F\xf6r dessa mindre vanliga biverkningar har frekvensen (mindre vanliga: \u22651/1000, <1/100, s\xe4llsynta: \u22651/10 000, <1/1000, mycket s\xe4llsynta: <1/10 000), Ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data) baserats p\xe5 erfarenhet efter marknadsf\xf6ringen.'],
              ['Nervous system', u'amnesi, f\xf6rs\xe4mrat minne']]]],
  '_pages': [3, 5],
  u'_rank': 29,
+=======
+              u'Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet Tr\xf6tthet 1,0 % 0,3 % Erfarenhet efter marknadsf\xf6ringen Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har enstaka fall av f\xf6ljande biverkningar rapporterats efter marknadsf\xf6ringen. F\xf6r dessa mindre vanliga biverkningar har frekvensen (mindre vanliga: \u22651/1000, <1/100, s\xe4llsynta: \u22651/10 000, <1/1000, mycket s\xe4llsynta: <1/10 000), Ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data) baserats p\xe5 erfarenhet efter marknadsf\xf6ringen.']]]],
+ '_pages': [3, 5],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

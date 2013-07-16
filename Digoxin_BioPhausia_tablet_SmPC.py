@@ -5,8 +5,14 @@
            ['Uncommon',
             [['Nervous system', u'Konfusion'],
              ['Eye', u'Synrubbningar (dimsyn, gul-gr\xf6nseende).']]],
+<<<<<<< HEAD
            ['Unknown',
             [['Nervous system', u'Biverkningar'], ['Reproductive system', u'Gynekomasti']]]],
  '_pages': [5, 6],
  u'_rank': 7,
+=======
+           ['Unknown', [['Reproductive system', u'Gynekomasti']]]],
+ '_pages': [5, 6],
+ u'_rank': 6,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

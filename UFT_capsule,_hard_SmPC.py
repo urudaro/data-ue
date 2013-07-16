@@ -21,7 +21,12 @@
              ['Skin', u'Myalgi, ryggsm\xe4rta*, artralgi*'],
              ['Reproductive system',
               u'Perifera \xf6dem*, feber*, sjukdomsk\xe4nsla, k\xf6ldrysningar, sm\xe4rta*'],
+<<<<<<< HEAD
              ['Investigations', u'viktf\xf6rlust*']]],
+=======
+             ['Investigations',
+              u'viktf\xf6rlust* ** Hyperbilirubinemi rapporterades ungef\xe4r dubbelt s\xe5 ofta i j\xe4mf\xf6relse med kontrollgruppen som fick bolus 5-FU/kalciumfolinat. Rapporterade fall var i regel isolerade, reversibla och inte f\xf6rknippade med ett ogynnsamt kliniskt utfall. Efter marknadsf\xf6ring har f\xf6ljande biverkningar rapporterats f\xf6r UFT givet som enda l\xe4kemedel. Endast de biverkningar som ej beskrivits under erfarenheter av UFT plus kalciumfolinat anges.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'Infektion*, sepsis*'],
              ['Blood', u'Koagulationsst\xf6rningar*, febril neutropeni'],

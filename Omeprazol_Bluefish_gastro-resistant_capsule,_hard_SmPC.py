@@ -8,7 +8,10 @@
              ['Ear', u'Vertigo'],
              ['Hepato', u'\xd6kade leverenzymer'],
              ['Skin', u'Dermatit, kl\xe5da, hudutslag, urtikaria'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'H\xf6ft-, handleds- eller kotfrakturer (se avsnitt 4.4)'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Sjukdomsk\xe4nsla, perifera \xf6dem']]],
            ['Rare',
             [['Blood', u'Leukopeni, trombocytopeni'],
@@ -27,14 +30,24 @@
              ['General', u'\xd6kad svettning']]],
            ['Very rare',
             [['Blood', u'Agranulocytos, pancytopeni'],
+<<<<<<< HEAD
+=======
+             ['Metabolism', u'Hypomagnesemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Aggression, hallucinationer'],
              ['Hepato', u'Leversvikt, encefalopati hos leversjuka patienter'],
              ['Skin',
               u'Erythema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys (TEN)'],
              ['Musculoskeletal', u'Muskeltr\xf6tthet'],
+<<<<<<< HEAD
              ['Reproductive system', u'Gynekomasti']]],
            ['Unknown',
             [['Metabolism', u'Hypomagnesemi [se varningar och f\xf6rsiktighet (4.4)]']]]],
  '_pages': [7, 8],
  u'_rank': 29,
+=======
+             ['Reproductive system', u'Gynekomasti']]]],
+ '_pages': [7, 8],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

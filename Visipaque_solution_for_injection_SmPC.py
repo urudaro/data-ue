@@ -24,6 +24,7 @@
              ['Immune system', u' Anafylaktoid reaktion']]],
            ['Very rare',
             [['Cardiac',
+<<<<<<< HEAD
               u'Vagala reaktioner (bradykardi, hypotoni). Arytmier,eller tecken p\xe5 ischemi, hypertoni, hj\xe4rtstillest\xe5nd'],
              ['Respiratory',
               u'Dyspn\xe9. Sv\xe5ra \xf6verk\xe4nslighetsreaktioner (laryngalt \xf6dem, bronkospasm, lung\xf6dem, anafylaktisk chock)'],
@@ -33,6 +34,18 @@
              ['Cardiac', u'myokardiell infarkt'],
              ['Nervous system',
               u'\xd6verg\xe5ende kontrast-inducerad encefalopati inklusive amnesi, hallucination, f\xf6rvirringstillst\xe5nd och andra neurologiska symtom']]]],
+=======
+              u' Vagala reaktioner (bradykardi, hypotoni). Arytmier,eller tecken p\xe5 ischemi, hypertoni, hj\xe4rtstillest\xe5nd'],
+             ['Respiratory',
+              u' Dyspn\xe9. Sv\xe5ra \xf6verk\xe4nslighetsreaktioner (laryngalt \xf6dem, bronkospasm, lung\xf6dem, anafylaktisk chock)'],
+             ['GI', u' Buksm\xe4rta/-obehag.']]],
+           ['Unknown',
+            [['Nervous system',
+              u' \xd6verg\xe5ende kontrast-inducerad encefalopati inklusive amnesi, hallucination, f\xf6rvirringstillst\xe5nd och andra neurologiska symtom'],
+             ['Cardiac', u' myokardiell infarkt'],
+             ['Nervous system',
+              u' \xd6verg\xe5ende kontrast-inducerad encefalopati inklusive amnesi, hallucination, f\xf6rvirringstillst\xe5nd och andra neurologiska symtom']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [5, 6],
  u'_rank': 23,
  u'_type': u'LSFU2'}

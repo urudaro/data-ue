@@ -15,6 +15,10 @@
              ['Hepato', u'Levertoxicitet']]],
            ['Very rare', [['Musculoskeletal', u'Osteoporos (m\xe4n)']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [3, 5],
+=======
+ '_pages': [4, 5],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 12,
  u'_type': u'MSFU'}

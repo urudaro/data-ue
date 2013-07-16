@@ -8,6 +8,7 @@
             [['Nervous system', u' parestesi, yrsel.'],
              ['Eye',
               u' \xd6verg\xe5ende synrubbningar (dimsyn, ljusk\xe4nslighet, \xf6gonsm\xe4rtor).'],
+<<<<<<< HEAD
              ['GI', u'Diarr\xe9, kr\xe4kning.'],
              ['Immune system',
               u' Allergiska reaktioner (urtikaria, slemhinnesvullnad, stridor, dyspn\xe9, bronkospasm, hypotension.']]],
@@ -16,6 +17,16 @@
              ['General', u'Feber >40\xb0C.'],
              ['Immune system',
               u'transient trombocytopeni) reaktioner i cirkulatoriska systemet (pulsf\xf6r\xe4ndringar, s\xe4nkt blodtryck, vasovagal kollaps).']]]],
+=======
+             ['GI', u' Diarr\xe9, kr\xe4kning.'],
+             ['Immune system',
+              u' Allergiska reaktioner (urtikaria, slemhinnesvullnad, stridor, dyspn\xe9, bronkospasm, hypotension.']]],
+           ['Very rare',
+            [['Nervous system', u' feberkramper.'],
+             ['General', u' Feber >40\xb0C.'],
+             ['Immune system',
+              u' transient trombocytopeni) reaktioner i cirkulatoriska systemet (pulsf\xf6r\xe4ndringar, s\xe4nkt blodtryck, vasovagal kollaps).']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [3, 4],
  u'_rank': 11,
  u'_type': u'LSFU2'}

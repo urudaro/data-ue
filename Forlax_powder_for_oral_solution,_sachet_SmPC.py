@@ -10,7 +10,12 @@
            ['Unknown',
             [['Metabolism',
               u'Elektrolytrubbningar (hyponatremi, hypokalemi) och/eller dehydrering, speciellt hos \xe4ldre patienter'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighetsreaktioner']]]],
+=======
+             ['Immune system',
+              u'\xd6verk\xe4nslighetsreaktioner *Diarr\xe9 kan orsaka perianal \xf6mhet']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [3, 3],
  u'_rank': 7,
  u'_type': u'LSFU'}

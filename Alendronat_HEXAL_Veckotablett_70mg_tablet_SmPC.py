@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['GI', u'> 1/10']]],
+=======
+{'_data': [['Very common', [['GI', u'> > 1/10']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['GI', u'>1/100 - <1/10'],
              ['Nervous system', u'huvudv\xe4rk'],
@@ -14,14 +18,23 @@
             [['GI', u'>1/10 000 - <1/1000'],
              ['Eye', u'uveit, sklerit, episklerit'],
              ['GI',
+<<<<<<< HEAD
               u'Esofagusstriktur*, s\xe5r i munh\xe5la/svalg*, \xf6vre gastrointestinala PUB (perforationer, s\xe5r, bl\xf6dningar) (se avsnitt 4.4)'],
+=======
+              u'Esofagusstriktur*, s\xe5r i munh\xe5la/svalg*, \xf6vre gastrointestinala PUB (perforationer, s\xe5r, bl\xf6dningar) (se avsnitt 4.4) *Se avsnitt 4.2 och 4.4'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'hudutslag med ljusk\xe4nslighet'],
              ['Musculoskeletal',
               u'sv\xe5r muskuloskeletal (skelett-, muskel- eller led) sm\xe4rta (se avsnitt 4.4). Atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning)(se avsnitt 4.4). Osteonekros i k\xe4ken har rapporterats hos patienter som behandlats med bisfosfonater. De flesta av rapporterna g\xe4ller cancerpatienter, men fall har ocks\xe5 rapporterats hos patienter som behandlats f\xf6r osteoporos. Osteonekros i k\xe4ken s\xe4tts vanligtvis i samband med tandutdragning och/eller lokal infektion (inklusive osteomyelit). Cancerdiagnos, cytostatikabehandling, str\xe5lningsbehandling, kortikosteroider och d\xe5lig munhygien anses ocks\xe5 vara riskfaktorer (se avsnitt 4.4).'],
              ['Metabolism',
               u'symtomgivande hypokalcemi, i allm\xe4nhet i samband med predisponerande omst\xe4ndigheter (se avsnitt 4.4)'],
              ['General',
+<<<<<<< HEAD
               u'\xf6verg\xe5ende symtom som p\xe5minner om en akutfasreaktion (muskelv\xe4rk, sjukdomsk\xe4nsla och i s\xe4llsynta fall feber) vanligen d\xe5 behandlingen inleds'],
+=======
+              u'\xf6verg\xe5ende symtom som p\xe5minner om en akutfasreaktion (muskelv\xe4rk, sjukdomsk\xe4nsla och i'],
+             ['General', u's\xe4llsynta fall feber) vanligen d\xe5 behandlingen inleds'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'\xf6verk\xe4nslighetsreaktioner, bl.a. n\xe4sselutslag och angio\xf6dem Laboratoriev\xe4rden I kliniska studier s\xe5gs asymtomatiska, l\xe4tta och \xf6verg\xe5ende s\xe4nkningar av S-kalcium och S-fosfat hos cirka 18 respektive 10 % av patienterna som tog alendronat 10 mg/dag j\xe4mf\xf6rt med 12 respektive 3 % av de som tog placebo. Dock var inciden sen av minskningar i S-kalcium till <2,0mmol/l och S-fosfat till\u22640,65mmol/l j\xe4mf\xf6rbar i de b\xe5da grupperna.']]],
            ['Very rare',
@@ -36,5 +49,9 @@
              ['Musculoskeletal', u'ledsvullnad.'],
              ['General', u'asteni, perifer svullnad']]]],
  '_pages': [4, 6],
+<<<<<<< HEAD
  u'_rank': 23,
+=======
+ u'_rank': 24,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -7,12 +7,19 @@
              ['Nervous system', u'Tremor, dystoni, yrsel,  huvudv\xe4rk.'],
              ['Eye', u'Ackommodationsst\xf6rningar,  synst\xf6rningar.'],
              ['Cardiac', u'Takykardi, palpitationer.'],
+<<<<<<< HEAD
              ['Respiratory', u'Dyspn\xe9.'],
              ['GI', u'Salivhypersekretion,  konstipation, kr\xe4kningar, dyspepsi, diarr\xe9.'],
              ['Skin', u'Hyperhidros, pruritus.'],
              ['Musculoskeletal', u'Myalgi.'],
              ['Renal', u'Miktionsst\xf6rningar,  urinretention.'],
              ['General', u'Asteni, tr\xf6tthet.']]],
+=======
+             ['GI', u'Salivhypersekretion,  konstipation, kr\xe4kningar, dyspepsi, diarr\xe9.'],
+             ['Skin', u'Hyperhidros, pruritus.'],
+             ['Musculoskeletal', u'Myalgi.'],
+             ['Renal', u'Miktionsst\xf6rningar,  urinretention.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Metabolism', u'Minskad aptit.'],
              ['Psychiatric', u'Konfusionstills\xe5nd.'],
@@ -34,8 +41,14 @@
            ['Very rare',
             [['Nervous system', u'Malignt neuroleptikasyndrom.'],
              ['Vascular', u'Ven\xf6s trombo-embolisk  sjukdom.'],
+<<<<<<< HEAD
              ['Hepato', u'Gulsot.']]],
            ['Unknown', [['Pregnancy', u'Neonatalt uts\xe4ttningssyndrom  (se 4.6)']]]],
  '_pages': [4, 6],
  u'_rank': 33,
+=======
+             ['Hepato', u'Gulsot.']]]],
+ '_pages': [4, 6],
+ u'_rank': 30,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

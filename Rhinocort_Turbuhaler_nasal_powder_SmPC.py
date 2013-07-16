@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['Respiratory', u'Lokal irritation, epistaxis,  hemorragisk n\xe4ssekretion.']]],
+=======
+{'_data': [['Common', [['Respiratory', u'Lokal irritation, epistaxis,']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Immune system',
               u'Omedelbara och f\xf6rdr\xf6jda  \xf6verk\xe4nslighetsreaktioner, inklusive urtikaria, rash, dermatit, angio\xf6dem och pruritus.']]],

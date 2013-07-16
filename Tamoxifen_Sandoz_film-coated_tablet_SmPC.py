@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['General',
               u'huvudv\xe4rk, yrsel, v\xe4tskeretention, obehag och/eller inflammations-li knande besv\xe4r i tum\xf6romr\xe5det (tumour flare)'],
@@ -34,3 +35,9 @@
  '_pages': [3, 4],
  u'_rank': 22,
  u'_type': u'MSFU'}
+=======
+{'_data': [['Rare', [['General', u'huvudv\xe4rk, yrsel,   \xf6verk\xe4nslighets-']]]],
+ '_pages': [3, 4],
+ u'_rank': 1,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

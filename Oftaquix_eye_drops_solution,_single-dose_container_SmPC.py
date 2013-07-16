@@ -6,7 +6,11 @@
              ['Respiratory', u'rinit']]],
            ['Rare',
             [['Immune system',
+<<<<<<< HEAD
               u'): extraokul\xe4ra allergiska reaktioner, inklusive hudutslag']]],
+=======
+              u'(>1/10 000, <1/1 000): extraokul\xe4ra allergiska reaktioner, inklusive hudutslag']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare', [['Immune system', u'anafylaxi'], ['Respiratory', u'larynx\xf6dem']]]],
  '_pages': [3, 3],
  u'_rank': 7,

@@ -8,18 +8,31 @@
              ['Skin', u'Pruritus'],
              ['GI', u'Diarr\xe9, illam\xe5ende'],
              ['Hepato',
+<<<<<<< HEAD
               u'Lever-f\xf6r\xe4ndri ngar (f\xf6rh\xf6jda niv\xe5er av transaminaser, bilirubinemi) kolestas och gulsot, hepatomegali. Dessa f\xf6r\xe4ndringar \xe4r s\xe4llan sv\xe5ra och var ofta \xf6verg\xe5ende och upph\xf6rde eller f\xf6rb\xe4ttrades vid fortsatt eller utsatt behandling (se avsnitt 4.4).'],
              ['General', u'\xd6dem, allm\xe4n sm\xe4rta, b\xe4ckensm\xe4 rta, frossa'],
              ['Skin', u'Utslag, svettning, hirsutism'],
              ['GI', u'F\xf6r-stoppni ng'],
              ['Nervous system', u'Yrsel, s\xf6mnl\xf6shet'],
              ['Metabolism', u'Vikt-\xf6knin g, diabetes mellitus'],
+=======
+              u'Lever-f\xf6r\xe4ndringar (f\xf6rh\xf6jda niv\xe5er av transaminaser, bilirubinemi) kolestas och gulsot, hepatomegali. Dessa f\xf6r\xe4ndringar \xe4r s\xe4llan sv\xe5ra och var ofta \xf6verg\xe5ende och upph\xf6rde eller f\xf6rb\xe4ttrades vid fortsatt eller utsatt behandling (se avsnitt 4.4).'],
+             ['General', u'\xd6dem, allm\xe4n sm\xe4rta, b\xe4ckensm\xe4 rta, frossa'],
+             ['Skin', u'Utslag, svettning, hirsutism'],
+             ['GI', u'F\xf6r-stoppning'],
+             ['Nervous system', u'Yrsel, s\xf6mnl\xf6shet'],
+             ['Metabolism', u'Vikt-\xf6kning, diabetes mellitus'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'Blodbrist']]],
            ['Uncommon',
             [['Respiratory', u'Interstitiell lungsjukdom'],
              ['Renal', u'Hematuri'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslig-hets-reaktion er, inklusive angio\xf6dem och utricaria'],
+=======
+              u'\xd6verk\xe4nslig-hets-reaktioner, inklusive angio\xf6dem och utricaria'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Depression'],
              ['General',
               u'Buksm\xe4rtor, br\xf6stsm\xe4rtor, huvudv\xe4rk, ryggsm\xe4rtor, nacksm\xe4rtor'],

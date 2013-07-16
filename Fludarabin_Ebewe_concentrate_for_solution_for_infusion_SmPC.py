@@ -25,12 +25,20 @@
              ['GI', u'Gastrointestinal bl\xf6dning, onormala pankreasenzymer'],
              ['Hepato', u'Onormala leverenzymv\xe4rden']]],
            ['Rare',
+<<<<<<< HEAD
             [['Infections', u'Lymfoprol iferativ sjukdom (EBV-asso cierad)'],
+=======
+            [['Infections', u'Lymfoprol iferativ sjukdom (EBV-associerad'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Koma, krampanfa ll, agitation'],
              ['Eye', u'Blindhet, optisk neurit, optisk neuropati'],
              ['Cardiac', u'Hj\xe4rtsvikt, arytmi'],
              ['Skin',
+<<<<<<< HEAD
               u'Hudcanc er, epiderma l toxisk nekrolys (Lyell-ty p), Stevens-J ohnsons syndrom']]],
+=======
+              u'Hudcanc er, epiderma l toxisk nekrolys (Lyell-typ), Stevens-Johnsons syndrom']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Nervous system', u'Cerebral bl\xf6dning'],
              ['Respiratory', u'Lungbl\xf6dn ing'],

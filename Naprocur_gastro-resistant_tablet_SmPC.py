@@ -15,7 +15,11 @@
              ['Skin', u'Urtikaria Fotosensitivitet inklusive psuedoporfyri H\xe5ravfall'],
              ['General', u'Feber'],
              ['Hepato', u'Leverp\xe5verkan'],
+<<<<<<< HEAD
              ['Psychiatric', u'Insomningssv\xe5righeter Koncentrationssv\xe5righete']]],
+=======
+             ['Psychiatric', u'Insomningssv\xe5righeter Koncentrationssv\xe5righeter']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Cardiac', u'Hj\xe4rtsvikt'],
              ['Blood',
@@ -33,7 +37,11 @@
              ['Vascular', u'Hypertoni, Vaskulit'],
              ['Immune system', u'Anafylaktisk reaktion Angioneurotiskt \xf6dem'],
              ['Hepato', u'Toxisk, i isolerade fall fatal hepatit'],
+<<<<<<< HEAD
              ['Psychiatric', u'Kognitiva st\xf6rningar Depression L\xe4tt oro']]]],
+=======
+             ['Psychiatric', u'Kognitiva st\xf6rningar Depression Mardr\xf6mmar L\xe4tt oro']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [7, 8],
  u'_rank': 29,

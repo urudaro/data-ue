@@ -1,5 +1,9 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Blood', u'Huvudv\xe4rk, smakf\xf6r\xe4ndring'],
+=======
+            [['Nervous system', u'Huvudv\xe4rk, smakf\xf6r\xe4ndring'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Pruritus'],
              ['Endocrine', u'Hypoparatyroidism'],
              ['Metabolism', u'Hyperkalcemi, hyperfosfatemi']]],
@@ -8,13 +12,21 @@
               u'F\xf6rl\xe4ngd bl\xf6dningstid, f\xf6rh\xf6jt asparatat  aminotransferas, abnormala laboratorietest, viktminskning'],
              ['Cardiac', u'Hj\xe4rtstillest\xe5nd, arytmi, f\xf6rmaksfladder'],
              ['Blood', u'Anemi, leukopeni, lymfadenopati'],
+<<<<<<< HEAD
              ['Blood',
+=======
+             ['Nervous system',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Koma, cerobrovaskul\xe4r h\xe4ndelse, transitorisk  ischemisk attack, synkope, myoklonus, hypestesi, parestesi, yrsel'],
              ['Eye', u'Glaukom, konjunktivit'],
              ['Ear', u'\xd6ronproblem'],
              ['Respiratory', u'Lung\xf6dem, astma, dyspn\xe9, epistaxis, hosta'],
              ['GI',
+<<<<<<< HEAD
               u'Rektal bl\xf6dning, kolit, diarr\xe9, gastrit, dyspepsi,  dysfagi, magsm\xe4rtor, f\xf6rstoppning, illam\xe5ende, kr\xe4kningar, muntorrhet,  mag-tarmproblem'],
+=======
+              u'Rektal bl\xf6dning, kolit, diarr\xe9, gastrit, dyspepsi,  dysfagi, magsm\xe4rtor, f\xf6rstoppning, illam\xe5ende, kr\xe4kningar, muntorrhet, mag-tarmproblem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Bull\xf6s dermatit, alopeci, hirsutism, utslag,  svettningar'],
              ['Musculoskeletal',
               u'Artralgi, ledstelhet, ryggsm\xe4rta,  muskelryckningar, myalgi'],

@@ -15,7 +15,11 @@
              ['Immune system',
               u'anafylaktisk chock. Reaktionerna upptr\xe4dde efter en enda dos.'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'reversibel mental f\xf6rvirring, depression och hallucinationer.'],
+=======
+              u'reversibel mental f\xf6rvirring, depression och hallucinationer. Dessa biverkningar har rapporterats framf\xf6rallt hos mycket sjuka och \xe4ldre patienter.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'huvudv\xe4rk (ibland kraftig), yrsel och reversibelt tillst\xe5nd med ofrivilliga r\xf6relser.'],
              ['Eye',

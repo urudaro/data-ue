@@ -1,14 +1,20 @@
 {'_data': [['Common',
             [['Investigations', u'\xf6kning av s-urea (BUN),  kreatinin och kreatinkinas'],
+<<<<<<< HEAD
              ['Nervous system', u'yrsel'],
              ['GI', u'illam\xe5ende/kr\xe4kningar'],
              ['Renal', u'f\xf6r\xe4ndrad miktion'],
              ['General', u'tr\xf6tthet']]],
+=======
+             ['GI', u'illam\xe5ende/kr\xe4kningar'],
+             ['Renal', u'f\xf6r\xe4ndrad miktion']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Investigations', u'minskat serumkalium och  natrium'],
              ['Cardiac', u'synkope, hypotoni, takykardi,  \xf6dem'],
              ['Nervous system', u'ortostatisk yrsel'],
              ['GI', u'diarr\xe9'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'svullnad av extremiteter'],
              ['Vascular', u'rodnad'],
              ['Reproductive system', u'sexuell dysfunktion, f\xf6r\xe4ndring  av libido'],
@@ -24,20 +30,39 @@
              ['Metabolism', u'hyperkalemi'],
              ['Immune system',
               u'fall av  \xf6verk\xe4nslighets-reaktioner som angio\xf6dem, hudutslag och urtikaria'],
+=======
+             ['Vascular', u'rodnad'],
+             ['Reproductive system', u'sexuell dysfunktion, f\xf6r\xe4ndring']]],
+           ['Unknown',
+            [['Nervous system', u'huvudv\xe4rk'],
+             ['Ear', u'tinnitus'],
+             ['GI', u'dyspepsi, dysgeusi'],
+             ['Renal',
+              u'nedsatt njurfunktion, inklusive  enstaka fall av njursvikt hos riskpatienter (se avsnitt 4.4)'],
+             ['Renal', u'artralgi, myalgi'],
+             ['Metabolism', u'hyperkalemi'],
+             ['Immune system',
+              u'fall av \xf6verk\xe4nslighets-  reaktioner som angio\xf6dem, hudutslag och urtikaria'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'hepatit, st\xf6rd leverfunktion'],
              ['Investigations',
               u'elektrolytrubbningar (inklusive  hypokalemi och hyponatremi, se avsnitt 4.4), hyperurikemi, glukosuri, hyperglukemi, \xf6kade kolesterol- och triglyceridniv\xe5er'],
              ['Cardiac', u'hj\xe4rtarytmier'],
              ['Blood',
               u'aplastisk anemi,  benm\xe4rgsdepression, neutropeni/agranulocytos, hemolytisk anemi, leukopeni, trombocytopeni'],
+<<<<<<< HEAD
              ['Nervous system', u'vertigo, parestesier, yrsel,  rastl\xf6shet'],
              ['Eye', u'\xf6verg\xe5ende dimsyn, xantopsi'],
              ['Respiratory', u'andningsp\xe5verkan  (inkluderande pneumoni och  lung\xf6dem)'],
+=======
+             ['Eye', u'\xf6verg\xe5ende dimsyn, xantopsi  lung\xf6dem)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'pankreatit, anorexi, diarr\xe9,  obstipation, magbesv\xe4r, sialoadenit, aptitl\xf6shet'],
              ['Renal', u'interstitiell nefrit, njursvikt'],
              ['Skin',
               u'anafylaktiska reaktioner, toxisk  epidermal nekrolys, nekrotiserande angit (vaskulit, kutan vaskulit), kutan lupus erytematosusliknande hudreaktioner, reaktivering av kutan lupus erytematosus, fotosensitivitetsreaktioner, hudutslag, urtikaria'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'svaghet, muskelkramper'],
              ['Vascular', u'postural hypotension'],
              ['General', u'feber'],
@@ -45,4 +70,11 @@
              ['Psychiatric', u'depression, s\xf6mnst\xf6rningar']]]],
  '_pages': [7, 9],
  u'_rank': 36,
+=======
+             ['Vascular', u'postural hypotension'],
+             ['Hepato', u'gulsot (intrahepatisk gallstas)'],
+             ['Psychiatric', u'depression, s\xf6mnst\xf6rningar']]]],
+ '_pages': [7, 9],
+ u'_rank': 27,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

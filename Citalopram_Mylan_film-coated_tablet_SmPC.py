@@ -6,22 +6,40 @@
             [['Blood', u'Palpitationer'],
              ['Metabolism', u'Minskad aptit, viktminskning'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Nervositet, \xe5ngest, sv\xe5righeter, agitation, dr\xf6m-st\xf6rning ar, minskad libido, apati, f\xf6rvirrings-till st\xe5nd, onormal orgasm (kvinnor)'],
              ['Nervous system', u'Tremor, parestesi, yrsel, st\xf6rd uppm\xe4rk-samh et'],
              ['Eye', u'Ackomodation sst\xf6rningar'],
              ['Ear', u'Tinnitus'],
+=======
+              u'Nervositet, \xe5ngest, sv\xe5righeter, agitation, dr\xf6m-st\xf6rningar, minskad libido, apati, f\xf6rvirrings-tillst\xe5nd, onormal orgasm (kvinnor)'],
+             ['Nervous system',
+              u'Tremor, parestesi, yrsel, st\xf6rd uppm\xe4rk-samhet'],
+             ['Eye', u'Ackomodation sst\xf6rningar'],
+             ['Ear', u'Tinnitus.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Rinit. g\xe4spningar'],
              ['GI',
               u'F\xf6rstoppning, diarr\xe9, kr\xe4kning, buksm\xe4rta, dyspepsi, salivation, flatulens'],
              ['Skin', u'Kl\xe5da'],
              ['Musculoskeletal', u'Myalgi , artralgi'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Miktions-st\xf6rn ingar, ejakulations-st \xf6rningar, oregelbunden menstruation, ejakulations-sv ikt, impotens'],
              ['General',
               u'Anorexi, huvudv\xe4rk, hyperhidros, asteni, allm\xe4n sjukdoms-k\xe4ns']]],
            ['Uncommon',
             [['Metabolism', u'\xd6kad aptit, vikt\xf6kning'],
              ['Psychiatric', u'Eufori, aggression, \xf6r\xe4ndring, hallucinationer , mani'],
+=======
+              u'Miktions-st\xf6rningar, ejakulations-st\xf6rningar, oregelbunden menstruation, ejakulations-svikt, impotens'],
+             ['General',
+              u'Anorexi, huvudv\xe4rk, hyperhidros, asteni, allm\xe4n sjukdoms-k\xe4nsla, tr\xf6tthet']]],
+           ['Uncommon',
+            [['Metabolism', u'\xd6kad aptit, vikt\xf6kning'],
+             ['Psychiatric',
+              u'Eufori, aggression, r\xe4ndring, hallucinationer , mani'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Synkope'],
              ['Eye', u'Mydriasis'],
              ['Cardiac', u'Bradykardi, takykardi'],
@@ -33,13 +51,23 @@
              ['General', u'\xd6dem']]],
            ['Rare',
             [['Metabolism', u'Hyponatremi'],
+<<<<<<< HEAD
              ['Nervous system', u'Grand mal-kramper, dyskinesi, smakst\xf6rningar'],
+=======
+             ['Nervous system',
+              u'Grand mal-kramper, dyskinesi, smakst\xf6rningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Bl\xf6dningar'],
              ['Hepato', u'Hepatit'],
              ['General', u'Pyrexi']]],
            ['Unknown',
             [['Blood', u'Trombocytopeni'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighet, anafylaktisk reaktion'],
+=======
+             ['Immune system',
+              u'\xd6verk\xe4nslighet, anafylaktisk reaktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Endocrine', u'Onormal ADH-sekretion'],
              ['Metabolism', u'Hypokalemi'],
              ['Psychiatric',
@@ -51,6 +79,7 @@
               u'QT-f\xf6rl\xe4ngning Ventrikul\xe4r arytmi inklusive torsade de pointes'],
              ['Vascular', u'Ortostatisk hypotension'],
              ['Respiratory', u'N\xe4sbl\xf6dning'],
+<<<<<<< HEAD
              ['GI', u'Gastrointestinal bl\xf6dning (inklusive rektal bl\xf6dning)'],
              ['Hepato', u'Onormala leverfunktionstest'],
              ['Skin', u'Ekkymoser, angio\xf6dem'],
@@ -59,3 +88,15 @@
  '_pages': [8, 10],
  u'_rank': 44,
  u'_type': u'MSFU'}
+=======
+             ['GI',
+              u'Gastrointestinal bl\xf6dning (inklusive rektal bl\xf6dning)'],
+             ['Hepato', u'Onormala leverfunktionstest'],
+             ['Skin', u'Ekkymoser, angio\xf6dem'],
+             ['Reproductive system',
+              u'M\xe4n: Priapism, galaktorr\xe9 Kvinnor: Metorragi']]]],
+ '_note': u' ?MSFU',
+ '_pages': [8, 10],
+ u'_rank': 44,
+ u'_type': u'MSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

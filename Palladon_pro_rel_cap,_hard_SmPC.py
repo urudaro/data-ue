@@ -31,7 +31,12 @@
              ['Nervous system', u'Hyperalgesi (se avsnitt 4.4)'],
              ['GI', u'Paralytisk ileus'],
              ['Hepato', u'F\xf6rh\xf6jda v\xe4rden av leverenzymer'],
+<<<<<<< HEAD
              ['Reproductive system', u'Perifert \xf6dem']]],
+=======
+             ['Reproductive system',
+              u'Perifert \xf6dem *Abstinens kan uppst\xe5 och innefatta symtom som rastl\xf6shet, \xe5ngest, \xe4ngslighet, s\xf6mnl\xf6shet, hyperkinesi, darrningar och mag-tarmproblem.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown', [['Immune system', u'Anafylaktisk reaktion']]]],
  '_pages': [4, 5],
  u'_rank': 29,

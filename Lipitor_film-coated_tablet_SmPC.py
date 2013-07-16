@@ -44,7 +44,11 @@
              ['Reproductive system', u'gynekomasti. Allm\xe4nna  symtom']]],
            ['Unknown',
             [['Investigations',
+<<<<<<< HEAD
               u'S\xe4llsynta fall av interstitiell lungsjukdom, speciellt vid l\xe5ngtidsbehandling (se avsnitt 4.4). \u2022Diabetes Mellitus: Frekvensen \xe4r beroende av f\xf6rekomst eller avsaknad av riskfaktorer (fasteglukos > 5,6 mmol/l; BMI >30 kg/m ; f\xf6rh\xf6jda triglycerider; hypertension i anamnesen).']]]],
+=======
+              u'S\xe4llsynta fall av interstitiell lungsjukdom, speciellt vid l\xe5ngtidsbehandling (se avsnitt 4.4).']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [10, 12],
  u'_rank': 33,
  u'_type': u'LSFU'}

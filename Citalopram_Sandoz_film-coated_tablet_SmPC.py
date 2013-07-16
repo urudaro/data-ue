@@ -1,5 +1,6 @@
 {'_data': [['Very common',
             [['Psychiatric', u'Agitation, nervositet,'],
+<<<<<<< HEAD
              ['Nervous system',
               u'Letargi (s\xf6mnighet), insomnia, tremor, yrsel,  huvudv\xe4rk'],
              ['Eye', u'Onormal ackommodationsf\xf6rm\xe5ga'],
@@ -7,6 +8,12 @@
              ['GI', u'Muntorrhet, illam\xe5ende, f\xf6rstoppning'],
              ['Skin', u'\xd6kad svettning'],
              ['General', u'Asteni']]],
+=======
+             ['Eye', u'Onormal ackommodationsf\xf6rm\xe5ga'],
+             ['Cardiac', u'Palpitationer'],
+             ['GI', u'Muntorrhet, illam\xe5ende, f\xf6rstoppning'],
+             ['Skin', u'\xd6kad svettning']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Metabolism', u'Minskad aptit, viktminskning, \xf6kad aptit'],
              ['Psychiatric',
@@ -17,6 +24,7 @@
              ['Ear', u'Tinnitus'],
              ['Cardiac', u'Takykardi'],
              ['Vascular', u'Hypotoni, hypertoni, ortostatisk hypotoni'],
+<<<<<<< HEAD
              ['Respiratory', u'G\xe4spningar, rinit, sinuit'],
              ['GI',
               u'Diarr\xe9, kr\xe4kningar, dyspepsi, buksm\xe4rtor, flatulens,  \xf6kad salivavs\xf6ndring'],
@@ -24,6 +32,12 @@
              ['Musculoskeletal', u'Myalgi, artralgi'],
              ['Renal', u'Polyuri, miktionsrubbning'],
              ['General', u'Tr\xf6tthet, pyrexi']]],
+=======
+             ['GI',
+              u'Diarr\xe9, kr\xe4kningar, dyspepsi, buksm\xe4rtor, flatulens,  \xf6kad salivavs\xf6ndring'],
+             ['Skin', u'Pruritus, utslag'],
+             ['Renal', u'Polyuri, miktionsrubbning']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Immune system', u'\xd6verk\xe4nslighet'],
              ['Metabolism', u'Vikt\xf6kning, anorexi'],
@@ -32,10 +46,18 @@
              ['Nervous system', u'Svimning, kramper, extrapyramidala st\xf6rningar'],
              ['Eye', u'Mydriasis'],
              ['Cardiac', u'Bradykardi'],
+<<<<<<< HEAD
              ['Respiratory', u'Hosta'],
              ['Skin', u'Urtikaria, alopeci, purpura, ljusk\xe4nslighet'],
              ['Renal', u'Urinretention'],
              ['General', u'\xd6dem, sjukdomsk\xe4nsla']]],
+=======
+             ['Vascular', u'Hosta'],
+             ['Skin', u'Urtikaria, alopeci, purpura, ljusk\xe4nslighet'],
+             ['Renal', u'Urinretention  ejakulera, dysmenorr\xe9'],
+             ['Renal', u'Kvinnor: menorragi'],
+             ['Renal', u'\xd6dem, sjukdomsk\xe4nsla']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Blood',
               u'Bl\xf6dningar (t.ex. gynekologisk bl\xf6dning,  gastrointestinal bl\xf6dning, ekkymos och andra former av hudbl\xf6dning eller bl\xf6dning i slemhinnor) kan i'],
@@ -46,7 +68,13 @@
              ['Vascular', u'Bl\xf6dning'],
              ['Hepato', u'Hepatit']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Immune system', u'Anafylaktisk reaktion'], ['Skin', u'Angio\xf6dem']]],
+=======
+            [['Immune system', u'Anafylaktisk reaktion'],
+             ['Skin', u'Angio\xf6dem'],
+             ['Renal', u'Galaktorr\xe9']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood', u'Trombocytopeni'],
              ['Metabolism', u'Hypokalemi'],
@@ -54,6 +82,7 @@
               u'Paniksyndrom, bruxism, rastl\xf6shet, sj\xe4lvmordstankar  och sj\xe4lvmordsbeteende'],
              ['Nervous system', u'Serotonergt syndrom, r\xf6relsest\xf6rningar'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Ventrikul\xe4r arytmi inklusive torsade de pointes,  QT-f\xf6rl\xe4ngning p\xe5 EKG'],
              ['Respiratory', u'Epistaxis (n\xe4sbl\xf6dning)'],
              ['GI', u'Gastrointestinal bl\xf6dning (inklusive rektal bl\xf6dning)'],
@@ -61,4 +90,14 @@
              ['Skin', u'Ekkymos']]]],
  '_pages': [10, 14],
  u'_rank': 47,
+=======
+              u'Ventrikul\xe4r arytmi inklusive torsade de pointes, QT-  f\xf6rl\xe4ngning p\xe5 EKG'],
+             ['Vascular', u'Epistaxis (n\xe4sbl\xf6dning)'],
+             ['GI', u'Gastrointestinal bl\xf6dning (inklusive rektal bl\xf6dning)'],
+             ['Hepato', u'Onormala leverfunktionsv\xe4rden'],
+             ['Skin', u'Ekkymos'],
+             ['Renal', u'Kvinnor: metrorragi  M\xe4n: priapism']]]],
+ '_pages': [10, 14],
+ u'_rank': 45,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

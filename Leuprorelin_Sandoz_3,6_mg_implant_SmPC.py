@@ -15,7 +15,11 @@
              ['Reproductive system', u'minskad testikelstorlek'],
              ['General', u'vikt\xf6kning'],
              ['Investigations',
+<<<<<<< HEAD
               u'\xf6kad aktivitet av vissa enzymer, bl.a. laktatdehydrogenas (LDH), alkaliskt fosfatas (AFOS) eller transaminaser, t.ex. ALAT, ASAT eller GGT. I ett enskilt fall f\xf6rekom trombos i den centrala retinalart\xe4ren. Hos en patient av de 120 000 patienter som hittills har behandlats med leuprorelinacetat har hypofysdysfunktion f\xf6rekommit p.g.a. en expansiv f\xf6r\xe4ndring. Patienten stod p\xe5 l\xe5ngtidsbehandling med leuprorelinacetat (\xe0 7,5 mg depot). B\xe4gge dessa h\xe4ndelser avklingade efter adekvat behandling utan att behandlingen med 7,5 mg leuprorelinacetat depot beh\xf6vde avbrytas.']]],
+=======
+              u'\xf6kad aktivitet av vissa enzymer, bl.a. laktatdehydrogenas (LDH), alkaliskt fosfatas (AFOS) eller transaminaser, t.ex. ALAT, ASAT eller GGT. I ett enskilt fall f\xf6rekom trombos i den centrala retinalart\xe4ren. Hos en patient av de 120 000 patienter som hittills har behandlats med leuprorelinacetat har hypofysdysfunktion f\xf6rekommit p.g.a. en expansiv f\xf6r\xe4ndring. Patienten stod p\xe5 l\xe5ngtidsbehandling med leuprorelinacetat (\xe0 7,5 mg depot). B\xe4gge dessa h\xe4ndelser avklingade efter adekvat behandling utan att behandlingen med 7,5 mg leuprorelinacetat depot beh\xf6vde avbrytas. *Hypofys\xe4r apoplexi: Under l\xe4kemedels\xf6vervakningen efter beviljat f\xf6rs\xe4ljningstillst\xe5nd har s\xe4llsynta fall av hypofys\xe4r apoplexi rapporterats efter administration av GnRH-agonister. Hypofys\xe4r apoplexi \xe4r ett kliniskt syndrom som uppst\xe5r som en f\xf6ljd av hypofysinfarkt. Hos de flesta av patienterna med hypofys\xe4r apoplexi diagnostiserades ett hypofysadenom. Apoplexin intr\xe4ffade i de flesta fallen inom tv\xe5 veckor efter f\xf6rsta dos och hos en del patienter under den f\xf6rsta timmen. I dessa fall gav den hypofys\xe4ra apoplexin f\xf6ljande symtom: pl\xf6tslig huvudv\xe4rk, kr\xe4kningar, synf\xf6r\xe4ndringar, oftalmoplegi, f\xf6r\xe4ndrat mentalt tillst\xe5nd och ibland kardiovaskul\xe4r kollaps. Omedelbar medicinsk tillsyn har varit n\xf6dv\xe4ndig. Observera s\xe4rskilt Svaret p\xe5 behandlingen med Leuprorelin Sandoz 3,6 mg implantat kan f\xf6ljas upp med m\xe4tning av halten av testosteron, surt fosfatas och PSA i patientens serum. Initialt \xf6kar halten av testosteron d\xe5 behandlingen p\xe5b\xf6rjas, men d\xe4refter sjunker halten inom tv\xe5 veckor. Efter 2\u20134 veckor \xe4r testosteronhalten j\xe4mf\xf6rbar med den halt som n\xe5s efter bilateral orkidektomi. Halten f\xf6rblir p\xe5 denna niv\xe5 under hela den tid behandlingen p\xe5g\xe5r. Hypogonadism som \xe4r en f\xf6ljd av l\xe5ngtidsbehandling med GnRH-analoger eller orkidektomi kan leda till osteoporos och s\xe5ledes en \xf6kad risk f\xf6r frakturer. Adjuvant administration av bisfosfonater kan f\xf6rebygga demineralisering av skelettet hos patienter med risk f\xf6r detta. \xd6kad halt av surt fosfatas kan f\xf6rekomma under den initiala behandlingsfasen. Denna \xf6kning \xe4r \xf6verg\xe5ende. Normala eller n\xe4stan normala v\xe4rden uppn\xe5s i allm\xe4nhet under loppet av n\xe5gra veckor. Leuprorelin, i likhet med andra LHRH-analoger, har orsakat en \xf6verg\xe5ende \xf6kning av koncentrationen av testosteron i serum under den f\xf6rsta behandlingsveckan eller de tv\xe5 f\xf6rsta behandlingsveckorna. D\xe4rf\xf6r kan eventuella sjukdomssymtomen och - fynden blossa upp under de f\xf6rsta behandlingsveckorna. Detta m\xe5ste s\xe4rskilt beaktas hos patienter med metastaser i ryggkotorna och/eller med urinv\xe4gsf\xf6rtr\xe4ngning eller hematuri. Om dessa tillst\xe5nd f\xf6rsv\xe5ras under behandlingen, kan neurologiska problem uppst\xe5, bl.a. svaghet och/eller parestesier i nedre extremiteterna eller f\xf6rsv\xe5rade urinv\xe4gssymtom (se avsnitt 4.4).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Vascular', u'trombos'], ['Respiratory', u'lungemboli'], ['GI', u'diarr\xe9']]],
            ['Very rare',
@@ -27,6 +31,10 @@
              ['Musculoskeletal', u'led- och muskelbesv\xe4r'],
              ['General',
               u'svullnad, tr\xf6tthet; lokala hudreaktioner, t.ex. rodnad vid injektionsst\xe4llet; dessa har vanligen avklingat trots fortsatt behandling. \xd6vrigt']]]],
+<<<<<<< HEAD
  '_pages': [4, 5],
+=======
+ '_pages': [4, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 22,
  u'_type': u'LSFU'}

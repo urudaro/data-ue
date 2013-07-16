@@ -1,6 +1,10 @@
 {'_data': [['Common',
             [['Respiratory',
+<<<<<<< HEAD
               u'00); s\xe4llsynta (>1/10 000 till <1/1000); mycket s\xe4llsynta (<1/10 000); ingen']]],
+=======
+              u'(>1/1000 till <1/100); s\xe4llsynta (>1/10 000 till <1/1000); mycket s\xe4llsynta (<1/10 000); ingen']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric', u'Agitation'],
              ['Nervous system', u'Parestesi'],
@@ -20,11 +24,20 @@
            ['Very rare',
             [['Blood', u'Trombocytopeni'],
              ['Immune system', u'Anafylaktisk chock'],
+<<<<<<< HEAD
              ['Psychiatric', u'Tics'],
              ['Nervous system', u'Dysgeusi, synkope, tremor, dystoni, dyskinesi'],
              ['Eye', u'Ackommodationsst\xf6rningar, dimsyn, okulogyr kris'],
              ['Skin', u'Angioneurotiskt \xf6dem, fixt l\xe4kemedelsutslag'],
              ['Renal', u'Dysuri, enures']]],
+=======
+             ['Psychiatric', u'Tics : Sj\xe4lvmordstankar'],
+             ['Nervous system',
+              u'Dysgeusi, synkope, tremor, dystoni, dyskinesi : Amnesi, minnesf\xf6rs\xe4mring'],
+             ['Eye', u'Ackommodationsst\xf6rningar, dimsyn, okulogyr kris'],
+             ['Skin', u'Angioneurotiskt \xf6dem, fixt l\xe4kemedelsutslag'],
+             ['Renal', u'Dysuri, enures : Urinretention']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['General', u'Tr\xf6tthet'],
              ['Nervous system', u'Yrsel 1,10 % 0,98 % Huvudv\xe4rk 7,42 % 8,07 %'],
@@ -38,10 +51,16 @@
              ['Respiratory',
               u'Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet 1,0 % 0,3 % Tr\xf6tthet Erfarenhet efter marknadsf\xf6ringen Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har f\xf6ljande biverkningar rapporterats efter marknadsf\xf6ringen. Biverkningar definieras enligt MedDRA-klassificering av organsystemet och med ber\xe4knad frekvens baserat p\xe5 erfarenhet efter marknadsf\xf6ringen. Frekvensen definieras enligt f\xf6ljande: Mycket vanliga (\u22651/10); vanliga (\u22651/100 till <1/10); mindre'],
              ['Metabolism', u'\xf6kad aptit'],
+<<<<<<< HEAD
              ['Psychiatric', u'Sj\xe4lvmordstankar'],
              ['Nervous system', u'Amnesi, minnesf\xf6rs\xe4mring'],
              ['Ear', u'Vertigo'],
              ['Renal', u'Urinretention']]]],
  '_pages': [3, 5],
  u'_rank': 34,
+=======
+             ['Ear', u'Vertigo']]]],
+ '_pages': [3, 5],
+ u'_rank': 31,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

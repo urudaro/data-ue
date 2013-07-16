@@ -16,9 +16,15 @@
               u'\xd6verk\xe4nslighetsreaktioner inkluderande  urtikaria, angio\xf6dem och anafylaktiska reaktioner']]],
            ['Very rare',
             [['Cardiac', u'Myokardinfarkt;  Angina pectoris; Koronar vasospasm'],
+<<<<<<< HEAD
              ['GI',
               u'intestinal infarkt, mj\xe4ltinfarkt), vilket kan upptr\xe4da som blodig diarr\xe9 eller buksm\xe4rtor'],
              ['Renal', u'Akuta urintr\xe4ngningar']]]],
  '_pages': [4, 5],
  u'_rank': 12,
+=======
+             ['Renal', u'Akuta urintr\xe4ngningar']]]],
+ '_pages': [4, 5],
+ u'_rank': 11,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

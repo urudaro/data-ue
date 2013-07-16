@@ -3,7 +3,13 @@
              ['Psychiatric', u'insomni(19%)'],
              ['Nervous system', u'Yrsel (11 %), somnolens (13 %), huvudv\xe4rk (21 %).'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Ejakulations-svikt(14 %) Vanliga E rektil dysfunktion, sexuella st\xf6rningar hos m\xe4n']]],
+=======
+              u'Ejakulations-svikt(14 %) Vanliga E rektil dysfunktion, sexuella st\xf6rningar hos m\xe4n'],
+             ['Other',
+              u'huvudv\xe4rk (22 %), insomni (21 %), diarr\xe9 (11 %) och illam\xe5ende (15 %).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Infections', u'Faryngit'],
              ['Infections',
@@ -22,7 +28,13 @@
              ['Musculoskeletal', u'Myalgi'],
              ['Vascular', u'V\xe4rmevallningar*'],
              ['Eye', u'Synst\xf6rningar'],
+<<<<<<< HEAD
              ['Eye', u'Tinnitus*']]],
+=======
+             ['Eye', u'Tinnitus*'],
+             ['Other',
+              u'sm\xe4rta i br\xf6stkorgen, mani, feber, kr\xe4kningar, anorexi, labilitet, aggression, agitation, oro, uppm\xe4rksamhetsst\xf6rning, yrsel, hyperkinesi, migr\xe4n, somnolens, tremor, synst\xf6rning, muntorrhet, dyspepsi, mardr\xf6mmar, tr\xf6tthet, urininkontinens, utslag, akne, n\xe4sblod, v\xe4dersp\xe4nning.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'\xd6vre luftv\xe4gsinfektion, rinit'],
              ['Infections',
@@ -41,11 +53,21 @@
              ['Vascular', u'Hypertoni*, vallningar'],
              ['Eye',
               u'Mydriasis*, glaukom, st\xf6rning i t\xe5rfl\xf6det, skotom, diplopi, fotofobi, hyphemi'],
+<<<<<<< HEAD
              ['Eye', u'\xd6ronv\xe4rk']]],
            ['Rare',
             [['Infections',
               u'Divertikulit Gastroenterit, otitis media Benigna och maligna neoplasier (inklusive cystor och polyper)'],
              ['Infections', u'Neoplasm\u2020 Mag  -tarmkanalen'],
+=======
+             ['Eye', u'\xd6ronv\xe4rk'],
+             ['Other',
+              u'F\xf6rl\xe4ngd EKG QT, suicidf\xf6rs\xf6k, konvulsioner, extrapyramidala st\xf6rningar, parestesier, depression, hallucinationer, purpura, hyperventilation, anemi, onormal leverfunktion, \xf6kat ALAT-v\xe4rde, cystit, herpes simplex, otitis externa, \xf6ronv\xe4rk, \xf6gonsm\xe4rta, mydriasis, sjukdomsk\xe4nsla, hematuri, utslag med varbl\xe5sor, rinit, skada, viktnedg\xe5ng, muskelryckningar, onormala dr\xf6mmar, apati, albuminuri, pollakisuri, polyuri, br\xf6stsm\xe4rta, menstruationsrubbning, alopeci, dermatit, hudproblem, onormal hudlukt, urtikaria, bruxism, vallningar.']]],
+           ['Rare',
+            [['Infections',
+              u'Divertikulit Gastroenterit, otitis media Benigna och maligna neoplasier (inklusive cystor och polyper)'],
+             ['Infections', u'Neoplasm\u2020 Mag -tarmkanalen'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Infections',
               u'Melena, hematochezi, stomatit, tungs\xe5r, tandproblem, glossit, muns\xe5r'],
              ['Metabolism', u'Hyperkolesterolemi, hypoglykemi.'],
@@ -70,7 +92,11 @@
              ['Vascular', u'Perifer ischemi'],
              ['Injury', u'Skada'],
              ['Other',
+<<<<<<< HEAD
               u'K\xe4rlutvidgnings-operation Om biverkning har intr\xe4ffat vid depression, OCD, paniksyndrom, PTSD och social fobi har kropps/organtermen omklassificerats till kropps/organtermen f\xf6r depressionsstudier. \u2020 Ett fall av neoplasm har rapporterats hos en patient som f\xe5tt sertralin, j\xe4mf\xf6rt med inget fall i placeboarmen.']]],
+=======
+              u'K\xe4rlutvidgnings-operation Om biverkning har intr\xe4ffat vid depression, OCD, paniksyndrom, PTSD och social fobi har kropps/organtermen omklassificerats till kropps/organtermen f\xf6r depressionsstudier. \u2020 Ett fall av neoplasm har rapporterats hos en patient som f\xe5tt sertralin, j\xe4mf\xf6rt med inget fall i placeboarmen. * Dessa biverkningar har ocks\xe5 intr\xe4ffat efter godk\xe4nnandet. ** Som n\xe4mnare anv\xe4nds antalet av respektive k\xf6n i kombination: sertralin (1 118 m\xe4n, 1 424 kvinnor) placebo (926 m\xe4n, 1 219 kvinnor) Vid OCD, korttidsstudier, endast 1-12 veckor. *** Fall av suicidtankar och suicidalt beteende har rapporterats under behandling med sertralin eller direkt efter avslutad behandling (se avsnitt 4.4). Uts\xe4ttningssymtom som har setts vid avbrytande av sertralinbehandling Avbrytande av sertralinbehandling (s\xe4rskilt n\xe4r det sker abrupt) medf\xf6r ofta uts\xe4ttningssymtom. Yrsel, k\xe4nselst\xf6rningar (inklusive parestesier), s\xf6mnst\xf6rningar (inklusive insomni och intensiva dr\xf6mmar), agitation eller \xe5ngest, illam\xe5ende och/eller kr\xe4kningar, tremor och huvudv\xe4rk \xe4r de vanligast rapporterade reaktionerna. I allm\xe4nhet \xe4r dessa symtom l\xe4tta till m\xe5ttliga och upph\xf6r spontant, men hos vissa patienter kan de vara sv\xe5ra och/eller ha f\xf6rl\xe4ngd duration. D\xe4rf\xf6r rekommenderas ett stegvis uts\xe4ttande genom dosnedtrappning n\xe4r behandling med sertralin ska avslutas (se avsnitten 4.2 och 4.4). \xc4ldre SSRI- eller SNRI-l\xe4kemedel, inklusive sertralin har f\xf6rknippats med fall av kliniskt signifikant hyponatremi hos \xe4ldre patienter, som kan l\xf6pa h\xf6gre risk att f\xe5 denna biverkning (se avsnitt 4.4). Barn Hos \xf6ver 600 barn som behandlats med sertralin var den totala biverkningsprofilen i allm\xe4nhet likartad den som har setts i studier p\xe5 vuxna. F\xf6ljande biverkningar har rapporterats i kontrollerade studier (n=281 patienter som fick behandling med sertralin)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Infections', u'pankreatit'],
              ['Metabolism', u'hyponatremi'],
@@ -79,7 +105,11 @@
               u'R\xf6relsest\xf6rningar (inklusive extrapyramidala symtom s\xe5som hyperkinesi, hypertoni, tandagnisslan eller onormal g\xe5ng), synkope. Tecken och symtom p\xe5 serotonergt syndrom har ocks\xe5 rapporterats, i vissa fall associerat med samtidig anv\xe4ndning av serotonerga l\xe4kemedel, s\xe5som agitation, f\xf6rvirring, diafores, diarr\xe9, feber, hypertoni, rigiditet och takykardi. Akatisi och psykomotorisk rastl\xf6shet (se avsnitt 4.4).'],
              ['Reproductive system', u'Gynekomasti, oregelbundna menstruationer'],
              ['Skin',
+<<<<<<< HEAD
               u'S\xe4llsynta rapporter om sv\xe5ra hudreaktioner (SCAR), t.ex. Stevens-Johnsons syndrom och epidermal nekrolys, angio\xf6dem, ansikts\xf6dem, hudreaktion, pruritus, fotosensitivitet Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet  Mycket vanliga: Tr\xf6tthet (10 %)*'],
+=======
+              u'S\xe4llsynta rapporter om sv\xe5ra hudreaktioner (SCAR), t.ex. Stevens- Johnsons syndrom och epidermal nekrolys, angio\xf6dem, ansikts\xf6dem, hudreaktion, pruritus, fotosensitivitet Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet  Mycket vanliga: Tr\xf6tthet (10 %)*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'Leukopeni, trombocytopeni'],
              ['Immune system', u'Anafylaktoid reaktion, allergisk reaktion, allergi'],
              ['Endocrine', u'Hyperprolaktinemi, hypotyreos, inadekvant ins\xf6ndring av ADH'],
@@ -90,7 +120,15 @@
              ['Musculoskeletal', u'Artralgi, muskelkramper'],
              ['Vascular',
               u'Onormala bl\xf6dningar (s\xe5som n\xe4sblod, gastrointestinal-bl\xf6dning eller hematuri)'],
+<<<<<<< HEAD
              ['Eye', u'Onormal syn \xd6ron och balansorgan']]]],
  '_pages': [9, 13],
  u'_rank': 65,
+=======
+             ['Eye', u'Onormal syn \xd6ron och balansorgan'],
+             ['Other',
+              u'enures Klasseffekt Epidemiologiska studier som fr\xe4mst har utf\xf6rts p\xe5 patienter 50 \xe5r och \xe4ldre, visar en \xf6kad risk f\xf6r benfraktur hos patienter som behandlas med SSRI och TCA. Mekanismen \xe4r ok\xe4nd.']]]],
+ '_pages': [9, 13],
+ u'_rank': 69,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

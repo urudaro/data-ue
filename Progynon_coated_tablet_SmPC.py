@@ -16,7 +16,11 @@
              ['General', u'V\xe4tskeretention (\xf6dem), vikt\xf6kning, \xf6kad aptit']]],
            ['Rare',
             [['Blood', u'Ven\xf6s trombo-embolism'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighets-reakti oner t ex urtikaria, pruritus'],
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-reaktioner t ex urtikaria, pruritus'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Nedst\xe4mdhet, oro'],
              ['Eye', u'Torra \xf6gon, sv\xe5righet att b\xe4ra kontaktlinser'],
              ['GI', u'Flatulens, ibland med buksm\xe4rtor']]]],

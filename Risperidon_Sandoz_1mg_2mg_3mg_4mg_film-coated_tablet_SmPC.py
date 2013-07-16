@@ -7,6 +7,7 @@
              ['Psychiatric', u'\xc5ngest, agitation, s\xf6mnst\xf6rning'],
              ['Eye', u'Dimsyn'],
              ['Cardiac', u'Takykardi'],
+<<<<<<< HEAD
              ['Respiratory',
               u'Dyspn\xe9, n\xe4sbl\xf6dning, hosta, n\xe4st\xe4ppa, faryngolaryngeal  sm\xe4rta'],
              ['GI',
@@ -16,6 +17,14 @@
              ['Musculoskeletal', u'Enures'],
              ['Renal', u''],
              ['General', u'Feber, tr\xf6tthet, perifert \xf6dem, asteni, br\xf6stsm\xe4rta']]],
+=======
+             ['GI',
+              u'Kr\xe4kningar, diarr\xe9, f\xf6rstoppning, illam\xe5ende, buksm\xe4rta,  dyspepsi, muntorrhet, magbesv\xe4r'],
+             ['Skin', u'Hudutslag, erytem'],
+             ['Skin',
+              u'avvikande kroppsh\xe5llning, ledstelhet, muskuloskeletal  br\xf6stsm\xe4rta'],
+             ['Renal', u'Enures']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections',
               u'Sinuit, virusinfektion, \xf6roninfektion, tonsillit,  cellv\xe4vsinflammation, mediaotit, \xf6goninfektion, lokaliserad  infektion, akarodermatit, luftv\xe4gsinfektion, cystit, onykomykos'],
@@ -29,6 +38,7 @@
              ['Cardiac',
               u'Atrioventrikul\xe4rt block, sk\xe4nkelblock, f\xf6rmaksflimmer,  sinusbradykardi, palpitationer'],
              ['Vascular', u'Hypotension, ortostatisk hypotension, rodnad'],
+<<<<<<< HEAD
              ['Respiratory',
               u'V\xe4sande andning, aspirationspneumoni, lungstas,  lungsjukdom, rassel, stas i andningsv\xe4garna, dysfoni'],
              ['GI', u'Dysfagi, gastrit, fecesinkontinens, fekalom'],
@@ -39,6 +49,15 @@
              ['Reproductive system',
               u'Amenorr\xe9, sexuell dysfunktion, erektil dysfunktion,  ejakulationsst\xf6rning, galaktorr\xe9, gynekomasti,  menstruationsrubbning, vaginal flytning'],
              ['General',
+=======
+             ['Vascular',
+              u'V\xe4sande andning, aspirationspneumoni, lungstas,  lungsjukdom, rassel, stas i andningsv\xe4garna, dysfoni'],
+             ['GI', u'Dysfagi, gastrit, fecesinkontinens, fekalom'],
+             ['Skin',
+              u'Angio\xf6dem, hudlesion, hudproblem, kl\xe5da, akne, missf\xe4rgning  av huden, h\xe5ravfall, seborroiskt eksem, torr hud, hyperkeratos'],
+             ['Renal', u'Urinretention, dysuri, urininkontinens, pollakisuri'],
+             ['Reproductive system',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Ansikts\xf6dem, g\xe5ngrubbning, k\xe4nsla av att inte m\xe5 som  vanligt, tr\xf6ghet, influensaliknande sjukdom, t\xf6rst,  obehagsk\xe4nsla i br\xf6stet, frossa']]],
            ['Rare',
             [['Infections', u'Kronisk mediaotit'],
@@ -47,6 +66,7 @@
              ['Endocrine', u'Inadekvat sekretion av antidiuretiskt hormon'],
              ['Psychiatric', u'Anorgasmi, k\xe4nslom\xe4ssig avtrubbning'],
              ['Eye', u'F\xf6rs\xe4mrad synsk\xe4rpa, \xf6gonrullning, glaukom'],
+<<<<<<< HEAD
              ['Respiratory', u'S\xf6mnapn\xe9syndrom, hyperventilation'],
              ['GI', u'Tarmobstruktion, pankreatit, l\xe4ppsvullnad, keilit'],
              ['Hepato', u'Gulsot'],
@@ -54,11 +74,24 @@
              ['Musculoskeletal', u'Rabdomyolys'],
              ['General',
               u'Generaliserat \xf6dem, hypotermi,  l\xe4kemedelsabstinenssyndrom, perifer kyla']]],
+=======
+             ['Vascular', u'S\xf6mnapn\xe9syndrom, hyperventilation'],
+             ['GI', u'Tarmobstruktion, pankreatit, l\xe4ppsvullnad, keilit'],
+             ['Hepato', u'Gulsot'],
+             ['Skin', u'Mj\xe4ll'],
+             ['Skin', u'Rabdomyolys'],
+             ['Reproductive system',
+              u'Generaliserat \xf6dem, hypotermi, l\xe4kemedelsabstinenssyndrom,  perifer kyla']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood', u'Agranulocytos'],
              ['Immune system', u'Anafylaktisk reaktion'],
              ['Pregnancy', u'Neonatalt uts\xe4ttningssyndrom (se 4.6)'],
              ['Reproductive system', u'Priapism']]]],
  '_pages': [7, 12],
+<<<<<<< HEAD
  u'_rank': 42,
+=======
+ u'_rank': 39,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

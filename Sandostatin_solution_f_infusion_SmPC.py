@@ -23,6 +23,10 @@
              ['Hepato',
               u'Akut pankreatit, akut hepatit utan kolestas, kolestatisk hepatit, gallsten, gulsot, kolestatisk gulsot, f\xf6rh\xf6jda niv\xe5er av alkaliskt fosfatas, f\xf6rh\xf6jda niv\xe5er av gammaglutamyltransferas.'],
              ['Skin', u'Urtikaria.']]]],
+<<<<<<< HEAD
  '_pages': [4, 4],
+=======
+ '_pages': [4, 5],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 19,
  u'_type': u'LSFU'}

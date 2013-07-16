@@ -32,7 +32,11 @@
             [['Blood',
               u'hematologiska avvikelser s\xe5som neutropeni, leukopeni, anemi, trombocytopeni, pancytopeni, aplastisk anemi, agranulocytos'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xf6verk\xe4nslighetssyndrom** (inkluderande symtom som feber, lymfadenopati, ansikts\xf6dem, blod- och leverabnormiteter, disseminerad intravasal koagulation, multipel organsvikt).'],
+=======
+              u'\xf6verk\xe4nslighetssyndrom** (inkluderande symtom som feber, lymfadenopati, ansikts\xf6dem, blod- och leverabnormiteter, disseminerad intravasal koagulation, multipel organsvikt). **Hudutslag har \xe4ven rapporterats som delsymtom i ett \xf6verk\xe4nslighetssyndrom med ett varierande m\xf6nster av systemiska symtom med bland annat feber, lymfadenopati, ansikts\xf6dem samt blod- och leverabnormiteter. Syndromet uppvisar mycket varierande klinisk sv\xe5righetsgrad och kan i s\xe4llsynta fall leda till disseminerad intravasal koagulation och multiorgansvikt. Det \xe4r viktigt att notera att tidiga tecken p\xe5 \xf6verk\xe4nslighet (t.ex. feber, lymfadenopati) kan upptr\xe4da utan tecken p\xe5 samtidiga hudreaktioner. Om patienten uppvisar s\xe5dana statusfynd och symtom ska patienten omedelbart utv\xe4rderas och Lamotrigin 1A Farma uts\xe4ttas om inte en annan orsak kan fastst\xe4llas.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'konfusion, hallucinationer, tics.'],
              ['Nervous system',
               u'agitation, ostadighet, motorikst\xf6rningar, f\xf6rs\xe4mring av Parkinsons sjukdom, extrapyramidala'],

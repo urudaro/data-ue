@@ -2,7 +2,11 @@
             [['Nervous system', u'Muntorrhet %), huvudv\xe4rk (30,3%)*'],
              ['Cardiac', u'och'],
              ['GI', u'Illam\xe5ende (20,0 %)'],
+<<<<<<< HEAD
              ['Skin', u'Svettning (inklusive natt-svettni ng) [12,2 %]'],
+=======
+             ['Skin', u'Svettning (inklusive natt-svettning) [12,2 %]'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Systemic',
               u'F\xf6rekomsten av huvudv\xe4rk i poolade kliniska studier var 30,3% med venlafaxin och 31,3% med placebo.']]],
            ['Common',
@@ -19,11 +23,19 @@
               u'Onormal ejakulation/orgasm (m\xe4n), anorgasmi, erektil dysfunktion (impotens), f\xf6rs\xe4mrad urinering (mest sv\xe5righeter att komma ig\xe5ng), menstruationsst\xf6rningar s\xe5som \xf6kad bl\xf6dning eller mer oregelbunden bl\xf6dning (tex menorragi, metrorragi), pollakisuri'],
              ['Systemic', u'Asteni (tr\xf6tthet), frossbrytningar']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Blood', u'Ekkymos, gastro-intestin al bl\xf6dning'],
              ['Metabolism', u'Vikt\xf6kning'],
              ['Nervous system',
               u'Apati, hallu-cinatione r, myoklonus, agitation, f\xf6rs\xe4mrad koordination och balans'],
              ['Special Senses', u'F\xf6r\xe4ndrad smak-upplevel se, tinnitus'],
+=======
+            [['Blood', u'Ekkymos, gastro-intestinal bl\xf6dning'],
+             ['Metabolism', u'Vikt\xf6kning'],
+             ['Nervous system',
+              u'Apati, hallu-cinationer, myoklonus, agitation, f\xf6rs\xe4mrad koordination och balans'],
+             ['Special Senses', u'F\xf6r\xe4ndrad smak-upplevelse, tinnitus'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Postural'],
              ['Vascular', u'hypotoni, synkope, takykardi'],
              ['GI', u'Bruxism, diarr\xe9'],
@@ -41,16 +53,29 @@
              ['Nervous system',
               u'Malignt neuroleptikasyndrom (NMS), serotonergt syndrom, delirium, extrapyramidala reaktioner (inklusive dystoni och dyskinesi), tardiv dyskinesi, suicidalt beteende, suicidtankar**'],
              ['Special Senses', u'Tr\xe5ngvinkelglaukom'],
+<<<<<<< HEAD
              ['Cardiac', u'Hypotoni,'],
              ['Vascular',
               u'QT-f\xf6rl\xe4ngning, kammarflimmer, kammartakykardi (inklusive torsade de pointes)'],
+=======
+             ['Cardiac', u'Hypotoni, QT'],
+             ['Vascular',
+              u'f\xf6rl\xe4ngning, kammarflimmer, kammartakykardi (inklusive torsade de pointes)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Pulmonell eosinofili'],
              ['GI', u'Pankreatit'],
              ['Skin',
               u'Erythema multiforme, toxisk epidermal nekrolys, Stevens-Johnsons syndrom, kl\xe5da, n\xe4sselutslag'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Rabdomyolys'],
              ['Systemic', u'Anafylaxi']]]],
  '_note': u' ?MSFU',
  '_pages': [8, 10],
  u'_rank': 36,
+=======
+             ['Systemic', u'Anafylaxi']]]],
+ '_note': u' ?MSFU',
+ '_pages': [8, 10],
+ u'_rank': 35,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

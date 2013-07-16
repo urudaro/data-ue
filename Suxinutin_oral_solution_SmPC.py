@@ -21,9 +21,18 @@
              ['Reproductive system',
               u'Vaginal bl\xf6dning* Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
              ['Reproductive system', u'Tr\xf6tthet, irritabilitet*'],
+<<<<<<< HEAD
              ['Investigations', u'Viktminskning']]],
            ['Rare', [['Blood', u'Leukocytos, monocytos, trombocytopeni'], ['Skin', u'Exantem']]],
            ['Unknown', [['Psychiatric', u'Eufori, \xf6kad libido'], ['Renal', u'Biverkningar']]]],
  '_pages': [2, 4],
  u'_rank': 21,
+=======
+             ['Investigations',
+              u'Viktminskning * Biverkningsfrekvensen \xe4r ber\xe4knad fr\xe5n biverkningsdatabasen efter marknadsf\xf6ring Biverkningar, speciellt nedsatt vakenhet och koncentrationsf\xf6rm\xe5ga, \xe4r vanliga vid behandling med antiepileptika, men uppfattas dock vanligen inte av patienten som st\xf6rande. De vanligaste biverkningarna \xe4r dosberoende. Illam\xe5ende, som upptr\xe4der framf\xf6rallt i behandlingens inledningsskede, \xe4r oftast \xf6verg\xe5ende. Psykiatriska och psykologiska avvikelser som \xe4r associerade med etosuximid behandling kan speciellt ses hos patienter som tidigare har uppvisat tecken p\xe5 psykiska st\xf6rningar Ang\xe5ende immunologiska hypersensitivitets reaktioner: s\xe4llsynta fall av DRESS syndrom (utslag, eosinofili, och systemisk p\xe5verkan) har rapporterats efter marknadsf\xf6ring.']]],
+           ['Rare', [['Blood', u'Leukocytos, monocytos, trombocytopeni'], ['Skin', u'Exantem']]],
+           ['Unknown', [['Psychiatric', u'Biverkningar']]]],
+ '_pages': [2, 3],
+ u'_rank': 20,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

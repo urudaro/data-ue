@@ -24,7 +24,11 @@
              ['GI',
               u'Minskad aptit och minskat f\xf6dointag F\xf6rstoppning Dyspepsi Flatulens Gastrit F\xf6rh\xf6jt amylas'],
              ['Hepato',
+<<<<<<< HEAD
               u'F\xf6rs\xe4mrad leverfunktion (inkl. \xf6kat LDH) F\xf6rh\xf6jt bilirubin F\xf6rh\xf6jt gamma-glutamyl-tra nsferas F\xf6rh\xf6jda alkalinfosfatas-v\xe4rden i blodet'],
+=======
+              u'F\xf6rs\xe4mrad leverfunktion (inkl. \xf6kat LDH) F\xf6rh\xf6jt bilirubin F\xf6rh\xf6jt gamma-glutamyl-transferas F\xf6rh\xf6jda alkalinfosfatas-v\xe4rden i blodet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Kl\xe5da Hudrodnad Urtikaria Torr hud'],
              ['Musculoskeletal', u'Artralgi Myalgi'],
              ['Renal', u'Dehydrering'],
@@ -40,7 +44,11 @@
               u'Hypoestesi F\xf6r\xe4ndrat luktsinne (inkl. anosmi) Onormala dr\xf6mmar St\xf6rd koordinationsf\xf6r-m\xe5ga (inkl. g\xe5ngsv\xe5righeter, speciellt beroende p\xe5 yrsel eller svindel) Kramper inkl. grand mal kramper (se avsnitt 4.4) Koncentrations-sv\xe5righeter Talrubbningar Amnesi Perifer neuropati och polyneuropati'],
              ['Ear', u'Tinnitus Nedsatt h\xf6rsel inkl. d\xf6vhet (oftast reversibel)'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Ventrikul\xe4r takyarytmi Synkope(dvs. akut och kortvarig medvetandef\xf6rlust'],
+=======
+              u'Ventrikul\xe4r takyarytmi Synkope(dvs. akut och kortvarig medvetandef\xf6rlust)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypertoni Hypotoni'],
              ['GI',
               u'Dysfagi Stomatitis Antibiotika realterad kolit (inkl. pseudomembran\xf6s kolit, kan i mycket till livshotande komplikationer, se avsnitt 4.4)'],
@@ -62,7 +70,11 @@
              ['Hepato',
               u'Fulminant hepatit kan leda till livshotande leversvikt (inklusive d\xf6dsfall, se avsnitt 4.4)'],
              ['Skin',
+<<<<<<< HEAD
               u'Bull\xf6sa hudreaktioner s\xe5som Stevens-Johnsonss yndrom eller toxisk epidermal nekrolys (kan vara livshotande, se avsnitt 4.4)'],
+=======
+              u'Bull\xf6sa hudreaktioner s\xe5som Stevens-Johnsonssyndrom eller toxisk epidermal nekrolys (kan vara livshotande, se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal',
               u'Senruptur (se avsnitt 4.4) Artrit Muskelstelhet.ex.a cerbation av symtom av myasthenia gravis (se avsnitt 4.4)']]]],
  '_note': u' ?MSFU',

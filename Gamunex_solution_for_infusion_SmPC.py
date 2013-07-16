@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['Nervous system', u'Huvudv\xe4rk'], ['General', u'Pyrexi']]],
            ['Uncommon',
             [['Investigations', u'Minskat antal vita blodkroppar'],
@@ -12,3 +13,21 @@
  '_pages': [6, 7],
  u'_rank': 10,
  u'_type': u'TSFU'}
+=======
+{'_data': [[u'Unknown',
+            [['Investigations', u'Minskat antal vita blodkroppar   Mindre vanliga'],
+             ['Nervous system', u'Huvudv\xe4rk   Vanliga   Yrsel   Mindre vanliga'],
+             ['Skin', u'Urtikaria, dermatit, kl\xe5da, utslag   Mindre vanliga'],
+             ['GI', u'Buksm\xe4rta, diarr\xe9, illam\xe5ende, kr\xe4kningar   Mindre vanliga'],
+             ['Vascular', u'Hypertoni, hypotoni   Mindre vanliga'],
+             ['Respiratory',
+              u'Faryngit, hosta, n\xe4st\xe4ppa, v\xe4sande andning Mindre vanliga'],
+             ['Musculoskeletal',
+              u'Artralgi, ryggsm\xe4rta, nacksm\xe4rta,   Mindre vanliga   skuldersm\xe4rta'],
+             ['Cardiac', u'Sm\xe4rta i br\xf6stkorgen   Mindre vanliga'],
+             ['General',
+              u'Pyrexi   Vanliga   Influensaliknande sjukdom,   sjukdomsk\xe4nsla, tr\xf6tthet, frossbrytningar,   Mindre vanliga']]]],
+ '_pages': [5, 6],
+ u'_rank': 9,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

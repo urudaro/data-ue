@@ -1,4 +1,5 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Blood', u'Neutropeni (G4: 76,4%); Anemi (G3/4: 8,9%); Febril neutropeni'],
              ['Nervous system',
               u'Perifer sensorisk neuropati (G3: 4,1%); Perifer motorisk neuropati (G3/4: 4%); Smakf\xf6r\xe4ndring (sv\xe5r: 0,07%)'],
@@ -15,6 +16,9 @@
               u'V\xe4tskeretention (sv\xe5r: 6,5%); Asteni (sv\xe5r: 11,2%); Sm\xe4rta'],
              ['Immune system', u'Hypersensitivitet (G3/4: 5,3%)'],
              ['Blood',
+=======
+            [['Blood',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Neutropeni (G4: 54,2%); Anemi (G3/4: 10,8%); Trombocytopeni (G4: 1,7%)'],
              ['Nervous system', u'Perifer sensorisk neuropati (G3/4: 0,8%)'],
              ['GI',
@@ -28,10 +32,20 @@
               u'Neutropeni (G4: 91,7%); Anemi (G3/4: 9,4%); Febril neutropeni; Trombocytopeni (G4: 0,8%)'],
              ['Nervous system', u'Perifer sensorisk neuropati (G3: 0,4%)'],
              ['GI',
+<<<<<<< HEAD
               u'Illam\xe5ende (G3/4: 5%); Stomatit (G3/4: 7,8%); Diarr\xe9 (G3/4: 6,2%); Kr\xe4kningar (G3/4: 5%); F\xf6rstoppning'],
              ['Skin',
               u'Alopeci; Nagelf\xf6r\xe4ndringar (sv\xe5ra: 0,4%); Hudreaktioner (inga sv\xe5ra)'],
              ['Infections', u'Infektioner (G3/4: 7,8%)'],
+=======
+              u'Illam\xe5ende (G3/4: 5%); Stomatit (G3/4: 7,8%); Diarr\xe9 (G3/4: 6,2%); Kr\xe4kningar (G3/4:'],
+             ['Skin',
+              u'Alopeci; Nagelf\xf6r\xe4ndringar (sv\xe5ra: 0,4%); Hudreaktioner (inga sv\xe5ra)'],
+             ['Musculoskeletal', u'Myalgi'],
+             ['Metabolism', u'Anorexi'],
+             ['Infections', u'Infektioner (G3/4: 7,8%)'],
+             ['Vascular', u'Hypotoni'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General',
               u'Asteni (sv\xe5r 8,1%); V\xe4tskeretention (sv\xe5r 1,2%); Sm\xe4rta'],
              ['Blood',
@@ -46,7 +60,11 @@
              ['Metabolism', u'Anorexi'],
              ['Infections', u'Infektioner (G3/4: 5,7%)'],
              ['General',
+<<<<<<< HEAD
               u'Asteni (sv\xe5r: 9,9%); V\xe4tskeretention (sv\xe5r: 0,7%); Feber (G3/4: 1,2%)'],
+=======
+              u'Asteni (sv\xe5r: 9,9%); V\xe4tskeretention (sv\xe5r: 0,7%); Sm\xe4rta Feber (G3/4: 1,2%)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'Hypersensitivitet (G3/4: 2,5%)'],
              ['Investigations', u'Vikt\xf6kning'],
              ['Blood',
@@ -89,10 +107,16 @@
              ['Investigations', u'\xd6kning eller minskning av vikt (G3/4: 0,3%)'],
              ['Blood',
               u'Anemi (G3/4: 4,3%) ; Neutropeni (G3/4: 65,5%); Trombocytopeni (G3/4: 2,0%); Febril neutropeni'],
+<<<<<<< HEAD
              ['Nervous system',
               u'Smakf\xf6r\xe4ndringar (G3/4: 0,7%); Perifer sensorisk neuropati (G3/4: 0%)'],
              ['GI',
               u'Illam\xe5ende (G3/4: 5,1%); Stomatit (G3/4: 7,1%) Kr\xe4kningar (G3/4: 4,3%); Diarr\xe9 (G3/4: 3,2%); F\xf6rstoppning (G3/4: 0,4%)'],
+=======
+             ['Nervous system', u'Smakf\xf6r\xe4ndringar (G3/4: 0,7%); Perifer sensorisk'],
+             ['GI',
+              u'Illam\xe5ende (G3/4: Stomatit (G3/4: 7,1%) Kr\xe4kningar (G3/4: 4,3%); Diarr\xe9 (G3/4: 3,2%); F\xf6rstoppning (G3/4: 0,4%)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Alopeci; Hudtoxicitet (G3/4: 0,7%); Nagelf\xf6r\xe4ndringar (G3/4: 0,4%)'],
              ['Musculoskeletal', u'Myalgi (G3/4: 0,8%); Artralgi (G3/4: 0,4%)'],
@@ -139,6 +163,7 @@
              ['General',
               u'Letargi (G3/4: 4,0%); Pyrexi (G3/4: 3,6%); V\xe4tskeretention (G3/4: 1,2%) \xd6dem (G3/4: 1,2%)']]],
            ['Common',
+<<<<<<< HEAD
             [['Investigations',
               u'G3/4 bilirubinstegring (<5%); G3/4 stegring av alkaliska fosfataser (<4%); G3/4 ASAT-stegring (<3%); G3/4 ALAT-stegring (<2%)'],
              ['Cardiac', u'Arytmi (G3/4: 0,7%)'],
@@ -151,6 +176,9 @@
              ['General',
               u'Reaktion p\xe5 infusionsst\xe4llet; br\xf6stsm\xe4rta utan hj\xe4rtp\xe5verkan (sv\xe5r: 0,4%)'],
              ['Investigations', u'G3/4 bilirubinstegring (<2%)'],
+=======
+            [['Investigations', u'G3/4 bilirubinstegring (<2%)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Arytmi (inga sv\xe5ra)'],
              ['Blood', u'Febril neutropeni'],
              ['Nervous system', u'Perifer motorisk neuropati (G3/4: 2,5%)'],
@@ -159,6 +187,7 @@
              ['Musculoskeletal', u'Myalgi'],
              ['Vascular', u'Hypotoni'],
              ['Immune system', u'Hypersensitivitet (inga sv\xe5ra)'],
+<<<<<<< HEAD
              ['Investigations',
               u'G3/4 bilirubinstegring (<2,5%); G3/4 stegring av alkaliska fosfataser (<2,5%)'],
              ['Cardiac', u'Hj\xe4rtsvikt Arytmi (inga sv\xe5ra)'],
@@ -173,6 +202,19 @@
              ['GI', u'F\xf6rstoppning'],
              ['Vascular', u'Hypotoni (G3/4: 0,7%)'],
              ['General', u'Reaktion p\xe5 infusionsst\xe4llet; Sm\xe4rta'],
+=======
+             ['Investigations', u'G3/4 bilirubinstegring   G3/4 ASAT-stegring'],
+             ['Cardiac', u'Hj\xe4rtsvikt Arytmi (inga sv\xe5ra)'],
+             ['Nervous system', u'Perifer motorisk neuropati (G3/4: 0,4%)'],
+             ['General', u'Reaktion p\xe5 infusionsst\xe4llet'],
+             ['Immune system', u'Hypersensitivitet (G3/4: 1,2%)'],
+             ['Investigations', u'G3/4 bilirubinstegring   G3/4 ASAT-stegring'],
+             ['Cardiac', u'Arytmi (G3/4: 0,7%)   Hj\xe4rtsvikt'],
+             ['Blood', u'Febril neutropeni'],
+             ['GI', u'F\xf6rstoppning'],
+             ['Vascular', u'Hypotoni (G3/4: 0,7%)'],
+             ['General', u'Reaktion p\xe5 infusionsst\xe4llet;'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Hj\xe4rtsvikt'],
              ['General', u'Letargi'],
              ['Investigations', u'Viktminskning; G3/4 bilirubinstegring (9%)'],
@@ -194,6 +236,7 @@
              ['Respiratory', u'Epistaxis (G3/4: 0%); Dyspn\xe9 (G3/4: 0,6%); Hosta (G3/4: 0%)'],
              ['Skin', u'Exfoliativt utslag (G3/4: 0,3%)'],
              ['Musculoskeletal', u'Artralgi (G3/4: 0,3%); Myalgi (G3/4: 0,3%)'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighets-reaktione r (G3/4: 0,6%)'],
              ['Cardiac', u'Arytmi (G3/4: 0,1%); Kronisk hj\xe4rtinsufficiens'],
              ['Nervous system',
@@ -202,6 +245,16 @@
              ['Respiratory', u'Hosta (G3/4: 0%)'],
              ['GI', u'Buksm\xe4rta (G3/4: 0,5%)'],
              ['Vascular', u'Hypotoni (G3/4: 05)'],
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-reaktioner (G3/4: 0,6%)'],
+             ['Cardiac', u'Arytmi (G3/4: 0,1%); hj\xe4rtinsufficiens'],
+             ['Nervous system',
+              u'Perifer motorisk Synkope (G3/4: 0%) neuropati (G3/4: 0%): Neurokortikal (G3/4: Neurocerebellar (G3/4:'],
+             ['Eye', u'Rubbningar i t\xe5rfl\xf6det (G3/4: 0,1%); Konjunktivit (G3/4:'],
+             ['Respiratory', u'Hosta (G3/4: 0%)'],
+             ['GI', u'Buksm\xe4rta (G3/4: Kolit/enterit/ tjocktarmen'],
+             ['Vascular', u'Hypotoni (G3/4: 05)  Flebit (G3/4: 0%); Lymf\xf6dem (G3/4: 0%)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Arytmi (G3/4: %)'],
              ['Nervous system', u'Yrsel (G3/4: 2,3%) Perifer motorisk neuropati (G3/4: 1,3%)'],
              ['Eye', u'\xd6kat t\xe5rfl\xf6de (G3/4: 0%)'],
@@ -231,6 +284,7 @@
              ['Musculoskeletal', u'Myalgi (G3/4: 0,4%)'],
              ['Infections', u'Neutropen infektion']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Cardiac', u'Hj\xe4rtsvikt'],
              ['GI', u'Esofagit (sv\xe5r: 0,4%)'],
              ['Investigations', u'G3/4 ASAT-stegring (<1%); G3/4 ALAT-stegring (<1%)'],
@@ -242,12 +296,22 @@
              ['GI', u'Kolit/enterit/ perforation av tjocktarmen'],
              ['Vascular', u'Flebit (G3/4: 0%); Lymf\xf6dem (G3/4: 0%)'],
              ['Cardiac', u'Arytmi (G3/4: 0,6%)'],
+=======
+            [['Cardiac', u'Arytmi (G3/4: 0,6%)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'Vikt\xf6kning'],
              ['Cardiac', u'Hj\xe4rtmuskelischemi'],
              ['Eye', u'Konjunktivit'],
              ['Vascular', u'Ven\xf6sa sjukdomar'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighets-reaktio ner']]]],
  '_note': u' ?MSFU',
  '_pages': [9, 21],
  u'_rank': 191,
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-reaktioner']]]],
+ '_note': u' ?MSFU',
+ '_pages': [9, 21],
+ u'_rank': 165,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

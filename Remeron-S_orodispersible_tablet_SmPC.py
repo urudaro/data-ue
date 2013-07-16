@@ -32,8 +32,16 @@
              ['GI', u'\xd6dem i munnen \xd6kad salivuts\xf6ndring'],
              ['Skin',
               u'Stevens Johnsons syndrom Dermatitis bullous Erythema multiforme Toxisk epidermal nekrolys'],
+<<<<<<< HEAD
              ['General', u'm \xd6dem, generella \xd6dem, lokala']]]],
  '_note': u' ?MSFU',
  '_pages': [5, 7],
  u'_rank': 27,
+=======
+             ['General', u'Somnambulis'],
+             ['General', u'm \xd6dem, generella \xd6dem, lokala']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 7],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

@@ -6,7 +6,11 @@
              ['Psychiatric',
               u'Hallucinationer** Agitation** Aggressivitet** Onormala dr\xf6mmar och mardr\xf6mmar**'],
              ['Nervous system', u'Synkope* Yrsel S\xf6mnl\xf6shet'],
+<<<<<<< HEAD
              ['GI', u'Kr\xe4kningar Mag-tarmrubbnin gar'],
+=======
+             ['GI', u'Kr\xe4kningar Mag-tarmrubbningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Hudutslag Pruritus'],
              ['Musculoskeletal', u'Muskelkramp'],
              ['Renal', u'Urininkontinens'],

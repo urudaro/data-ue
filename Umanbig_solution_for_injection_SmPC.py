@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Uncommon', [['General', u'']]],
            ['Very rare', [['GI', u'Kr\xe4kningar']]],
            ['Unknown',
@@ -16,4 +17,21 @@
              ['General', u'Frossa']]]],
  '_pages': [4, 5],
  u'_rank': 14,
+=======
+{'_data': [['Uncommon', [['General', u'Sm\xe4rta vid administreringsst\xe4llet']]],
+           ['Very rare', [['GI', u'Kr\xe4kningar']]],
+           ['Unknown',
+            [['Immune system', u'Anafylaktisk chock'],
+             ['Nervous system', u'Huvudv\xe4rk'],
+             ['Cardiac', u'Takykardi'],
+             ['Vascular', u'Hypotension'],
+             ['Vascular', u'Illam\xe5ende'],
+             ['GI', u'Hudreaktioner'],
+             ['GI', u'Erytem'],
+             ['Skin', u'Kl\xe5da  Pruritus'],
+             ['Skin', u'Feber'],
+             ['Skin', u'Allm\xe4n sjukdomsk\xe4nsla']]]],
+ '_pages': [4, 5],
+ u'_rank': 12,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

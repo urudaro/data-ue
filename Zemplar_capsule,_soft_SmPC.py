@@ -14,7 +14,12 @@
              ['Endocrine', u'Hypoparatyroidism'],
              ['Metabolism', u'Hyperkalcemi, hyperfosfatemi']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Nervous system', u'F\xf6rvirring'],
+=======
+            [['Investigations', u'Abnormala leverenzym'],
+             ['Nervous system', u'F\xf6rvirring'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Smakf\xf6r\xe4ndring'],
              ['GI', u'F\xf6rstoppning'],
              ['GI', u'Muntorrhet'],
@@ -52,5 +57,9 @@
             [['GI', u'Magtarmbl\xf6dning'],
              ['Immune system', u'Laryngealt \xf6dem, angio\xf6dem, urtikaria']]]],
  '_pages': [4, 6],
+<<<<<<< HEAD
  u'_rank': 43,
+=======
+ u'_rank': 44,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

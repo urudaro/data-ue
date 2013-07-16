@@ -17,7 +17,11 @@
              ['GI', u'pankreatit'],
              ['Hepato', u'reversibel leverenzymstegring'],
              ['Renal', u'pollakisuri'],
+<<<<<<< HEAD
              ['General', u'feber']]],
+=======
+             ['General', u'feber * Se avsnitt 4.4']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood', u'neutropeni, trombocytopeni'],
              ['Immune system',

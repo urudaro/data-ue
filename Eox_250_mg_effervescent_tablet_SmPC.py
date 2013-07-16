@@ -11,7 +11,11 @@
             [['Psychiatric', u' Insomningssv\xe5righeter, koncentrationssv\xe5righeter'],
              ['Ear', u' H\xf6rselneds\xe4ttning'],
              ['Respiratory', u' Astma, dyspn\xe9'],
+<<<<<<< HEAD
              ['GI', u'Gastrointestinal bl\xf6dning, mags\xe5r, ulcerativ stomatit, gastrit'],
+=======
+             ['GI', u' Gastrointestinal bl\xf6dning, mags\xe5r, ulcerativ stomatit, gastrit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u' Leverp\xe5verkan'],
              ['Skin', u' Urtikaria, fotosensitivitet inklusive pseudoporfyri'],
              ['Renal', u' Njurp\xe5verkan'],
@@ -23,12 +27,21 @@
              ['Psychiatric',
               u' Kognitiva st\xf6rningar, depression, mardr\xf6mmar, l\xe4tt oro, myalgi'],
              ['Nervous system', u' Aseptisk meningit  '],
+<<<<<<< HEAD
              ['Cardiac', u'Hj\xe4rtsvikt'],
              ['Vascular', u'Vaskulit, pulmon\xe4rt \xf6dem och hypertoni'],
              ['Respiratory', u' Eosinofil pneumonit '],
              ['GI', u'Kolit, perforation, kr\xe4kningar, melena, esofagit, pankreatit,'],
              ['Hepato', u' Toxisk hepatit (i isolerade fall fatal)'],
              ['Skin', u'Sv\xe5ra mucocutana hudreaktioner t ex Stevens-Johnsons'],
+=======
+             ['Cardiac', u' Hj\xe4rtsvikt'],
+             ['Vascular', u'Vaskulit, pulmon\xe4rt \xf6dem och hypertoni'],
+             ['Respiratory', u' Eosinofil pneumonit '],
+             ['GI', u' Kolit, perforation, kr\xe4kningar, melena, esofagit, pankreatit,'],
+             ['Hepato', u' Toxisk hepatit (i isolerade fall fatal)'],
+             ['Skin', u' Sv\xe5ra mucocutana hudreaktioner t ex Stevens-Johnsons'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u' Hematuri'],
              ['General', u' Anafylaktisk reaktion, kramper, muskelsvaghet  ']]]],
  '_pages': [6, 8],

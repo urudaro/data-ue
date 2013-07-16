@@ -15,7 +15,11 @@
              ['Hepato',
               u'Nedsatt leverfunktion som kolestas, gulsot och hepatit och leversvikt.'],
              ['Skin', u'Ljus\xf6verk\xe4nslighet'],
+<<<<<<< HEAD
              ['Investigations', u'Minskade serumnatrium-koncentratione']]]],
+=======
+             ['Investigations', u'Minskade serumnatrium-koncentrationer.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [6, 7],
  u'_rank': 10,

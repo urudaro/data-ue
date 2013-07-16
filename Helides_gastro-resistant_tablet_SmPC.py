@@ -1,4 +1,5 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Blood', u'Agranulocytos, pancytopeni'],
              ['Psychiatric', u'Aggression, hallucinationer'],
              ['Hepato', u'Leversvikt, encefalopati hos'],
@@ -24,6 +25,26 @@
              ['Immune system',
               u'\xd6verk\xe4nslighetsreaktioner s\xe5som  feber, angio\xf6dem och anafylaktisk reaktion/chock'],
              ['Metabolism', u'Hyponatremi'],
+=======
+            [['Psychiatric', u'Aggression, hallucinationer'],
+             ['Hepato', u'Leversvikt, encefalopati hos'],
+             ['Hepato', u'Erytema multiforme, Stevens-'],
+             ['Hepato', u'Muskelsvaghet'],
+             ['Renal', u'Interstitiell nefrit'],
+             ['Reproductive system', u'Gynekomasti']]],
+           ['Common',
+            [['GI',
+              u'Buksm\xe4rta, f\xf6rstoppning, diarr\xe9,  flatulens, illam\xe5ende/kr\xe4kningar']]],
+           ['Uncommon',
+            [['Psychiatric', u'S\xf6mnl\xf6shet'],
+             ['Nervous system', u'Yrsel, parestesi, s\xf6mnighet'],
+             ['GI', u'Muntorrhet'],
+             ['Hepato', u'F\xf6rh\xf6jning av leverenzymer']]],
+           ['Rare',
+            [['Immune system',
+              u'\xd6verk\xe4nslighetsreaktioner s\xe5som  feber, angio\xf6dem och anafylaktisk reaktion/chock'],
+             ['Immune system', u'Hyponatremi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Agitation, f\xf6rvirring, depression'],
              ['Psychiatric', u''],
              ['Nervous system', u'Smakf\xf6r\xe4ndringar'],
@@ -32,6 +53,7 @@
              ['GI', u'Stomatit, gastrointestinal  candidiasis'],
              ['Hepato', u'Hepatit med eller utan gulsot'],
              ['Hepato', u'patienter med leversjukdom'],
+<<<<<<< HEAD
              ['Skin', u'Alopeci, fotosensitivitet'],
              ['Skin', u'Stevens-Johnsons syndrom, toxisk  epidermal nekrolys (TEN)'],
              ['Renal', u''],
@@ -40,4 +62,15 @@
            ['Unknown', [['Metabolism', u'Hypomagnesemi (se avsnitt 4.4),']]]],
  '_pages': [9, 11],
  u'_rank': 30,
+=======
+             ['Hepato', u'Alopeci, fotosensitivitet'],
+             ['Hepato', u'Johnsons syndrom, toxisk  epidermal nekrolys (TEN)'],
+             ['Hepato', u'Artralgi, myalgi'],
+             ['Hepato', u''],
+             ['Renal', u''],
+             ['General', u'Allm\xe4n sjukdomsk\xe4nsla, \xf6kad']]],
+           ['Unknown', [['Immune system', u'Hypomagnesemi (se avsnitt 4.4),']]]],
+ '_pages': [9, 11],
+ u'_rank': 25,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

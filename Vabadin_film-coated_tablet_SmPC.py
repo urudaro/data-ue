@@ -7,6 +7,7 @@
              ['Hepato', u'hepatit/gulsot'],
              ['Skin', u'Kl\xe5da, hudutslag, h\xe5ravfall'],
              ['Musculoskeletal',
+<<<<<<< HEAD
               u'myopati, rabdomyolys (se avsnitt 4.4), myalgi, muskelkramper'],
              ['General',
               u'asteni Ett \xf6verk\xe4nslighetssyndrom best\xe5ende av n\xe5gra av f\xf6ljande symtom har rapporterats i'],
@@ -16,4 +17,13 @@
               u'f\xf6rh\xf6jningar i serumtransaminaser (alaninaminotransferas, aspartataminotransferas, \u03b3-glutamyltransferas (se avsnitt 4.4 Leverp\xe5verkan), f\xf6rh\xf6jda alkaliska fosfataser, f\xf6rh\xf6jningar i serum CK-v\xe4rden (se avsnitt 4.4).']]]],
  '_pages': [7, 8],
  u'_rank': 9,
+=======
+              u'myopati, rabdomyolys (se avsnitt 4.4), myalgi, muskelkramper Allm\xe4nna symtom och/eller fynd vid administreringsst\xe4llet'],
+             ['Musculoskeletal',
+              u'asteni Ett \xf6verk\xe4nslighetssyndrom best\xe5ende av n\xe5gra av f\xf6ljande symtom har rapporterats i s\xe4llsynta fall: angio\xf6dem, lupusliknande sjukdomsbild, reumatisk polymyalgi, dermatomyosit, vaskulit, trombocytopeni, eosinofili, SR-stegring, artrit och artralgi, urtikaria, fotosensibilisering, feber, rodnad, dyspn\xe9 och allm\xe4n sjukdomsk\xe4nsla.'],
+             ['Investigations',
+              u'f\xf6rh\xf6jningar i serumtransaminaser (alaninaminotransferas, aspartataminotransferas, \u03b3-glutamyltransferas (se avsnitt 4.4 Leverp\xe5verkan), f\xf6rh\xf6jda alkaliska fosfataser, f\xf6rh\xf6jningar i serum CK-v\xe4rden (se avsnitt 4.4).']]]],
+ '_pages': [7, 8],
+ u'_rank': 8,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

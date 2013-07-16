@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Uncommon',
             [['Psychiatric', u'S\xf6mnst\xf6rningar'],
              ['Nervous system', u'Huvudv\xe4rk, yrsel'],
@@ -35,3 +36,25 @@
  '_pages': [5, 6],
  u'_rank': 24,
  u'_type': u'MSFU'}
+=======
+{'_data': [[u'Unknown',
+            [['Blood', u'Agranulocytos   Tromocyto-   peni,'],
+             ['Immune system', u'\xd6verk\xe4nslighet'],
+             ['Metabolism',
+              u'Hyperlipidemi och   Hyponatremi,   lipid\xf6kning   hypomagnesemi'],
+             ['Psychiatric',
+              u'S\xf6mnst\xf6rningar   Depression (och alla   Desorien-   Hallucinationer,'],
+             ['Nervous system', u'Huvudv\xe4rk, yrsel   F\xf6r\xe4ndrad   smakupplevelse'],
+             ['Eye', u'Synrubbning/'],
+             ['GI', u'Diarr\xe9, illam\xe5ende /'],
+             ['Hepato', u'F\xf6rh\xf6jda   F\xf6rh\xf6jt bilirubin   Hepatocellul\xe4r'],
+             ['Skin',
+              u'Hudutslag/   Urticaria,   Stevens-Johnsons   exantem/   angio\xf6dem   syndrom, Lyells'],
+             ['Musculoskeletal', u'Artralgi, myalgi'],
+             ['Renal', u'Interstitiell nefrit'],
+             ['Reproductive system', u'Gynekomasti'],
+             ['General', u'Asteni, tr\xf6tthet och   F\xf6rh\xf6jd']]]],
+ '_pages': [4, 6],
+ u'_rank': 13,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

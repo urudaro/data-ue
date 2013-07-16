@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Cardiac', u'Myokardinfarkt;'],
              ['GI', u'Ischemi eller infarkt (t.ex. intestinal'],
              ['Renal', u'Akuta urintr\xe4ngningar']]],
            ['Common',
+=======
+{'_data': [['Common',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
             [['Nervous system',
               u'Onormal eller rubbad sinnesf\xf6rnimmelse;  Yrsel; Huvudv\xe4rk; Hyperestesi; Parestesier; Somnolens; V\xe4rmek\xe4nsla'],
              ['Cardiac', u'Palpitationer'],
@@ -17,6 +21,7 @@
              ['Renal', u'Polyuri;  Frekventa urintr\xe4ngningar']]],
            ['Rare',
             [['Immune system',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslighetsreaktioner inkluderande  urtikaria, angio\xf6dem och anafylaktiska reaktioner'],
              ['Cardiac', u'Angina pectoris;  Koronar vasospasm'],
              ['GI',
@@ -24,4 +29,12 @@
              ['Renal', u'']]]],
  '_pages': [4, 5],
  u'_rank': 14,
+=======
+              u'\xd6verk\xe4nslighetsreaktioner inkluderande  urtikaria, angio\xf6dem och anafylaktiska reaktioner']]],
+           ['Very rare',
+            [['Cardiac', u'Myokardinfarkt;  Angina pectoris; Koronar vasospasm'],
+             ['Renal', u'Akuta urintr\xe4ngningar']]]],
+ '_pages': [4, 5],
+ u'_rank': 11,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

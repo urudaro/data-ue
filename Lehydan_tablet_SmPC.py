@@ -5,9 +5,15 @@
              ['GI', u'Gingival hyperplasi'],
              ['Skin', u'Exantem, urtikaria, hirsutism'],
              ['General', u'D\xe5sighet, yrsel'],
+<<<<<<< HEAD
              ['Hepato', u'Transaminasstegrin g']]],
            ['Uncommon',
             [['Blood', u'Lymfadenopati (feber, exantem och lymfk\xf6rtelf\xf6rstoring )'],
+=======
+             ['Hepato', u'Transaminasstegring']]],
+           ['Uncommon',
+            [['Blood', u'Lymfadenopati (feber, exantem och lymfk\xf6rtelf\xf6rstoring)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Dyspepsi, illam\xe5ende och kr\xe4kningar']]],
            ['Rare',
             [['Cardiac', u'AV-block'],

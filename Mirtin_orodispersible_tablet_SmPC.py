@@ -1,7 +1,13 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Nervous system', u'Tr\xf6tthet -Sedering Huvudv\xe4rk'],
              ['GI', u'Muntorrhet'],
              ['Metabolism', u'Vikt\xf6knin g -\xd6kad aptit']]],
+=======
+            [['Investigations', u' vikt\xf6kning'],
+             ['Nervous system', u'Tr\xf6tthet -Sedering Huvudv\xe4rk'],
+             ['GI', u'Muntorrhet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Nervous system', u'Letargi -Yrsel -Tremor'],
              ['GI', u'Illam\xe5ende -Diarre Kr\xe4kningar'],
@@ -18,6 +24,7 @@
               u'Mardr\xf6mmar -Mani -Agitation Hallucinationer -Psyomotorisk oro (inkl. Akatisi, hyperkinesi)']]],
            ['Rare',
             [['Nervous system', u'Myoklonus'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jda transaminaser i serum'],
              ['Psychiatric', u'Aggression']]],
            ['Unknown',
@@ -35,4 +42,15 @@
  '_note': u' ?MSFU',
  '_pages': [6, 8],
  u'_rank': 25,
+=======
+             ['Hepato', u'F\xf6rh\xf6jda transaminaser i serum']]],
+           ['Unknown',
+            [['Nervous system', u'Kramper (anfall) -Serotoninsyndrom -Oral paraestesi'],
+             ['GI', u'\xd6dem i munnen'],
+             ['Psychiatric', u'Suicidtankar -Suicidalt beteende'],
+             ['Endocrine', u'Felaktig sekretion av antidiuretiskt hormon']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 7],
+ u'_rank': 20,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

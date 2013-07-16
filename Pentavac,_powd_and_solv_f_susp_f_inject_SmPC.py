@@ -18,6 +18,10 @@
              ['Skin', u'\u2212 Utslag \u2212 N\xe4sselutslag'],
              ['General',
               u'\u2212 Kraftiga reaktioner vid injektionsst\xe4llet (>50 mm), inklusive omfattande svullnad som str\xe4cker sig \xf6ver ena eller b\xe5da lederna, har rapporterats hos barn. Dessa reaktioner b\xf6rjar inom 24\u201372 timmar efter vaccinationen, kan vara associerade med erytem, v\xe4rme, \xf6mhet eller sm\xe4rta vid injektionsst\xe4llet, och g\xe5r \xf6ver spontant inom 3\u20135 dagar. Risken f\xf6refaller vara beroende av antalet f\xf6reg\xe5ende doser av vaccin som inneh\xe5ller acellul\xe4rt pertussisantigen, med en st\xf6rre risk efter den 4:e och 5:e dosen. Det har kommit rapporter om mycket s\xe4llsynta fall av brakial neurit och Guillain-Barr\xe9s syndrom efter administrering av andra vacciner inneh\xe5llande tetanustoxoid. Ytterligare information om speciella populationer Apn\xe9 hos mycket prematura sp\xe4dbarn (\u2264 28 graviditetsveckor) (se avsnitt 4.4)']]]],
+<<<<<<< HEAD
  '_pages': [4, 6],
+=======
+ '_pages': [4, 5],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 11,
  u'_type': u'LSFU'}

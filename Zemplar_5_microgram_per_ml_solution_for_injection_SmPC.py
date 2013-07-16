@@ -29,7 +29,11 @@
              ['Immune system', u'Hypersensitivitet'],
              ['Reproductive system', u'Br\xf6stsm\xe4rta, erektil dysfunktion'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'F\xf6rvirring, delirium, depersonalisering,  oro, s\xf6mnl\xf6shet, nervositet']]],
+=======
+              u'F\xf6rvirring, delirium, depersonalisering, oro,  s\xf6mnl\xf6shet, nervositet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['GI', u'Magtarmbl\xf6dning'],
              ['Immune system', u'Laryngealt \xf6dem, angio\xf6dem, urtikaria']]]],

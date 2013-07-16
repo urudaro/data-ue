@@ -1,6 +1,10 @@
 {'_data': [['Common',
             [['Endocrine',
+<<<<<<< HEAD
               u'menstruations-rubbnin gar, mellanbl\xf6dningar, \xf6mmande br\xf6st'],
+=======
+              u'menstruations-rubbningar, mellanbl\xf6dningar, \xf6mmande br\xf6st'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'huvudv\xe4rk, nedst\xe4mdhet'],
              ['Vascular', u'migr\xe4n'],
              ['GI', u'illam\xe5ende'],

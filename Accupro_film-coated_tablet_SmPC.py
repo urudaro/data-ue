@@ -7,7 +7,11 @@
              ['Psychiatric', u'Insomni'],
              ['Nervous system', u'Yrsel, huvudv\xe4rk, parestesier'],
              ['Vascular', u'Hypotension'],
+<<<<<<< HEAD
              ['Vascular', u'Dyspn\xe9, hosta'],
+=======
+             ['Respiratory', u'Dyspn\xe9, hosta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Kr\xe4kningar, diarr\xe9, dyspepsi, buksm\xe4rta,  illam\xe5ende'],
              ['Musculoskeletal', u'Ryggv\xe4rk, myalgi'],
              ['General', u'Tr\xf6tthet, asteni, br\xf6stsm\xe4rta'],
@@ -20,7 +24,11 @@
              ['Ear', u'Vertigo, tinnitus'],
              ['Cardiac', u'Hj\xe4rtinfarkt, angina pectoris, takykardi,  palpitationer'],
              ['Vascular', u'Vasodilatation'],
+<<<<<<< HEAD
              ['Vascular', u'Halstorrhet'],
+=======
+             ['Respiratory', u'Halstorrhet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Flatulens, muntorrhet'],
              ['Skin', u'Angio\xf6dem, kl\xe5da, utslag, \xf6kad  svettning'],
              ['Renal', u'Njurdysfunktion, proteinuri'],
@@ -31,7 +39,11 @@
            ['Rare',
             [['Nervous system', u'Balansst\xf6rning, synkope'],
              ['Eye', u''],
+<<<<<<< HEAD
              ['Vascular', u'Eosinofil pneumonit'],
+=======
+             ['Respiratory', u'Eosinofil pneumonit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Glossit, f\xf6rstoppning, f\xf6r\xe4ndrad smak.'],
              ['GI', u''],
              ['Skin', u'Erythema multiforme, pemfigus,  urtikaria'],
@@ -41,11 +53,19 @@
              ['Immune system', u'Anafylaktisk reaktion'],
              ['Nervous system', u'Cerebrovaskul\xe4r h\xe4ndelse'],
              ['Vascular', u'Ortostatisk hypotension'],
+<<<<<<< HEAD
              ['Vascular', u'Bronkospasm,'],
+=======
+             ['Respiratory', u'Bronkospasm,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Pankreatit*'],
              ['Hepato', u'Hepatit, kolestatisk ikterus'],
              ['Skin', u'Stevens Johnson-syndrom, toxisk'],
              ['Investigations', u'Minskat hemoglobin. Minskad']]]],
+<<<<<<< HEAD
  '_pages': [9, 11],
+=======
+ '_pages': [8, 11],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 39,
  u'_type': u'TSFU'}

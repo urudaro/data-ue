@@ -3,7 +3,13 @@
              ['GI', u'Illam\xe5ende, stomatit, kr\xe4kningar'],
              ['GI', u'Mycket vanlig PPE*, alopeci, utslag PPE*'],
              ['General', u'Asteni, tr\xf6tthet, mukosit UNS'],
+<<<<<<< HEAD
              ['Infections',
+=======
+             ['General',
+              u'Mycket vanlig (> 1/10); Vanlig (> 1/100, < 1/10); Mindre vanlig (> 1/1 000, < 1/100) CIOMS III Biverkning per Biverkning per Ovarialcancer Ovarialcancer Ovarialcancer organsystem organsystem Alla sv\xe5righetsgrader Grad III/IV n=512 n=512 n=512 (1-5% ) > 5 % ) > 5 %) Infektioner och infestationer'],
+             ['General',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Mycket vanlig Leukopeni, anemi, Neutropeni neutropeni, trombocytopeni'],
              ['Immune system', u'Anorexi'],
              ['GI', u'F\xf6rstoppning, diarr\xe9, illam\xe5ende, stomatit, kr\xe4kningar'],
@@ -35,9 +41,15 @@
              ['Reproductive system', u'Br\xf6stsm\xe4rta 11'],
              ['General',
               u'Vanlig Svaghet, feber, sm\xe4rta Asteni, mukosit UNS \xd6dem, ben\xf6dem'],
+<<<<<<< HEAD
              ['Infections',
               u'Vanlig Faryngit Infektion, oral moniliasis, herpes zoster, urinv\xe4gs infektion'],
              ['Infections', u'Vanlig Leukopeni, anemi, Hypokrom anemi trombocytopeni'],
+=======
+             ['General',
+              u'Vanlig Faryngit Infektion, oral moniliasis, herpes zoster, urinv\xe4gs infektion'],
+             ['General', u'Vanlig Leukopeni, anemi, Hypokrom anemi trombocytopeni'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'Allergisk reaktion Metabolism och nutrition'],
              ['Immune system', u'Dehydrering, kakexi'],
              ['Psychiatric', u'\xc5ngest, depression, s\xf6mnl\xf6shet Centrala och perifera'],
@@ -56,7 +68,12 @@
              ['Reproductive system', u'Vaginit'],
              ['General',
               u'Vanlig Feber, sm\xe4rta Asteni, Frossa, br\xf6stsm\xe4rta, slemhinnef\xf6r\xe4ndring, sjukdomsk\xe4nsla, sm\xe4rta perifert \xf6dem'],
+<<<<<<< HEAD
              ['Investigations', u'Viktminskning'],
+=======
+             ['Investigations',
+              u'Viktminskning *palmar-plantar erytrodysestesi (Hand- fot syndrom).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Infections',
               u'Vanlig Herpes simplex, herpes Herpes zoster Pneumoni, zoster nasofaryngit, \xf6vre luftv\xe4gsinfektion, oral candidainfektion Blodet och lymfsystemet'],
              ['Infections',
@@ -77,7 +94,11 @@
              ['General',
               u'Vanlig Asteni, tr\xf6tthet Perifert \xf6dem, frossa, influensaliknande sjukdom, sjukdomsk\xe4nsla, hypertermi'],
              ['Investigations',
+<<<<<<< HEAD
               u'Vanlig Viktnedg\xe5ng ASAT-stegring, ejektionsfraktions minskning, blodkreatinin\xf6kning, ALAT-stegring'],
+=======
+              u'Vanlig Viktnedg\xe5ng ASAT-stegring, ejektionsfraktions minskning, blodkreatinin\xf6kning, ALAT-stegring *palmar-plantar erytrodysestesi (Hand- fot syndrom). ** Grad 3/4 biverkningar baseras p\xe5 biverkningsterminologi f\xf6r alla sv\xe5righetsgrader med en total incidens p\xe5 > 5 % (se biverkningar listade i f\xf6rsta kolumnen).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Infections', u'Oral moniliasis'],
              ['Blood', u'Trombocytopeni'],
              ['Metabolism', u'Anorexi'],
@@ -97,8 +118,14 @@
              ['Blood', u'Somnolens'],
              ['GI', u'Muns\xe5r, f\xf6rstoppning, kr\xe4kningar Hud och subkutan v\xe4vnad'],
              ['GI', u'Onormal pigmentering, erytem Muskuloskeletala systemet och bindv\xe4v'],
+<<<<<<< HEAD
              ['General', u'Tr\xf6tthet, svaghet, sm\xe4rta'],
              ['Infections', u'Faryngit Blodet och lymfsystemet'],
+=======
+             ['General',
+              u'Tr\xf6tthet, svaghet, sm\xe4rta *palmar-plantar erytrodysestesi (Hand- fot syndrom). Ovarialcancerprogrammet: 512 patienter med ovarialcancer (en subpopulation av 876 patienter med solida tum\xf6rer) behandlades med en Caelyxdos p\xe5 50 mg/m i kliniska studier. Se tabell 6 f\xf6r biverkningar rapporterade hos Caelyx-behandlade patienter. Tabell 6. Tabell 6. Behandlingsrelaterade biverkningar rapporterade i kliniska studier p\xe5 Behandlingsrelaterade biverkningar rapporterade i kliniska studier p\xe5 ovarialcancer (50 mg/m ovarialcancer (50 mg/m var 4:e vecka) var 4:e vecka) (Caelyx-behandlade patienter) f\xf6rdelade efter sv\xe5righetsgrad, MedDRA organsystem och ben\xe4mning enligt \u201dPreferred Term\u201d'],
+             ['General', u'Faryngit Blodet och lymfsystemet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'Anorexi'],
              ['Psychiatric', u'Parestesier, somnolens'],
              ['GI', u'F\xf6rstoppning, dyspepsi, muns\xe5r Hud och subkutan v\xe4vnad'],
@@ -120,6 +147,11 @@
              ['Respiratory', u'br\xf6stkorg och mediastinum'],
              ['Reproductive system', u'br\xf6stk\xf6rtel'],
              ['General', u'och/eller symptom vid administrerings st\xe4llet']]]],
+<<<<<<< HEAD
  '_pages': [8, 19],
  u'_rank': 95,
+=======
+ '_pages': [9, 20],
+ u'_rank': 96,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

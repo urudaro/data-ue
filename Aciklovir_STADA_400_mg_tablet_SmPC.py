@@ -3,7 +3,12 @@
              ['Nervous system', u'Huvudv\xe4rk, yrsel, s\xf6mnighet.'],
              ['GI', u'Illam\xe5ende, kr\xe4kningar, diarr\xe9, buksm\xe4rtor.'],
              ['Skin', u'Kl\xe5da, hudutslag (inkl ljusk\xe4nslighet).'],
+<<<<<<< HEAD
              ['General', u'Tr\xf6tthet, feber, utmattning.']]],
+=======
+             ['General',
+              u'Tr\xf6tthet, feber, utmattning. *\xd6kat diffust h\xe5ravfall har satts i samband med en bred variation av sjukdomsprocesser och l\xe4kemedel. Sambandet med aciklovirbehandlingen \xe4r os\xe4ker.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric', u'S\xf6mnsv\xe5righeter.'],
              ['Skin',

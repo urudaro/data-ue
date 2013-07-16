@@ -1,5 +1,9 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Endocrine', u'\xf6kad ADH-fris\xe4ttning.'],
+=======
+            [['Endocrine', u'(>1/100, <1/10): \xf6kad ADH-fris\xe4ttning.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'sedering.'],
              ['Eye', u'mios.'],
              ['GI', u'opstipation, illam\xe5ende, kr\xe4kningar.'],

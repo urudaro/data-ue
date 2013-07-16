@@ -9,7 +9,11 @@
            ['Common',
             [['Metabolism', u'Anorexi'],
              ['Psychiatric', u'Depression'],
+<<<<<<< HEAD
              ['Nervous system', u'Yrsel, karpaltunnel-s yndrom'],
+=======
+             ['Nervous system', u'Yrsel, karpaltunnel-syndrom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Buksm\xe4rta, kr\xe4kningar, f\xf6rstoppning, dyspepsi, diarr\xe9'],
              ['Skin', u'Hudutslag, h\xe5ravfall'],
              ['Musculoskeletal', u'Osteoporos, frakturer'],

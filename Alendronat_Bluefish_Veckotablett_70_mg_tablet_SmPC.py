@@ -1,5 +1,9 @@
 {'_data': [['Very common', [['GI', u')']]],
+<<<<<<< HEAD
            ['Common', [['GI', u'10)']]],
+=======
+           ['Common', [['GI', u'(> 1/100, < 1/10)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['GI', u'(\u2265 1/1 000, < 1/100)'],
              ['Immune system',
@@ -13,7 +17,11 @@
              ['Immune system',
               u'u tslag med fotosensivitet, allvarliga hudreaktioner inklusive Stevens-Johnson syndrom och toxisk epidermal nekrolys \u2021 Muskuloskeletala Mycket vanliga: muskuloskeletal sm\xe4rta (ben, muskel eller led) en systemet och sm\xe4rta som ibland \xe4r allvarlig \u2020\xa7 bindv\xe4v Vanlig: joint swelling \u2020'],
              ['Immune system',
+<<<<<<< HEAD
               u'osteonekros i k\xe4ken \u2021\xa7 ; atypisk subtrokant\xe4n och diafyseal femorala frakturer (bisfosfonat klassad biverkning) \u22a5 Allm\xe4nna Vanliga: asteni \u2020, perifera \xf6dem \u2020 symptom och reaktioner vid mindre vanliga: \xf6verg\xe5ende symtom som vid akutfasreaktion behandlingsst\xe4llet (myalgi,allm\xe4n sjukdomsk\xe4nsla och i s\xe4llsynta fall feber), vanligen i samband med behandlingens b\xf6rjan\u2020. \xa7Se avsnitt 4.4 \u2020Frekvensen vid kliniska studier var likv\xe4rdig f\xf6r l\xe4kemedels- och placebo gruppen.']]],
+=======
+              u'osteonekros i k\xe4ken \u2021\xa7 ; atypisk subtrokant\xe4n och diafyseal femorala frakturer (bisfosfonat klassad biverkning) \u22a5 Allm\xe4nna Vanliga: asteni \u2020, perifera \xf6dem \u2020 symptom och reaktioner vid mindre vanliga : \xf6verg\xe5ende symtom som vid akutfasreaktion behandlingsst\xe4llet (myalgi,allm\xe4n sjukdomsk\xe4nsla och i s\xe4llsynta fall feber), vanligen i samband med behandlingens b\xf6rjan\u2020. \xa7Se avsnitt 4.4 \u2020Frekvensen vid kliniska studier var likv\xe4rdig f\xf6r l\xe4kemedels- och placebo gruppen. *Se avsnitt 4.2 och 4.4 \u2021Denna biverkan identifierades vid en unders\xf6kning efter lansering av l\xe4kemedlet. Frekvensen av s\xe4llsynta biverkningar baserades p\xe5 relevanta kliniska studier. \u22a5Identifierade I unders\xf6kningar efter lansering.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare', [['GI', u'Mycket s\xe4llsynta (< 1/10 000 )']]],
            ['Unknown',
             [['GI',

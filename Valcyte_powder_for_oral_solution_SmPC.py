@@ -1,5 +1,9 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Blood', u'(Sv\xe5r) neutropeni, anemi'],
+=======
+            [['Blood', u'(Sv\xe5r) neutropeni , anemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'>'],
              ['Respiratory', u'Dyspn\xe9 Hosta'],
              ['GI', u'Diarr\xe9'],
@@ -40,7 +44,11 @@
              ['Cardiac', u'Arytmi'],
              ['Vascular', u'Hypotoni'],
              ['GI', u'Utsp\xe4nd buk, muns\xe5r, pankreatit'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jt alanin-aminotransfera s'],
+=======
+             ['Hepato', u'F\xf6rh\xf6jt alanin-aminotransferas'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Alopeci, urtikaria, torr hud'],
              ['Renal', u'Hematuri, njursvikt'],
              ['Reproductive system', u'Manlig infertilitet']]],

@@ -10,8 +10,12 @@
            ['Uncommon',
             [['Blood',
               u' reduktion av r\xf6da och vita blodkroppar (endast sm\xe5 f\xf6r\xe4ndringar har rapporterats), reduktion av trombocyter'],
+<<<<<<< HEAD
              ['Cardiac',
               u' Patienter med f\xf6rmaksfladder kan utveckla 1:1 AV-\xf6verledning med \xf6kad hj\xe4rtfrekvens'],
+=======
+             ['Cardiac', u' Patienter med f\xf6rmaksfladder kan'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u' illam\xe5ende, kr\xe4kningar, f\xf6rstoppning, buksm\xe4rtor, minskad aptit, diarr\xe9, dyspepsi,flatulens'],
              ['Skin', u' allergiska reaktioner som utslag, alopecia']]],
@@ -19,6 +23,7 @@
             [['Psychiatric',
               u' depression, \xe5ngest, s\xf6mnsv\xe5righeter, f\xf6rvirring, hallucinationer, amnesi'],
              ['Nervous system',
+<<<<<<< HEAD
               u'parestesi, ataxi, dyskinesi, hypoestesi, \xf6kad svettning, syncope, tremor, rodnad, somnolens, huvudv\xe4rk, perifer neuropati, konvulsioner'],
              ['Ear', u' tinnitus, vertigo'],
              ['Respiratory', u' pneumonit'],
@@ -33,6 +38,22 @@
             [['Cardiac', u'Dosrelaterad \xf6kning av PR-'],
              ['Respiratory', u'lungfibros, interstitiell lungsjukdom'],
              ['Hepato', u'nedsatt leverfunktion']]]],
+=======
+              u' parestesi, ataxi, dyskinesi, hypoestesi, \xf6kad svettning, syncope, tremor, rodnad, somnolens, huvudv\xe4rk, perifer neuropati, konvulsioner'],
+             ['Ear', u' tinnitus, vertigo'],
+             ['Respiratory', u' pneumonit'],
+             ['Hepato', u' f\xf6rh\xf6jda leverenzymer med eller utan ikterus'],
+             ['Skin', u' allvarlig urtikaria']]],
+           ['Very rare',
+            [['Immune system',
+              u' ett f\xe5tal fall med \xf6kning av antinukle\xe4ra antikroppar med och utan systemisk inflammation'],
+             ['Eye', u' hornhinneinlagring'],
+             ['Skin', u' fotosensibilisering']]],
+           ['Unknown',
+            [['Cardiac', u' Dosrelaterad \xf6kning av PR-'],
+             ['Respiratory', u' lungfibros, interstitiell lungsjukdom'],
+             ['Hepato', u' nedsatt leverfunktion']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [6, 7],
  u'_rank': 21,
  u'_type': u'LSFU2'}

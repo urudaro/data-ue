@@ -1,8 +1,15 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Nervous system', u'Yrsel'], ['Cardiac', u'\xd6verlednings-ru palpitationer']]],
            ['Common',
             [['Psychiatric', u'Oro, s\xf6mnst\xf6rningar'],
              ['Nervous system', u'Huvudv\xe4rk, smak-f\xf6r\xe4ndring ar'],
+=======
+            [['Nervous system', u'Yrsel'], ['Cardiac', u'\xd6verlednings-palpitationer']]],
+           ['Common',
+            [['Psychiatric', u'Oro, s\xf6mnst\xf6rningar'],
+             ['Nervous system', u'Huvudv\xe4rk, smak-f\xf6r\xe4ndringar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Dimsyn'],
              ['Cardiac', u'Sinusbradykardi, takykardi, f\xf6rmaksfladder'],
              ['Respiratory', u'Dyspn\xe9'],
@@ -16,7 +23,11 @@
              ['Psychiatric', u'Mardr\xf6mmar'],
              ['Nervous system', u'Svimning, ataxi, parestesi'],
              ['Ear', u'Vertigo'],
+<<<<<<< HEAD
              ['Cardiac', u'Kammar-takykar'],
+=======
+             ['Cardiac', u'Kammar-Arytmi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypotoni'],
              ['GI', u'Sp\xe4nd mage, flatulens'],
              ['Skin', u'Urtikaria, kl\xe5da, utslag, erytem'],

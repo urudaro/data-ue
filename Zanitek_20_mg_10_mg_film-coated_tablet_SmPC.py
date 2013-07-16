@@ -73,7 +73,11 @@
              ['Vascular', u'synkope']]],
            ['Unknown',
             [['Respiratory',
+<<<<<<< HEAD
               u'mediastinum Magtarmkanalen Magsm\xe4rtor, f\xf6rstoppning*, dyspepsi*, illam\xe5ende*, tungrubbningar* Hud och subkutan v\xe4vnad Erytem*, utslag* Muskoloskeletala systemet och Artralgi* bindv\xe4v Njurar och urinv\xe4gar Nocturi* Allm\xe4nna symtom Perifert \xf6dem Asteni, tr\xf6tthet, v\xe4rmek\xe4nsla* Unders\xf6kningar \xd6kning i ASAT/ALAT'],
+=======
+              u'mediastinum Magtarmkanalen Magsm\xe4rtor, f\xf6rstoppning*, dyspepsi*, illam\xe5ende*, tungrubbningar* Hud och subkutan v\xe4vnad Erytem*, utslag* Muskoloskeletala systemet och Artralgi* bindv\xe4v Njurar och urinv\xe4gar Nocturi* Allm\xe4nna symtom Perifert \xf6dem Asteni, tr\xf6tthet, v\xe4rmek\xe4nsla* Unders\xf6kningar \xd6kning i ASAT/ALAT *endast hos en patient'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'muskelspasmer']]]],
  '_pages': [10, 13],
  u'_rank': 57,

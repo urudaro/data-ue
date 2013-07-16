@@ -1,7 +1,11 @@
 {'_data': [['Very common',
             [['Infections', u'\xd6kad infektions-k\xe4nslighet'],
              ['Blood', u'Benm\xe4rgsh\xe4mning, leukopeni']]],
+<<<<<<< HEAD
            ['Common', [['Blood', u'Trombocyto-pe ni'], ['GI', u'Illam\xe5ende']]],
+=======
+           ['Common', [['Blood', u'Trombocyto-peni'], ['GI', u'Illam\xe5ende']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Neoplasms', u'Lymfom , mutagenicitet'],
              ['Blood', u'Anemi'],
@@ -11,10 +15,17 @@
              ['Musculoskeletal', u'Myalgi, artralgi'],
              ['General', u'Feber, aptitl\xf6shet, olustk\xe4nsla']]],
            ['Rare',
+<<<<<<< HEAD
             [['Neoplasms', u'Hudcancer akut myeloisk leukemi, myelodys-pla'],
              ['Blood', u'Agranulo-cyt os'],
              ['Cardiac', u'Hypotoni'],
              ['GI', u'Tarmperfo-ra tion, bl\xf6dning i tarmen'],
+=======
+            [['Neoplasms', u'Hudcancer akut myeloisk leukemi, myelodys-plasi'],
+             ['Blood', u'Agranulo-cytos'],
+             ['Cardiac', u'Hypotoni'],
+             ['GI', u'Tarmperfo-ration, bl\xf6dning i tarmen'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Hepatisk venocklusion'],
              ['Skin', u'Alopeci , hudutslag']]],
            ['Very rare',

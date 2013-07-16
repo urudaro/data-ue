@@ -17,7 +17,12 @@
              ['Vascular',
               u'vanliga hypotension (s\xe4llan allvarlig) hypotension (s\xe4llan allvarlig)'],
              ['GI', u'Vanliga Kr\xe4kningar, halsbr\xe4nna, Halsbr\xe4nna buksm\xe4rtor'],
+<<<<<<< HEAD
              ['General', u'\xd6dem i benen']]],
+=======
+             ['General',
+              u'\xd6dem i benen * Ropinirol har satts i samband med s\xf6mnighet och har i mindre vanliga fall givit upphov till uttalad s\xf6mnighet dagtid och pl\xf6tsliga s\xf6mnattacker.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric',
               u'Mindre vanliga Psykotiska reaktioner (andra \xe4n Psykotiska reaktioner (andra \xe4n hallucinationer) innefattande hallucinationer) innefattande delirium, vanf\xf6rest\xe4llning, delirium, vanf\xf6rest\xe4llning, paranoia paranoia']]],

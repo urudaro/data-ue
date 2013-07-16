@@ -7,7 +7,12 @@
              ['General', u'Flebit, rodnad p\xe5 \xf6verkroppen och i ansiktet.']]],
            ['Uncommon', [['Ear', u'\xd6verg\xe5ende eller permanent h\xf6rselneds\xe4ttning.']]],
            ['Rare',
+<<<<<<< HEAD
             [['Blood', u'Trombocytopeni, neutropeni, agranulocytos, eosinofili.'],
+=======
+            [['Blood',
+              u'(>1/10 000, <1/1000): Trombocytopeni, neutropeni, agranulocytos, eosinofili.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'Anafylaktiska reaktioner, \xf6verk\xe4nslighetsreaktioner.'],
              ['Ear', u'Tinnitus, yrsel.'],
              ['Vascular', u'Vaskulit'],

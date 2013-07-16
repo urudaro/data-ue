@@ -4,6 +4,7 @@
              ['Psychiatric', u'Insomni (19 %)'],
              ['Nervous system',
               u'Yrsel Parestesier* (11 %), Somno lens (13%), Huvud v\xe4rk (21%)*'],
+<<<<<<< HEAD
              ['GI', u'Diarr\xe9 (18 %), Illa-m\xe5e nde (24 %), Mun-tor rhet (14 %)'],
              ['Skin', u'Utslag*'],
              ['Reproductive system', u'Ejakula tions svikt (14 %) Tr\xf6tthet %)*'],
@@ -14,6 +15,18 @@
              ['Psychiatric',
               u'Depression* Depersona-li sation Mardr\xf6mmar \xc5ngest* Agitation* Oro Minskad libido* Bruxism'],
              ['Nervous system', u'Tremor Hypertoni Dysgeusi Uppm\xe4rk-sa mhetsst\xf6rnin g'],
+=======
+             ['GI', u'Diarr\xe9 (18 %), Illa-m\xe5ende (24 %), Mun-torrhet (14 %)'],
+             ['Skin', u'Utslag*'],
+             ['Reproductive system', u'Ejakula tions svikt (14 %) Tr\xf6tthet %)*'],
+             ['Other',
+              u'placeboarmen. Klasseffekt \xc4ldre 4.4). Barn likartad den behandling mycket vanliga %). vanliga akne, n\xe4sblod, mindre vanliga']]],
+           ['Common',
+            [['Metabolism', u'\xd6kad aptit*'],
+             ['Psychiatric',
+              u'Depression* Depersona-lisation Mardr\xf6mmar \xc5ngest* Agitation* Oro Minskad libido* Bruxism'],
+             ['Nervous system', u'Tremor Hypertoni Dysgeusi Uppm\xe4rk-samhetsst\xf6rni ng'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Synst\xf6rning'],
              ['Ear', u'Tinnitus*'],
              ['Cardiac', u'Palpitationer *'],
@@ -26,11 +39,16 @@
              ['Reproductive system',
               u'Sexuella st\xf6rningar hos m\xe4n Erektil dysfunktion Sm\xe4rta i br\xf6stkorgen*'],
              ['Other',
+<<<<<<< HEAD
               u'4.4). -med sertralin): -: huvudv\xe4rk (22 %), insomni (21 %), diarr\xe9 (11 %) och illam\xe5ende (15 v\xe4dersp\xe4nning. -: ']]],
+=======
+              u'som har setts i studier p\xe5 vuxna. -med sertralin): -: huvudv\xe4rk (22 %), insomni (21 %), diarr\xe9 (11 %) och illam\xe5ende (15 : sm\xe4rta i br\xf6stkorgen, mani, feber, kr\xe4kningar, anorexi, labilitet, v\xe4dersp\xe4nning. -: F\xf6rl\xe4ngd EKG QT, suicidf\xf6rs\xf6k, konvulsioner,']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'\xd6vre Luftv\xe4gs infektion Rinit'],
              ['Psychiatric', u'Hallucinatio ner* Eufori* Apati Onormala tankar'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Kon-vulsion er * Ofrivilliga Muskel kontrak-tioner* Onormal koordination Hyperkinesi Amnesi Hypoestesi* Talst\xf6rning Postural yrsel Migr\xe4n*'],
              ['Ear', u'\xd6ronv\xe4rk'],
              ['Cardiac', u'Takykardi*'],
@@ -38,22 +56,39 @@
              ['Respiratory', u'Bronko-spas m* Dyspn\xe9 N\xe4sblod'],
              ['GI',
               u'Esofagit Dysfagi Hemorrojder Onormalt h\xf6g saliv-avs\xf6nd ring St\xf6rningar i tungan Rapningar'],
+=======
+              u'Kon-vulsioner * Ofrivilliga Muskel kontrak-tioner* Onormal koordination Hyperkinesi Amnesi Hypoestesi* Talst\xf6rning Postural yrsel Migr\xe4n*'],
+             ['Ear', u'\xd6ronv\xe4rk'],
+             ['Cardiac', u'Takykardi*'],
+             ['Vascular', u'Hypertoni* Vallningar'],
+             ['Respiratory', u'Bronko-spasm* Dyspn\xe9 N\xe4sblod'],
+             ['GI',
+              u'Esofagit Dysfagi Hemorrojder Onormalt h\xf6g saliv-avs\xf6ndring St\xf6rningar i tungan Rapningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Periorbitalt \xf6dem* Purpura* Alopeci* Kall svettning Hudtorrhet Urtikaria*'],
              ['Musculoskeletal', u'Osteoartrit Muskel svaghet Ryggsm\xe4rta Muskel ryckningar'],
              ['Renal', u'Nykturi Urin retention* Polyuri Pollakisuri Miktions st\xf6rning'],
              ['Reproductive system',
               u'Vaginal bl\xf6dning Kvinnlig sexuell dysfunktion Sjukdoms k\xe4nsla* Frossa Pyrexi* Asteni* T\xf6rst'],
+<<<<<<< HEAD
              ['Investigations', u'Vikt nedg\xe5ng* Vikt uppg\xe5ng*'],
              ['Other',
               u'sm\xe4rta i br\xf6stkorgen, mani, feber, kr\xe4kningar, anorexi, labilitet,']]],
+=======
+             ['Investigations', u'Vikt nedg\xe5ng* Vikt uppg\xe5ng*']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Infections', u'Divertikulit Gastroenterit Otitis media'],
              ['Neoplasms', u'Neoplasm\u2020'],
              ['Blood', u'Lymfadenopati'],
              ['Metabolism', u'Hyperkolesterolemi Hypoglykemi'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Konversionsst\xf6rning L\xe4kemedelsberoend e Psykisk st\xf6rning* Aggression* F\xf6rf\xf6ljelsemani Suicidtankar S\xf6mng\xe5ng F\xf6r tidig utl\xf6sning'],
+=======
+              u'Konversionsst\xf6rning L\xe4kemedelsberoende Psykisk st\xf6rning* Aggression* F\xf6rf\xf6ljelsemani Suicidtankar S\xf6mng\xe5ng F\xf6r tidig utl\xf6sning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Koma*, Koreoatetos Dyskinesi Hyperestesi Sensoriska st\xf6rningar'],
              ['Eye',
@@ -71,13 +106,21 @@
              ['Reproductive system',
               u'Menorragi Atrofisk vulvovaginit Balanopostit Genital flytning Priapism* Galaktorr\xe9* Br\xe5ck Minskad l\xe4kemedelstolerans G\xe5ngsv\xe5righeter Obest\xe4mbara symtom'],
              ['Investigations', u'\xd6kat ALAT* \xd6kat ASAT* Onormal sperma Skada'],
+<<<<<<< HEAD
              ['Other',
               u'K\xe4rlutvidgnings operation F\xf6rl\xe4ngd EKG QT, suicidf\xf6rs\xf6k, konvulsioner,']]],
+=======
+             ['Other', u'K\xe4rlutvidgnings operation']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare', []],
            ['Unknown',
             [['Blood', u'Leukopeni Trombocytopeni'],
              ['Immune system', u'Anafylaktoid reaktion Allergisk reaktion Allergi'],
+<<<<<<< HEAD
              ['Endocrine', u'Hyper-prolaktine mi Hypotyreos Inadekvat ins\xf6ndring av ADH'],
+=======
+             ['Endocrine', u'Hyper-prolaktinemi Hypotyreos Inadekvat ins\xf6ndring av ADH'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Hyponatremi'],
              ['Psychiatric', u'Paroniri Suicidalt beteende, suicidtankar***'],
              ['Nervous system',
@@ -94,8 +137,15 @@
              ['Reproductive system',
               u'Gynekomasti Oregelbundna menstruationer Perifert \xf6dem'],
              ['Investigations',
+<<<<<<< HEAD
               u'Onormala kliniska laboratorieresultat F\xf6r\xe4ndrad trombocyt-funktio n \xd6kat serumkolesterol']]]],
  '_note': u' ?MSFU',
  '_pages': [9, 13],
  u'_rank': 68,
+=======
+              u'Onormala kliniska laboratorieresultat F\xf6r\xe4ndrad trombocyt-funktion \xd6kat serumkolesterol']]]],
+ '_note': u' ?MSFU',
+ '_pages': [9, 13],
+ u'_rank': 67,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

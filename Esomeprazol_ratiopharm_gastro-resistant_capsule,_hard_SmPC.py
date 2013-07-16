@@ -35,6 +35,10 @@
              ['Renal', u'interstitiell nefrit'],
              ['Reproductive system', u'gynekomasti']]],
            ['Unknown', [['Metabolism', u'hypomagnesemi (se avsnitt 4.4)']]]],
+<<<<<<< HEAD
  '_pages': [6, 7],
+=======
+ '_pages': [7, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 30,
  u'_type': u'LSFU'}

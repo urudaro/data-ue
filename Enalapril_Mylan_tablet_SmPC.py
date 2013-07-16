@@ -15,7 +15,11 @@
              ['GI',
               u' Kr\xe4kningar, obstipation, ileus, glossit, stomatit, smakf\xf6r\xe4ndring. '],
              ['Skin',
+<<<<<<< HEAD
               u' H\xe5ravfall, fotosensibilisering, angio\xf6dem med svullnad av ansikte, extremiteter, l\xe4ppar, tunga, glottis och/eller larynx, erytema multiforme, exfoliativ dermatit, pemfigus, Stevens-Johnson\xb4s syndrom, toxisk epidermal nekrolys. '],
+=======
+              u' H\xe5ravfall, fotosensibilisering, angio\xf6dem med svullnad av ansikte, extremiteter, l\xe4ppar, tunga, glottis och/eller larynx, erytema multiforme, exfoliativ dermatit, pemfigus, Stevens- Johnson\xb4s syndrom, toxisk epidermal nekrolys. '],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato',
               u' Gulsot (gallstas), hepatocellul\xe4r eller kolestatisk hepatit, leversvikt, pankreatit. '],
              ['Respiratory',

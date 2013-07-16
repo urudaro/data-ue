@@ -4,12 +4,20 @@
              ['Musculoskeletal', u'Skelettsm\xe4rta'],
              ['Infections', u'Infektion'],
              ['Endocrine', u'Parathyroidea st\xf6rning'],
+<<<<<<< HEAD
              ['Nervous system', u'Huvudv\xe4rk, yrsel, dysgeusi (smak-rubbni ng)'],
+=======
+             ['Nervous system', u'Huvudv\xe4rk, yrsel, dysgeusi (smak-rubbning)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Katarakt'],
              ['Cardiac', u'Grenblock'],
              ['Respiratory', u'Faryngit'],
              ['GI',
+<<<<<<< HEAD
               u'Diarr\xe9, kr\xe4kningar, dyspepsi, gastrointesti-n al sm\xe4rta, tandp\xe5verkan'],
+=======
+              u'Diarr\xe9, kr\xe4kningar, dyspepsi, gastrointesti-nal sm\xe4rta, tandp\xe5verkan'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Hudp\xe5verkan, ekkymos'],
              ['Musculoskeletal', u'Artros, myalgi, artralgi, ledbesv\xe4r'],
              ['General',
@@ -18,7 +26,11 @@
            ['Uncommon',
             [['Musculoskeletal', u'Myalgi'],
              ['General', u'Influensaliknande sjukdom **, rigor'],
+<<<<<<< HEAD
              ['Infections', u'Cystit, vaginit, oral candidainfek-ti on'],
+=======
+             ['Infections', u'Cystit, vaginit, oral candidainfek-tion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Neoplasms', u'Benign hudneoplasm'],
              ['Blood', u'Anemi, bloddyskrasi'],
              ['Metabolism', u'Hypofosfatemi'],
@@ -42,7 +54,11 @@
              ['Skin', u'Angio\xf6dem'],
              ['Eye', u'Okul\xe4ra inflammatio ner\u2020**'],
              ['Musculoskeletal',
+<<<<<<< HEAD
               u'Atypiska subtrokan-t\xe4 ra och diafys\xe4ra femurfraktur er\u2020 (bisfosfonat klassbiverkn ing)']]],
+=======
+              u'Atypiska subtrokan-t\xe4ra och diafys\xe4ra femurfraktur er\u2020 (bisfosfonat klassbiverkn ing)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare', [['Musculoskeletal', u'Osteonekros i k\xe4ken\u2020**']]]],
  '_note': u' ANOMALI in Headers ?MSFU',
  '_pages': [4, 7],

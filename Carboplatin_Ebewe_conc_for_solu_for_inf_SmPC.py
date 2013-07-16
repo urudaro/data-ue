@@ -7,6 +7,7 @@
             [['Infections', u'Infektioner*'],
              ['Blood', u'Hemorrage*'],
              ['Immune system', u'\xd6verk\xe4nslighet, anafylaktoid  reaktion.'],
+<<<<<<< HEAD
              ['Nervous system',
               u'Perifer neuropati, parestesi,  minskade senreflexer,  sensoriskast\xf6rningar, dysgeusi.'],
              ['Eye', u'Synst\xf6rningar, s\xe4llsynta fall  av synf\xf6rlust.'],
@@ -22,6 +23,19 @@
            ['Unknown',
             [['Neoplasms', u'Behandlingsrelaterade  sekund\xe4ra maligniteter.'],
              ['Blood', u'Benm\xe4rgssvikt, febril  neutropeni, hemolytiskt-uremiskt syndrom.'],
+=======
+             ['Eye', u'Synst\xf6rningar, s\xe4llsynta fall  av synf\xf6rlust.'],
+             ['Ear', u'Ototoxicitet.'],
+             ['Cardiac', u'Kardiovaskul\xe4r sjukdom*'],
+             ['GI', u'Diarr\xe9, f\xf6rstoppning,  slemhinnebesv\xe4r.'],
+             ['Skin', u'Alopeci, hudbesv\xe4r.'],
+             ['Renal',
+              u'Urogenital sjukdom.  extravasering p\xe5 injektionsst\xe4llet eller erytem vid injektionsst\xe4llet, sjukdomsk\xe4nsla.'],
+             ['Investigations',
+              u'\xd6kat bilirubin och kreatinin i  blodet, \xf6kad m\xe4ngd urinsyra i blodet.']]],
+           ['Unknown',
+            [['Blood', u'Benm\xe4rgssvikt, febril  neutropeni, hemolytiskt- uremiskt syndrom.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Dehydrering, anorexi,  hyponatremi.'],
              ['Nervous system', u'Cerebrovaskul\xe4r h\xe4ndelse*'],
              ['Cardiac', u'Hj\xe4rtsvikt*'],
@@ -29,5 +43,9 @@
              ['GI', u'Stomatit.'],
              ['Skin', u'Urtikaria, utslag, erytem,  pruritus.']]]],
  '_pages': [6, 9],
+<<<<<<< HEAD
  u'_rank': 24,
+=======
+ u'_rank': 20,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

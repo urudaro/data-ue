@@ -26,12 +26,21 @@
             [['Nervous system', u'Yrsel'],
              ['GI', u'Diarrhoea'],
              ['Musculoskeletal', u'Artralgi'],
+<<<<<<< HEAD
              ['Blood', u'Agranulocytos, leukopeni, hemolytisk anemi, benm\xe4rgs-depress ion'],
              ['Immune system', u'\xd6verk\xe4nslighets-r eaktioner'],
              ['Respiratory', u'Andn\xf6dssyndrom, inkluderande pneumonit och lung\xf6dem'],
              ['GI', u'Pankreatit'],
              ['Skin',
               u'Nekrotiserande vaskulit och toxisk epidermal nekrolys, kutana lupus erythematosus-lik a reaktioner, reaktivering av kutan lupus erythematosus']]],
+=======
+             ['Blood', u'Agranulocytos, leukopeni, hemolytisk anemi, benm\xe4rgs-depression'],
+             ['Immune system', u'\xd6verk\xe4nslighets-reaktioner'],
+             ['Respiratory', u'Andn\xf6dssyndrom, inkluderande pneumonit och lung\xf6dem'],
+             ['GI', u'Pankreatit'],
+             ['Skin',
+              u'Nekrotiserande vaskulit och toxisk epidermal nekrolys, kutana lupus erythematosus-lika reaktioner, reaktivering av kutan lupus erythematosus']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Nervous system', u'Synkope'],
              ['Respiratory', u'Icke-kardiogent lung\xf6dem'],

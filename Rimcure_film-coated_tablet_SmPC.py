@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system',
               u'Tr\xf6tthet, d\xe5sighet, huvudv\xe4rk, berusningsk\xe4nsla,  yrsel'],
              ['Eye', u'\xd6gonrodnad, permanent missf\xe4rgning av mjuka  kontaktlinser'],
@@ -13,11 +14,21 @@
               u'Leverp\xe5verkan (vanligen liten och  \xf6verg\xe5ende f\xf6rh\xf6jning av serumtransaminaser). De vanligaste prodromala symtomen \xe4r anorexi, illam\xe5ende, kr\xe4kning, tr\xf6tthet, olustk\xe4nsla och svaghet (se avsnitt 4.4).'],
              ['General',
               u'Allergiska och andra reaktioner som  l\xe4kemedelsexantem och feber'],
+=======
+            [['Eye', u'\xd6gonrodnad, permanent missf\xe4rgning av mjuka  kontaktlinser'],
+             ['GI', u'Anorexi, illam\xe5ende, buksm\xe4rtor, uppbl\xe5sthet'],
+             ['General', u'R\xf6daktig missf\xe4rgning av kroppsv\xe4tskor och sekret'],
+             ['GI', u'Illam\xe5ende, kr\xe4kning, dyspepsi'],
+             ['Hepato',
+              u'Leverp\xe5verkan (vanligen liten och \xf6verg\xe5ende  f\xf6rh\xf6jning av serumtransaminaser). De vanligaste prodromala symtomen \xe4r anorexi, illam\xe5ende, kr\xe4kning, tr\xf6tthet, olustk\xe4nsla och svaghet (se avsnitt 4.4).'],
+             ['General', u'Allergiska och andra reaktioner som'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende, kr\xe4kning, anorexi, buksm\xe4rta'],
              ['Hepato',
               u'M\xe5ttlig och \xf6verg\xe5ende stegring av  serumtransaminaser under den tidiga behandlingsfasen (se avsnitt 4.4). Porfyri (se avsnitt 4.3).'],
              ['Renal',
               u'Hyperurikemi (ofta symtomfri), gikt som kr\xe4ver  behandling (se avsnitt 4.3 och 4.4).'],
+<<<<<<< HEAD
              ['General', u'Allergiska och andra reaktioner som mild artralgi  och myalgi']]],
            ['Rare',
             [['Blood',
@@ -29,6 +40,19 @@
              ['Hepato', u'Leverskada eller gulsot, induktion av porfyri  (se avsnitt 4.3).'],
              ['Renal',
               u'F\xf6rh\xf6jda v\xe4rden av BUN (blodurin\xe4mne) och  urinsyra i serum har rapporterats. Akut njursvikt  orsakat av hemoglobinuri, hematuri, interstitiell nefrit, glomerulonefrit och tubul\xe4r nekros har rapporterats'],
+=======
+             ['General', u'Allergiska och andra reaktioner som mild artralgi']]],
+           ['Rare',
+            [['Psychiatric', u'Mental f\xf6rvirring'],
+             ['Nervous system', u'Ataxi, muskelsvaghet'],
+             ['Eye', u'Synrubbning, allvarliga symtom, som t.ex. exsudativ  konjunktivit'],
+             ['GI',
+              u'Kr\xe4kning eller diarr\xe9, enstaka fallav eroderande  gastrit och pseudomembran\xf6s kolit'],
+             ['Skin',
+              u'V\xe4rmevallningar, kl\xe5da med eller utan hudutslag,  Allvarliga hudreaktioner s\xe5som vid generella  \xf6verk\xe4nslighetsreaktioner t.ex. exfoliativ dermatit, Lyells syndrom och pemfigoida reaktioner 4.4).'],
+             ['Skin',
+              u'Leverskada eller gulsot, induktion av porfyri  (se avsnitt 4.3). orsakat av hemoglobinuri, hematuri, interstitiell nefrit, glomerulonefrit och tubul\xe4r nekros har rapporterats'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Kollaps, chock, \xf6dem'],
              ['Endocrine',
               u'Isoniazid kan interagera med  levermetabolismen hos ett flertal hormoner, resulterande i menstruationsst\xf6rningar, gynekomasti, Cushings syndrom, pubertas praecox, sv\xe5rkontrollerad diabetes, hyperglykemi (se avsnitt 4.4), metabolisk acidos'],
@@ -37,9 +61,13 @@
               u'Skador p\xe5 synnerven (se avsnitt 4.4), kramper  yrsel, berusningsk\xe4nsla, huvudv\xe4rk, toxisk encefalopati. H\xf6ga doser kan \xf6ka krampfrekvensen hos epileptiker (se avsnitt 4.4).'],
              ['Hepato', u'Leverskada, allvarlig leverskada'],
              ['General',
+<<<<<<< HEAD
               u'Allergiska och andra reaktioner som  muntorrhet, halsbr\xe4nna, miktionssv\xe5righeter, reumatiskt syndrom, lupus erythematosus-liknande symtom, pellagra, vaskulit, lymfadenopati, akne'],
              ['Blood',
               u'Trombocytopeni, sideroblastisk anemi, negativa  effekter p\xe5 blodkoagulationen, splenomegali'],
+=======
+              u'Allergiska och andra reaktioner som  muntorrhet, halsbr\xe4nna, miktionssv\xe5righeter, reumatiskt syndrom, lupus erythematosus- liknande symtom, pellagra, vaskulit, lymfadenopati, akne'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato',
               u'Allvarlig leverskada som sannolikt \xe4r dosrelaterad;  hepatomegali, gulsot'],
              ['Renal', u'Interstitiell nefrit, dysuri'],
@@ -50,5 +78,9 @@
              ['GI', u'Pankreatit'],
              ['Hepato', u'Fulminant leverskada']]]],
  '_pages': [8, 11],
+<<<<<<< HEAD
  u'_rank': 32,
+=======
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

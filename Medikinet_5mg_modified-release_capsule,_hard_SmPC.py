@@ -48,24 +48,42 @@
               u'sj\xe4lvmordsf\xf6rs\xf6k (inklusive fullbordat sj\xe4lvmord)*, \xf6verg\xe5ende depressiv sinnesst\xe4mning*, onormala tankar, apati, repetitiva beteenden, \xf6verfokusering'],
              ['Nervous system',
               u'konvulsioner, koreoatetoida r\xf6relser, reversibla ischemiska bortfallssymtom, malignt neuroleptikasyndrom (NMS; rapporterna var d\xe5ligt dokumenterade och i de flesta fall fick patienterna \xe4ven andra l\xe4kemedel. Metylfenidats roll \xe4r d\xe4rf\xf6r oklar.)'],
+<<<<<<< HEAD
              ['Cardiac', u'hj\xe4rtstillest\xe5nd, hj\xe4rtinfarkt'],
+=======
+             ['Cardiac',
+              u'hj\xe4rtstillest\xe5nd, hj\xe4rtinfarkt : supraventrikul\xe4r takykardi, bradykardi, ventrikul\xe4ra extrasystolier, extrasystolier'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'cerebral arterit och/eller ocklusion, perifer kyla, Raynauds fenomen'],
              ['Hepato', u'onormal leverfunktion inklusive leverkoma'],
              ['Skin', u'erythema multiforme, exfoliativ dermatit, fixt l\xe4kemedelsutslag'],
              ['Musculoskeletal', u'muskelkramper'],
+<<<<<<< HEAD
              ['General', u'pl\xf6tslig kardiell d\xf6d*'],
              ['Investigations',
               u'\xf6kning av alkaliska fosfater och bilirubin i blodet, minskat antal trombocyter, onormalt antal leukocyter']]],
+=======
+             ['General',
+              u'pl\xf6tslig kardiell d\xf6d* : obehagsk\xe4nsla i br\xf6stet, hyperpyrexi'],
+             ['Investigations',
+              u'\xf6kning av alkaliska fosfater och bilirubin i blodet, minskat antal trombocyter, onormalt antal leukocyter *Se avsnitt 4.4.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood', u'pancytopeni'],
              ['Psychiatric',
               u'vanf\xf6rest\xe4llningar*, tankest\xf6rningar*, f\xf6rvirringstillst\xe5nd. Fall av missbruk och beroende har beskrivits, oftare med formuleringar med omedelbar fris\xe4ttning.'],
              ['Nervous system',
+<<<<<<< HEAD
               u'cerebrovaskul\xe4ra st\xf6rningar* (inklusive vaskulit, cerebral bl\xf6dning, cerebrovaskul\xe4ra h\xe4ndelser, cerebral artrit, cerebral ocklusion), grand mal-anfall*, migr\xe4n'],
              ['Cardiac',
               u'supraventrikul\xe4r takykardi, bradykardi, ventrikul\xe4ra extrasystolier, extrasystolier'],
              ['General', u'obehagsk\xe4nsla i br\xf6stet, hyperpyrexi']]]],
  '_pages': [9, 10],
  u'_rank': 47,
+=======
+              u'cerebrovaskul\xe4ra st\xf6rningar* (inklusive vaskulit, cerebral bl\xf6dning, cerebrovaskul\xe4ra h\xe4ndelser, cerebral artrit, cerebral ocklusion), grand mal-anfall*, migr\xe4n']]]],
+ '_pages': [9, 10],
+ u'_rank': 45,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

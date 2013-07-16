@@ -1,4 +1,5 @@
 {'_data': [[u'Unknown',
+<<<<<<< HEAD
             [['Immune system', u'Cosopt   tecken och'],
              ['Metabolism', u'timololmaleat   hypoglykemi'],
              ['Psychiatric', u'timololmaleat   depression*   \xf6gondroppar,'],
@@ -19,4 +20,25 @@
              ['General', u'l\xf6sning']]]],
  '_pages': [5, 9],
  u'_rank': 16,
+=======
+            [['Immune system', u'Cosopt   tecken och    symtom p\xe5'],
+             ['Metabolism', u'timololmaleat   hypoglykemi'],
+             ['Psychiatric',
+              u'timololmaleat   depression*   s\xf6mnl\xf6shet*,   \xf6gondroppar,   mardr\xf6mmar*,'],
+             ['Nervous system', u'\xf6gondroppar,   l\xf6sning'],
+             ['Eye', u'Cosopt   br\xe4nnande   konjunktival'],
+             ['Ear', u'timololmaleat   tinnitus*   \xf6gondroppar,'],
+             ['Cardiac', u'timololmaleat   bradykardi*   br\xf6stsm\xe4rta*,   atrioventri-'],
+             ['Vascular', u'timololmaleat   hypotoni*,'],
+             ['Respiratory', u'Cosopt   sinuit   andn\xf6d,   respiratorisk'],
+             ['GI', u'Cosopt   smakf\xf6r-   \xe4ndringar'],
+             ['Skin', u'Cosopt   kontaktdermatit,   Stevens-   Johnsons'],
+             ['Renal', u'Cosopt   urolitiasis'],
+             ['Reproductive system',
+              u'timololmaleat   Peyronies   sexuell   \xf6gondroppar,   sjukdom*,   dysfunktion'],
+             ['General', u'dorzolamidhydro-   asteni/tr\xf6tthet*'],
+             ['General', u'l\xf6sning']]]],
+ '_pages': [5, 9],
+ u'_rank': 15,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LFSU'}

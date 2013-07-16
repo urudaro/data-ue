@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [[u'Unknown',
             [['Blood', u'Inte k\xe4nd   Karboxyhemoglobinemi'],
              ['Immune system', u'Inte k\xe4nd   Anafylaktiska reaktioner'],
@@ -16,3 +17,22 @@
  '_pages': [6, 8],
  u'_rank': 14,
  u'_type': u'LFSU'}
+=======
+{'_data': [['Unknown',
+            [['Blood', u'Karboxyhemoglobinemi'],
+             ['Immune system', u'Anafylaktiska reaktioner  Hypersensitivitet'],
+             ['Metabolism', u'Hyperkalemi  F\xf6rh\xf6jt blodglukos'],
+             ['Psychiatric', u'Agitation  Delirium F\xf6r\xe4ndrat hum\xf6r'],
+             ['Cardiac', u'Arytmi'],
+             ['Vascular',
+              u'Hypotension  Bl\xf6dning V\xe4sande andning Andningsdepression Laryngospasm'],
+             ['GI', u'Ileus  Kr\xe4kning Illam\xe5ende'],
+             ['Hepato', u'Levernekros  Levercellskada F\xf6rh\xf6jt bilirubin i blodet'],
+             ['Skin', u'Svullet ansikte  Kontakteksem Utslag'],
+             ['Renal', u'F\xf6rh\xf6jt kreatinin i blodet  S\xe4nkt urea i blodet'],
+             ['Investigations',
+              u'F\xf6rh\xf6jt antal vita  blodkroppar F\xf6rh\xf6jda leverenzymer F\xf6rh\xf6jt fluorid Avvikande elektroencefalogram S\xe4nkt kolesterol i blodet S\xe4nkt alkaliskt fosfatas i blodet']]]],
+ '_pages': [6, 8],
+ u'_rank': 11,
+ u'_type': u'TSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

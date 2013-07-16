@@ -20,8 +20,12 @@
              ['General', u'Tr\xf6tthet och asteni'],
              ['General', u'Olustk\xe4nsla'],
              ['Investigations',
+<<<<<<< HEAD
               u'Viktminskning F\xf6ljande ytterligare biverkningar har observerats med rivastigmin depotpl\xe5ster: delirium, pyrexi'],
              ['Investigations', u').'],
+=======
+              u'Viktminskning F\xf6ljande ytterligare biverkningar har observerats med rivastigmin depotpl\xe5ster: delirium, pyrexi (vanliga). Tabell 2 visar biverkningar som rapporterats under kliniska pr\xf6vningar som utf\xf6rts med Parkinson patienter med demens som behandlats med rivastigmin kapslar. Tabell 2'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Minskad aptit'],
              ['Metabolism', u'Dehydrering'],
              ['Psychiatric', u'S\xf6mnl\xf6shet'],
@@ -46,7 +50,11 @@
              ['General', u'Tr\xf6tthet och asteni'],
              ['General', u'G\xe5ngrubbning'],
              ['General',
+<<<<<<< HEAD
               u'Parkinsonliknande g\xe5ng F\xf6ljande ytterligare biverkningar har observerats i en studie med patienter med Parkinson-patienter med demens som behandlats med rivastigmin depotpl\xe5ster: agitation, depression (vanliga).']]],
+=======
+              u'Parkinsonliknande g\xe5ng F\xf6ljande ytterligare biverkningar har observerats i en studie med patienter med Parkinson-patienter med demens som behandlats med rivastigmin depotpl\xe5ster: agitation, depression (vanliga). Tabell 3 visar patientantal och procent fr\xe5n en specifik 24-veckors klinisk pr\xf6vning som utf\xf6rts med rivastigmin p\xe5 patienter med demens i samband med Parkinsons sjukdom med pre-definierade biverkningar som kan antas reflektera f\xf6rs\xe4mring av parkinsonsymtom. Tabell 3 Pre-definierade biverkningar som kan reflektera Rivastigmin Placebo f\xf6rs\xe4mring av parkinsonsymtom hos patienter med demens n (%) n (%) i samband med Parkinsons sjukdom Totala antalet patienter i studien 362 (100) 179 (100) Totala antalet patienter med pre-definierade biverkningar 99 (27,3) 28 (15,6) Tremor 37 (10,2) 7 (3,9) Fall 21 (5,8) 11 (6,1) Parkinsons sjukdom (f\xf6rs\xe4mring) 12 (3,3) 2 (1,1) Hypersekretion av saliv 5 (1,4) 0 Dyskinesi 5 (1,4) 1 (0,6) Parkinsonism 8 (2,2) 1 (0,6) Hypokinesi 1 (0,3) 0 R\xf6relserubbning 1 (0,3) 0 Bradykinesi 9 (2,5) 3 (1,7) Dystoni 3 (0,8) 1 (0,6) G\xe5ngrubbning 5 (1,4) 0 Muskelstelhet 1 (0,3) 0 Balanssv\xe5righeter 3 (0,8) 2 (1,1) Muskuloskeletal stelhet 3 (0,8) 0 Stelhet 1 (0,3) 0 Motorisk dysfunktion 1 (0,3) 0']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric', u'S\xf6mnl\xf6shet'],
              ['Psychiatric', u'Depression'],
@@ -64,13 +72,18 @@
              ['Skin', u'Hudutslag']]],
            ['Very rare',
             [['Infections', u'Urinv\xe4gsinfektion'],
+<<<<<<< HEAD
              ['Psychiatric', u'Hallucinationer'],
+=======
+             ['Psychiatric', u'Hallucinationer Aggression, rastl\xf6shet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Extrapyramidala symtom (inklusive f\xf6rs\xe4mring av Parkinsons sjukdom)'],
              ['Cardiac',
               u'Hj\xe4rtarytmier (t ex bradykardi, atrioventrikul\xe4rblock, f\xf6rmaksflimmer och takykardi)'],
              ['Vascular', u'Hypertoni'],
              ['GI', u'Gastrointestinal bl\xf6dning'],
+<<<<<<< HEAD
              ['GI', u'Pankreatit']]],
            ['Unknown',
             [['Metabolism', u'Dehydrering'],
@@ -78,11 +91,22 @@
              ['Cardiac', u'Sjuk sinusknuta (sick sinus syndrome)'],
              ['GI',
               u'Vissa fall med kraftig kr\xe4kning var f\xf6renade med esofagusruptur (se avsnitt 4.4).'],
+=======
+             ['GI',
+              u'Pankreatit Vissa fall med kraftig kr\xe4kning var f\xf6renade med esofagusruptur (se avsnitt 4.4).']]],
+           ['Unknown',
+            [['Metabolism', u'Dehydrering'],
+             ['Cardiac', u'Sjuk sinusknuta (sick sinus syndrome)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Hepatit'],
              ['Skin', u'Pruritus'],
              ['Psychiatric', u'Aggression'],
              ['Cardiac', u'Sjuk sinusknuta (sick sinus syndrome)'],
              ['Hepato', u'Hepatit']]]],
  '_pages': [5, 8],
+<<<<<<< HEAD
  u'_rank': 74,
+=======
+ u'_rank': 71,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

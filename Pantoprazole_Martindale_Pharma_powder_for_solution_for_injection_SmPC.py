@@ -1,4 +1,5 @@
 {'_data': [[u'Unknown',
+<<<<<<< HEAD
             [['Blood', u'Trombocytop   eni,'],
              ['Immune system', u'\xd6verk\xe4nslighet'],
              ['Metabolism', u'Hyperlipidemi   Hyponatremi,'],
@@ -18,4 +19,24 @@
              ['General', u'sst\xe4llet   sla   \xf6dem']]]],
  '_pages': [4, 7],
  u'_rank': 14,
+=======
+            [['Blood', u'Trombo-   cytopeni,'],
+             ['Immune system', u'\xd6verk\xe4nslighet   (inklusive'],
+             ['Metabolism', u'Hyperlipidemi   Hyponatremi'],
+             ['Psychiatric',
+              u'S\xf6mn-   Depression (och   Desoriente-   Hallucina-   st\xf6rningar   alla   ring (och alla   tioner,'],
+             ['Nervous system', u'Huvudv\xe4rk,   yrsel'],
+             ['Eye', u'Synrubbningar/'],
+             ['GI', u'Diarr\xe9,   illam\xe5ende/'],
+             ['Hepato',
+              u'F\xf6rh\xf6jda   \xd6kad   Hepato-   leverenzymer   bilirubinhalt   cellul\xe4r'],
+             ['Skin',
+              u'och   Hudutslag/   Urtikaria,   Stevens-   exantem/   angio\xf6dem   Johnsons   eruption,   syndrom,   pruritus   Lyells   syndrom,  erythema  multiforme,  ljusk\xe4ns-  lighet'],
+             ['Musculoskeletal', u'Artralgi,   myalgi    och'],
+             ['Renal', u'Interstitiell   nefrit'],
+             ['Reproductive system', u'Gynekomasti    och'],
+             ['General', u'Trombo-   Asteni,   \xd6kad']]]],
+ '_pages': [4, 6],
+ u'_rank': 13,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LFSU'}

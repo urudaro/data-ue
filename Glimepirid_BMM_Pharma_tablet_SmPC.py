@@ -1,5 +1,6 @@
 {'_data': [['Rare',
             [['Blood',
+<<<<<<< HEAD
               u'Trombocytopeni, leukopeni, granulocytopeni, agranulocytos, erytropeni, hemolytisk anemi och pancytopeni kan intr\xe4ffa. Dessa f\xf6r\xe4ndringar \xe4r vanligen reversibla d\xe5 behandlingen avbryts.'],
              ['Metabolism',
               u'Hypoglykemi. Dessa hypoglykemiska effekter som oftast upptr\xe4der omedelbart, kan vara allvarliga och ej alltid l\xe4tta att avhj\xe4lpa. Uppkomsten av s\xe5dana reaktioner p\xe5verkas - som vid all terapi med antidiabetika - av individuella faktorer s\xe5som kostvanor och dosering (se ytterliggare information i avsnitt 4.4).']]],
@@ -20,5 +21,26 @@
              ['Skin',
               u'\xd6verk\xe4nslighetsreaktioner, s\xe5som hudkl\xe5da, hudutslag, urtikaria och ljus\xf6verk\xe4nslighet.']]]],
  '_pages': [5, 6],
+=======
+              u'M\xe5ttlig till sv\xe5r trombocytopeni, leukopeni, granulocytopeni, agranulocytos, erytrocytopeni, hemolytisk anemi och pancytopeni kan intr\xe4ffa. Dessa f\xf6r\xe4ndringar \xe4r vanligen reversibla d\xe5 behandlingen avbryts.'],
+             ['Metabolism',
+              u'hypoglykemi. Dessa hypoglykemiska effekter som oftast upptr\xe4der omedelbart kan vara allvarliga och ej alltid l\xe4tta att avhj\xe4lpa. Uppkomsten av s\xe5dana reaktioner p\xe5verkas - som vid all terapi med antidiabetika - av individuella faktorer s\xe5som kostvanor och dosering (se vidare under \u201dVarningar och f\xf6rsiktighet\u201d).']]],
+           ['Very rare',
+            [['Immune system',
+              u'leukocytoklastisk vaskulit, milda \xf6verk\xe4nslighetsreaktioner som kan utvecklas till allvarliga s\xe5dana med dyspn\xe9, blodtrycksfall och ibland chock. Korsallergi med sulfonureider, sulfonamider eller liknande substanser \xe4r m\xf6jlig.'],
+             ['GI',
+              u'Illam\xe5ende, kr\xe4kningar, diarr\xe9, bukutsp\xe4ndhet, bukbesv\xe4r och buksm\xe4rtor som s\xe4llan leder till att behandlingen avbryts.'],
+             ['Hepato',
+              u'Abnormal leverfunktion (t ex med kolestas och ikterus), hepatit som kan utvecklas till leversvikt.'],
+             ['Skin', u'ljus\xf6verk\xe4nslighet.'],
+             ['Investigations', u'minskning av natrium i blodet.']]],
+           ['Unknown',
+            [['Eye',
+              u'\xd6verg\xe5ende synst\xf6rningar kan upptr\xe4da, speciellt i b\xf6rjan av behandlingen, pga. f\xf6r\xe4ndringar i blodglukosniv\xe5erna.'],
+             ['Hepato', u'F\xf6rh\xf6jda leverenzymv\xe4rden'],
+             ['Skin',
+              u'\xd6verk\xe4nslighetsreaktioner, s\xe5som hudkl\xe5da, hudutslag och urtikaria.']]]],
+ '_pages': [5, 5],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 10,
  u'_type': u'LSFU'}

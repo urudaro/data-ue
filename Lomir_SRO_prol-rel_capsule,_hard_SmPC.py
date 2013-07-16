@@ -1,20 +1,36 @@
 {'_data': [['Very common',
             [['Blood', u'Huvudv\xe4rk'],
+<<<<<<< HEAD
              ['Vascular', u'Ansiktsrodnad med v\xe4rmek\xe4nsla, perifera \xf6dem']]],
            ['Common',
             [['Cardiac', u'Palpitationer, takykardi'],
              ['Blood', u'Yrsel'],
              ['Eye', u'Dyspn\xe9'],
              ['GI', u'Symtom fr\xe5n magtrakten'],
+=======
+             ['Vascular',
+              u'Ansiktsrodnad med v\xe4rmek\xe4nsla, perifera \xf6dem Mindre vanlig(>1/1 000, <1/100) Hypotoni Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet']]],
+           ['Common',
+            [['Cardiac',
+              u'Palpitationer, takykardi Mindre vanlig(>1/1 000, <1/100) Aggraverad angina pectoris'],
+             ['Blood', u'Yrsel'],
+             ['Eye', u'Dyspn\xe9'],
+             ['GI',
+              u'Symtom fr\xe5n magtrakten Mindre vanlig(>1/1 000, <1/100) F\xf6rstoppning, illam\xe5ende'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Polyuri'],
              ['Skin', u'Utslag'],
              ['Vascular', u'Tr\xf6tthet, sjukdomsk\xe4nsla']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Investigations', u'Vikt\xf6kning'],
              ['Cardiac', u'Aggraverad angina pectoris'],
              ['GI', u'F\xf6rstoppning, illam\xe5ende'],
              ['Vascular',
               u'Hypotoni Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+=======
+            [['Investigations', u'(>1/1 000, <1/100) Vikt\xf6kning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'S\xf6mnrubbningar']]],
            ['Rare',
             [['Cardiac', u'Extrasystole'],
@@ -41,5 +57,9 @@
              ['Psychiatric',
               u'Depression, oro, d\xe5sighet, nervositet F\xf6ljande symtom har rapporterats efter godk\xe4nnandet: stroke, synkop, transitoriska ischemiska attacker, letargi, muntorrhet, f\xf6rstoppning, diarr\xe9, br\xf6stsm\xe4rta. I l\xe5ngtidsstudier har enstaka fall av f\xf6rh\xf6jda blodglukosniv\xe5er observerats. Lomir kan dock ges till diabetiker, d\xe5 Lomir hos diabetiker ej givit n\xe5gon p\xe5verkan p\xe5 glukosoms\xe4ttningen. Andra biverkningar som rapporterats i s\xe4llsynta fall vid behandling med kalciumantagonister \xe4r urtikaria och f\xf6rvirring.']]]],
  '_pages': [3, 4],
+<<<<<<< HEAD
  u'_rank': 31,
+=======
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

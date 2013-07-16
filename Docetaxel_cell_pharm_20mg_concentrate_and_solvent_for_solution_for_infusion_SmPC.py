@@ -23,7 +23,11 @@
              ['Cardiac', u'Arytmi (inga sv\xe5ra)'],
              ['Vascular', u'Hypotension'],
              ['GI', u'Illam\xe5ende (G3/4: 3,3%);   F\xf6rstoppning'],
+<<<<<<< HEAD
              ['Skin', u'Alopeci; Hudreaktioner   Nagelf\xf6r\xe4ndringar'],
+=======
+             ['Skin', u'Alopeci; Hudreaktioner   Nagelf\xf6r\xe4ndringar (sv\xe5ra'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Myalgi'],
              ['General',
               u'Asteni (sv\xe5r: 12,4%),   V\xe4tskeretention (sv\xe5r: 0,8%)   Sm\xe4rta'],
@@ -60,7 +64,12 @@
              ['Eye', u'\xd6kat t\xe5rfl\xf6de, konjunktivit'],
              ['Cardiac', u'Hj\xe4rtsvikt'],
              ['Vascular', u'Lymf\xf6dem'],
+<<<<<<< HEAD
              ['Respiratory', u'Epistaxis, faryngolaryngeal   sm\xe4rta, nasofaryngit,'],
+=======
+             ['Respiratory',
+              u'Epistaxis, faryngolaryngeal   sm\xe4rta, nasofaryngit, dyspn\xe9,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende, diarr\xe9, kr\xe4kning,'],
              ['Skin', u'Alopeci, erytem, hudutslag,'],
              ['Musculoskeletal',
@@ -111,7 +120,11 @@
              ['Musculoskeletal', u'Myalgi (G3/4: 0,8%);   Artralgi (G3/4: 0,4%)'],
              ['Reproductive system', u'Amenorr\xe9'],
              ['General', u'Asteni (G3/4: 11%);'],
+<<<<<<< HEAD
              ['Investigations', u'\xd6kning eller'],
+=======
+             ['Investigations', u'\xd6kning eller minskning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Infections', u'Neutropen infektion:'],
              ['Blood', u'Anemi (G3/4: 20,9%);'],
              ['Immune system', u'\xd6verk\xe4nslighetsreaktioner'],
@@ -142,7 +155,11 @@
              ['Infections', u'Infektion (G3/4:   Neutropen infektion   3,6%)'],
              ['Neoplasms', u'Cancersm\xe4rta (G3/4: 1,2%)'],
              ['Blood', u'Neutropeni (G3/4:   83,5%);'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighets-reaktio'],
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Anorexi (G3/4:   12,0%)'],
              ['Nervous system',
               u'Dysgeusi/Parosmi   Yrsel (G3/4: 2,0%);   (G3/4: 0,4%);   Perifer motorisk neuropati'],

@@ -12,7 +12,11 @@
             [['Infections', u'Sinuit'],
              ['Nervous system', u'Yrsel, somnolens, huvudv\xe4rk'],
              ['Eye',
+<<<<<<< HEAD
               u'Reducerat t\xe5rfl\xf6de, onormalt seende (inkl.ackommodations-st\xf6 rningar)'],
+=======
+              u'Reducerat t\xe5rfl\xf6de, onormalt seende (inkl.ackommodations-st\xf6rningar)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'magsm\xe4rtor, flatulens, diarr\xe9'],
              ['Renal', u'Dysuri'],
              ['General', u'Tr\xf6tthet, perifert \xf6dem']]],

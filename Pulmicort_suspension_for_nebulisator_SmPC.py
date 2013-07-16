@@ -10,7 +10,11 @@
               u'Rastl\xf6shet  Nervositet Depression Beteendef\xf6r\xe4ndringar (fr\xe4mst hos barn)'],
              ['Respiratory', u'Bronkospasm'],
              ['Skin', u'Bl\xe5m\xe4rken']]],
+<<<<<<< HEAD
            ['Unknown', [['Endocrine', u'Glaukom'], ['Psychiatric', u'S\xf6mnst\xf6rningar']]]],
+=======
+           ['Unknown', [['Eye', u'Glaukom'], ['Psychiatric', u'S\xf6mnst\xf6rningar']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [5, 6],
  u'_rank': 9,
  u'_type': u'TSFU'}

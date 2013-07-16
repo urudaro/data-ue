@@ -5,6 +5,7 @@
              ['Eye', u'Dimsyn'],
              ['Cardiac', u'Bradykardi, arytmi'],
              ['Vascular', u'Rodnad'],
+<<<<<<< HEAD
              ['Respiratory', u'Bronkospasm'],
              ['Hepato', u'Kolestas, hepatit, ikterus'],
              ['Skin', u'Alopeci, purpura, urtikaria'],
@@ -25,6 +26,23 @@
              ['Renal', u'Cystit, urininkontinens'],
              ['General',
               u'Asteni, br\xf6stsm\xe4rta, influensaliknande  symtom, perifert \xf6dem']]],
+=======
+             ['Vascular', u'Bronkospasm'],
+             ['Hepato', u'Kolestas, hepatit, ikterus'],
+             ['Skin', u'Alopeci, purpura, urtikaria'],
+             ['Skin', u'Muskelkramper, muskelsvaghet'],
+             ['Renal', u'Urineringsst\xf6rningar, nokturi, polyuri, \xf6kad'],
+             ['Reproductive system', u'Gynekomasti, priapism'],
+             ['Reproductive system', u'Tr\xf6tthet, sjukdomsk\xe4nsla, ansikts\xf6dem']]],
+           ['Common',
+            [['Infections', u'Luftv\xe4gsinfektion, urinv\xe4gsinfektion'],
+             ['Ear', u'Svindel'],
+             ['Cardiac', u'Palpitationer, takykardi'],
+             ['Vascular', u'Hypotoni, postural hypotoni'],
+             ['GI', u'Buksm\xe4rta, dyspepsi, muntorrhet,  illam\xe5ende'],
+             ['Skin', u'Kl\xe5da'],
+             ['Renal', u'Cystit, urininkontinens']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Immune system', u'Allergiska l\xe4kemedelsreaktioner'],
              ['Metabolism', u'Anorexi, gikt, \xf6kad aptit'],
@@ -33,6 +51,7 @@
               u'Cerebrovaskul\xe4r h\xe4ndelse, hypoestesi,  synkope, tremor'],
              ['Ear', u'Tinnitus'],
              ['Cardiac', u'Angina pectoris, myokardinfarkt'],
+<<<<<<< HEAD
              ['Respiratory', u'Epistaxis'],
              ['GI', u'F\xf6rstoppning, diarr\xe9, flatulens, kr\xe4kningar,  gastroenterit'],
              ['Hepato', u'Onormala leverv\xe4rden'],
@@ -41,6 +60,15 @@
              ['Renal', u'Dysuri, hematuri, \xf6kad urineringsfrekvens'],
              ['Reproductive system', u'Impotens'],
              ['General', u'Sm\xe4rta, ansikts\xf6dem'],
+=======
+             ['Vascular', u'Epistaxis'],
+             ['GI', u'F\xf6rstoppning, diarr\xe9, flatulens, kr\xe4kningar,  gastroenterit'],
+             ['Hepato', u'Onormala leverv\xe4rden'],
+             ['Skin', u'Utslag'],
+             ['Skin', u'Artralgi'],
+             ['Renal', u'Dysuri, hematuri, \xf6kad urineringsfrekvens'],
+             ['Reproductive system', u'Sm\xe4rta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'Viktuppg\xe5ng']]],
            ['Rare',
             [['Blood', u''],
@@ -49,6 +77,7 @@
              ['Eye', u''],
              ['Cardiac', u''],
              ['Vascular', u''],
+<<<<<<< HEAD
              ['Respiratory', u''],
              ['Hepato', u''],
              ['Skin', u''],
@@ -56,10 +85,23 @@
              ['Renal', u'urinuts\xf6ndring'],
              ['Reproductive system', u''],
              ['General', u'']]],
+=======
+             ['Vascular', u''],
+             ['Hepato', u''],
+             ['Skin', u''],
+             ['Skin', u''],
+             ['Renal', u'urinuts\xf6ndring'],
+             ['Reproductive system', u''],
+             ['Reproductive system', u'']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Eye', u'IFIS (Intraoperative floppy iris syndrome,  se avsnitt 4.4)'],
              ['GI', u'Smakst\xf6rningar'],
              ['Reproductive system', u'F\xf6rdr\xf6jd ejakulation']]]],
  '_pages': [4, 6],
+<<<<<<< HEAD
  u'_rank': 43,
+=======
+ u'_rank': 38,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

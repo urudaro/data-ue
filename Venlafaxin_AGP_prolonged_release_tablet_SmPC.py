@@ -8,7 +8,11 @@
            ['Common',
             [['Metabolism', u'F\xf6rh\xf6jt serumkolesterol, viktminskning'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Onormala dr\xf6mmar, s\xe4nkt libido, yrsel, \xf6kad muskeltonus (hypertoni), insomnia, nervositet, parestesier, sedation, tremor, f\xf6rvirring, personlighets-f\xf6r\xe4n dring'],
+=======
+              u'Onormala dr\xf6mmar, s\xe4nkt libido, yrsel, \xf6kad muskeltonus (hypertoni), insomnia, nervositet, parestesier, sedation, tremor, f\xf6rvirring, personlighets-f\xf6r\xe4ndring'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Special Senses', u'Onormal ackommodation, mydriasis, synst\xf6rning'],
              ['Cardiac', u'Hypertoni,'],
              ['Vascular',
@@ -16,7 +20,11 @@
              ['Respiratory', u'G\xe4spning'],
              ['GI', u'Minskad aptit (anorexi), f\xf6rstoppning, kr\xe4kning'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Onormal ejakulation/orgasm (m\xe4n), anorgasmi, erektil dysfunktion (impotens), f\xf6rs\xe4mrad urinering (mest sv\xe5righeter att komma ig\xe5ng), menstruations-st\xf6rn ingar s\xe5som \xf6kad bl\xf6dning eller mer oregelbunden bl\xf6dning (t.ex. menorragi, metrorragi), pollakisuri'],
+=======
+              u'Onormal ejakulation/orgasm (m\xe4n), anorgasmi, erektil dysfunktion (impotens), f\xf6rs\xe4mrad urinering (mest sv\xe5righeter att komma ig\xe5ng), menstruations-st\xf6rningar s\xe5som \xf6kad bl\xf6dning eller mer oregelbunden bl\xf6dning (t.ex. menorragi, metrorragi), pollakisuri'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Systemic', u'Asteni (tr\xf6tthet), frossbrytningar']]],
            ['Uncommon',
             [['Blood', u'Ekkymos, gastrointestinal bl\xf6dning'],
@@ -29,10 +37,17 @@
              ['GI', u'Bruxism, diarr\xe9'],
              ['Skin', u'Hudutslag, alopeci'],
              ['Reproductive system', u'Onormal orgasm (kvinnor), urinretention'],
+<<<<<<< HEAD
              ['Systemic', u'Angio\xf6dem, Ljusk\xe4nslighets-reakt ion']]],
            ['Rare',
             [['Nervous system',
               u'Akatisi/psyko-m otorisk rastl\xf6shet, kramper, manisk reaktion'],
+=======
+             ['Systemic', u'Angio\xf6dem, Ljusk\xe4nslighets-reaktion']]],
+           ['Rare',
+            [['Nervous system',
+              u'Akatisi/psyko-motorisk rastl\xf6shet, kramper, manisk reaktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Urininkontinens']]],
            ['Unknown',
             [['Blood',
@@ -42,9 +57,15 @@
              ['Nervous system',
               u'Malignt neuroleptikasyndrom (NMS), serotonergt syndrom, delirium, extrapyramidala reaktioner (inklusive dystoni och dyskinesi), tardiv dyskinesi, suicidalt beteende, suicidtankar** Vertigo Aggression***'],
              ['Special Senses', u'Tr\xe5ngvinkelglaukom'],
+<<<<<<< HEAD
              ['Cardiac', u'Hypotoni,'],
              ['Vascular',
               u'QT-f\xf6rl\xe4gning, kammarflimmer, kammartakykardi (inklusive torsade de pointes)'],
+=======
+             ['Cardiac', u'Hypotoni, QT'],
+             ['Vascular',
+              u'f\xf6rl\xe4gning, kammarflimmer, kammartakykardi (inklusive torsade de pointes)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Pulmonell eosionofili'],
              ['GI', u'Pankreatit'],
              ['Skin',

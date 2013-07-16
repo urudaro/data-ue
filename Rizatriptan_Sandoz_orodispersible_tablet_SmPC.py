@@ -34,6 +34,10 @@
              ['GI', u'ischemisk kolit'],
              ['Musculoskeletal', u'muskelsm\xe4rta'],
              ['Investigations', u'onormalt elektrokardiogram (EKG)']]]],
+<<<<<<< HEAD
  '_pages': [8, 10],
+=======
+ '_pages': [5, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 27,
  u'_type': u'LSFU'}

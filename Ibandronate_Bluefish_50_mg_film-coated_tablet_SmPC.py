@@ -10,6 +10,7 @@
              ['Skin', u'Kl\xe5da'],
              ['Renal', u'Azotemi (uremi)'],
              ['General',
+<<<<<<< HEAD
               u'Br\xf6stsm\xe4rta, influensa-liknan de sjukdom, sjukdomsk\xe4nsla, ospecificerad sm\xe4rta'],
              ['Investigations', u'F\xf6rh\xf6jt parathormon']]],
            ['Rare',
@@ -21,4 +22,16 @@
  '_note': u' ANOMALI in Headers ?MSFU',
  '_pages': [5, 6],
  u'_rank': 14,
+=======
+              u'Br\xf6stsm\xe4rta, influensa-liknande sjukdom, sjukdomsk\xe4nsla, ospecificerad sm\xe4rta'],
+             ['Investigations', u'F\xf6rh\xf6jt parathormon']]],
+           ['Rare',
+            [['Eye', u'Okul\xe4ra *'],
+             ['Musculoskeletal',
+              u'Atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning)']]],
+           ['Very rare', [['Musculoskeletal', u'Osteonekros i k\xe4ken \u2020**']]]],
+ '_note': u' ANOMALI in Headers ?MSFU',
+ '_pages': [5, 6],
+ u'_rank': 13,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

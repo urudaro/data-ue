@@ -6,7 +6,13 @@
              ['Hepato',
               u'\u2022F\xf6rh\xf6jda levertransaminasv\xe4rden (ASAT och ALAT) och alkalisk fosfatas'],
              ['Skin', u'\u2022Allergiska hudutslag ofta med kl\xe5da \u2022Alopeci'],
+<<<<<<< HEAD
              ['Renal', u'\u2022Hematuri \u2022Mild proteinuri']]],
+=======
+             ['Renal', u'\u2022Hematuri \u2022Mild proteinuri'],
+             ['General',
+              u'\u2022Influensaliknande symptom -- de vanligaste symptomen \xe4r feber, huvudv\xe4rk, frossa, myalgi, asteni och anorexi. Hosta, rinit, sjukdomsk\xe4nsla, svettningar och s\xf6mnsv\xe5righeter har \xe4ven rapporterats. \u2022\xd6dem/perifert \xf6dem -- inkluderande ansikts\xf6dem. \xd6dem \xe4r vanligen reversibelt efter det att behandlingen avbrutits.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Blood', u'\u2022Neutropeni med feber'],
              ['Metabolism', u'\u2022Anorexi'],
@@ -24,7 +30,13 @@
               u'\u2022Arrytmier, framf\xf6r allt supraventrikul\xe4ra \u2022Hj\xe4rtsvikt'],
              ['Respiratory',
               u'\u2022Interstitiell pneumonit (se avsnitt 4.4) \u2022Bronkospasm -- vanligen l\xe4tt och \xf6verg\xe5ende men kan kr\xe4va parenteral behandling'],
+<<<<<<< HEAD
              ['Hepato', u'\u2022Sv\xe5r levertoxicitet, inklusive leversvikt och d\xf6d']]],
+=======
+             ['Hepato', u'\u2022Sv\xe5r levertoxicitet, inklusive leversvikt och d\xf6d'],
+             ['Renal',
+              u'\u2022Njursvikt (se avsnitt 4.4) \u2022Hemolytiskt uremiskt syndron (se avsnitt 4.4)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Cardiac', u'\u2022Hj\xe4rtinfarkt'],
              ['Vascular',
@@ -41,5 +53,9 @@
              ['Skin',
               u'\u2022Allvarliga hudreaktioner inkluderande deskvamation och bull\xf6sa hudutslag']]]],
  '_pages': [7, 11],
+<<<<<<< HEAD
  u'_rank': 28,
+=======
+ u'_rank': 30,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU2'}

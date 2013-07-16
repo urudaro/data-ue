@@ -29,6 +29,10 @@
              ['Respiratory', u'  Hosta   '],
              ['Metabolism', u'  Elektrolytrubbningar  '],
              ['Reproductive system', u'  F\xf6rs\xe4mrad njurfunktion  ']]]],
+<<<<<<< HEAD
  '_pages': [3, 4],
+=======
+ '_pages': [4, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 25,
  u'_type': u'DFSU'}

@@ -3,7 +3,11 @@
             [['Nervous system', u'huvudv\xe4rk , yrsel/vertigo, somnolens, d\xe5sighet'],
              ['Vascular', u'vasodilatation'],
              ['GI',
+<<<<<<< HEAD
               u'diarr\xe9, f\xf6rstoppning, illam\xe5ende/kr\xe4kningar st\xf6rningar i magtarmkanalen'],
+=======
+              u'diarr\xe9, f\xf6rstoppning, illam\xe5ende/kr\xe4kningar, st\xf6rningar i magtarmkanalen'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'utslag/kl\xe5da'],
              ['General', u'asteni'],
              ['Musculoskeletal', u'ryggsm\xe4rta'],

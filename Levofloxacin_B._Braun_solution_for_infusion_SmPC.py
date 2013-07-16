@@ -11,7 +11,11 @@
               u'Svampinfektioner inklusive candida-infektion Resistens mot patogener'],
              ['Blood', u'Leukopeni Eosinofili'],
              ['Metabolism', u'Anorexi'],
+<<<<<<< HEAD
              ['Psychiatric', u'\xc5ngest F\xf6rvirringstillst\xe5n d \xc4ngslan'],
+=======
+             ['Psychiatric', u'\xc5ngest F\xf6rvirringstillst\xe5nd \xc4ngslan'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'S\xf6mnighet Tremor Smakst\xf6rning'],
              ['Ear', u'Vertigo'],
              ['Cardiac', u'Takykardi Palpitation'],
@@ -25,8 +29,12 @@
            ['Rare',
             [['Blood', u'Trombocytopeni Neutropeni'],
              ['Immune system', u'Angio\xf6dem \xd6verk\xe4nslighet (se avsnitt 4.4)'],
+<<<<<<< HEAD
              ['Metabolism',
               u'Hypoglykemi, s\xe4rskilt hos patienter med diabetes avsnitt 4.4)'],
+=======
+             ['Metabolism', u'Hypoglykemi, s\xe4rskilt hos patienter med avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric',
               u'Psykotiska reaktioner (med t.ex. hallucinationer, paranoia) Depression Agitation Onormala dr\xf6mmar Mardr\xf6mmar'],
              ['Nervous system', u'Konvulsion (se avsnitten 4.3 och 4.4) Parestesi'],
@@ -60,6 +68,10 @@
               u'Rabdomyolys Senruptur (t.ex. akillessena) (se avsnitt 4.3 och 4.4) Ligamentruptur Muskelruptur Artrit'],
              ['General', u'Sm\xe4rta (inklusive sm\xe4rta i rygg, br\xf6st och extremiteter)']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [7, 9],
+=======
+ '_pages': [6, 9],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 45,
  u'_type': u'MSFU'}

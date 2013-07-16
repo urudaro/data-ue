@@ -6,6 +6,7 @@
              ['Psychiatric', u'eufori, hallucinationer'],
              ['Ear', u'vertigo'],
              ['Eye', u'dimsyn, mios'],
+<<<<<<< HEAD
              ['Nervous system', u'sedering'],
              ['Skin', u'\xf6verg\xe5ende hudutslag, svettning'],
              ['General', u'tr\xf6tthet']]],
@@ -17,16 +18,34 @@
              ['Nervous system', u'huvudv\xe4rk, synkope,'],
              ['Skin', u'pruritus, urtikaria, andra hudutslag och i'],
              ['General', u'\xf6dem i nedre extremiteter, asteni, \xf6dem'],
+=======
+             ['Skin', u'\xf6verg\xe5ende hudutslag, svettning']]],
+           ['Uncommon',
+            [['Metabolism', u'anorexi'],
+             ['GI', u'muntorrhet, glossit'],
+             ['Psychiatric', u'dysfori, agitation, insomnia, desorientering,  nedsatt libido'],
+             ['Nervous system', u'huvudv\xe4rk, synkope,'],
+             ['Skin', u'pruritus, urtikaria, andra hudutslag och i'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'gallv\xe4gsdyskinesi'],
              ['Vascular', u'Ansiktsrodnad, hypotension'],
              ['Renal', u'urinretention och antidiuretisk effekt'],
              ['Reproductive system', u'nedsatt potens och amenorr\xe9']]],
            ['Rare',
             [['Cardiac',
+<<<<<<< HEAD
               u'bradykardi, hj\xe4rtklappning, fall av  f\xf6rl\xe4ngda QT-intervall och \u201dtorsades de pointes\u201d har rapporterats vid behandling med metadon, speciellt vid h\xf6ga doser']]],
            ['Unknown',
             [['Metabolism', u'hypokalemi, hypomagnesemi'],
              ['Blood', u'reversibel trombocytopeni har']]]],
  '_pages': [6, 8],
  u'_rank': 24,
+=======
+              u'bradykardi, hj\xe4rtklappning, fall av f\xf6rl\xe4ngda  QT-intervall och \u201dtorsades de pointes\u201d har rapporterats vid behandling med metadon, speciellt vid h\xf6ga doser']]],
+           ['Unknown',
+            [['Metabolism', u'hypokalemi, hypomagnesemi'],
+             ['Blood', u'reversibel trombocytopeni har rapporterats']]]],
+ '_pages': [6, 7],
+ u'_rank': 20,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

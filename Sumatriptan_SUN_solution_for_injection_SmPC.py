@@ -25,11 +25,19 @@
              ['Eye',
               u'Flimmer, dubbelseende, nedsatt syn. Synbortfall inklusive rapporter om permanenta defekter. Synst\xf6rningar kan emellertid ocks\xe5 intr\xe4ffa under sj\xe4lva migr\xe4nattacken.'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Bradykardi, takykardi, palpitationer, hj\xe4rtarytmier, transitoriska ischemiska EKG-f\xf6r\xe4ndringar, vasospasm i kransart\xe4rer, hj\xe4rtinfarkt, angina (se avsnitt 4.3 och 4.4).'],
+=======
+              u'Bradykardi, takykardi, palpitationer, hj\xe4rtarytmier, transitoriska ischemiska EKG- f\xf6r\xe4ndringar, vasospasm i kransart\xe4rer, hj\xe4rtinfarkt, angina (se avsnitt 4.3 och 4.4).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypotoni, Raynauds fenomen.'],
              ['GI', u'Ischemisk kolit.'],
              ['Skin', u'Hyperhidros.'],
              ['Musculoskeletal', u'Nackstelhet.']]]],
+<<<<<<< HEAD
  '_pages': [6, 9],
+=======
+ '_pages': [4, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 17,
  u'_type': u'LSFU'}

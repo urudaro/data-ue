@@ -30,7 +30,11 @@
               u'Sjukdomsk\xe4nsla, urtikaria, influensaliknande symtom, erytemat\xf6sa utslag, kl\xe5da.']]],
            ['Uncommon',
             [['Neoplasms',
+<<<<<<< HEAD
               u'ga : Sekund\xe4ra maligniteter (inklusive promyelotisk leukemi som intr\xe4ffade 6 \xe5r efter monoterapi med karboplatin och f\xf6reg\xe5ende str\xe5lbehandling) har rapporterats efter administrering av karboplatin som monoterapi eller i kombinationsbehandling (orsaksf\xf6rh\xe5llande inte fastst\xe4llt).'],
+=======
+              u'Sekund\xe4ra maligniteter (inklusive promyelotisk leukemi som intr\xe4ffade 6 \xe5r efter monoterapi med karboplatin och f\xf6reg\xe5ende str\xe5lbehandling) har rapporterats efter administrering av karboplatin som monoterapi eller i kombinationsbehandling (orsaksf\xf6rh\xe5llande inte fastst\xe4llt).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood',
               u'Infektionskomplikationer har rapporterats vid n\xe5gra tillf\xe4llen.'],
              ['Nervous system',

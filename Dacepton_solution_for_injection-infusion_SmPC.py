@@ -3,7 +3,11 @@
               u'De flesta patienter utvecklar reaktioner vid injektionsst\xe4llet, s\xe4rskilt vid kontinuerlig anv\xe4ndning. Dessa kan innefatta subkutana knutor, f\xf6rh\xe5rdnader, erytem, \xf6mhet och pannikulit. Ett flertal andra lokala reaktioner (s\xe5som irritation, kl\xe5da, bl\xe5m\xe4rken och sm\xe4rta) kan ocks\xe5 f\xf6rekomma.']]],
            ['Common',
             [['Psychiatric',
+<<<<<<< HEAD
               u'Neuropsykiatriska st\xf6rningar \xe4r vanliga hos patienter med Parkinsons sjukdom. Dacepton b\xf6r anv\xe4ndas med s\xe4rskild f\xf6rsiktighet hos dessa patienter. Neuropsykiatriska st\xf6rningar (inklusive \xf6verg\xe5ende, lindrig f\xf6rvirring och synhallucinationer) har f\xf6rkommit under behandling med apomorfinhydroklorid.'],
+=======
+              u'Neuropsykiatriska st\xf6rningar \xe4r vanliga hos patienter med Parkinsons sjukdom. Apomorfin b\xf6r anv\xe4ndas med s\xe4rskild f\xf6rsiktighet hos dessa patienter. Neuropsykiatriska st\xf6rningar (inklusive \xf6verg\xe5ende, lindrig f\xf6rvirring och synhallucinationer) har f\xf6rkommit under behandling med apomorfinhydroklorid.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'I b\xf6rjan av behandlingen kan \xf6verg\xe5ende sedation f\xf6rekomma i anslutning till varje dos apomorfinhydroklorid. Detta f\xf6rsvinner vanligen under de f\xf6rsta behandlingsveckorna. Apomorfin associeras med somnolens. Yrsel/omt\xf6ckning har ocks\xe5 rapporterats.'],
              ['Respiratory', u'G\xe4spningar har rapporterats under apomorfinbehandling.'],
@@ -12,12 +16,17 @@
            ['Uncommon',
             [['Blood',
               u'Hemolytisk anemi och trombocytopeni har rapporterats f\xf6r patienter som behandlats med apomorfin.'],
+<<<<<<< HEAD
              ['Nervous system',
               u'Under \u201don\u201d-perioder kan apomorfin orsaka dyskinesi som i vissa fall kan vara sv\xe5r, och kan hos ett f\xe5tal patienter leda till att behandlingen m\xe5ste s\xe4ttas ut.'],
+=======
+             ['Nervous system', u''],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'Postural hypotoni kan f\xf6rekomma och \xe4r vanligen \xf6verg\xe5ende (se avsnitt 4.4).'],
              ['Respiratory', u'Andningssv\xe5righeter har rapporterats.'],
              ['Skin', u'Lokala och allm\xe4nna hudutslag har rapporterats.'],
+<<<<<<< HEAD
              ['General', u'Nekros och ulceration p\xe5 injektionsst\xe4llet har rapporterats.'],
              ['Investigations',
               u'Positivt Coombs test har rapporterats f\xf6r patienter som har behandlats med apomorfin.']]],
@@ -32,4 +41,20 @@
              ['General', u'Perifera \xf6dem har rapporterats.']]]],
  '_pages': [5, 6],
  u'_rank': 16,
+=======
+             ['General', u''],
+             ['Investigations',
+              u'Positivt Coombs test har rapporterats f\xf6r patienter som har behandlats med apomorfin och levodopa.']]],
+           ['Rare',
+            [['Blood', u''],
+             ['Immune system',
+              u'P\xe5 grund av inneh\xe5llet av natriummetabisulfit, kan allergiska reaktioner (inklusive anafylaxi och bronkospasm) f\xf6rekomma.']]],
+           ['Very rare',
+            [['Cardiac',
+              u'Det har f\xf6rekommit fallrapporter av patienter som utvecklat f\xf6rmaksflimmer (\xf6verg\xe5ende eller upprepat) efter subkutan administrering av apomorfin. Apomorfin kan orsaka retledningsst\xf6rningar s\xe5som QT/QTc-f\xf6rl\xe4ngning (se avsnitt 4.4).']]],
+           ['Unknown',
+            [['Psychiatric', u''], ['General', u'Perifera \xf6dem har rapporterats.']]]],
+ '_pages': [4, 6],
+ u'_rank': 13,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU2'}

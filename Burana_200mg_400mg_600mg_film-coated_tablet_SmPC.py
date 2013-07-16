@@ -1,5 +1,9 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'Huvudv\xe4rk'],
+=======
+            [['Nervous system', u'Huvudv\xe4rk '],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Kr\xe4kning, diarr\xe9, buksm\xe4rta, dyspepsi, illam\xe5ende, f\xf6rstoppning'],
              ['Skin', u'Eksem'],
@@ -29,6 +33,10 @@
               u'Akut njursvikt och interstitiell nefrit, renal pappil\xe4r nekros nedsatt njurfunktion'],
              ['General', u'\xd6dem, v\xe4tskeretention']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [7, 8],
+=======
+ '_pages': [7, 9],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 23,
  u'_type': u'MSFU'}

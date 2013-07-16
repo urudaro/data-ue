@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [[u'Unknown',
             [['Blood', u'Agranulocytos   Tromocyto-p   eni,'],
              ['Immune system', u'\xd6verk\xe4nslighet'],
@@ -17,3 +18,29 @@
  '_pages': [5, 7],
  u'_rank': 12,
  u'_type': u'LFSU'}
+=======
+{'_data': [['Uncommon',
+            [['Nervous system', u'Huvudv\xe4rk, yrsel'],
+             ['GI',
+              u'Diarr\xe9, illam\xe5ende / kr\xe4kningar, uppbl\xe5sthet och gasbildning, f\xf6rstoppning, muntorrhet, buksm\xe4rta och obehag'],
+             ['Hepato', u'F\xf6rh\xf6jda leverenzymer (transaminaser, gamma-GT)'],
+             ['Skin', u'Hudutslag/ exantem/ eruption, pruritus'],
+             ['General', u'Asteni, tr\xf6tthet och sjukdomsk\xe4nsla']]],
+           ['Rare',
+            [['Eye', u'Synrubbning/ dimsyn'],
+             ['Hepato', u'F\xf6rh\xf6jt bilirubin'],
+             ['Skin', u'Urticaria, angio\xf6dem'],
+             ['Musculoskeletal', u'Artralgi, myalgi'],
+             ['Reproductive system', u'Gynekomasti'],
+             ['General', u'F\xf6rh\xf6jd kroppstemperatur, perifera \xf6dem']]],
+           ['Very rare', []],
+           ['Unknown',
+            [['Hepato', u'Hepatocellul\xe4r skada, gulsot, leversvikt'],
+             ['Skin',
+              u'Stevens-Johnsons syndrom, Lyells syndrom, erytema multiforme, ljusk\xe4nslighet'],
+             ['Renal', u'Interstitiell nefrit']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 6],
+ u'_rank': 14,
+ u'_type': u'MSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

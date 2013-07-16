@@ -15,7 +15,12 @@
              ['Skin', u'Hudutslag'],
              ['Musculoskeletal', u'Myalgi'],
              ['General', u'Br\xf6stsm\xe4rtor, tr\xf6tthet'],
+<<<<<<< HEAD
              ['Investigations', u'\xd6kad hj\xe4rtfrekvens']]],
+=======
+             ['Investigations',
+              u'\xd6kad hj\xe4rtfrekvens * \xd6ron: Pl\xf6tslig d\xf6vhet. Ett f\xe5tal fall av pl\xf6tslig neds\xe4ttning eller f\xf6rlust av h\xf6rsel har rapporterats efter marknadsintroduktionen och i kliniska pr\xf6vningar vid anv\xe4ndande av samtliga PDE5-h\xe4mmare, inklusive sildenafil.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Immune system', u'\xd6verk\xe4nslighetsreaktioner'],
              ['Nervous system', u'Cerebrovaskul\xe4r h\xe4ndelse, synkope'],

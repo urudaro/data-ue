@@ -3,7 +3,11 @@
            ['Rare',
             [['Blood', u'Agranulocytos. neutropeni'],
              ['Skin',
+<<<<<<< HEAD
               u'Erythema multiforme,  Stevens-Johnsons syndrom, toxisk epidermal nekrolys'],
+=======
+              u'Erythema multiforme, Stevens-  Johnsons syndrom, toxisk epidermal nekrolys'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Infections', u'Pseudomembran\xf6s kolit.'],
              ['Immune system', u'Anafylaktiska reaktioner.'],
              ['Hepato', u'Leverp\xe5verkan, hepatit, kolestatisk  gulsot.']]]],

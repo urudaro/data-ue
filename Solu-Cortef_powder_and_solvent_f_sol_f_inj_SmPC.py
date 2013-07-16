@@ -6,7 +6,11 @@
              ['Metabolism',
               u'Hypokalemi, natriumretention.   Muskeloskel.:  Muskelatrofi, osteoporos.'],
              ['Other',
+<<<<<<< HEAD
               u'Maskering eller aktivering av latent infektion och h\xe4mning av infektionsf\xf6rsvaret.']]],
+=======
+              u'Maskering eller aktivering av latent infektion och h\xe4mning av   infektionsf\xf6rsvaret.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['GI', u'Ulcus pepticum, perforation och ev. bl\xf6dning, pankreatit.'],
              ['Skin', u'Hudatrofi, f\xf6rs\xe4mrad s\xe5rl\xe4kning.'],

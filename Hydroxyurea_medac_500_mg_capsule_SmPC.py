@@ -19,10 +19,16 @@
              ['Metabolism', u'Tum\xf6rlyssyndrom'],
              ['Immune system', u'\xd6verk\xe4nslighetsreaktioner'],
              ['Psychiatric', u'Hallucinationer']]],
+<<<<<<< HEAD
            ['Very rare',
             [['Skin', u'F\xf6rs\xe4mrad njurfunktion'],
              ['Skin',
               u'Dermatomyositliknande hudf\xf6r\xe4ndringar, hyperpigmentering eller f\xf6rtvining av hud, pigmentering eller f\xf6rtvining av naglar, hudulcerationer (s\xe4rskilt bens\xe5r), kl\xe5da, aktinisk keratos, hudcancer (skivepitelcancer, basalcellscancer), violetta bl\xe5sor, avfj\xe4llning av huden']]]],
  '_pages': [4, 6],
  u'_rank': 17,
+=======
+           ['Very rare', [['Skin', u'F\xf6rs\xe4mrad njurfunktion'], ['Skin', u'']]]],
+ '_pages': [4, 6],
+ u'_rank': 16,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU2'}

@@ -8,11 +8,19 @@
             [['Cardiac',
               u' arytmier s\xe5 som sinusbradykardi, f\xf6rmaksflimmer, varierande grader av AV-blockering, ventrikul\xe4r ektopi (inklusive icke-ih\xe5llande takykardi), onormalt EKG'],
              ['Eye',
+<<<<<<< HEAD
               u'dystoni och dyskinesi har rapporterats med l\xe4kemedel bland 5HT3-antagonisterna'],
              ['Vascular', u'hypotension'],
              ['Immune system',
               u' \xf6verk\xe4nslighetsreaktioner, ibland sv\xe5ra (t.ex. anafylaxi, andn\xf6d, hypotension, urtikaria)']]],
            ['Very rare', [['Immune system', u'\xf6dem (inklusive ansikts\xf6dem)']]]],
+=======
+              u' dystoni och dyskinesi har rapporterats med l\xe4kemedel bland 5HT3-antagonisterna'],
+             ['Vascular', u' hypotension'],
+             ['Immune system',
+              u' \xf6verk\xe4nslighetsreaktioner, ibland sv\xe5ra (t.ex. anafylaxi, andn\xf6d, hypotension, urtikaria)']]],
+           ['Very rare', [['Immune system', u' \xf6dem (inklusive ansikts\xf6dem)']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [3, 4],
  u'_rank': 10,
  u'_type': u'LSFU2'}

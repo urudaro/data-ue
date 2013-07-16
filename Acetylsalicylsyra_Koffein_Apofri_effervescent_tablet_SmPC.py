@@ -12,9 +12,15 @@
               u'Allergiska reaktioner (urtikaria, rinit och astma), tr\xf6tthet, yrsel']]],
            ['Rare',
             [['Blood',
+<<<<<<< HEAD
               u'Trombocyto peni, hemolys vid \xe4rftlig glukos-6-fo sfat-dehydrogen asbrist'],
              ['GI', u'Sv\xe5r gastrointesti nal bl\xf6dning'],
              ['Hepato', u'Transamina sstegring'],
+=======
+              u'Trombocyto peni, hemolys vid \xe4rftlig glukos-6-fosfat-dehydrogen asbrist'],
+             ['GI', u'Sv\xe5r gastrointesti nal bl\xf6dning'],
+             ['Hepato', u'Transaminas stegring'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Sv\xe5ra hudreaktion er'],
              ['Renal', u'Njurfunktio nsst\xf6rningar']]],
            ['Very rare', []],

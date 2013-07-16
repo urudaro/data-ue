@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['GI', u'Diarr\xe9 Illam\xe5ende'],
              ['General', u'Huvudv\xe4rk'],
              ['Injury', u'sinusuppeh\xe5ll \xf6verv\xe4gas (se avsnitt 4.4).']]],
+=======
+{'_data': [['Very common', [['GI', u'Diarr\xe9 Illam\xe5ende'], ['General', u'Huvudv\xe4rk']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Infections', u'F\xf6rkylning'],
              ['Metabolism', u'Anorexi'],
@@ -25,5 +29,9 @@
              ['Hepato', u'Leverp\xe5verkan inklusive hepatit***']]]],
  '_note': u' ?MSFU',
  '_pages': [3, 5],
+<<<<<<< HEAD
  u'_rank': 20,
+=======
+ u'_rank': 19,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

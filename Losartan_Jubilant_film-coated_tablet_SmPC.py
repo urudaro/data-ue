@@ -39,6 +39,10 @@
              ['GI', u'diarr\xe9'],
              ['Musculoskeletal', u'ryggv\xe4rk'],
              ['Renal', u'urinv\xe4gsinfektion'],
+<<<<<<< HEAD
+=======
+             ['General', u'influensaliknande symtom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations',
               u'I en klinisk studie p\xe5 patienter med typ 2-diabetes och nefropati utvecklades hyperkalemi >5,5 mmol/l hos 9,9% av patienterna som behandlades med losartantabletter och hos 3,4% av patienterna som behandlades med placebo. Uppf\xf6ljning efter godk\xe4nnandet F\xf6ljande biverkningar har rapporterats efter godk\xe4nnandet'],
              ['Blood', u'anemi, trombocytopeni'],
@@ -46,6 +50,10 @@
              ['Nervous system', u'migr\xe4n'],
              ['Respiratory', u'hosta'],
              ['GI', u'diarr\xe9, pankreatit'],
+<<<<<<< HEAD
+=======
+             ['General', u'sjukdomsk\xe4nsla'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'onormal leverfunktion'],
              ['Skin', u'urtikaria, pruritus, utslag, ljusk\xe4nslighet'],
              ['Musculoskeletal', u'myalgi, artralgi, rabdomyolys'],
@@ -56,5 +64,9 @@
              ['Investigations',
               u'hyponatremi Barn Biverkningsprofilen hos barn liknar biverkningsprofilen hos vuxna patienter. Data p\xe5 barn \xe4r begr\xe4nsad.']]]],
  '_pages': [5, 9],
+<<<<<<< HEAD
  u'_rank': 44,
+=======
+ u'_rank': 46,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

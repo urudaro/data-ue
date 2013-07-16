@@ -5,7 +5,11 @@
            ['Common',
             [['Infections', u' Urinv\xe4gsinfektion  '],
              ['Blood', u' Anemi  '],
+<<<<<<< HEAD
              ['Respiratory', u'br\xf6stkorg och  Pneumonit  mediastinum -'],
+=======
+             ['Respiratory', u' br\xf6stkorg och  Pneumonit  mediastinum -'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u' Buksm\xe4rta, illam\xe5ende,  -kr\xe4kningar, diarr\xe9 Muskuloskeletala systemet och  Artralgi, artrit, myalgi  bindv\xe4v -'],
              ['Renal', u' Urininkontinens,  -miktionstr\xe4ngningar, onormala -urinv\xe4rden '],
@@ -18,7 +22,11 @@
              ['Renal', u' Bl\xe5skonstriktion, pyuri,  -urinretention, -ureterobstruktion '],
              ['Investigations', u' \xd6kning av leverenzymer  ']]],
            ['Rare',
+<<<<<<< HEAD
             [['Respiratory', u'br\xf6stkorg och  Hosta  mediastinum  -'],
+=======
+            [['Respiratory', u' br\xf6stkorg och  Hosta  mediastinum  -'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Epididymit -']]],
            ['Very rare',
             [['Infections', u' Faryngit, orkit, Reiters  -sjukdom, Lupus vulgaris  '],
@@ -30,7 +38,11 @@
              ['Eye', u' Konjunktivit  '],
              ['Ear', u' Vertigo\xb9  '],
              ['Vascular', u' Hypotension  '],
+<<<<<<< HEAD
              ['Respiratory', u'br\xf6stkorg och  Bronkit, dyspn\xe9, rinit  mediastinum -'],
+=======
+             ['Respiratory', u' br\xf6stkorg och  Bronkit, dyspn\xe9, rinit  mediastinum -'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u' Dyspepsi\xb9, flatulens\xb9  '],
              ['Skin',
               u' Alopeci, hyperhidros  Muskuloskeletala systemet och  Ryggont  bindv\xe4v -'],

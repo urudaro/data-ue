@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system',
               u'S\xf6mnighet, yrsel, huvudv\xe4rk (s\xe4rskilt i b\xf6rjan av  behandlingen)'],
              ['Cardiac', u'Palpitationer'],
@@ -6,6 +7,11 @@
              ['GI', u'Buksm\xe4rta, illam\xe5ende'],
              ['Musculoskeletal', u'Ankelsvullnad'],
              ['General', u'\xd6dem, tr\xf6tthet']]],
+=======
+            [['Cardiac', u'Palpitationer'],
+             ['Vascular', u'Flush'],
+             ['GI', u'Buksm\xe4rta, illam\xe5ende']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric',
               u'S\xf6mnl\xf6shet, hum\xf6rsv\xe4ngningar (inklusive \xe5ngest),  depression'],
@@ -13,11 +19,15 @@
              ['Eye', u'Synst\xf6rningar (inkluderande diplopi)'],
              ['Ear', u'Tinnitus'],
              ['Vascular', u'Hypotoni'],
+<<<<<<< HEAD
              ['Respiratory', u'Dyspn\xe9, rinit'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Kr\xe4kningar, dyspepsia, f\xf6r\xe4ndrade avf\xf6ringsvanor  (inkluderande diarr\xe9 och f\xf6rstoppning), muntorrhet'],
              ['Skin',
               u'Alopeci, purpura, missf\xe4rgning av huden,  hyperhidros, pruritus, utslag, exantem'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Artralgi, myalgi, muskelkramper, ryggv\xe4rk'],
              ['Renal', u'Miktionsst\xf6rningar, nokturi, \xf6kad miktionsfrekvens'],
              ['Reproductive system', u'Impotens, gynekomasti'],
@@ -34,4 +44,24 @@
               u'Angio\xf6dem, erythema multiforme, urtikaria,  exfoliativ dermatit, Stevens-Johnsons syndrom, Quinckes \xf6dem, ljusk\xe4nslighet']]]],
  '_pages': [4, 5],
  u'_rank': 24,
+=======
+             ['Renal', u'Miktionsst\xf6rningar, nokturi, \xf6kad miktionsfrekvens'],
+             ['Reproductive system', u'Impotens, gynekomasti'],
+             ['Investigations', u'Vikt\xf6kning, viktminskning']]],
+           ['Rare', [['Psychiatric', u'F\xf6rvirring']]],
+           ['Very rare',
+            [['Blood', u'Leukocytopeni, trombocytopeni'],
+             ['Immune system', u'Allergiska reaktioner'],
+             ['Metabolism', u'Hyperglykemi'],
+             ['Nervous system', u'Hypertoni, perifer neuropati'],
+             ['Cardiac',
+              u'Hj\xe4rtinfarkt, arytmier(inkluderande bradykardi,  ventrikul\xe4r takykardi och f\xf6rmaksflimmer)'],
+             ['Vascular', u'Vaskulit'],
+             ['GI', u'Pankreatit, gastrit, gingival hyperplasi'],
+             ['Hepato', u'Hepatit, ikterus, f\xf6rh\xf6jda leverenzymer*'],
+             ['Skin',
+              u'Angio\xf6dem, erythema multiforme, urtikaria,  exfoliativ dermatit, Stevens-Johnsons syndrom, Quinckes \xf6dem, ljusk\xe4nslighet']]]],
+ '_pages': [4, 5],
+ u'_rank': 23,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

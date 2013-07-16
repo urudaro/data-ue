@@ -10,9 +10,15 @@
            ['Rare',
             [['GI', u'glossit (<0,1% mot 0,1%), esofagusstriktur (<0,1% mot 0,0%)'],
              ['Investigations',
+<<<<<<< HEAD
               u'abnorma leverfunktionstester* I en fas III-studie p\xe5 patienter med Paget\xb4s sjukdom, d\xe4r risedronat j\xe4mf\xf6rdes med etidronat (61 patienter i varje grupp), rapporterades f\xf6ljande biverkningar med m\xf6jligt eller troligt samband till l\xe4kemedlet enligt pr\xf6varen (h\xf6gre incidens i risedronatgruppen \xe4n i etidronatgruppen): artralgi (9,8% mot 8,2%) amblyopi, apn\xe9, bronkit, kolit, hornhinneskada, benkramper, yrsel, torra \xf6gon, influensasymtom, hypokalcemi, myasteni, neoplasm, nokturi, perifera \xf6dem, skelettsm\xe4rta, br\xf6stsm\xe4rta, utslag, sinuit, tinnitus och viktminskning (alla 1,6% mot 0,0%).']]],
            ['Unknown',
             [['Eye', u'Irit, uveit'],
+=======
+              u'abnorma leverfunktionstester* I en fas III-studie p\xe5 patienter med Paget\xb4s sjukdom, d\xe4r risedronat j\xe4mf\xf6rdes med etidronat (61 patienter i varje grupp), rapporterades f\xf6ljande biverkningar med m\xf6jligt eller troligt samband till l\xe4kemedlet enligt pr\xf6varen (h\xf6gre incidens i risedronatgruppen \xe4n i etidronatgruppen): artralgi (9,8% mot 8,2%) amblyopi, apn\xe9, bronkit, kolit, hornhinneskada, benkramper, yrsel, torra \xf6gon, influensasymtom, hypokalcemi, myasteni, neoplasm, nokturi, perifera \xf6dem, skelettsm\xe4rta, br\xf6stsm\xe4rta, utslag, sinuit, tinnitus och viktminskning (alla 1,6% mot 0,0%). * Ej incidens fr\xe5n fas III-studier p\xe5 osteoporospatienter; frekvensen baserar sig p\xe5 laboratoriefynd och biverkningsobservationer fr\xe5n tidigare kliniska studier. Laboratoriev\xe4rden: Tidig, \xf6verg\xe5ende, asymptomatisk och lindrig minskning av serumkalcium och fosfatniv\xe5er har observerats hos vissa patienter. Efter marknadsf\xf6ring har f\xf6ljande biverkningar rapporterats: Frekvens s\xe4llsynt: Atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning).']]],
+           ['Unknown',
+            [['Investigations', u'Irit, uveit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Osteonekros i k\xe4ken'],
              ['Skin',
               u'\xd6verk\xe4nslighets- och hudreaktioner, inklusive angio\xf6dem, generaliserat utslag, urtikaria och bull\xf6sa hudreaktioner, varav vissa allvarliga inklusive enstaka fall av Steven Johnsons syndrom, toxisk epidermal nekrolys och leukocytaklastisk vaskulit. H\xe5ravfall.'],

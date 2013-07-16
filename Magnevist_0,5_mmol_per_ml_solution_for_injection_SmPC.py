@@ -5,7 +5,11 @@
               u'Sm\xe4rta V\xe4rmek\xe4nsla Frusenhet Reaktioner vid injektionsst\xe4llet (t.ex. k\xe4nsla av frusenhet, parestesi, svullnad, v\xe4rmek\xe4nsla, sm\xe4rta, \xf6dem, irriation, bl\xf6dning, erytem, olustk\xe4nsla, nekros\xa7, tromboflebit\xa7, flebit\xa7, inflammation\xa7, extravasation\xa7)']]],
            ['Rare',
             [['Immune system',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslighetsreaktio ner /anafylaktisk reaktion (t.ex. anafylaktisk chock*), anafylaktoid reaktion\xa7*, \xd6verk\xe4nslighetsreaktio ner\xa7*, chock\xa7*, hypotension\xa7*, konjunktivit, medvetandef\xf6rlust\xa7*, tr\xe4ngda andningsv\xe4gar*, nysningar, urtikaria, pruritus, utslag, erytem, dyspn\xe9,*, andningsuppeh\xe5ll*, bronkospasm\xa7*, pipande andning, laryngospasm\xa7*, laryngealt \xf6dem,\xa7*, paryngealt \xf6dem\xa7*, cyanos\xa7*, rinit\xa7. angio\xf6dem\xa7*, ansikts\xf6dem*, reflextakykardi\xa7)'],
+=======
+              u'\xd6verk\xe4nslighetsreak-tioner /anafylaktisk reaktion (t.ex. anafylaktisk chock*), anafylaktoid reaktion\xa7*, \xd6verk\xe4nslighetsreak-tioner\xa7*, chock\xa7*, hypotension\xa7*, konjunktivit, medvetandef\xf6rlust\xa7*, tr\xe4ngda andningsv\xe4gar*, nysningar, urtikaria, pruritus, utslag, erytem, dyspn\xe9,*, andningsuppeh\xe5ll*, bronkospasm\xa7*, pipande andning, laryngospasm\xa7*, laryngealt \xf6dem,\xa7*, paryngealt \xf6dem\xa7*, cyanos\xa7*, rinit\xa7. angio\xf6dem\xa7*, ansikts\xf6dem*, reflextakykardi\xa7)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Desorientering'],
              ['Nervous system', u'Kramper* Parestesi Br\xe4nnande k\xe4nsla Tremor'],
              ['Cardiac', u'Takykardi* Arrytmi'],

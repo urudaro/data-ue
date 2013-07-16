@@ -2,7 +2,11 @@
             [['Metabolism', u'Vikt\xf6kning \xd6kad aptit'],
              ['Nervous system', u'Tr\xf6tthet Sedering Huvudv\xe4rk'],
              ['GI', u'Muntorrhet'],
+<<<<<<< HEAD
              ['General', u'vid ']]],
+=======
+             ['General', u'och/ellersymtom vid ']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Psychiatric', u'Livliga dr\xf6mmar F\xf6rvirring \xc5ngest Insomnia'],
              ['Nervous system', u'Letargi Yrsel Tremor'],
@@ -10,7 +14,12 @@
              ['GI', u'Illam\xe5ende Diarre Kr\xe4kningar'],
              ['Skin', u'Exantem'],
              ['Musculoskeletal', u'Artralgi Myalgi Ryggont'],
+<<<<<<< HEAD
              ['General', u'Perifera \xf6dem Tr\xf6tthet']]],
+=======
+             ['General', u'Perifera'],
+             ['General', u'\xf6dem Tr\xf6tthet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric',
               u'Mardr\xf6mmar Mani Agitation Hallucinationer Psykomotorisk oro (inkl. akatisi, hyperkinesi)'],
@@ -31,8 +40,16 @@
              ['GI', u'\xd6dem i munnen \xd6kad salivuts\xf6ndring'],
              ['Skin',
               u'Stevens Johnsons syndrom Dermatitis bullous Erythema multiforme Toxisk epidermal nekrolys'],
+<<<<<<< HEAD
              ['General', u'Somnambulis m \xd6dem, generella \xd6dem, lokala']]]],
  '_note': u' ?MSFU',
  '_pages': [5, 7],
  u'_rank': 26,
+=======
+             ['General', u'Somnambulis'],
+             ['General', u'm \xd6dem, generella \xd6dem, lokala']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 7],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

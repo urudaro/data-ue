@@ -34,7 +34,11 @@
              ['Eye', u'synrubbningar'],
              ['Hepato', u'kolestas'],
              ['Skin',
+<<<<<<< HEAD
               u'angio\xf6dem, vesikul\xe4ra utslag (inkl. erythema multiforme), Stevens-Johnsons syndrom och toxisk hudnekrolys'],
+=======
+              u'angio\xf6dem, vesikul\xe4ra utslag (inkl. erythema multiforme), Stevens- Johnsons syndrom och toxisk hudnekrolys'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal',
               u'myopati, myosit, rabdomyolys, senskador, ibland med ruptur som komplikation']]],
            ['Very rare',

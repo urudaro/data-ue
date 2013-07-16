@@ -9,7 +9,11 @@
              ['GI', u'Buksm\xe4rta;  Illam\xe5ende; Kr\xe4kningar; Muntorrhet'],
              ['Musculoskeletal', u'Muskelsvaghet;  Myalgi'],
              ['General',
+<<<<<<< HEAD
               u'Asteni;  Tyngdk\xe4nsla, \xe5tstramningsk\xe4nsla,  sm\xe4rta eller tryck i strupe, hals,  extremiteter eller br\xf6stkorg.']]],
+=======
+              u'Asteni;  Tyngdk\xe4nsla, \xe5tstramningsk\xe4nsla,  sm\xe4rta eller tryck i strupe, hals, extremiteter eller br\xf6stkorg.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon', [['Cardiac', u'Takykardi']]],
            ['Rare',
             [['Immune system',

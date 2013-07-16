@@ -3,6 +3,7 @@
              ['General',
               u'Reaktioner vid injektions-och infusionsst\xe4llet (endast vid intraven\xf6s']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Infections', u'Mykotiska super-infektion'],
              ['Blood', u'Eosinofili'],
              ['Metabolism', u'Anorexi >'],
@@ -13,14 +14,30 @@
              ['Skin', u'Hudutslag Pruritus Urtikaria'],
              ['Musculoskeletal',
               u'Muskulo-skelet al sm\xe4rta (t.ex. sm\xe4rta i extremiteterna, ryggsm\xe4rta, br\xf6stsm\xe4rta) Artralgi'],
+=======
+            [['Infections', u'Mykotiska super-infektioner'],
+             ['Blood', u'Eosinofili'],
+             ['Metabolism', u'Anorexi'],
+             ['Nervous system',
+              u'Huvudv\xe4rk Ostadighet S\xf6mnst\xf6rninga Smak-f\xf6r\xe4ndringar'],
+             ['GI', u'Kr\xe4kning Sm\xe4rta i mag-tarmkanalen och buken Dyspepsi Flatulens'],
+             ['Hepato', u'F\xf6rh\xf6jt transaminas F\xf6rh\xf6jt bilirubin'],
+             ['Skin', u'Hudutslag Pruritus Urtikaria'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Nedsatt njurfunktion'],
              ['General', u'Asteni Feber'],
              ['Investigations', u'F\xf6rh\xf6jning av alkaliska fosfatv\xe4rdet']]],
            ['Rare',
             [['Infections',
+<<<<<<< HEAD
               u'Antibiotika associerad kolit (i mycket s\xe4llsynta fall m\xf6jligen med d\xf6dlig utg\xe5ng)'],
              ['Blood', u'Leukopeni Anemi Neutropeni Leukocytos Trombo-cytope nia Trombocytemi'],
              ['Immune system', u'Allergisk reaktion Allergiskt \xf6dem/angio-\xf6d em'],
+=======
+              u'Antibiotika associerad kolit (i mycket m\xf6jligen med d\xf6dlig utg\xe5ng)'],
+             ['Blood', u'Leukopeni Anemi Neutropeni Leukocytos Trombo-cytopenia Trombocytemi'],
+             ['Immune system', u'Allergisk reaktion Allergiskt \xf6dem/angio-\xf6dem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Hyperglykemi'],
              ['Nervous system',
               u'Par-och dysestesi Hypoestesi Tremor Kramper (inkl. status epileptikus, se avsnitt 4.4) Yrsel'],
@@ -31,23 +48,37 @@
              ['Respiratory', u'Dyspn\xe9 (inklusive astmatiskt tillst\xe5nd)'],
              ['Hepato', u'Nedsatt leverfunktion Kolestatisk ikterus Hepatit'],
              ['Skin', u'Ljusk\xe4nslighets reaktioner (se avsnitt 4.4)'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Myalgi Artrit \xd6kad muskeltonus och kramper'],
              ['Renal',
               u'Njursvikt Hematuri Krystalluri (se avsnitt 4.4) Tubulointer-stit ial nefrit'],
+=======
+             ['Renal',
+              u'Njursvikt Hematuri Krystalluri (se avsnitt 4.4) Tubulointer-stitial nefrit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'\xd6dem Svettning (hyperhidros)'],
              ['Investigations', u'F\xf6rh\xf6jt amylas']]],
            ['Very rare',
             [['Blood',
+<<<<<<< HEAD
               u'Hemolytisk anemi Agranulocytos Pancytopeni (livshotande) Benm\xe4rgs-depress ion (livshotande)'],
              ['Immune system',
               u'Anafylaktisk reaktion Anafylaktisk chock (livshotande) (se avsnitt 4.4) Reaktion liknande serumsjuka'],
              ['Metabolism', u'<'],
              ['Nervous system',
               u'Migr\xe4n F\xf6rs\xe4mrad koordinations-f\xf6r m\xe5ga G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension'],
+=======
+              u'Hemolytisk anemi Agranulocytos Pancytopeni (livshotande) Benm\xe4rgs-depression (livshotande)'],
+             ['Immune system',
+              u'Anafylaktisk reaktion Anafylaktisk chock (livshotande) (se avsnitt 4.4) Reaktion liknande serumsjuka'],
+             ['Nervous system',
+              u'Migr\xe4n F\xf6rs\xe4mrad koordinations-f\xf6rm\xe5ga G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'F\xf6rvr\xe4ngt f\xe4rgseende'],
              ['Vascular', u'Vaskulit'],
              ['GI', u'Pankreatit'],
              ['Hepato',
+<<<<<<< HEAD
               u'Levernekros (i mycket s\xe4llsynta fall \xf6verg\xe5ng till livshotande leversvikt) <'],
              ['Skin',
               u'Petekier Erythema multiforme Erythema nodosum Stevens-Johnson syndrom (kan vara livshotande) Toxisk epidermal nekrolys (kan vara livshotande)'],
@@ -59,10 +90,23 @@
              ['Cardiac',
               u'Ventrikul\xe4r arytmi och torsade de pointes*, EKG QT-f\xf6rl\xe4ngning (se avsnitt 4.4 och 4.9).'],
              ['Hepato', u'(kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data)'],
+=======
+              u'Levernekros (i mycket s\xe4llsynta fall \xf6verg\xe5ng till livshotande leversvikt)'],
+             ['Skin',
+              u'Petekier Erythema multiforme Erythema nodosum Stevens-Johnson syndrom (kan vara livshotande) Toxisk epidermal nekrolys (kan vara livshotande)']]],
+           ['Unknown',
+            [['Nervous system', u'Perifer neuropati (se avsnitt 4.4)'],
+             ['Cardiac',
+              u'Ventrikul\xe4r arytmi och torsade de pointes*, EKG QT-f\xf6rl\xe4ngning (se avsnitt 4.4 och 4.9).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Akut generaliserad exantematiskt pustulos (AGEP)'],
              ['Investigations',
               u'F\xf6rh\xf6jning av INR (International Normalised Ratio) hos patienter som behandlas med Vitamin K antagonist']]]],
  '_note': u' ?MSFU',
  '_pages': [10, 13],
+<<<<<<< HEAD
  u'_rank': 45,
+=======
+ u'_rank': 39,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

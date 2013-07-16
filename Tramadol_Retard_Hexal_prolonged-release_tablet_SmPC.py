@@ -31,6 +31,10 @@
              ['Vascular', u'Rodnad'],
              ['Hepato',
               u'En \xf6kning av leverenzymv\xe4rdena har rapporterats i ett tempor\xe4rt samband med terapeutisk anv\xe4ndning av tramadolhydroklorid.']]]],
+<<<<<<< HEAD
  '_pages': [5, 6],
+=======
+ '_pages': [5, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 21,
  u'_type': u'LSFU'}

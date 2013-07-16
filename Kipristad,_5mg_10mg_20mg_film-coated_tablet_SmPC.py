@@ -11,9 +11,13 @@
              ['Vascular', u'Hypotoni.'],
              ['Respiratory', u'Hosta.'],
              ['GI', u'Illam\xe5ende, kr\xe4kningar, diarr\xe9.'],
+<<<<<<< HEAD
              ['Skin', u'Exantem. Mindre'],
              ['Skin',
               u'Pruritus, urtikaria, pemfigus, exfoliativ dermatit, diafores, alopeci, ljusk\xe4nslighet.'],
+=======
+             ['Skin', u'Exantem.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Huvudv\xe4rk, tr\xf6tthet, br\xf6stsm\xe4rtor.']]],
            ['Uncommon',
             [['Blood', u'Trombocytopeni'],
@@ -21,6 +25,11 @@
              ['Cardiac', u'Palpitationer, angina pectoris, takykardi, vasodilatation.'],
              ['GI',
               u'Dyspepsi, buksm\xe4rtor, anorexi, muntorrhet, flatulens, matsm\xe4ltningsbesv\xe4r.'],
+<<<<<<< HEAD
+=======
+             ['Skin',
+              u'Pruritus, urtikaria, pemfigus, exfoliativ dermatit, diafores, alopeci, ljusk\xe4nslighet.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Asteni.']]],
            ['Rare',
             [['Psychiatric', u'Depression, f\xf6rvirring.'],
@@ -40,6 +49,10 @@
              ['Skin', u'Nedsatt njurfunktion, hyperkalemi.'],
              ['General',
               u'Angio\xf6dem (med svullnad av ansikte, l\xe4ppar, tunga, svalg). Risken f\xf6r angioneurotiskt \xf6dem \xe4r f\xf6rh\xf6jd hos svarta patienter. Agranulocytos har rapporterats i s\xe4llsynta fall, liksom \xe4ven ett syndrom inkluderande feber, serosit, vaskulit, myalgi, artralgi/artrit, positiv ANA, SR-stegring, eosinofili och leukocytos. F\xf6r andra ACE-h\xe4mmare har \xe4ven gynekomasti och vaskulit rapporterats och det kan inte uteslutas att dessa biverkningar \xe4r gruppspecifika. Laboratoriev\xe4rden: \xd6verg\xe5ende f\xf6rh\xf6jda serumkreatinin- och ureav\xe4rden har iakttagits, speciellt vid samtidig diuretikaterapi. L\xe4tt s\xe4nkta v\xe4rden av hemoglobin och hematokrit har rapporterats f\xf6r andra ACE-h\xe4mmare. Det kan inte uteslutas att dessa observationer \xe4r gruppspecifika.']]]],
+<<<<<<< HEAD
  '_pages': [8, 9],
+=======
+ '_pages': [7, 9],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 31,
  u'_type': u'LSFU'}

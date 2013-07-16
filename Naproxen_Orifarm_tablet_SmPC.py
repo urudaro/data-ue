@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['General', u'D\xe5sighet, yrsel, huvudv\xe4rk, t\xf6rst och svettningar'],
              ['Vascular', u'V\xe4tskeretention, palpitationer, \xf6dem'],
@@ -7,6 +8,9 @@
              ['Eye', u'Synst\xf6rningar'],
              ['Ear', u'\xd6ronsusningar']]],
            ['Uncommon',
+=======
+{'_data': [['Uncommon',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
             [['General', u'H\xe5ravfall, feber.'],
              ['GI', u'Gastrointestinal bl\xf6dning, mags\xe5r, ulcerativ stomatit'],
              ['Skin', u'Urtikaria, fotosensitivitet inklusive pseudoporfyri'],
@@ -32,5 +36,9 @@
               u'Kognitiva st\xf6rningar, depression, mardr\xf6mmar, l\xe4tt oro, myalgi'],
              ['Reproductive system', u'Hematuri']]]],
  '_pages': [6, 7],
+<<<<<<< HEAD
  u'_rank': 25,
+=======
+ u'_rank': 19,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LFSUR'}

@@ -1,5 +1,10 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Respiratory', u'Epistaxis'],
+=======
+            [['Vascular', u'Hematom'],
+             ['Respiratory', u'Epistaxis'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Gastrointestinal bl\xf6dning, diarr\xe9, buksm\xe4rta, dyspepsi'],
              ['Skin', u'Bl\xe5m\xe4rken'],
              ['General', u'Bl\xf6dning vid punktionsst\xe4llet']]],
@@ -14,7 +19,14 @@
              ['Renal', u'Hematuri'],
              ['Investigations',
               u'\xd6kad bl\xf6dningstid, minskning av neutrofiler, minskning av blodpl\xe4ttar']]],
+<<<<<<< HEAD
            ['Rare', [['Blood', u'inklusive allvarlig'], ['GI', u'Retroperitoneal bl\xf6dning']]],
+=======
+           ['Rare',
+            [['Blood', u'Neutropeni, inklusive allvarlig neutropeni'],
+             ['Ear', u'Vertigo'],
+             ['GI', u'Retroperitoneal bl\xf6dning']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Blood',
               u'Trombotisk Trombocytopen Purpura (TTP) (se avsnitt 4.4), aplastisk anemi, pancytopeni, agranulocytos, allvarlig trombocytopeni, granulocytopeni, anemi.'],
@@ -27,7 +39,11 @@
               u'Bl\xf6dning i luftv\xe4garna (blodiga upphostningar, bl\xf6dning i lungan), bronkospasm, interstitiell pneumonit'],
              ['GI',
               u'Gastrointestinal och retroperitoneal bl\xf6dning med d\xf6dlig utg\xe5ng, pankreatit, kolit (inklusive ulcer\xf6s eller lymfocyt\xe4r kolit), stomatit'],
+<<<<<<< HEAD
              ['Hepato', u'Akut leversvikt, hepatit, onormala leverfunktions-v\xe4rde n'],
+=======
+             ['Hepato', u'Akut leversvikt, hepatit, onormala leverfunktions-v\xe4rden'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Bull\xf6s dermatit (toxisk epidermal nekrolys, Stevens Johnsons syndrom, erythema multiforme) angio\xf6dem, erytemat\xf6sa utslag, urtikaria, eksem, lichen planus'],
              ['Musculoskeletal',
@@ -36,5 +52,9 @@
              ['General', u'Feber']]]],
  '_note': u' ?MSFU',
  '_pages': [5, 7],
+<<<<<<< HEAD
  u'_rank': 25,
+=======
+ u'_rank': 27,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

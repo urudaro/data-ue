@@ -7,10 +7,19 @@
            ['Rare',
             [['General',
               u' symtom   och/eller symtom vid   >  administreringsst\xe4llet  Allergiska reaktioner, i  -allvarligaste fall anafylaktisk chock. -'],
+<<<<<<< HEAD
              ['Nervous system',
               u'-Neuropati, perifera nervskador, araknoidit. --\xd6gon: Dubbelseende. -'],
              ['Cardiac', u' Hj\xe4rtstillest\xe5nd, hj\xe4rtarytmier -'],
              ['Respiratory', u'Andningsdepression -']]]],
  '_pages': [2, 3],
  u'_rank': 9,
+=======
+             ['Nervous system', u' Neuropati,  perifera nervskador, araknoidit. -'],
+             ['Eye', u' Dubbelseende. -'],
+             ['Cardiac', u' Hj\xe4rtstillest\xe5nd, hj\xe4rtarytmier -'],
+             ['Respiratory', u'Andningsdepression -']]]],
+ '_pages': [2, 3],
+ u'_rank': 10,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'DFSU'}

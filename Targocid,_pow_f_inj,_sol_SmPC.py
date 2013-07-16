@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common', []],
            ['Common',
             [['Skin', u'Erytem (hud-rodnad ), hudutslag, kl\xe5da'],
@@ -16,17 +17,43 @@
              ['General', u'Stelhet'],
              ['Investigations',
               u'\xd6verg\xe5ende f\xf6rh\xf6jning av transaminaser, alkaliska fosfataser och serumkreatinin']]],
+=======
+{'_data': [['Common', [['Skin', u'Erytem (hud-rodnad), hudutslag, kl\xe5da']]],
+           ['Uncommon',
+            [['Blood', u'Eosinofili, trombocyto-peni, trombocytos, leukopeni'],
+             ['Immune system', u'Anafylaktisk reaktion (anafylaxi)'],
+             ['Nervous system', u'Yrsel, huvudv\xe4rk'],
+             ['Ear',
+              u'D\xf6vhet (l\xe4tt h\xf6rselneds\xe4tt-ning), tinnitus, vestibul\xe4r st\xf6rning'],
+             ['Vascular', u'Flebit'],
+             ['Respiratory', u'Bronkospasm'],
+             ['GI', u'Illam\xe5ende, kr\xe4kningar, diarr\xe9']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare', [['Infections', u'Abscess']]],
            ['Very rare', []],
            ['Unknown',
             [['Infections',
+<<<<<<< HEAD
               u'Abscess vid injektions-st\xe4llet , superinfektion (\xf6verv\xe4xt av icke k\xe4nsliga organismer)'],
+=======
+              u'Abscess vid injektions-st\xe4llet, superinfektion (\xf6verv\xe4xt av icke k\xe4nsliga organismer)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'Agranulocytos, neutropeni'],
              ['Immune system', u'Anafylaktisk chock'],
              ['Nervous system', u'Kramper vid intraventrikul\xe4r anv\xe4ndning'],
              ['Vascular', u'Tromboflebit'],
              ['Skin',
+<<<<<<< HEAD
               u'Urtikaria, angio\xf6dem, exfoliativ dermatit, toxisk epidermal nekrolys, erythema multiforme, Stevens-Johnso ns syndrom'],
+=======
+              u'Urtikaria, angio\xf6dem, exfoliativ dermatit, toxisk epidermal nekrolys, erythema multiforme, Stevens-Johnsons'],
+             ['Renal', u'Akut njursvikt'],
+             ['General', u'Sm\xe4rta vid injections-st\xe4llet, feber'],
+             ['Investigations', u'* erfarenhet efter marknadsf\xf6ring.'],
+             ['General', u'Stelhet'],
+             ['Investigations',
+              u'\xd6verg\xe5ende f\xf6rh\xf6jning av transaminaser, alkaliska fosfataser och serumkreatinin'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Njursvikt'],
              ['General', u'Frossa (stelhet)']]]],
  '_note': u' ?MSFU',

@@ -9,7 +9,11 @@
              ['Musculoskeletal',
               u'Tyngdk\xe4nsla (vanligtvis \xf6verg\xe5ende och kan vara intensiv och p\xe5verka andra kroppsdelar t ex br\xf6st- och halsomr\xe5det). Myalgi.'],
              ['General',
+<<<<<<< HEAD
               u'Sm\xe4rta, v\xe4rme- eller k\xf6ldf\xf6rnimmelser, tryck- eller \xe5tstramningsk\xe4nsla (dessa symtom \xe4r vanligtvis \xf6verg\xe5ende och kan vara intensiva och kan p\xe5verka andra kroppsdelar t ex br\xf6st- och halsomr\xe5det). K\xe4nsla av svaghet, utmattning (b\xe5da \xe4r ofta svaga till m\xe5ttliga i intensitet och \xf6verg\xe5ende).']]],
+=======
+              u'Sm\xe4rta, v\xe4rme- eller k\xf6ldf\xf6rnimmelser, tryck- eller \xe5tstramningsk\xe4nsla (dessa symtom \xe4r vanligtvis \xf6verg\xe5ende och kan vara intensiva och kan p\xe5verka andra kroppsdelar t ex br\xf6st- och halsomr\xe5det). K\xe4nsla av svaghet, utamattning (b\xe5da \xe4r ofta svaga till m\xe5ttliga i intensitet och \xf6verg\xe5ende).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['General',
               u'Somnoles (vanligtvis svaga till m\xe5ttliga i intensitet och \xf6verg\xe5ende).']]],
@@ -24,7 +28,11 @@
              ['Eye',
               u'Flimmer, dubbelseende och f\xf6rs\xe4mrad syn. Synbortfall inklusive rapporter om permanent synneds\xe4ttning. Emellertid kan sj\xe4lva migr\xe4nattacken ge upphov till synrubbningar.'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Bradykardi, takykardi, hj\xe4rtklappning, hj\xe4rtarrytmier, \xf6verg\xe5ende ischemiska EKG-f\xf6r\xe4ndringar, spasmangina, k\xe4rlkramp, hj\xe4rtinfarkt (se avsnitt 4.3 och 4.4).'],
+=======
+              u'Bradykardi, takykardi, hj\xe4rtklappning, hj\xe4rtarrytmier, \xf6verg\xe5ende ischemiska EKG- f\xf6r\xe4ndringar, spasmangina, k\xe4rlkramp, hj\xe4rtinfarkt (se avsnitt 4.3 och 4.4).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypotension, Raynauds sjukdom.'],
              ['GI', u'Ischemisk kolit, diarr\xe9.'],
              ['Musculoskeletal', u'Stelhet i nacken, ledv\xe4rk.'],

@@ -30,14 +30,23 @@
              ['Immune system', u'Lupusliknande syndrom'],
              ['Hepato', u'Leverdysfunktion, gulsot'],
              ['Reproductive system', u'Minskad libido, nedsatt spermieproduktion'],
+<<<<<<< HEAD
              ['Psychiatric', u'\xc5ngest, depression Depression, \xe5ngest']]],
+=======
+             ['Psychiatric',
+              u'\xc5ngest, depression Depression, \xe5ngest *Ett f\xe5tal fall av maligna tum\xf6rer i br\xf6sten hos m\xe4n som behandlats med flutamid tabletter har rapporterats. I ett fall s\xe5gs f\xf6rv\xe4rrande av en befintlig kn\xf6l vilken hade uppt\xe4ckts 3 till 4 m\xe5nader innan flutamid monoterpi inleddes hos en patient med benign prostatahypertofi. Efter excision diagnosticerades kn\xf6len som ett mindre differentierat duktalkarcinom. Den andra rapporten r\xf6rde gymekomasti och en kn\xf6l som observerades 2 respektive 6 m\xe5nader efter start av monoterpi med flutamid f\xf6r behandling av avancerat prostatakarcinom. Nio m\xe5nader efter terapistart opererades kn\xf6len bort och diagnosticerades som ett m\xe5ttligt differentierat invasivt duktalkarcinom, stadium T4N0M0, G3. Mikronodul\xe4ra f\xf6r\xe4ndringar i br\xf6stkroppen kan f\xf6rekomma i s\xe4llsynta fall. En \xf6kning av serumtestosteron \xe4r m\xf6jlig initialt vid monoterpi med flutamid. Dessutom kan v\xe4rmevallningar och f\xf6r\xe4ndringar av h\xe5rets karakt\xe4r f\xf6rekomma. Efter lanseringen av flutamid har fall av akut njursvikt, interstitiell nefrit och hj\xe4rtmuskelischemi rapporterats, men utan k\xe4nd frekvens.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Blood',
               u'Hemolytisk anemi, megalocyt\xe4r anemi, methemoglobinemi, sulfhemoglobinemi'],
              ['Respiratory', u'Lungsymtom (t.ex. dyspn\xe9), interstitiell lungsjukdom'],
              ['Renal', u'M\xf6rkgul eller gr\xf6naktig missf\xe4rgning av urinen'],
              ['Skin',
+<<<<<<< HEAD
               u'Fotosensibilitetsreaktione Fotosensibilitetsreaktioner, rerytem, s\xe5r, epidermal nekrolys'],
+=======
+              u'Fotosensibilitetsreaktioner Fotosensibilitetsreaktioner, erytem, s\xe5r, epidermal nekrolys'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism',
               u'Hyperglykemi, f\xf6rv\xe4rrande av diabetes mellitus Infektioner and infestationer'],
              ['Neoplasms', u'Neoplasm i br\xf6sten hos m\xe4n*'],

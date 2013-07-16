@@ -22,7 +22,11 @@
              ['Nervous system', u'S\xf6mnst\xf6rningar (inklusive insomni och mardr\xf6mmar)'],
              ['Respiratory', u'Hosta Dyspn\xe9'],
              ['GI', u'Diarr\xe9'],
+<<<<<<< HEAD
              ['Skin', u'Stevens-Johnson s syndrom'],
+=======
+             ['Skin', u'Stevens-Johnsons syndrom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Immunmedierad nekrotiserande myopati'],
              ['General', u'\xd6dem']]]],
  '_note': u' ?MSFU',

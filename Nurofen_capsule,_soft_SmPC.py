@@ -37,6 +37,10 @@
               u'Kraftiga \xf6verk\xe4nslighetsreaktioner. Symtomen kan vara ansikts\xf6dem, svullnad av tunga, svullnad i svalget med obstruktion av luftv\xe4garna, dyspn\xe9, takykardi, blodtrycksfall som kan leda livshotande chock.'],
              ['Hepato',
               u'Nedsatt leverfunktion, leverskada, speciellt vid l\xe5ngtidsbehandling, leversvikt, akut hepatit, ikterus.']]]],
+<<<<<<< HEAD
  '_pages': [7, 9],
+=======
+ '_pages': [7, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 23,
  u'_type': u'LSFU'}

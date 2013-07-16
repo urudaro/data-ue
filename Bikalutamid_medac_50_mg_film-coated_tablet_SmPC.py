@@ -1,4 +1,5 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Blood', u'Anemi'],
              ['Nervous system', u'Yrsel'],
              ['Vascular', u'Blodvallningar'],
@@ -9,6 +10,15 @@
            ['Common',
             [['Metabolism', u'Minskad aptit'],
              ['Psychiatric', u'Minskad libido, depression'],
+=======
+            [['Vascular', u'Blodvallningar'],
+             ['GI', u'Buksm\xe4rtor, f\xf6rstoppning,  illam\xe5ende'],
+             ['Renal', u'Hematuri'],
+             ['Reproductive system', u'Gynekomasti och \xf6mmande'],
+             ['General', u'Asteni, \xf6dem  (+ LHRH-analog)']]],
+           ['Common',
+            [['Psychiatric', u'Minskad libido, depression'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Hj\xe4rtinfarkt (fall med  d\xf6dlig utg\xe5ng har'],
              ['Nervous system', u'Somnolens'],
              ['GI', u'Dyspepsi, flatulens'],
@@ -18,8 +28,14 @@
              ['Investigations', u'Vikt\xf6kning']]],
            ['Uncommon',
             [['Immune system', u'\xd6verk\xe4nslighet, angio\xf6dem  och urtikaria'],
+<<<<<<< HEAD
              ['Respiratory',
               u'Interstitiell lungsjukdom  (fall med d\xf6dlig utg\xe5ng har  rapporterats)']]]],
  '_pages': [3, 4],
  u'_rank': 18,
+=======
+             ['Respiratory', u'Interstitiell lungsjukdom']]]],
+ '_pages': [3, 4],
+ u'_rank': 15,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

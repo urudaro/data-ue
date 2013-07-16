@@ -4,6 +4,7 @@
              ['GI', u'Hud och subkutan v\xe4vnad svettning mindre'],
              ['GI',
               u'Muskuloskeletala systemet och bindv\xe4v benbrott vanlig vanlig vanlig vanlig vanlig artralgi vanlig vanlig vanlig ryggv\xe4rk vanlig Njurar och urinv\xe4gar hematuri vanlig glykosuri mindre'],
+<<<<<<< HEAD
              ['GI',
               u'proteinuri mindre Biverkningsfrekvens av pioglitazon efter behandlingsterapi Biverkning Monoterapi kombination med med med metformin metformin sulfonylurea och med insulin sulfonylurea'],
              ['GI', u'Reproduktions-or gan och br\xf6stk\xf6rtel erektil dysfunktion vanlig'],
@@ -15,6 +16,19 @@
              ['Respiratory', u'br\xf6stkorg och mediastinum dyspn\xe9 vanlig'],
              ['GI', u'v\xe4dersp\xe4nning mindre vanlig'],
              ['General', u'och/eller symtom vid administrer-ingsst \xe4llet \xf6dem mycket']]]],
+=======
+             ['GI', u'proteinuri mindre'],
+             ['GI',
+              u'Reproduktions Biverkningsfrekvens av pioglitazon efter behandlingsterapi kombination Biverkning med Monoterapi med med metformin metformin sulfonylurea och med insulin sulfonylurea organ och br\xf6stk\xf6rtel erektil dysfunktion vanlig'],
+             ['General', u'tr\xf6tthet mindre']]],
+           ['Unknown',
+            [['Blood',
+              u'met anemi vanlig Metabolism och nutrition hypoglykemi mindre mycket vanlig van van lig lig \xf6kad aptit mindre van lig Centrala och perifera nervsyste met hypestesi vanlig vanlig vanlig vanlig vanlig huvudv\xe4rk vanlig mindre van Biverkningsfrekvens av pioglitazon efter behandlingsterapi kombination Biverkning med Monoterapi med med metformin metformin sulfonylurea och med insulin sulfonylurea lig yrsel vanlig s\xf6mnl\xf6shet mindre mindre mindre mindre mindre vanlig van van van van lig lig lig lig'],
+             ['Eye', u'synrubbningar vanlig vanlig mindre'],
+             ['Respiratory', u'br\xf6stkorg och mediastinum dyspn\xe9 vanlig'],
+             ['GI', u'v\xe4dersp\xe4nning mindre vanlig'],
+             ['General', u'och/eller symtom vid administrer ingsst\xe4llet \xf6dem mycket']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [7, 10],
  u'_rank': 11,
  u'_type': u'LSFU'}

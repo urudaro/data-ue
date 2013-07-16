@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Skin', u'Hudutslag, vanligen makulopapul\xe4ra.'],
              ['Nervous system', u'Huvudv\xe4rk, yrsel'],
@@ -20,13 +21,31 @@
              ['Blood',
               u'Hematologiska avvikelser s\xe5som neutropeni,  leukopeni, anemi, trombocytopeni,  pancytopeni, aplastisk anemi och agranulocytos.'],
              ['Immune system',
+=======
+{'_data': [['Very common', [['Eye', u'Dubbelseende, dimsyn.']]],
+           ['Common',
+            [['Psychiatric', u'Irritabilitet'],
+             ['GI', u'Illam\xe5ende, kr\xe4kningar, diarr\xe9.'],
+             ['General', u'Asteni'],
+             ['General', u'V\xe4rk, ryggv\xe4rk']]],
+           ['Uncommon', [['Psychiatric', u'Aggressivitet']]],
+           ['Rare', [['Eye', u'Konjunktivit']]],
+           ['Very rare',
+            [['Immune system',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'\xd6verk\xe4nslighetssyndrom (inkluderande  symtom som feber, lymfadenopati, ansikts\xf6dem, angio\xf6dem, blod- och leverbiverkningar, se \xe4ven 4.4 Varningar och f\xf6rsiktighetsm\xe5tt).'],
              ['Psychiatric', u'Tics, hallucinationer, f\xf6rvirring.'],
              ['Nervous system',
               u'Agitation, ostadighet, motorikst\xf6rningar,  f\xf6rs\xe4mring i Parkinsons sjukdom, extrapyrimidala biverkningar, koreoatetos, \xf6kad anfallsfrekvens.'],
              ['Hepato',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jda leverfunktionsv\xe4rden,  leverdysfunktion inklusive leversvikt.'],
              ['Musculoskeletal', u'Lupusliknande reaktioner.']]]],
  '_pages': [9, 11],
  u'_rank': 21,
+=======
+              u'F\xf6rh\xf6jda leverfunktionsv\xe4rden,  leverdysfunktion inklusive leversvikt.']]]],
+ '_pages': [9, 11],
+ u'_rank': 11,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

@@ -14,7 +14,14 @@
              ['Skin', u'Hudutslag, h\xe5ravfall'],
              ['Musculoskeletal', u'Osteoporos, frakturer'],
              ['General', u'Sm\xe4rta, perifert \xf6dem']]],
+<<<<<<< HEAD
            ['Uncommon', [['Nervous system', u'S\xf6mnighet'], ['General', u'Asteni']]],
+=======
+           ['Uncommon',
+            [['Nervous system', u'S\xf6mnighet'],
+             ['General',
+              u'Asteni * Inkluderar: ledv\xe4rk, och sporadisk v\xe4rk i extremitet, osteoartrit, ryggv\xe4rk, artrit, myalgi och stelhet i leder.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Blood',
               u'fall. En tillf\xe4llig minskning av lymfocyter har observerats hos ungef\xe4r 20% av de patienter, som f\xe5tt Aromasin, s\xe4rskilt hos patienter med tidigare lymfopeni. Medelv\xe4rdet av antalet lymfocyter hos dessa patienter f\xf6r\xe4ndrades emellertid inte signifikant \xf6ver tiden och ingen motsvarande \xf6kning av virusinfektioner observerades. Denna effekt har inte observerats i studier hos patienter behandlade f\xf6r tidig br\xf6stcancer.']]],
@@ -22,7 +29,11 @@
             [['Blood',
               u'Hos patienter med avancerad br\xf6stcencer har trombocytopeni och leukopeni har rapporterats i'],
              ['Hepato',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jning av leverfunktionsv\xe4rden inklusive enzymer, bilirubin och alkaliskt fosfatas har observerats.'],
+=======
+              u'F\xf6rh\xf6jning av leverfunktionsv\xe4rden inklusive enzymer, bilirubin och alkaliskt fosfatas har observerats. Tabellen nedan visar frekvensen av i f\xf6rv\xe4g specificerade biverkningar och sjukdomar i studien p\xe5 tidig br\xf6stcancer (IES), oberoende av samband, rapporterade hos patienter under behandling i studien och upp till 30 dagar efter avslutad behandling.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato',
               u'Eftersom biverkningar rapporteras frivilligt fr\xe5n en population av ok\xe4nd storlek, \xe4r det inte alltid m\xf6jligt att p\xe5 ett tillf\xf6rlitligt s\xe4tt uppskatta frekvens eller att s\xe4kerst\xe4lla ett kausalt samband till exponering av l\xe4kemedel.']]]],
  '_pages': [3, 5],

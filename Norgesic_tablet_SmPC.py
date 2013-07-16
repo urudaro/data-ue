@@ -10,7 +10,11 @@
            ['Very rare',
             [['Psychiatric', u'Hallucinationer, f\xf6rvirring'],
              ['Nervous system', u'Tremor'],
+<<<<<<< HEAD
              ['Eye', u'Ackommodations-rub bningar'],
+=======
+             ['Eye', u'Ackommodations-rubbningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Hj\xe4rtklappning'],
              ['GI', u'F\xf6rstoppning'],
              ['Renal', u'Urinretention']]]],

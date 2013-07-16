@@ -4,7 +4,12 @@
              ['Metabolism', u'aptitil\xf6shet'],
              ['General',
               u'feber > 38.0\xb0C sm\xe4rta, rodnad och svullnad p\xe5 injektionsst\xe4llet*,'],
+<<<<<<< HEAD
              ['Psychiatric', u'otr\xf6stlig gr\xe5t, irritabilitet, rastl\xf6shet']]],
+=======
+             ['Psychiatric',
+              u'otr\xf6stlig gr\xe5t, irritabilitet, rastl\xf6shet *Information om omfattande svullnad av den injicerade extremiteten (definierat som svullnad med en diameter >50 mm, m\xe4rkbar diffus svullnad eller m\xe4rkbar \xf6kning av extremitetens omf\xe5ng) som intr\xe4ffade efter vaccination med Infanrix Polio efterfr\xe5gades aktivt i tv\xe5 kliniska pr\xf6vningar. N\xe4r Infanrix Polio administrerades som antingen en fj\xe4rde dos eller en femte dos av DTPa till barn i \xe5ldern 4-6 \xe5r rapporterades omfattande svullnad p\xe5 injektionsst\xe4llet med en incidens av 13% respektive 25%. De vanligaste reaktionerna var stora lokala svullnader (diameter >50 mm) som intr\xe4ffade vid injektionsst\xe4llet. En mindre andel av barnen (3% respektive 6%) fick diffus svullnad av den injicerade extremiteten, ibland \xe4ven innefattande n\xe4rliggande led. Vanligtvis intr\xe4ffade dessa reaktioner inom 48 timmar efter vaccination och f\xf6rsvann spontant inom i genomsnitt 4 dagar utan sviter. \u2022Biverkningar rapporterade efter godk\xe4nnande f\xf6r f\xf6rs\xe4ljning']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['GI', u'diarr\xe9, kr\xe4kning, illam\xe5ende'],
              ['General',

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['Nervous system', u'Huvudv\xe4rk'], ['GI', u'F\xf6rstoppning']]],
            ['Common',
             [['Psychiatric', u'S\xf6mnl\xf6shet'],
@@ -9,5 +10,20 @@
              ['Cardiac', u'QT-f\xf6rl\xe4ngning'],
              ['Skin', u'Hudutslag']]]],
  '_pages': [3, 4],
+=======
+{'_data': [['Very common',
+            [['Nervous system', u'Huvudv\xe4rk'], ['GI', u'Illam\xe5ende, f\xf6rstoppning']]],
+           ['Common',
+            [['GI', u'Minskad aptit, diarr\xe9, kr\xe4kningar, buksm\xe4rta'],
+             ['Skin', u'Asteni, sm\xe4rta, feber']]],
+           ['Very rare',
+            [['Psychiatric', u', inklusive enstaka rapporter) Anorexi'],
+             ['Nervous system', u'Koma, extrapyramidala st\xf6rningar rapporter)'],
+             ['Skin',
+              u'Utslag rapporter) Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+             ['Skin', u'Anafylaxi, svimningsanfall, kramper rapporter)']]],
+           ['Unknown', [['Hepato', u'Onormal leverfunktion, f\xf6rh\xf6jda transaminaser']]]],
+ '_pages': [3, 3],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 9,
  u'_type': u'LSFU'}

@@ -12,6 +12,10 @@
               u' Trombocytopeni, hemolys vid \xe4rftlig glukos-6-fosfat-  dehydrogenasbrist.  '],
              ['GI', u' Sv\xe5r gastrointestinal bl\xf6dning. '],
              ['Hepato', u' Transaminasstegring. ']]]],
+<<<<<<< HEAD
  '_pages': [3, 4],
+=======
+ '_pages': [3, 3],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 9,
  u'_type': u'DFSU'}

@@ -28,7 +28,11 @@
            ['Very rare',
             [['Eye', u'Konjunktivit.'],
              ['Skin',
+<<<<<<< HEAD
               u'Betablockerare kan provocera eller f\xf6rv\xe4rra psoriasis eller inducera psoriasis-liknande utslag, alopeci.']]]],
+=======
+              u'Betablockerare kan provocera eller f\xf6rv\xe4rra psoriasis eller inducera psoriasis- liknande utslag, alopeci.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [5, 6],
  u'_rank': 22,
  u'_type': u'LSFU'}

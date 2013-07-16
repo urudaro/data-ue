@@ -5,7 +5,12 @@
             [['GI',
               u'anorexi, illam\xe5ende, kr\xe4kningar, buksm\xe4rta, l\xf6s avf\xf6ring eller diarr\xe9 Njurar och Oliguri, Utf\xe4llning av urinv\xe4gar \xf6kning av ceftriaxon i serumkreatin njurarna hos in pediatriska patienter, oftast hos barn \xe4ldre \xe4n 3 \xe5r Infektioner och Svampinfekt infestationer ioner i genitalierna Superinfekti oner med resistenta mikroorgani smer Allm\xe4nna Flebit efter symtom intraven\xf6s och/eller administrering, symtom vid kan minimeras administreringsst genom l\xe5ngsam \xe4llet injektion (under 2-4 minuter) Sm\xe4rta vid injektionsst\xe4llet Sm\xe4rta och f\xf6rh\xe5rdnad i v\xe4vnaden vid st\xe4llet f\xf6r intramuskul\xe4r injektion kan f\xf6rekomma'],
              ['Immune system',
+<<<<<<< HEAD
               u'Stevens-Johnso n syndrom eller Erythema multiforme (f\xf6r n\xf6d\xe5tg\xe4rder se avsnitt 4.4) Lever och Utf\xe4llning F\xf6rh\xf6jda Pankreatit gallv\xe4gar av leverenzymer i ceftriaxon-k serum (ASAT, alcium i ALAT, alkaliskt gallbl\xe5san fosfatas) hos barn Denna sjukdom \xe4r']]]],
  '_pages': [6, 9],
+=======
+              u'Stevens- Johnson syndrom eller Erythema multiforme (f\xf6r n\xf6d\xe5tg\xe4rder se avsnitt 4.4) Lever och Utf\xe4llning F\xf6rh\xf6jda Pankreatit gallv\xe4gar av leverenzymer i ceftriaxon- serum (ASAT, kalcium i ALAT, alkaliskt gallbl\xe5san fosfatas) hos barn Denna sjukdom \xe4r']]]],
+ '_pages': [6, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 3,
  u'_type': u'LSFU'}

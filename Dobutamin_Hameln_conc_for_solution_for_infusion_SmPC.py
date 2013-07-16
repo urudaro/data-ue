@@ -22,15 +22,23 @@
            ['Very rare',
             [['Metabolism', u'Hypokalemi.'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Bradykardi, myokardischemi, myokardinfarkt, hj\xe4rtstillest\xe5nd.'],
+=======
+              u'Bradykardi, myokardischemi, myokardinfarkt, hj\xe4rtstillest\xe5nd. : S\xe4nkt pulmon\xe4rkapillartryck. Barn: utpr\xe4glad \xf6kning av hj\xe4rtfrekvensen och/eller blodtrycket s\xe5v\xe4l som en mindre minskning av pulmonaliskapill\xe4rtrycket j\xe4mf\xf6rt med vuxna. \xd6kat pulmonaliskapill\xe4rtryck hos barn under ett \xe5r. Dobutaminstressekokardiografi Hj\xe4rta och blodk\xe4rl'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'F\xf6rekomst av ett andra gradens atrioventrikul\xe4rt block, koronarvasospasmer. Hypertonisk/hypotonisk blodtrycksdekompensation, f\xf6rekomst av intrakavit\xe4ra tryckgradienter, hj\xe4rtklappningar.'],
              ['Skin', u'Petekial bl\xf6dning.'],
              ['General',
               u'hudnekros. \xd6vriga biverkningar Rastl\xf6shet, illam\xe5ende, huvudv\xe4rk, parestesi, tremor, urineringsn\xf6d, k\xe4nsla av hetta och \xe5ngest, myokloniska spasmer.']]],
+<<<<<<< HEAD
            ['Unknown',
             [['Nervous system',
               u'S\xe4nkt pulmon\xe4rkapillartryck. Barn: utpr\xe4glad \xf6kning av hj\xe4rtfrekvensen och/eller blodtrycket s\xe5v\xe4l som en mindre minskning av pulmonaliskapill\xe4rtrycket j\xe4mf\xf6rt med vuxna. \xd6kat pulmonaliskapill\xe4rtryck hos barn under ett \xe5r. Dobutaminstressekokardiografi Hj\xe4rta och blodk\xe4rl']]]],
+=======
+           ['Unknown', [['Nervous system', u'Stresskardiomyopati']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [6, 7],
  u'_rank': 20,
  u'_type': u'LSFU'}

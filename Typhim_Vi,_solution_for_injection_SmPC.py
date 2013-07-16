@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['General',
               u'a: Sm\xe4rta vid injektionsst\xe4llet, f\xf6rh\xe5rdnad vid injektionsst\xe4llet, erytem vid injektionsst\xe4llet.']]],
            ['Common', [['General', u'feber']]],
+=======
+{'_data': [['Common', [['General', u'feber']]],
+           ['Very rare',
+            [['General',
+              u'Sm\xe4rta vid injektionsst\xe4llet, f\xf6rh\xe5rdnad vid injektionsst\xe4llet, erytem vid injektionsst\xe4llet.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Immune system', u'Anafylaktoida reaktioner, serumsjuka, chock'],
              ['Nervous system', u'Huvudv\xe4rk \u2212Yrsel'],

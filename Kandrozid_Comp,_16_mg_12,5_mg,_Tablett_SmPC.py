@@ -4,6 +4,10 @@
               u'Hyperglykemi, hyperurikemi,  elektrolytrubbningar (inklusive hyponatremi och hypokalemi)'],
              ['Nervous system', u'Yrsel'],
              ['Renal', u'Glykosuri'],
+<<<<<<< HEAD
+=======
+             ['General', u'Kraftl\xf6shet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'\xd6kning av kolesterol och  triglycerider']]],
            ['Uncommon',
             [['Vascular', u'Postural hypotension'],
@@ -27,6 +31,10 @@
               u'Toxisk epidermal nekrolys,  kutana lupus-erythematosus-lika reaktioner, reaktivering av kutan lupus-erythematosus'],
              ['Musculoskeletal', u'Muskelspasmer'],
              ['Renal', u'Nedsatt njurfunktion och  interstitiell nefrit'],
+<<<<<<< HEAD
+=======
+             ['General', u'Feber'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'\xd6kning av BUN och  serumkreatinin']]],
            ['Very rare',
             [['Blood', u'Leukopeni, neutropeni och  agranulocytos'],
@@ -41,5 +49,9 @@
              ['Renal',
               u'Nedsatt njurfunktion, inklusive  njursvikt hos predisponerade patienter (se avsnitt 4.4)']]]],
  '_pages': [7, 9],
+<<<<<<< HEAD
  u'_rank': 31,
+=======
+ u'_rank': 33,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

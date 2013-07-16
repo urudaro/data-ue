@@ -1,5 +1,6 @@
 {'_data': [['Common', [['GI', u'Muntorrhet.']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Psychiatric', u'Oro (av efedrin, vid h\xf6g dosering).'],
              ['Nervous system', u'Tremor (av efedrin, vid h\xf6g dosering).'],
              ['Eye',
@@ -12,6 +13,20 @@
              ['Renal',
               u'Urinretention. Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
              ['Renal', u'Yrsel, huvudv\xe4rk, svettning.']]],
+=======
+            [['Cardiac', u'Palpitation (av efedrin, vid h\xf6g dosering).'],
+             ['Nervous system', u'Tremor (av efedrin, vid h\xf6g dosering.'],
+             ['Eye',
+              u'Minskat t\xe5rfl\xf6de, ackomodationsrubbningar. Flimmerskoton (av koffein, vid h\xf6g dosering).'],
+             ['Ear', u'Tinnitus.'],
+             ['GI',
+              u'Illam\xe5ende, kr\xe4kning (av efedrin, vid h\xf6g dosering), obstipation. T\xf6rst (av efedrin, vid h\xf6g dosering).'],
+             ['Renal', u'Urinretention.'],
+             ['Musculoskeletal',
+              u'Muskelsvaghet (av efedrin, vid h\xf6g dosering). Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+             ['Musculoskeletal', u'Yrsel, huvudv\xe4rk, svettning.'],
+             ['Psychiatric', u'Oro (av efedrin, vid h\xf6g dosering).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Cardiac',
               u'QT f\xf6rl\xe4ngning, Torsade de Pointes, hj\xe4rtstillest\xe5nd, ventrikul\xe4ra arytmier (ventrikelflimmer, ventrikeltakykardi).'],

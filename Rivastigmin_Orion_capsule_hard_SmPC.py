@@ -17,7 +17,12 @@
              ['Skin', u'\xd6kad svettning'],
              ['Skin', u'Tr\xf6tthet och asteni'],
              ['Skin', u'Olustk\xe4nsla'],
+<<<<<<< HEAD
              ['Investigations', u'Viktnedg\xe5ng'],
+=======
+             ['Investigations',
+              u'Viktnedg\xe5ng Tabell 2 visar biverkningar rapporterade vid rivastigminbehandling av patienter med demens vid Parkinsons sjukdom.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'S\xf6mnl\xf6shet'],
              ['Psychiatric', u'Oro'],
              ['Psychiatric', u'Rastl\xf6shet'],
@@ -38,7 +43,11 @@
               u'Dehydrering Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
              ['Metabolism', u'Tr\xf6tthet och asteni'],
              ['Metabolism',
+<<<<<<< HEAD
               u'Onormal g\xe5ng I tabell 3 listas antal och procent patienter som fick f\xf6rdefinierade biverkningar som kan tyda p\xe5 f\xf6rs\xe4mrad Parkinsons sjukdom i en specifik 24-veckors klinisk studie av rivastigminbehandling hos patienter med demens vid Parkinsons sjukdom.']]],
+=======
+              u'Onormal g\xe5ng I tabell 3 listas antal och procent patienter som fick f\xf6rdefinierade biverkningar som kan tyda p\xe5 f\xf6rs\xe4mrad Parkinsons sjukdom i en specifik 24-veckors klinisk studie av rivastigminbehandling hos patienter med demens vid Parkinsons sjukdom. Tabell 3 F\xf6rdefinierade biverkningar som kan rivastigmin (originalprodukt) n Placebo tyda p\xe5 f\xf6rv\xe4rrade parkinsonsymtom hos (%) n (%) patienter med demens vid Parkinsons sjukdom Totalt antal unders\xf6kta patienter 362 (100) 179 (100) Totalt antal patienter med f\xf6rdefinierade 99 (27,3) 28 (15,6) biverkningar Tremor 37 (10,2) 7 (3,9) Fall 21 (5,8) 11 (6,1) Parkinsons sjukdom (f\xf6rs\xe4mring) 12 (3,3) 2 (1,1) Onormalt h\xf6g salivsekretion 5 (1,4) 0 Dyskinesi 5 (1,4) 1 (0,6) Parkinsonism 8 (2,2) 1 (0,6) Hypokinesi 1 (0,3) 0 R\xf6relserubbning 1 (0,3) 0 Bradykinesi 9 (2,5) 3 (1,7) Dystoni 3 (0,8) 1 (0,6) Onormal g\xe5ng 5 (1,4) 0 Muskelstelhet 1 (0,3) 0 Balansrubbning 3 (0,8) 2 (1,1) Muskuloskeletal stelhet 3 (0,8) 0 Stelhet 1 (0,3) 0 Motorisk dysfunktion 1 (0,3) 0']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric', u'S\xf6mnl\xf6shet'],
              ['Psychiatric', u'Depression'],
@@ -50,7 +59,11 @@
              ['Cardiac', u'AV-block']]],
            ['Rare',
             [['GI',
+<<<<<<< HEAD
               u'), mycket s\xe4llsynta (<1/10 000) och ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
+=======
+              u'(>1/10 000, <1/1 000), mycket s\xe4llsynta (<1/10 000) och ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data). Tabell 1'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Krampanfall'],
              ['Cardiac', u'Angina pectoris'],
              ['GI', u'Mag- och duodenals\xe5r'],

@@ -20,11 +20,19 @@
              ['Eye', u'Synst\xf6rningar, torra och/eller irriterade \xf6gon.'],
              ['Ear', u'Tinnitus.'],
              ['Cardiac',
+<<<<<<< HEAD
               u'F\xf6rl\xe4ngd AV-\xf6verledningstid , hj\xe4rtarytmier, \xf6dem, synkop\xe9.'],
              ['GI', u'Smakst\xf6rningar.'],
              ['Hepato', u'F\xf6rh\xf6jda transaminaser.'],
              ['Skin',
               u'Hyperhidros, h\xe5ravfall, \xf6verk\xe4nslighets-rea ktioner som p\xe5verkar huden, f\xf6rv\xe4rrad psoriasis, ljusk\xe4nslighet.'],
+=======
+              u'F\xf6rl\xe4ngd AV-\xf6verledningstid, hj\xe4rtarytmier, \xf6dem, synkop\xe9.'],
+             ['GI', u'Smakst\xf6rningar.'],
+             ['Hepato', u'F\xf6rh\xf6jda transaminaser.'],
+             ['Skin',
+              u'Hyperhidros, h\xe5ravfall, \xf6verk\xe4nslighets-reaktioner som p\xe5verkar huden, f\xf6rv\xe4rrad psoriasis, ljusk\xe4nslighet.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Reversibel libidost\xf6rning.']]]],
  '_note': u' ?MSFU',
  '_pages': [6, 7],

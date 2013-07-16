@@ -3,7 +3,12 @@
              ['General',
               u'Sm\xe4rta p\xe5 injektionsst\xe4llet, reaktioner p\xe5 injektionsst\xe4llet inkl. inflammation, bl\xe5m\xe4rken eller bl\xf6dningar']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Psychiatric', u'S\xf6mnl\xf6shet'],
+=======
+            [['Blood', u'Anemi'],
+             ['Psychiatric', u'S\xf6mnl\xf6shet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Huvudv\xe4rk, yrsel, s\xf6mnighet'],
              ['Eye', u'Dimsyn'],
              ['Vascular', u'Hypotoni, rodnad'],
@@ -25,7 +30,11 @@
              ['Skin', u'Urticaria, akne'],
              ['Musculoskeletal', u'Muskelstelhet, ledstelhet, muskelkramper, ryggsm\xe4rta'],
              ['Renal', u'Akut njursvikt, polyuri, njursm\xe4rta, ketonuri, proteinuri'],
+<<<<<<< HEAD
              ['Reproductive system', u'Menstruations-rubbnin gar, prostatast\xf6rningar'],
+=======
+             ['Reproductive system', u'Menstruations-rubbningar, prostatast\xf6rningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Stelhet, perifert \xf6dem'],
              ['Investigations', u'Onormalt lever-funktionstest']]],
            ['Very rare',
@@ -35,9 +44,17 @@
              ['GI', u'Pankreatit'],
              ['Hepato', u'Levercellskada'],
              ['Skin',
+<<<<<<< HEAD
               u'Steven Johnsons syndrom, toxisk epidermal nekrolys (Lyell`s syndrom), angio\xf6dem, ansikts\xf6dem, fotosensitivitets-reaktione r'],
              ['Renal', u'Nefrit eller nefrotiskt syndrom']]]],
  '_note': u' ?MSFU',
  '_pages': [7, 8],
  u'_rank': 31,
+=======
+              u'Steven Johnsons syndrom, toxisk epidermal nekrolys (Lyell`s syndrom), angio\xf6dem, ansikts\xf6dem, fotosensitivitets-reaktioner'],
+             ['Renal', u'Nefrit eller nefrotiskt syndrom']]]],
+ '_note': u' ?MSFU',
+ '_pages': [7, 8],
+ u'_rank': 32,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

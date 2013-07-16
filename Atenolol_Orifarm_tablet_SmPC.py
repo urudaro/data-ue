@@ -4,7 +4,11 @@
              ['General', u'Tr\xf6tthet/muskelsvaghet, perifer kyla i extremiteter']]],
            ['Uncommon',
             [['Nervous system', u'S\xf6mnst\xf6rningar'],
+<<<<<<< HEAD
              ['Hepato', u'Transaminas-f\xf6rh \xf6jning']]],
+=======
+             ['Hepato', u'Transaminas-f\xf6rh\xf6jning']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Blood', u'Trombocytopeni'],
              ['Nervous system',

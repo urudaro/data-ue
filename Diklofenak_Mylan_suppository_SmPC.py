@@ -9,7 +9,11 @@
            ['Uncommon', [['Respiratory', u'Bronkospasm']]],
            ['Rare',
             [['GI',
+<<<<<<< HEAD
               u'), ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data). F\xf6ljande biverkningar inkluderar rapporter fr\xe5n b\xe5de korttidsanv\xe4ndning och l\xe5ngtidsanv\xe4ndning.'],
+=======
+              u'(<1/10000), ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data). F\xf6ljande biverkningar inkluderar rapporter fr\xe5n b\xe5de korttidsanv\xe4ndning och l\xe5ngtidsanv\xe4ndning.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'\xd6verk\xe4nslighetsreaktioner, anafylaktiska och anafylaktoida reaktioner (inklusive hypotension och chock).'],
              ['Nervous system', u'Somnolens.'],

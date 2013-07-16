@@ -41,7 +41,11 @@
            ['Very rare',
             [['Blood', u'Akut myeloisk leukemi, myelodysplastiskt syndrom'],
              ['Immune system', u'Anafylaktisk chock'],
+<<<<<<< HEAD
              ['Metabolism', u'Anorexi'],
+=======
+             ['Metabolism', u'Anorexi : Tum\xf6rlyssyndrom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Konfusionstillst\xe5nd'],
              ['Nervous system',
               u'Autonom neuropati (med paralytisk ileus och ortostatisk hypotension som f\xf6ljd), grandmal-anfall, konvulsioner, encefalopati, yrsel, huvudv\xe4rk, ataxi'],
@@ -49,7 +53,11 @@
               u'Synnervsp\xe5verkan och/eller synst\xf6rningar (flimmerskotom), speciellt hos patienter som erh\xe5llit h\xf6gre doser \xe4n de rekommenderade'],
              ['Ear', u'Ototoxicitet, h\xf6rself\xf6rlust, tinnitus, yrsel'],
              ['Cardiac', u'F\xf6rmaksflimmer, supraventrikul\xe4r takykardi'],
+<<<<<<< HEAD
              ['Vascular', u'Chock'],
+=======
+             ['Vascular', u'Chock : flebit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Hosta'],
              ['GI',
               u'Mesenteritrombos, pseudomembran\xf6s kolit, neutropen kolit, esofagit, f\xf6rstoppning, ascites'],
@@ -58,6 +66,7 @@
              ['Skin',
               u'Stevens-Johnsons syndrom, epidermal nekrolys, erythema multiforme, exfoliativ dermatit, urtikaria, oncholys (patienterna b\xf6r anv\xe4nda solskydd p\xe5 h\xe4nder och f\xf6tter under behandlingen)']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Metabolism', u'Tum\xf6rlyssyndrom'],
              ['Eye', u'makula\xf6dem, fotopsi, glaskroppsgrumling'],
              ['Vascular', u'flebit'],
@@ -65,4 +74,11 @@
              ['Musculoskeletal', u'Systemisk lupus erythematosus Allm\xe4nna symtom och/eller']]]],
  '_pages': [6, 11],
  u'_rank': 45,
+=======
+            [['Eye', u'makula\xf6dem, fotopsi, glaskroppsgrumling'],
+             ['Skin', u'Skleroderma'],
+             ['Musculoskeletal', u'Systemisk lupus erythematosus Allm\xe4nna symtom och/eller']]]],
+ '_pages': [6, 11],
+ u'_rank': 43,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

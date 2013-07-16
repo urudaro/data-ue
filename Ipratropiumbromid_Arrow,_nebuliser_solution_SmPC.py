@@ -16,6 +16,10 @@
              ['Cardiac', u'Palpitationer, supraventikul\xe4r takykardi,   f\xf6rmaksflimmer'],
              ['Respiratory', u'mediastinum:  Bronkospasmer inducerade vid inhalation'],
              ['Renal', u'Urinretention']]]],
+<<<<<<< HEAD
  '_pages': [3, 3],
+=======
+ '_pages': [3, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 13,
  u'_type': u'LFSUR'}

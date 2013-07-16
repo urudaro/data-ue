@@ -8,8 +8,12 @@
            ['Uncommon',
             [['Blood', u'Trombocyto peni, eosinofili, leukopeni.'],
              ['Psychiatric', u'Depression'],
+<<<<<<< HEAD
              ['Musculoskeletal',
               u'Artralgi, myalgi, h\xf6ft-, handleds-eller kotfrakturer (se avsnitt 4.4).'],
+=======
+             ['Musculoskeletal', u'Artralgi, myalgi.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'\xd6dem.']]],
            ['Rare',
             [['Blood', u'Anemi.'],
@@ -34,10 +38,17 @@
              ['Investigations',
               u'F\xf6rh\xf6jda kolesterol-och triglyceridniv\xe5er, hyponatremi.']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Metabolism', u'Hypomagnese mi (se avsnitt 4.4)'],
              ['Skin', u'Kutan lupus erytematosus'],
              ['Investigations', u'Hypomagnese mi']]]],
  '_note': u' ?MSFU',
  '_pages': [5, 7],
  u'_rank': 29,
+=======
+            [['Skin', u'Kutan lupus erytematosus'], ['Investigations', u'Hypomagnese mi']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 6],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

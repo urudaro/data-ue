@@ -6,7 +6,11 @@
              ['Metabolism', u'Hyperkalemi, hyponatremi'],
              ['GI', u'Illam\xe5ende'],
              ['Hepato',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jda leverenzymv\xe4rden,  onormal leverfunktion eller hepatit'],
+=======
+              u'F\xf6rh\xf6jda leverenzymv\xe4rden, onormal  leverfunktion eller hepatit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Angio\xf6dem, hudutslag, urtikaria,  pruritus'],
              ['Musculoskeletal', u'Ryggsm\xe4rta, artralgi, myalgi'],
              ['Renal',

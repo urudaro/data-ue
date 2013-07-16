@@ -32,6 +32,10 @@
              ['GI', u'Buksm\xe4rtor'],
              ['Skin',
               u'Erythema multiforme inklusive Stevens-Johnsons syndrom, exfoliativ dermatit inklusive toxisk epidermal nekrolys Muskuloskeletala systemet och bindv\xe4v']]]],
+<<<<<<< HEAD
  '_pages': [4, 6],
+=======
+ '_pages': [5, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 28,
  u'_type': u'LSFU'}

@@ -6,6 +6,7 @@
              ['Skin', u'Hypertrikos, sensibilisering (mometason)']]],
            ['Very rare',
             [['Infections', u'Follikulit'],
+<<<<<<< HEAD
              ['Nervous system', u'Br\xe4nnade k\xe4nsla'],
              ['Skin', u'Pruritus']]],
            ['Unknown',
@@ -15,4 +16,15 @@
               u'Kontaktdermatit, hypopigmentering, akneiform dermatit Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet']]]],
  '_pages': [3, 4],
  u'_rank': 9,
+=======
+             ['Nervous system', u'Br\xe4nnade k\xe4nsla Parestesier'],
+             ['Skin',
+              u'Pruritus Kontaktdermatit, hypopigmentering, akneiform dermatit Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet']]],
+           ['Unknown',
+            [['Infections', u'Infektion, furunkulos'],
+             ['Skin',
+              u'Sm\xe4rta p\xe5 det behandlade hudomr\xe5det, reaktioner p\xe5 det behandlade hudomr\xe5det Hyperpigmentering har i s\xe4llsynta fall rapporterats i samband med andra steroider och kan d\xe4rf\xf6r f\xf6rekomma med Elocon. F\xf6ljande lokala biverkningar har rapporterats i s\xe4llsynta fall med andra lokala kortikosteroider: sveda, hudirritation, torr hud, dermatit, perioral dermatit, allergisk kontaktdermatit, uppmjukning av huden, miliaria och telangiektasi. \xd6kad risk f\xf6r systemeffekter och lokala biverkningar f\xf6religger vid frekvent dosering, vid behandling av stora ytor eller under l\xe5ng tid liksom vid behandling av intertrigin\xf6sa omr\xe5den eller med ocklusionsf\xf6rband. Barn kan vara k\xe4nsligare f\xf6r kortikosteroiders p\xe5verkan p\xe5 HPA-axeln och f\xf6r Cushings syndrom j\xe4mf\xf6rt med vuxna. Detta p\xe5 grund av en st\xf6rre absorption beroende p\xe5 att kvoten hudyta/kroppsvikt \xe4r st\xf6rre hos barn. Kronisk behandling av barn kan p\xe5verka deras tillv\xe4xt och utveckling.']]]],
+ '_pages': [3, 4],
+ u'_rank': 8,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

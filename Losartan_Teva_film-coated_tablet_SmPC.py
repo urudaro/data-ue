@@ -16,7 +16,12 @@
              ['Nervous system', u'yrsel'],
              ['Vascular', u'hypotoni'],
              ['General', u'asteni/tr\xf6tthet'],
+<<<<<<< HEAD
              ['Investigations', u'hypoglykemi, hyperkalemi*']]],
+=======
+             ['Investigations',
+              u'hypoglykemi, hyperkalemi* * I en klinisk studie p\xe5 patienter med typ 2 diabetes och nefropati utvecklades hyperkalemi >5,5 mmol/l hos 9,9% av patienterna som behandlades med losartantabletter och hos 3,4% av patienterna som behandlades med placebo. F\xf6ljande biverkningar f\xf6rekom oftare hos patienter som fick losartan \xe4n hos patienter som fick placebo']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Nervous system', u'somnolens, huvudv\xe4rk, s\xf6mnst\xf6rningar'],
              ['Cardiac', u'palpitationer, angina pectoris'],
@@ -31,7 +36,12 @@
              ['Skin', u'urtikaria, pruritus, utslag'],
              ['General', u'asteni/tr\xf6tthet']]],
            ['Rare',
+<<<<<<< HEAD
             [['Investigations', u'f\xf6rh\xf6jt alaninaminotransferas (ALAT) *'],
+=======
+            [['Investigations',
+              u'f\xf6rh\xf6jt alaninaminotransferas (ALAT) * * vanligtvis reversibel efter uts\xe4ttande Hypertensiva patienter med v\xe4nsterkammarhypertrofi I en kontrollerad klinisk studie p\xe5 9193 hypertensiva patienter i \xe5ldern 55 till 80 \xe5r med v\xe4nsterkammarhypertrofi rapporterades f\xf6ljande biverkningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'parestesier'],
              ['Cardiac', u'synkope, f\xf6rmaksflimmer, cerebrovaskul\xe4r h\xe4ndelse'],
              ['Immune system',
@@ -45,7 +55,11 @@
              ['Musculoskeletal', u'ryggv\xe4rk'],
              ['Renal', u'urinv\xe4gsinfektion'],
              ['General',
+<<<<<<< HEAD
               u'Uppf\xf6ljning efter godk\xe4nnandet F\xf6ljande biverkningar har rapporterats efter godk\xe4nnandet'],
+=======
+              u'influensaliknande symtom Uppf\xf6ljning efter godk\xe4nnandet F\xf6ljande biverkningar har rapporterats efter godk\xe4nnandet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'anemi, trombocytopeni'],
              ['Psychiatric', u'depression'],
              ['Nervous system', u'migr\xe4n'],
@@ -56,9 +70,17 @@
              ['Skin', u'urtikaria, pruritus, utslag, ljusk\xe4nslighet'],
              ['Musculoskeletal', u'myalgi, artralgi, rabdomyolys'],
              ['Reproductive system', u'erektil dysfunktion/impotens'],
+<<<<<<< HEAD
+=======
+             ['General', u'sjukdomsk\xe4nsla'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'hyponatremi'],
              ['Renal',
               u'Som en f\xf6ljd av att man h\xe4mmar renin-angiotensin-aldosteronsystemet har f\xf6r\xe4ndringar i njurfunktionen inklusive njursvikt rapporterats hos riskpatienter. Dessa njurfunktionsf\xf6r\xe4ndringar kan vara reversibla efter uts\xe4ttande av behandlingen (se avsnitt 4.4).']]]],
  '_pages': [5, 9],
+<<<<<<< HEAD
  u'_rank': 50,
+=======
+ u'_rank': 51,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

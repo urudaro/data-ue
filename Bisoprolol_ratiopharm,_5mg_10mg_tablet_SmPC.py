@@ -15,7 +15,11 @@
              ['Musculoskeletal', u'Muskelsvaghet och kramper, artropati']]],
            ['Rare',
             [['Immune system',
+<<<<<<< HEAD
               u'Allergisk rinit, uppkomsten av antinukle\xe4ra antikroppar och i exceptionella fall SLE-syndrom, som f\xf6rsvinner d\xe5 behandlingen avslutas.'],
+=======
+              u'Allergisk rinit, uppkomsten av antinukle\xe4ra antikroppar och i exceptionella fall SLE- syndrom, som f\xf6rsvinner d\xe5 behandlingen avslutas.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Mardr\xf6mmar, hallucinationer'],
              ['Metabolism', u'F\xf6rh\xf6jda triglycerider, hypoglykemi'],
              ['Eye',
@@ -25,11 +29,19 @@
              ['Skin', u'\xd6verk\xe4nslighetsreaktioner (kl\xe5da, rodnad, hudutslag)'],
              ['Reproductive system', u'Potensst\xf6rningar'],
              ['Immune system',
+<<<<<<< HEAD
               u'Allergisk rinit, uppkomsten av antinukle\xe4ra antikroppar och i exceptionella fall SLE-syndrom, som f\xf6rsvinner d\xe5 behandlingen avslutas.']]],
+=======
+              u'Allergisk rinit, uppkomsten av antinukle\xe4ra antikroppar och i exceptionella fall SLE- syndrom, som f\xf6rsvinner d\xe5 behandlingen avslutas.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Eye', u'Konjunktivit'],
              ['Skin',
               u'beta-blockerare kan provocera eller f\xf6rs\xe4mra psoriasis eller inducera psoriasislikande utslag, alopeci']]]],
+<<<<<<< HEAD
  '_pages': [4, 6],
+=======
+ '_pages': [5, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 19,
  u'_type': u'LSFU'}

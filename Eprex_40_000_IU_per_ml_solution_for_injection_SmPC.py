@@ -3,7 +3,11 @@
              ['GI', u'Illam\xe5ende'],
              ['Musculoskeletal', u'Artralgi (patienter med kronisk  njursvikt)'],
              ['General',
+<<<<<<< HEAD
               u'Pyrexi (cancerpatienter)  Influensaliknande sjukdom  (patienter med kronisk njursvikt)']]],
+=======
+              u'Pyrexi (cancerpatienter)  Influensaliknande sjukdom (patienter  med kronisk njursvikt)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Nervous system',
               u'Krampanfall (patienter med kronisk  njursvikt) Huvudv\xe4rk (patienter med kronisk njursvikt)'],

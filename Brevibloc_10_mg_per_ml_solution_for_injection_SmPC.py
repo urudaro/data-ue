@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Cardiac', u'Sinusstopp Asystole'],
              ['Vascular', u'Tromboflebit'],
              ['Skin', u'Diafores']]],
+=======
+{'_data': [['Very common', [['Skin', u'Diafores']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Vascular', u'Hypotoni'],
              ['Metabolism', u'Anorexi'],
@@ -26,7 +30,14 @@
              ['Renal', u'Urinretention'],
              ['General',
               u'Frossa Feber \xd6dem V\xe4rk Br\xe4nnande k\xe4nsla vid infusionsst\xe4llet Ekkymos vid infusionsst\xe4llet']]],
+<<<<<<< HEAD
            ['Very rare', [['Skin', u'Hudnekros (p\xe5 grund av extravasation)']]],
+=======
+           ['Very rare',
+            [['Cardiac', u'Sinusstopp Asystole'],
+             ['Vascular', u'Tromboflebit'],
+             ['Skin', u'Hudnekros (p\xe5 grund av extravasation']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Metabolism', u'Hyperkalcemi Metabol acidos'],
              ['Cardiac',

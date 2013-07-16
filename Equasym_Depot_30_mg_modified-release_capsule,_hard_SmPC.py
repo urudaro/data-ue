@@ -42,7 +42,12 @@
              ['Nervous system',
               u'Konvulsioner, koreoatetoida r\xf6relser, reversibla ischemiska bortfallssymtom, malignt neuroleptikasyndrom (NMS; rapporterna var d\xe5ligt dokumenterade och i de flesta fall fick patienterna \xe4ven andra l\xe4kemedel. Metylfenidats roll \xe4r d\xe4rf\xf6r oklar.)'],
              ['Eye', u'Sv\xe5righeter att ackommodera, mydriasis, synst\xf6rningar'],
+<<<<<<< HEAD
              ['Cardiac', u'Hj\xe4rtstillest\xe5nd, hj\xe4rtinfarkt'],
+=======
+             ['Cardiac',
+              u'Hj\xe4rtstillest\xe5nd, hj\xe4rtinfarkt Supraventrikul\xe4r takykardi, bradykardi, ventrikul\xe4ra extrasystolier, extrasystolier'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'Cerebral arterit och/eller ocklusion, perifer kyla, Raynauds fenomen'],
              ['Hepato', u'Onormal leverfunktion inklusive leverkoma'],
@@ -51,6 +56,7 @@
            ['Unknown',
             [['Blood', u'Pancytopeni'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Vanf\xf6rest\xe4llningar , tankest\xf6rningar , f\xf6rvirringstillst\xe5nd, fall av missbruk och beroende har beskrivits, oftare med formuleringar med omedelbar fris\xe4ttning, bruxism, logorr\xe9'],
              ['Nervous system',
               u'Cerebrovaskul\xe4ra st\xf6rningar (inklusive vaskulit, cerebral bl\xf6dning, cerebrovaskul\xe4ra h\xe4ndelser, cerebral artrit, cerebral ocklusion), grand mal-anfall , migr\xe4n'],
@@ -63,4 +69,15 @@
               u'F\xf6r\xe4ndringar i blodtryck och hj\xe4rtfrekvens (vanligtvis']]]],
  '_pages': [9, 10],
  u'_rank': 43,
+=======
+              u'Vanf\xf6rest\xe4llningar , tankest\xf6rningar , f\xf6rvirringstillst\xe5nd, fall av missbruk och beroende har beskrivits, oftare med formuleringar med omedelbar fris\xe4ttning, bruxism'],
+             ['Nervous system',
+              u'Cerebrovaskul\xe4ra st\xf6rningar (inklusive vaskulit, cerebral bl\xf6dning, cerebrovaskul\xe4ra h\xe4ndelser, cerebral artrit, cerebral ocklusion), grand mal-anfall , migr\xe4n'],
+             ['General',
+              u'Pyrexi, tillv\xe4xtf\xf6rdr\xf6jning under l\xe5ngvarig anv\xe4ndning hos barn* Br\xf6stsm\xe4rta, tr\xf6tthet Pl\xf6tslig kardiell d\xf6d Obehagsk\xe4nsla i br\xf6stet, hyperpyrexi'],
+             ['Investigations',
+              u'F\xf6r\xe4ndringar i blodtryck och hj\xe4rtfrekvens (vanligtvis * \xf6kning) , viktminskning Bl\xe5sljud p\xe5 hj\xe4rtat , \xf6kning av leverenzymer \xd6kning av alkaliska fosfater och bilirubin i blodet, minskat antal trombocyter, onormalt antal leukocyter *Se avsnitt 4.4']]]],
+ '_pages': [9, 10],
+ u'_rank': 41,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

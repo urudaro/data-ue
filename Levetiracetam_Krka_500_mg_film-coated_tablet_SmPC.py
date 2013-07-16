@@ -25,7 +25,12 @@
            ['Rare',
             [['Infections', u'Infektion'],
              ['Blood', u'Pancytopeni, neutropeni'],
+<<<<<<< HEAD
              ['Psychiatric', u'Sj\xe4lvmord, Personlighets-st\xf6rninga onormalt t\xe4nkande'],
+=======
+             ['Psychiatric',
+              u'Sj\xe4lvmord, Personlighets-st\xf6rningar, onormalt t\xe4nkande'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Koreoatetos, dyskinesi, hyperkinesi'],
              ['GI', u'Pankreatit'],
              ['Hepato', u'Leversvikt, hepatit'],

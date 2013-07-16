@@ -20,6 +20,7 @@
              ['Hepato',
               u'Onormal F\xf6rh\xf6jning av Leversvikt (vissa fall med leverfunktion, leverenzymer fatal utg\xe5ng eller som f\xf6rh\xf6jt ALAT kr\xe4vt och ASAT levertransplantation), fulminant hepatit (vissa fall med fatal utg\xe5ng), levernekros, hepatit, ikterus'],
              ['Skin',
+<<<<<<< HEAD
               u'Utslag, kl\xe5da Urtikaria Alopeci, Ecchymos, fotosensitivitet bull\xf6sa eruptioner, hudexfoliation, erythema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys, l\xe4kemedelsutl\xf6sta utslag med eosinofili och systemiska symtom (DRESS), eller \xf6verk\xe4nslighetssyndrom, angio\xf6dem, akut generaliserad exantemat\xf6s pustulos'],
              ['Renal', u'hyponatremi'],
              ['Reproductive system',
@@ -28,4 +29,13 @@
               u'symtom, perifera \xf6dem/v\xe4tskeretention Biverkningar som intr\xe4ffade i polyp-preventionsstudierna, hos patienter behandlade med celecoxib 400 mg dagligen i 2 kliniska pr\xf6vningar under upp till 3 \xe5r (kliniska pr\xf6vningarna APC och PreSAP). Biverkningarna som listas ovan f\xf6r polyp-preventionssstudierna \xe4r endast de som tidigare noterats efter lansering, eller som har intr\xe4ffat mer frekvent \xe4n i de kliniska pr\xf6vningarna f\xf6r artrit. Dessutom intr\xe4ffade f\xf6ljande tidigare ok\xe4nda biverkningar i polyp-preventionsstudierna, hos patienter behandlade med celecoxib 400 mg dagligen i 2 kliniska pr\xf6vningar  under upp till 3 \xe5r (kliniska pr\xf6vningarna APC and PreSAP)']]]],
  '_pages': [6, 8],
  u'_rank': 18,
+=======
+              u'Utslag, kl\xe5da Urtikaria Alopeci, Ecchymos, fotosensitivitet bull\xf6sa eruptioner, hudexfoliation, erythema multiforme, Stevens Johnsons syndrom, toxisk epidermal nekrolys, l\xe4kemedelsutl\xf6sta utslag med eosinofili och systemiska symtom (DRESS), eller \xf6verk\xe4nslighetssyndrom, angio\xf6dem, akut generaliserad exantemat\xf6s pustulos'],
+             ['Reproductive system',
+              u'Menstruationsst\xf6rningar, f\xf6r\xe4ndringar i NO produktionen'],
+             ['General',
+              u'symtom, perifera \xf6dem/v\xe4tskeretention Biverkningar som intr\xe4ffade i polyp-preventionsstudierna, hos patienter behandlade med celecoxib 400 mg dagligen i 2 kliniska pr\xf6vningar under upp till 3 \xe5r (kliniska pr\xf6vningarna APC och PreSAP). Biverkningarna som listas ovan f\xf6r polyp-preventionssstudierna \xe4r endast de som tidigare noterats efter lansering, eller som har intr\xe4ffat mer frekvent \xe4n i de kliniska pr\xf6vningarna f\xf6r artrit. Dessutom intr\xe4ffade f\xf6ljande tidigare ok\xe4nda biverkningar i polyp-preventionsstudierna, hos patienter behandlade med celecoxib 400 mg dagligen i 2 kliniska pr\xf6vningar  under upp till 3 \xe5r (kliniska pr\xf6vningarna APC and PreSAP)']]]],
+ '_pages': [6, 8],
+ u'_rank': 17,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

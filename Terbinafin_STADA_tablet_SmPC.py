@@ -3,11 +3,19 @@
              ['Immune system', u'Anafylaktisk   Manifestation eller'],
              ['Metabolism', u'Aptitl\xf6shet'],
              ['Psychiatric', u'\xc5ngest'],
+<<<<<<< HEAD
              ['Nervous system', u'Huvudv\xe4rk   Ageusi   Svindel   Dysgeus   Hypestesi'],
              ['GI', u'Buksp\xe4nning'],
              ['Hepato', u'Kolestas   Leversvikt, f\xf6ljt av'],
              ['Skin',
               u'Utslag   Angioneurotiskt   Fotosensibilitetsre   Urticaria   \xf6dem   aktion'],
+=======
+             ['Nervous system', u'Huvudv\xe4rk   Ageusi   Svindel   Dysgeusi   Hypestesi'],
+             ['GI', u'Buksp\xe4nning'],
+             ['Hepato', u'Kolestas   Leversvikt, f\xf6ljt av'],
+             ['Skin',
+              u'Utslag   Angioneurotiskt   Fotosensibilitets-   Urticaria   \xf6dem   reaktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Artralgi   Myalgi'],
              ['Reproductive system', u'Oregelbunden'],
              ['General', u'Tr\xf6tthet'],

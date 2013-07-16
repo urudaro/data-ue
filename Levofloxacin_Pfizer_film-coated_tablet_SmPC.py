@@ -27,7 +27,11 @@
              ['Musculoskeletal',
               u'Sensjukdomar (se avsnitt 4.4) inklusive tendinit (t ex akillessena), artralgi, myalgi,']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Blood', u'Agranulocytos'],
+=======
+            [['Blood', u'Agranulocytos : Pancytopeni, hemolytisk anemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'Anafylaktisk chock (se avsnitt 4.4). Anafylaktisk och anafylaktoida reaktioner kan ibland intr\xe4ffa efter f\xf6rsta dosen.'],
              ['Metabolism',
@@ -37,6 +41,7 @@
              ['Nervous system',
               u'Sensorisk- eller sensormotorisk perifer neuropati, st\xf6rningar av smak- och lukt eller f\xf6rlust av smak och lukt'],
              ['Eye', u'Synst\xf6rningar'],
+<<<<<<< HEAD
              ['Ear', u'H\xf6rselneds\xe4ttning'],
              ['Respiratory', u'Allergisk pneumoni'],
              ['Hepato', u'Hepatit'],
@@ -60,4 +65,24 @@
               u'V\xe4rk (inklusive v\xe4rk i rygg, br\xf6stkorg och extremiteter). Andra o\xf6nskade effekter som har satts i samband med administrering av fluorokinoloner omfattar: extrapyramidala symtom och andra rubbningar i muskelkoordinationen hypersensitiv vaskulit attacker av porfyri hos patienter med porfyri.']]]],
  '_pages': [6, 8],
  u'_rank': 43,
+=======
+             ['Ear', u'H\xf6rselneds\xe4ttning : Tinnitus'],
+             ['Respiratory', u'Allergisk pneumoni'],
+             ['Hepato',
+              u'Hepatit : Gulsot och sv\xe5ra leverskador, inklusive akut leversvikt har rapporterats med levofloxacinbehandling, fr\xe4mst hos patienter med sv\xe5ra underliggande sjukdomar (se avsnitt 4.4).'],
+             ['Skin',
+              u'Angio\xf6dem, fotosensibilisering : Toxisk epidermal nekrolys, Stevens Johnson syndrom, erytema multiforme, hyperhidros Mukokutana reaktioner kan ibland intr\xe4ffa redan efter den f\xf6rsta dosen.'],
+             ['Musculoskeletal',
+              u'Senruptur (se avsnitt 4.4) som kan intr\xe4ffa inom 48 timmar efter p\xe5b\xf6rjad behandling och kan vara bilateral. Muskelsvaghet, som kan vara av s\xe4rskild betydelse f\xf6r patienter med myastena gravis.'],
+             ['Renal', u'Akut njursvikt (t ex p\xe5 grund av interstitiell nefrit)'],
+             ['General',
+              u'Pyrexi : V\xe4rk (inklusive v\xe4rk i rygg, br\xf6stkorg och extremiteter). Andra o\xf6nskade effekter som har satts i samband med administrering av fluorokinoloner omfattar: extrapyramidala symtom och andra rubbningar i muskelkoordinationen hypersensitiv vaskulit attacker av porfyri hos patienter med porfyri.']]],
+           ['Unknown',
+            [['Immune system', u'\xd6verk\xe4nslighet (se avsnitt 4.4).'],
+             ['Cardiac',
+              u'Ventrikul\xe4r arytmi och torsades de points (framf\xf6r allt rapporterade hos patienter med riskfaktorer f\xf6r QT-f\xf6rl\xe4ngning), F\xf6rl\xe4ngt QT intervall (se avsnitt 4.4 och avsnitt 4.9).'],
+             ['Musculoskeletal', u'Rabdomyolys.']]]],
+ '_pages': [6, 8],
+ u'_rank': 38,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

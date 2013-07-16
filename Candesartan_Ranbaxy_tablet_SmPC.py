@@ -11,7 +11,11 @@
              ['GI', u'Illam\xe5ende'],
              ['Hepato',
               u'F\xf6rh\xf6jda leverenzymv\xe4rden,  onormal leverfunktion eller hepatit'],
+<<<<<<< HEAD
              ['Skin', u'Angio\xf6dem, hudutslag,  urtikaria, pruritus'],
+=======
+             ['Skin', u'Angio\xf6dem, hudutslag, urtikaria,  pruritus'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Ryggsm\xe4rta, artralgi, myalgi'],
              ['Renal',
               u'Nedsatt njurfunktion,  inkluderande njursvikt hos predisponerade patienter (se avsnitt 4.4).'],
@@ -21,7 +25,11 @@
              ['GI', u'Illam\xe5ende'],
              ['Hepato',
               u'F\xf6rh\xf6jda leverenzymv\xe4rden,  onormal leverfunktion eller hepatit'],
+<<<<<<< HEAD
              ['Skin', u'Angio\xf6dem, hudutslag,  urtikaria, pruritus'],
+=======
+             ['Skin', u'Angio\xf6dem, hudutslag, urtikaria,  pruritus'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Ryggsm\xe4rta, artralgi, myalgi']]]],
  '_pages': [5, 7],
  u'_rank': 19,

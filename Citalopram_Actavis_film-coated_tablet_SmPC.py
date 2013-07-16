@@ -3,6 +3,7 @@
               u'Anorexi, viktminskning, vikt\xf6kning, f\xf6r\xe4ndrad   smakuppfattning  Somnolens, yrsel  Huvudv\xe4rk, hyperhidros, asteni, impotens, allm\xe4n  sjukdomsk\xe4nsla, tr\xf6tthet'],
              ['Vascular',
               u'Postural hypotension, palpitationer, takykardi'],
+<<<<<<< HEAD
              ['Nervous system',
               u'Tremor, parestesi, extrapyramidala st\xf6rningar'],
              ['GI',
@@ -10,6 +11,16 @@
              ['Skin', u'Rash, pruritus'],
              ['Respiratory', u'Rinit'],
              [u'Musculoskeletal', u'Myalgi'],
+=======
+             [u'Nervous system',
+              u'Tremor, parestesi, extrapyramidala st\xf6rningar'],
+             [u'Nervous system',
+              u'Tremor, parestesi, extrapyramidala st\xf6rningar'],
+             [u'Nervous system',
+              u'Tremor, parestesi, extrapyramidala st\xf6rningar'],
+             ['Respiratory', u'Rinit'],
+             ['Musculoskeletal', u'Myalgi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric',
               u'S\xf6mnsv\xe5righeter, nervositet, \xe5ngest,   koncentrationssv\xe5righeter, agitation, dr\xf6mst\xf6rningar,  minskad libido, apati, konfusion, g\xe4spningar'],
              ['Reproductive system',
@@ -31,7 +42,11 @@
            ['Unknown',
             [['Psychiatric', u'Suicidalt beteende, suicidtankar'],
              ['Cardiac',
+<<<<<<< HEAD
               u'QT-intervallf\xf6rl\xe4ngning, ventrikul\xe4r arytmi inklusive torsade   de pointes']]]],
+=======
+              u'QT-intervallf\xf6rl\xe4ngning, ventrikul\xe4r arytmi inklusive torsade de   pointes']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [7, 8],
  u'_rank': 23,
  u'_type': u'LFSUR'}

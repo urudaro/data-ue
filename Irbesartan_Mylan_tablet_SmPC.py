@@ -16,13 +16,21 @@
              ['General', u'Br\xf6stsm\xe4rta']]],
            ['Unknown',
             [['Immune system',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslighetsr eaktioner s\xe5som angio\xf6dem, hudutslag och urtikaria'],
+=======
+              u'\xd6verk\xe4nslighetsre aktioner s\xe5som angio\xf6dem, hudutslag och urtikaria'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Hyperkalemi'],
              ['Nervous system', u'Vertigo, huvudv\xe4rk'],
              ['Ear', u'Tinnitus'],
              ['GI', u'Dysgeusi'],
              ['Hepato', u'Hepatit, st\xf6rd leverfunktion'],
+<<<<<<< HEAD
              ['Skin', u'Leukocytoklastis k vaskulit'],
+=======
+             ['Skin', u'Leukocytoklastisk vaskulit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal',
               u'Artralgi, myalgi (i n\xe5gra fall \xe5tf\xf6ljt av \xf6kade plasmaniv\xe5er av kreatinkinas), muskelkramper'],
              ['Renal',

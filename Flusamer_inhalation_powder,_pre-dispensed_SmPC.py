@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Nervous system', u'Huvudv\xe4rk'], ['Respiratory', u'Nasofaryngit']]],
            ['Common',
@@ -38,3 +39,23 @@
  '_pages': [8, 10],
  u'_rank': 30,
  u'_type': u'TSFU'}
+=======
+{'_data': [[u'Unknown',
+            [['Infections',
+              u'Candidainfektion i munh\xe5la och svalg   Vanliga   Pneumoni   Vanliga   1, 3, 5'],
+             ['Immune system', u'Kutana \xf6verk\xe4nslighetsreaktioner'],
+             ['Endocrine', u'Cushings syndrom, Cushingliknande   Mycket s\xe4llsynta'],
+             ['Metabolism',
+              u'Hypokalemi   Vanliga   F\xf6rh\xf6jda blodglukosniv\xe5er   Mycket s\xe4llsynta'],
+             ['Psychiatric', u'Psykomotorisk hyperaktivitet,   Ingen k\xe4nd'],
+             ['Nervous system', u'Huvudv\xe4rk   Mycket vanliga   Tremor   Vanliga'],
+             ['Eye', u'Katarakt, glaukom   Mycket s\xe4llsynta'],
+             ['Cardiac', u'Palpitationer   Vanliga'],
+             ['Respiratory', u'Nasofaryngit   Mycket vanliga'],
+             ['Skin', u'Bl\xe5m\xe4rken   Vanliga'],
+             ['Musculoskeletal',
+              u'Muskelkramp   Vanliga   Traumatiska frakturer   Vanliga   Artralgi   Mycket s\xe4llsynta']]]],
+ '_pages': [8, 10],
+ u'_rank': 11,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

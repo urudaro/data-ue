@@ -28,7 +28,11 @@
              ['Nervous system',
               u'extrapyramidal st\xf6rning, dyskinesier inklusive chorea, dystoni och asterixi liknande de som kan framkallas av fenotiaziner och andra neuroleptika, d\xe5sighet, muskelryckningar, s\xf6mnl\xf6shet, toniska kramper. En \xf6verv\xe4gande sensorisk perifer polyneuropati har iakttagits hos patienter som behandlats med fenytoin under l\xe5ng tid. Incidens och sv\xe5righetsgrad av CNS-relaterade biverkningar och sensoriska st\xf6rningar var st\xf6rre vid h\xf6gre doser och infusionshastigheter.'],
              ['Cardiac',
+<<<<<<< HEAD
               u'allvarlig hj\xe4rtp\xe5verkan i form av f\xf6rl\xe5ngsammad impuls-\xf6verledning i f\xf6rmak och kammare (inklusive bradykardi och alla grader av AV-block), asystoli, kammarflimmer och kardiovaskul\xe4r kollaps (se avsnitt 4.4)'],
+=======
+              u'allvarlig hj\xe4rtp\xe5verkan i form av f\xf6rl\xe5ngsammad impuls-\xf6verledning i f\xf6rmak och kammare (inklusive bradykardi och alla grader av AV block), asystoli, kammarflimmer och kardiovaskul\xe4r kollaps (se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory',
               u'pneumonit, st\xf6rningar i andningsfunktionen inklusive andningsstillest\xe5nd. N\xe5gra av dessa fall har haft d\xf6dlig utg\xe5ng (se avsnitt 4.2).'],
              ['GI', u'gingivalhyperplasi, f\xf6rstoppning'],

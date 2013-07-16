@@ -1,6 +1,10 @@
 {'_data': [['Unknown',
             [['Immune system',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslighetsreaktioner, inklusive livshotande anafylaxi. \xd6verk\xe4nslighet vid injektionsst\xe4llet. Exponering f\xf6r joniserande str\xe5lning kan ha samband med uppkomst av cancer och potentiell risk f\xf6r utveckling av \xe4rftliga defekter. F\xf6r diagnostiska nuklearmedicinska unders\xf6kningar pekar de aktuella r\xf6nen p\xe5 att dessa biverkningar upptr\xe4der med l\xe5g frekvens p g a den l\xe5ga str\xe5ldosen. Vid de flesta diagnostiska unders\xf6kningar med nuklearmedicinska produkter \xe4r str\xe5ldosen (EDE) mindre \xe4r 20 mSv. H\xf6gre doser kan vara motiverade i vissa kliniska omst\xe4ndigheter. Rapportering av misst\xe4nkta biverkningar Det \xe4r viktigt att rapportera misst\xe4nkta biverkningar efter att l\xe4kemedlet godk\xe4nts. Det g\xf6r det m\xf6jligt att kontinuerligt \xf6vervaka l\xe4kemedlets nytta-riskf\xf6rh\xe5llande. H\xe4lso- och sjukv\xe5rdspersonal uppmanas att rapportera varje misst\xe4nkt biverkning via L\xe4kemedelsverket, Box 26, SE-751 03, Uppsala. Webbplats']]]],
+=======
+              u'\xd6verk\xe4nslighetsreaktioner, inklusive livshotande anafylaxi. \xd6verk\xe4nslighet vid injektionsst\xe4llet. Exponering f\xf6r joniserande str\xe5lning kan ha samband med uppkomst av cancer och potentiell risk f\xf6r utveckling av \xe4rftliga defekter. F\xf6r diagnostiska nuklearmedicinska unders\xf6kningar pekar de aktuella r\xf6nen p\xe5 att dessa biverkningar upptr\xe4der med l\xe5g frekvens p g a den l\xe5ga str\xe5ldosen. Vid de flesta diagnostiska unders\xf6kningar med nuklearmedicinska produkter \xe4r str\xe5ldosen (EDE) mindre \xe4r 20 mSv. H\xf6gre doser kan vara motiverade i vissa kliniska omst\xe4ndigheter.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 4],
  u'_rank': 1,
  u'_type': u'LSFU'}

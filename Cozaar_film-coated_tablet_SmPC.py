@@ -33,7 +33,11 @@
              ['Cardiac', u'synkope, f\xf6rmaksflimmer, cerebrovaskul\xe4r  h\xe4ndelse'],
              ['Immune system',
               u'\xf6verk\xe4nslighet: anafylaktiska reaktioner,  angio\xf6dem inkluderande svullnad av larynx och glottis orsakande luftv\xe4gsobstruktion och/eller svullnad av ansikte, l\xe4ppar, svalg och/eller tunga (vissa av patienterna som upplevde angio\xf6dem hade tidigare haft denna biverkning vid behandling med andra l\xe4kemedel inklusive ACE-h\xe4mmare), vaskulit inkluderande Henoch-Sch\xf6nleins purpura'],
+<<<<<<< HEAD
              ['General', u'hepatit']]],
+=======
+             ['Hepato', u'hepatit']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood', u'anemi'],
              ['Cardiac', u'synkope, palpitationer'],
@@ -48,7 +52,11 @@
              ['Respiratory', u'hosta'],
              ['GI', u'diarr\xe9, pankreatit'],
              ['General', u'sjukdomsk\xe4nsla'],
+<<<<<<< HEAD
              ['General', u'onormal leverfunktion'],
+=======
+             ['Hepato', u'onormal leverfunktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'urtikaria, pruritus, utslag, ljusk\xe4nslighet'],
              ['Musculoskeletal', u'myalgi, artralgi, rabdomyolys'],
              ['Reproductive system', u'erektil dysfunktion/impotens'],

@@ -2,18 +2,31 @@
             [['Nervous system', u'Huvudv\xe4rk, yrsel.'],
              ['Ear', u'Vertigo.'],
              ['GI',
+<<<<<<< HEAD
               u'Epigastrisk sm\xe4rta, illam\xe5ende, kr\xe4kningar, diarr\xe9, buksm\xe4rta, dyspepsi, flatulens, anorexi.'],
+=======
+              u'Epigastrisk sm\xe4rta, illam\xe5ende, kr\xe4kningar, diarr\xe9, buksm\xe4rta, dyspepsi, flatulens, anorexi. Gastrit, gastrointestinal bl\xf6dning, hematemes,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Transaminasstegringar (ASAT, ALAT).'],
              ['Skin', u'Utslag.']]],
            ['Uncommon', [['Vascular', u'Bronkospasm']]],
            ['Rare',
+<<<<<<< HEAD
             [['GI', u'), inklusive enstaka rapporter.'],
+=======
+            [['GI',
+              u'(<1/10000), inklusive enstaka rapporter. Tabellen inkluderar biverkningar b\xe5de fr\xe5n l\xe5ngtids- och korttidsanv\xe4ndning.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'\xd6verk\xe4nslighetsreaktioner inklusive anafylaktiska och anafylaktoida reaktioner (inklusive hypotoni och chock).'],
              ['Nervous system', u'Somnolens.'],
              ['Vascular', u'Astma (inklusive dyspn\xe9).'],
              ['GI',
+<<<<<<< HEAD
               u'Gastrit, gastrointestinal bl\xf6dning, hematemes, blodiga diarr\xe9er, melaena, peptiska s\xe5r eller tarms\xe5r med eller utan bl\xf6dning eller perforation.'],
+=======
+              u'blodiga diarr\xe9er, melaena, peptiska s\xe5r eller tarms\xe5r med eller utan bl\xf6dning eller perforation. Diafragmaliknande tarmrestrikturer.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato',
               u'Hepatit, gulsot, leverfunktionsst\xf6rningar. Fulminant hepatit, levernekros, leversvikt.'],
              ['Skin', u'Urtikaria.'],
@@ -34,7 +47,11 @@
               u'Hypertoni, vaskulit. Andningsv\xe4gar, br\xf6stkorg och mediastinum'],
              ['Vascular', u'Pneumonit.'],
              ['GI',
+<<<<<<< HEAD
               u'Diafragmaliknande tarmrestrikturer. Tjocktarmsbesv\xe4r (ospecifik hemorragisk kolit och exacerbationer av ulcer\xf6s kolit eller Crohns proktokolit), obstipation. Stomatit (inklusive ulcerativ stomatit), glossit, esofagusst\xf6rningar. Pankreatit.'],
+=======
+              u'Tjocktarmsbesv\xe4r (ospecifik hemorragisk kolit och exacerbationer av ulcer\xf6s kolit eller Crohns proktokolit), obstipation. Stomatit (inklusive ulcerativ stomatit), glossit, esofagusst\xf6rningar. Pankreatit.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Mycket s\xe4llsynta'],
              ['Skin',
               u"Bull\xf6sa eruptioner, eksem, erytema, erytema multiforme, Stevens-Johnsons syndrom, akut toxisk epidermal nekrolys (Lyell's syndrome), exfoliativ dermatit, h\xe5ravfall, ljusk\xe4nslighetsreaktioner, purpura, allergisk purpura, pruritus."],

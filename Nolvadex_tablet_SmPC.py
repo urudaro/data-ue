@@ -1,26 +1,48 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Metabolism', u'V\xe4tske-retenti on'],
              ['Vascular', u'Blod-vallning ar'],
              ['GI', u'illam\xe5ende'],
              ['Skin', u'hudutslag'],
              ['Reproductive system', u'vaginal bl\xf6dning, vaginal-flytni ngar']]],
+=======
+            [['Metabolism', u'V\xe4tske-retention'],
+             ['Vascular', u'Blod-vallningar'],
+             ['GI', u'illam\xe5ende'],
+             ['Skin', u'hudutslag'],
+             ['Reproductive system', u'vaginal bl\xf6dning, vaginal-flytningar']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Blood', u'anemi'],
              ['Immune system', u'\xf6verk\xe4nslighets-reaktioner'],
              ['Nervous system',
+<<<<<<< HEAD
               u'sensoriska st\xf6rningar (inklusive parestesi och dysgeusi), huvudv\xe4rk, yrsel, ischemiska cerebro-vaskul\xe4 ra h\xe4ndelser,'],
              ['Eye', u'katarakt, retinopati'],
              ['Vascular',
               u'Trombo-emboli ska h\xe4ndelser, s\xe5som djup ventrombos, mikrovaskul\xe4r trombos och pulmonell emboli'],
+=======
+              u'sensoriska st\xf6rningar (inklusive parestesi och dysgeusi), huvudv\xe4rk, yrsel, ischemiska cerebro-vaskul\xe4ra h\xe4ndelser,'],
+             ['Eye', u'katarakt, retinopati'],
+             ['Vascular',
+              u'Trombo-emboliska h\xe4ndelser, s\xe5som djup ventrombos, mikrovaskul\xe4r trombos och pulmonell emboli'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'kr\xe4kningar, diarr\xe9, f\xf6rstoppning'],
              ['Hepato', u'stegring av leverenzymer, fettlever'],
              ['Skin', u'alopeci'],
              ['Musculoskeletal', u'kramp i benen, myalgi'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'pruritus vulvae, endometrie-f\xf6r\xe4 ndringar inkluderande hyperplasi och polyper'],
              ['Investigations', u'f\xf6rh\xf6jda triglyceridhalter']]],
            ['Uncommon',
             [['Neoplasms', u'myom, endometrie-can cer'],
+=======
+              u'pruritus vulvae, endometrie-f\xf6r\xe4ndringar inkluderande hyperplasi och polyper'],
+             ['Investigations', u'f\xf6rh\xf6jda triglyceridhalter']]],
+           ['Uncommon',
+            [['Neoplasms', u'myom, endometrie-cancer'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'trombocytopeni, leukopeni'],
              ['Metabolism', u'hyperkalcemi'],
              ['Respiratory', u'interstitiell pneumonit'],
@@ -29,10 +51,17 @@
              ['Skin', u'urtikaria']]],
            ['Rare',
             [['Neoplasms',
+<<<<<<< HEAD
               u'obehag och/eller inflammations-l iknande besv\xe4r i tum\xf6romr\xe5det (tumour flare), uterus sarkom (framf\xf6rallt maligna M\xfcllerska blandtum\xf6rer)'],
              ['Blood', u'neutropeni, agranulocytos'],
              ['Nervous system', u'opticusneurit'],
              ['Eye', u'kornea-f\xf6r\xe4ndri ngar, opticus-neuropa'],
+=======
+              u'obehag och/eller inflammations-liknande besv\xe4r i tum\xf6romr\xe5det (tumour flare), uterus sarkom (framf\xf6rallt maligna M\xfcllerska blandtum\xf6rer)'],
+             ['Blood', u'neutropeni, agranulocytos'],
+             ['Nervous system', u'opticusneurit'],
+             ['Eye', u'kornea-f\xf6r\xe4ndringar, opticus-neuropati'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato',
               u'kolestas, hepatit, heptatocellul\xe4r skada, leversvikt, levernekros'],
              ['Skin',

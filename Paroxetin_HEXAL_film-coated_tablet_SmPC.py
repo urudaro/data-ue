@@ -29,7 +29,11 @@
               u'agitation, illam\xe5ende, tremor, konfusion, svettningar, emotionell instabilitet, synst\xf6rningar, palpitationer, diarr\xe9, irritabilitet. Avslutande av behandling med paroxetin (s\xe4rskilt om det sker pl\xf6tsligt) leder vanligen till uts\xe4ttningssymtom. I allm\xe4nhet \xe4r dessa symtom milda till moderata och upph\xf6r spontant, men hos vissa patienter kan de vara sv\xe5ra och/eller ha f\xf6rl\xe4ngd duration. D\xe4rf\xf6r rekommenderas ett stegvis uts\xe4ttande n\xe4r behandling med paroxetin ska avslutas (se avsnitt 4.2 och 4.4). Biverkningar i kliniska studier hos barn och ungdomar F\xf6ljande biverkningar har observerats: \xd6kad frekvens av suicidrelaterat beteende (inklusive suicidf\xf6rs\xf6k och suicidtankar), sj\xe4lvskadebeteende och fientlighet. Suicidtankar och suicidf\xf6rs\xf6k observerades huvudsakligen i studier av ungdomar med egentlig depression. \xd6kad fientlighet upptr\xe4dde s\xe4rskilt hos barn med tv\xe5ngssyndrom, och s\xe4rskilt hos barn under 12 \xe5r. Ytterligare h\xe4ndelser som f\xf6rekom var: minskad aptit, tremor, svettningar, hyperkinesi, agitation, emotionell labilitet (inklusive gr\xe5t och hum\xf6rsv\xe4ngningar), bl\xf6dningsrelaterade biverkningar s\xe4rskilt i hud och slemhinnor. Biverkningar efter behandlingsavbrott/-nedtrappning av paroxetin \xe4r: emotionell labilitet (inklusive gr\xe5t, hum\xf6rsv\xe4ngningar, sj\xe4lvskada, suicidtankar och suicidf\xf6rs\xf6k), nervositet, yrsel, illam\xe5ende och buksm\xe4rta (se avsnitt 4.4 Varningar och f\xf6rsiktighet). Se avsnitt 5.1 f\xf6r mer information om pediatriska kliniska pr\xf6vningar.']]],
            ['Rare',
             [['Metabolism',
+<<<<<<< HEAD
               u'hyponatremi. Hyponatremi har rapporterats f\xf6retr\xe4desvis hos \xe4ldre patienter och beror ibland p\xe5 inadekvat ADH-ins\xf6ndring (SIADH).'],
+=======
+              u'hyponatremi. Hyponatremi har rapporterats f\xf6retr\xe4desvis hos \xe4ldre patienter och beror ibland p\xe5 inadekvat ADH ins\xf6ndring (SIADH).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric',
               u'maniska reaktioner, \xe5ngest, depersonalisation, panikattacker (se avsnitt 4.4).'],
              ['Nervous system',
@@ -56,7 +60,13 @@
              ['General',
               u'perifert \xf6dem. Uts\xe4ttningssymtom vid avbrytande av behandling med paroxetin']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Psychiatric', u'suicidtankar och suicidalt beteende*'], ['Ear', u'tinnitus']]]],
+=======
+            [['Psychiatric',
+              u'suicidtankar och suicidalt beteende* *Fall av suicidtankar och suicidalt beteende har rapporterats under behandling med paroxetin eller direkt efter avslutad behandling (se avsnitt 4.4). Dessa symtom kan ocks\xe5 bero p\xe5 den bakomliggande sjukdomen'],
+             ['Ear', u'tinnitus']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [8, 10],
  u'_rank': 40,
  u'_type': u'LSFU'}

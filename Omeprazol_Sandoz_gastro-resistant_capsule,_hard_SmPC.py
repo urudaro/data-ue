@@ -3,12 +3,19 @@
              ['GI',
               u'Buksm\xe4rtor, f\xf6rstoppning, diarr\xe9, gasbildning, illam\xe5ende/kr\xe4kningar']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Psychiatric', u'S\xf6mnbesv\xe4r [Skriv text]'],
+=======
+            [['Psychiatric', u'S\xf6mnbesv\xe4r'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Yrsel, parestesier, d\xe5sighet'],
              ['Ear', u'Vertigo'],
              ['Hepato', u'\xd6kade leverenzymer'],
              ['Skin', u'Dermatit, kl\xe5da, hudutslag, urtikaria'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'H\xf6ft-, handleds- eller kotfrakturer (se avsnitt 4.4)'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Sjukdomsk\xe4nsla, perifera \xf6dem']]],
            ['Rare',
             [['Blood', u'Leukopeni, trombocytopeni'],
@@ -27,7 +34,11 @@
              ['General', u'\xd6kad svettning']]],
            ['Very rare',
             [['Blood', u'Agranulocytos, pancytopeni'],
+<<<<<<< HEAD
              ['Metabolism', u'Hypomagnesemi (se avsnitt 4.4)'],
+=======
+             ['Metabolism', u'Hypomagnesemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Aggression, hallucinationer'],
              ['Hepato', u'Leversvikt, encefalopati hos leversjuka patienter'],
              ['Skin',
@@ -35,5 +46,9 @@
              ['Musculoskeletal', u'Muskeltr\xf6tthet'],
              ['Reproductive system', u'Gynekomasti']]]],
  '_pages': [8, 9],
+<<<<<<< HEAD
  u'_rank': 29,
+=======
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

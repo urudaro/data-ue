@@ -53,7 +53,12 @@
              ['Hepato',
               u'leversvikt, levernekros (kan vara fatal), hepatit \u2013 antingen hepatocellul\xe4r eller kolestatisk, gulsot, kolecystit (fr\xe4mst patienter med tidigare kolelitiasis)'],
              ['Reproductive system', u'gynekomasti'],
+<<<<<<< HEAD
              ['Psychiatric', u'dr\xf6mst\xf6rningar, s\xf6mnst\xf6rningar']]],
+=======
+             ['Psychiatric',
+              u'dr\xf6mst\xf6rningar, s\xf6mnst\xf6rningar *Incidenstalen var j\xe4mf\xf6rbara med de f\xf6r placebo- och aktiv kontroll grupp i de kliniska pr\xf6vningarna. **Har endast setts med hydroklortiazid 12,5 mg och 25 mg Frekvensen vanlig f\xf6r muskelkramper h\xe4nf\xf6r sig till hydroklortiaziddoserna 12,5 mg och 25 mg som finns i Renitec Comp medan frekvensen f\xf6r denna biverkan \xe4r mindre vanlig n\xe4r det g\xe4ller 6 mg hydroklortiazid som finns i Synerpril.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['GI', u'intestinalt angio\xf6dem Njur- och urinv\xe4gar'],
              ['Metabolism', u'hyperkalcemi (se avsnitt 4.4)']]],

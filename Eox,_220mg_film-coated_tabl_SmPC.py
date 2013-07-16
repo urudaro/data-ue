@@ -4,7 +4,11 @@
              ['Nervous system', u'Huvudv\xe4rk, somnolens, d\xe5sighet, yrsel.']]],
            ['Uncommon',
             [['GI',
+<<<<<<< HEAD
               u', S\xe4llsynta (>1/10000, <1/1000), Mycket s\xe4llsynta (<1/10000), ok\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
+=======
+              u'(>1/1000, <1/100), S\xe4llsynta (>1/10000, <1/1000), Mycket s\xe4llsynta (<1/10000), ok\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Diarr\xe9, f\xf6rstoppning.'],
              ['Ear', u'Tinnitus, h\xf6rselproblem.'],
              ['Eye', u'Synst\xf6rningar.'],

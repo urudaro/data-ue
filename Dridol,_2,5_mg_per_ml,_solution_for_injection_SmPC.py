@@ -2,10 +2,19 @@
             [['Blood', u'Bloddyskrasi'],
              ['Immune system', u'Anafylaktisk'],
              ['Metabolism', u'Inadekvat'],
+<<<<<<< HEAD
              ['Psychiatric', u'F\xf6rvirringstill   Dysfori   Hallucination   st\xe5nd;   er'],
              ['Nervous system',
               u'D\xe5sighet   Extrapyramid   Epileptiska   ala symtom;   anfall;   Krampanfall;   Parkinsons'],
              ['Cardiac', u'Hj\xe4rtarytmier,   Hj\xe4rtstillest\xe5n   Torsade de'],
+=======
+             ['Psychiatric',
+              u'\xc5ngest; Oro /   F\xf6rvirringstill   Dysfori   Hallucination   Akatisi   st\xe5nd;   er'],
+             ['Nervous system',
+              u'D\xe5sighet   Dystoni;   Extrapyramid   Epileptiska   Okulogyratio   ala symtom;   anfall;   n Krampanfall;   Parkinsons'],
+             ['Cardiac',
+              u'Takykardi;   Hj\xe4rtarytmier,   Hj\xe4rtstillest\xe5n   Torsade de'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Blodtrycksfall   Svimning'],
              ['Respiratory', u'Bronkospasm'],
              ['Skin', u'Hudutslag'],

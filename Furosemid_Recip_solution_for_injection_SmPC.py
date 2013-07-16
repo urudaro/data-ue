@@ -12,6 +12,10 @@
               u'Reversibel h\xf6rselneds\xe4ttning och tinnitus. (Vid h\xf6ga plasmakoncentrationer).'],
              ['Renal', u'Interstitiell nefrit']]],
            ['Unknown', [['Skin', u'Bull\xf6s pemfigoid']]]],
+<<<<<<< HEAD
  '_pages': [3, 3],
+=======
+ '_pages': [3, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 9,
  u'_type': u'LSFU'}

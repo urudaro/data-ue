@@ -69,8 +69,12 @@
               u'Stevens-Johnsons syndrom, erytema multiforme,  toxisk epidermal nekrolys (TEN)'],
              ['Musculoskeletal', u'Muskelsvaghet'],
              ['Hepato', u'Leversvikt, encefalopati hos leversjuka patienter'],
+<<<<<<< HEAD
              ['Reproductive system', u'Gynekomasti'],
              ['Psychiatric', u'']]],
+=======
+             ['Reproductive system', u'Gynekomasti']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Metabolism', u'Hypomagnesemi (se avsnitt'],
              ['Musculoskeletal', u'Muskelsm\xe4rta']]]],

@@ -13,6 +13,10 @@
              ['Musculoskeletal', u' Myosit, rabdomyolys.  '],
              ['Other',
               u' Alopeci. mycket s\xe4llsynta  fall kan erythema multiforme, Stevens-Johnsons syndrom, toxisk epidermal  ']]]],
+<<<<<<< HEAD
  '_pages': [2, 3],
+=======
+ '_pages': [3, 3],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 11,
  u'_type': u'DFSU'}

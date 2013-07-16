@@ -21,7 +21,11 @@
             [['Nervous system',
               u'synkope, dysgeusi/d\xe5lig smak i munnen, serotonergt syndrom.'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Myokardischemi eller hj\xe4rtinfarkt, cerebrovaskul\xe4r h\xe4ndelse. De flesta av dessa'],
+=======
+              u'Myokardischemi eller hj\xe4rtinfarkt, cerebrovaskul\xe4r h\xe4ndelse. De flesta av dessa biverkningar har rapporterats hos patienter med riskfaktorer f\xf6r kransk\xe4rlssjukdom.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'v\xe4sande andning.'],
              ['Skin',
               u'angio\xf6dem (t.ex. ansikts\xf6dem, svullen tunga, svalg\xf6dem), utslag, toxisk epidermal nekrolys (ang\xe5ende angio\xf6dem se \xe4ven avsnitt 4.4).'],

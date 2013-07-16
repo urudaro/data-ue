@@ -79,7 +79,11 @@
            ['Unknown',
             [['Blood', u's\xe4llsynt erytrocytaplasi, agranulocytos, hemolytisk anemi.'],
              ['Infections',
+<<<<<<< HEAD
               u'S\xe5som v\xe4lk\xe4nt vid behandling med andra potenta immunsuppressiva l\xe4kemedel f\xf6religger \xf6kad risk f\xf6r infektioner (virala, bakteriella, svampinfektioner, infektioner orsakade av protozoer). Redan existerande infektioner kan f\xf6rv\xe4rras. B\xe5de generaliserade och lokala infektioner kan f\xf6rekomma. Nefropati orsakad av BK-virus och progressiv multifokal leukoencefalopati (PML) i samband med JC-virusinfektion, har rapporterats hos patienter som behandlats med immunsuppressiva l\xe4kemedel, inklusive Prograf.'],
+=======
+              u'S\xe5som v\xe4lk\xe4nt vid behandling med andra potenta immunsuppressiva l\xe4kemedel f\xf6religger \xf6kad risk f\xf6r infektioner (virala, bakteriella, svampinfektioner, infektioner orsakade av protozoer). Redan existerande infektioner kan f\xf6rv\xe4rras. B\xe5de generaliserade och lokala infektioner kan f\xf6rekomma. Nefropati orsakad av BK-virus och progressiv multifokal leukoencefalopati (PML) i samband med JC virusinfektion, har rapporterats hos patienter som behandlats med immunsuppressiva l\xe4kemedel, inklusive Prograf.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Neoplasms',
               u'Hos patienter som behandlas med immunsuppressiva l\xe4kemedel f\xf6religger \xf6kad risk f\xf6r utveckling av tum\xf6rer. B\xe5de benigna och maligna tum\xf6rer inklusive EBV-associerade lymfoproliferativa sjukdomar och hudtum\xf6rer har rapporterats i samband med takrolimusbehandling.'],
              ['Immune system',

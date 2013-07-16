@@ -1,6 +1,10 @@
 {'_data': [['Very common',
             [['GI', u'Illam\xe5ende, kr\xe4kning'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Muskelrigiditet (inklusive br\xf6stmuskula-ture n)']]],
+=======
+             ['Musculoskeletal', u'Muskelrigiditet (inklusive br\xf6stmuskula-turen)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Nervous system', u'Dyskinesi, sedation, yrsel'],
              ['Cardiac', u'Bradykardi, takykardi, arrytmi'],
@@ -15,7 +19,11 @@
              ['Vascular', u'Flebit, blodtrycksfluktua-tion'],
              ['Respiratory', u'Hyperventilation, hicka'],
              ['General', u'Frossa, hypotermi'],
+<<<<<<< HEAD
              ['Injury', u'Luftv\xe4gskompli-k ationer vid anestesi, postoperativ agitation']]],
+=======
+             ['Injury', u'Luftv\xe4gskompli-kationer vid anestesi, postoperativ agitation']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare', [['Cardiac', u'Asystoli']]],
            ['Unknown',
             [['Immune system',
@@ -25,6 +33,10 @@
              ['Respiratory', u'Andningsdepressio n'],
              ['Skin', u'Pruritus']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [5, 6],
+=======
+ '_pages': [5, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 21,
  u'_type': u'MSFU'}

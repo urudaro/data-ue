@@ -2,7 +2,11 @@
             [['Skin', u'Atrofi.'],
              ['Musculoskeletal', u'Osteoporos, muskelatrofi.'],
              ['Endocrine',
+<<<<<<< HEAD
               u'H\xe4mning av den egna ACTH- och kortisoluts\xf6ndringen samt en Cushing-liknande symptombild. F\xf6rs\xe4mring av diabetes mellitus eller manifestering av latent diabetes mellitus, tillv\xe4xth\xe4mning hos barn.'],
+=======
+              u'H\xe4mning av den egna ACTH- och kortisoluts\xf6ndringen samt en Cushing liknande symptombild. F\xf6rs\xe4mring av diabetes mellitus eller manifestering av latent diabetes mellitus, tillv\xe4xth\xe4mning hos barn.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Hypokalemi, natriumretention.'],
              ['Infections', u'Aktivering av infektioner t ex tuberkulos.']]],
            ['Uncommon',

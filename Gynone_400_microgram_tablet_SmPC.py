@@ -9,21 +9,39 @@
              ['GI', u'Kramper, l\xe4tta till m\xe5ttliga'],
              ['Reproductive system',
               u'Riklig bl\xf6dning f\xf6rekommer i cirka 5% av fallen och kan kr\xe4va skrapning i upp till 1,4% av fallen. Medf\xf6dda och/eller genetiska st\xf6rningar']]],
+<<<<<<< HEAD
            ['Uncommon', [['Skin', u'\xd6verk\xe4nslighet: Hudutslag (0,2%)']]],
            ['Rare',
             [['Nervous system', u'Huvudv\xe4rk'],
              ['Vascular',
               u'Allvarliga kardiovaskul\xe4ra h\xe4ndelser (hj\xe4rtinfarkt och/eller k\xe4rlkramp och sv\xe5r hypotoni) har rapporterats i huvudsak vid icke godk\xe4nd vaginal administrering av misoprostoltabletter.'],
              ['Skin', u''],
+=======
+           ['Uncommon', [['Skin', u'Mindre vanliga \xd6verk\xe4nslighet: Hudutslag (0,2%)']]],
+           ['Rare',
+            [['Nervous system', u'Huvudv\xe4rk'],
+             ['Vascular',
+              u'S\xe4llsynta Allvarliga kardiovaskul\xe4ra h\xe4ndelser (hj\xe4rtinfarkt och/eller k\xe4rlkramp och sv\xe5r hypotoni) har rapporterats i huvudsak vid icke godk\xe4nd vaginal administrering av misoprostoltabletter.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Fosterd\xf6d, medf\xf6dda missbildningar'],
              ['General',
               u'Sjukdomsk\xe4nsla, vagala symtom (v\xe4rmevallningar, yrsel, frossa), feber']]],
            ['Very rare',
             [['Infections',
+<<<<<<< HEAD
               u'Fall av allvarlig eller d\xf6dlig toxisk och septisk chock (orsakade av Clostridium sordellii eller perfringens, Klebsiella pneumoniae, Escherichia coli, Streptococcus grupp A) som kan f\xf6rekomma med eller utan feber eller andra tydliga symtom p\xe5 infektion har rapporterats vid anv\xe4ndning av icke godk\xe4nd vaginal eller buckal administrering av misoprostoltabletter. L\xe4kare b\xf6r vara medvetna om denna potentiellt d\xf6dliga komplikation, se avsnitt 4.4.']]],
            ['Unknown',
             [['Immune system', u'Anafylaxi, \xf6verk\xe4nslighet'],
              ['Musculoskeletal', u'Ryggsm\xe4rta']]]],
  '_pages': [5, 6],
  u'_rank': 13,
+=======
+              u'Fall av allvarlig eller d\xf6dlig toxisk och septisk chock (orsakade av Clostridium sordellii eller perfringens, Klebsiella pneumoniae, Escherichia coli, Streptococcus grupp A) som kan f\xf6rekomma med eller utan feber eller andra tydliga symtom p\xe5 infektion har rapporterats vid anv\xe4ndning av icke godk\xe4nd vaginal eller buckal administrering av misoprostoltabletter. L\xe4kare b\xf6r vara medvetna om denna potentiellt d\xf6dliga komplikation, se avsnitt 4.4.'],
+             ['Skin', u'Angio\xf6dem']]],
+           ['Unknown',
+            [['Immune system', u'Anafylaxi, \xf6verk\xe4nslighet'],
+             ['Musculoskeletal', u'Ingen k\xe4nd frekvens Ryggsm\xe4rta']]]],
+ '_pages': [5, 6],
+ u'_rank': 14,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

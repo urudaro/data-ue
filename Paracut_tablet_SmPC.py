@@ -9,7 +9,11 @@
            ['Rare', [['General', u'exantem']]],
            ['Very rare',
             [['Immune system',
+<<<<<<< HEAD
               u'Kraftiga \xf6verk\xe4nslighetsreaktioner mot paracetamol (Quinke\u2019s \xf6dem, dyspn\xe9,  minskat blodtryck och chock)'],
+=======
+              u'Kraftiga \xf6verk\xe4nslighetsreaktioner mot paracetamol (Quinke\u2019s \xf6dem, dyspn\xe9, minskat  blodtryck och chock)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood',
               u'hematopoetiska st\xf6rningar (trombocytopeni, leukopeni, sporadiska fall av  agranylocytos, pancytopeni)'],
              ['Respiratory', u'bronkospasm.']]]],

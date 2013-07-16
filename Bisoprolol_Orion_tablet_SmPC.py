@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['Cardiac', u'Bradykard']]],
            ['Common',
             [['Nervous system', u'Yrsel, huvudv\xe4rk'],
@@ -12,24 +13,51 @@
              ['Vascular', u'Ortostatisk hypotension'],
              ['Respiratory',
               u'Bronkospasm hos patienter med bronkialastma eller anamnes med obstruktiv sjukdom i andningsv\xe4garn a'],
+=======
+{'_data': [['Very common', [['Cardiac', u'Bradykardi F\xf6rv\xe4rrad']]],
+           ['Common',
+            [['Nervous system', u'Yrsel, huvudv\xe4rk'],
+             ['Cardiac', u'hj\xe4rtsvikt'],
+             ['Vascular', u'K\xe4nsla av kyla eller domning i ben och armar, hypotoni'],
+             ['GI',
+              u'Mag-tarmbesv\xe4r som illam\xe5ende, kr\xe4kningar, diarr\xe9, f\xf6rstoppning'],
+             ['General', u'Asteni, tr\xf6tthet']]],
+           ['Uncommon',
+            [['Psychiatric', u'S\xf6mnst\xf6rningar, depression'],
+             ['Cardiac', u'AV-\xf6verlednings-st\xf6rningar'],
+             ['Vascular', u'Ortostatisk hypotension'],
+             ['Respiratory',
+              u'Bronkospasm hos patienter med bronkialastma eller anamnes med obstruktiv sjukdom i andningsv\xe4garna'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Muskelsvaghet och kramper']]],
            ['Rare',
             [['Psychiatric', u'Mardr\xf6mmar, hallucinationer'],
              ['Nervous system', u'Synkope'],
              ['Eye',
               u'F\xf6rs\xe4mrat t\xe5rfl\xf6de (b\xf6r beaktas om patienten b\xe4r kontaktlinser)'],
+<<<<<<< HEAD
              ['Ear', u'H\xf6rsel-neds\xe4ttni ng'],
              ['Respiratory', u'Allergisk rinit'],
              ['Hepato', u'Hepatit'],
              ['Skin',
               u'\xd6verk\xe4nslighets Beta-blocker -reaktioner (kl\xe5da, rodnad, utslag).'],
+=======
+             ['Ear', u'H\xf6rsel-neds\xe4ttning'],
+             ['Respiratory', u'Allergisk rinit'],
+             ['Hepato', u'Hepatit'],
+             ['Skin', u'\xd6verk\xe4nslighets-reaktioner (kl\xe5da, rodnad, utslag).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Potensst\xf6rningar'],
              ['Investigations',
               u'F\xf6rh\xf6jda triglycerider, f\xf6rh\xf6jda leverenzymer (ALAT, ASAT)']]],
            ['Very rare',
             [['Eye', u'Konjunktivit'],
              ['Skin',
+<<<<<<< HEAD
               u'are kan provocera eller f\xf6rv\xe4rra psoriasis eller inducera psoriasis-lik nande utslag, alopecia.']]]],
+=======
+              u'Beta-blockerare kan provocera eller f\xf6rv\xe4rra psoriasis eller inducera psoriasis-liknande utslag, alopecia.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [7, 8],
  u'_rank': 22,

@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['Nervous system', u'Huvud-v \xe4rk']]],
            ['Common',
             [['Nervous system', u'Yrsel'],
              ['Eye', u'Synrubbnin-g ar, f\xf6r\xe4ndringar i f\xe4rgseendet'],
+=======
+{'_data': [['Very common', [['Nervous system', u'Huvud-v\xe4rk']]],
+           ['Common',
+            [['Nervous system', u'Yrsel'],
+             ['Eye', u'Synrubbnin-gar, f\xf6r\xe4ndringar i f\xe4rgseendet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Rodnad'],
              ['Respiratory', u'N\xe4st\xe4ppa'],
              ['GI', u'Dyspepsi']]],
@@ -17,7 +24,11 @@
              ['General', u'Br\xf6stsm\xe4rtor, tr\xf6tthet'],
              ['Investigations', u'\xd6kad hj\xe4rtfrekvens']]],
            ['Rare',
+<<<<<<< HEAD
             [['Immune system', u'\xd6verk\xe4nslighets-r eaktioner'],
+=======
+            [['Immune system', u'\xd6verk\xe4nslighets-reaktioner'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Cerebrovaskul\xe4r h\xe4ndelse, synkope'],
              ['Ear', u'D\xf6vhet*'],
              ['Vascular', u'Hypertension, hypotension'],

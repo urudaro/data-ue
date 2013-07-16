@@ -26,12 +26,20 @@
             [['Infections', u'Infektion'],
              ['Blood', u'Pancytopeni, neutropeni'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Sj\xe4lvmord, personlighetsst \xf6rningar, onormalt t\xe4nkande'],
+=======
+              u'Sj\xe4lvmord, personlighets-st\xf6rningar, onormalt t\xe4nkande'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Koreoatetos, dyskinesi, hyperkinesi'],
              ['GI', u'Pankreatit'],
              ['Hepato', u'Leversvikt, hepatit'],
              ['Skin',
+<<<<<<< HEAD
               u'Toxisk epidermal nekrolys, Stevens-Johnso ns syndrom, erythema multiforme']]]],
+=======
+              u'Toxisk epidermal nekrolys, Stevens-Johnsons syndrom, erythema multiforme']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [7, 9],
  u'_rank': 26,

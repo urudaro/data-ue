@@ -12,7 +12,15 @@
              ['Nervous system',
               u'Kramper har rapporterats hos patienter som har epilepsi eller allvarligt nedsatt leverfunktion, s\xe4rskilt efter l\xe5ngtidsbehandling med bensodiazepiner eller vid blandf\xf6rgiftningar (se avsnitt 4.4).'],
              ['Vascular', u'\xd6verg\xe5ende h\xf6gt blodtryck (vid uppvaknande).'],
+<<<<<<< HEAD
              ['Skin', u'Urtikaria, hudrodnad.']]]],
  '_pages': [4, 5],
  u'_rank': 7,
+=======
+             ['Skin', u'Urtikaria, hudrodnad.'],
+             ['General',
+              u'Frossa efter snabb injektion, kr\xe4ver i allm\xe4nhet inte behandling.']]]],
+ '_pages': [4, 5],
+ u'_rank': 8,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

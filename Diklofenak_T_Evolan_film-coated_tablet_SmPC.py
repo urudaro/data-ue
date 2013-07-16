@@ -24,7 +24,11 @@
              ['Skin', u'Urtikaria.'],
              ['General', u'Impotens (samband tveksamt), \xf6dem.']]],
            ['Very rare',
+<<<<<<< HEAD
             [['GI', u'<1/10 000'],
+=======
+            [['GI', u'<1/10 000 a'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood',
               u'Trombocytopeni, leukopeni, agranulocytos, hemolytisk anemi, aplastisk anemi.'],
              ['Immune system', u'angioneurotiskt \xf6dem (inklusive ansikts\xf6dem).'],

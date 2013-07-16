@@ -12,7 +12,11 @@
              ['Nervous system', u'Symptomatisk pleurautgjutning/pulmon\xe4r fibros/pleurit'],
              ['GI',
               u'Kr\xe4kningar, dypspepsi, gastrit, f\xf6rstoppning. Gastrointestinala besv\xe4r f\xf6rekommer oftare hos kvinnor \xe4n hos m\xe4n'],
+<<<<<<< HEAD
              ['Skin', u'Ansiktsrodnad Muskoskeletala systemet och bindv\xe4v'],
+=======
+             ['Skin', u'Ansiktsrodnad'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Perifera \xf6dem']]],
            ['Uncommon',
             [['Cardiac', u'Erytromelalgi'],
@@ -20,12 +24,21 @@
              ['Vascular', u'N\xe4sbl\xf6dning']]],
            ['Rare',
             [['Nervous system', u'Pl\xf6tsliga s\xf6mnepisoder'],
+<<<<<<< HEAD
              ['Skin', u'Kramp i fingrar och vader'],
              ['Vascular', u'S\xe4llsynta Svimning Allm\xe4nna symptom och/eller']]],
            ['Unknown',
             [['Nervous system',
               u'Patologiskt spelbeteende, \xf6kad libido och hypersexualitet. Dessa fr\xe5n tillg\xe4ngliga data) beteenden \xe4r vanligen reversibla vid dosreduktion eller vid uts\xe4ttning. \xd6gat'],
              ['GI', u'Retroperiotenal fibros fr\xe5n tillg\xe4ngliga data)'],
+=======
+             ['Musculoskeletal', u'S\xe4llsynta Kramp i fingrar och vader'],
+             ['Vascular', u'S\xe4llsynta Svimning Allm\xe4nna symptom och/eller']]],
+           ['Unknown',
+            [['Nervous system',
+              u'Patologiskt spelbeteende, \xf6kad libido och hypersexualitet. Dessa tillg\xe4ngliga data) beteenden \xe4r vanligen reversibla vid dosreduktion eller vid uts\xe4ttning. \xd6gat'],
+             ['GI', u'Retroperiotenal fibros tillg\xe4ngliga data)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Vanligaste rapporterade biverkningar var dyskinesi, yrsel, hyperkinesi, hallucinationer eller f\xf6rvirring.'],
              ['GI', u'Vanligast var illam\xe5ende, kr\xe4kningar, dyspepsi samt gastrit.'],

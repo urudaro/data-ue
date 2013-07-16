@@ -5,7 +5,11 @@
            ['Unknown',
             [['Psychiatric', u'perifera'],
              ['GI',
+<<<<<<< HEAD
               u'illam\xe5ende, kr\xe4kningar. Lever och gallv\xe4gar Onormal leverfunktion, leversvikt, levernekros, gulsot. Hud och subkutan Pruritus, utslag, svettningar, purpura, angio\xf6dem, v\xe4vnad urtikaria Allm\xe4nna symtom Yrsel (utom vertigo), sjukdomsk\xe4nsla, feber, och/eller symtom sedering, l\xe4kemedelsinteraktion NOS. vid administrationsst\xe4ll et Skador, \xd6verdosering och f\xf6rgiftning f\xf6rgiftningar och behandlingskompli kationer']]]],
+=======
+              u'illam\xe5ende, kr\xe4kningar. Lever och gallv\xe4gar Onormal leverfunktion, leversvikt, levernekros, gulsot. Hud och subkutan Pruritus, utslag, svettningar, purpura, angio\xf6dem, v\xe4vnad urtikaria Allm\xe4nna symtom Yrsel (utom vertigo), sjukdomsk\xe4nsla, feber, sedering, och/eller symtom l\xe4kemedelsinteraktion NOS. vid administrationsst\xe4ll et Skador, \xd6verdosering och f\xf6rgiftning f\xf6rgiftningar och behandlingskomplik ationer']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 4],
  u'_rank': 4,
  u'_type': u'LSFU'}

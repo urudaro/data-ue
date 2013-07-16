@@ -5,6 +5,7 @@
            ['Uncommon',
             [['Skin', u' hudutslag'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'ejakulationsst\xf6rningar, br\xf6st\xf6mhet, br\xf6stf\xf6rstoring']]],
            ['Unknown',
             [['Cardiac', u' palpitationer'],
@@ -13,6 +14,16 @@
               u' \xf6verk\xe4nslighetsreaktioner s\xe5som svullnad av ansikte och l\xe4ppar'],
              ['Hepato', u' f\xf6rh\xf6jda leverv\xe4rden'],
              ['Reproductive system', u'testikelsm\xe4rta']]]],
+=======
+              u' ejakulationsst\xf6rningar, br\xf6st\xf6mhet, br\xf6stf\xf6rstoring']]],
+           ['Unknown',
+            [['Cardiac', u' palpitationer'],
+             ['Skin', u' pruritus, urtikaria'],
+             ['Immune system',
+              u' \xf6verk\xe4nslighetsreaktioner s\xe5som svullnad av ansikte och l\xe4ppar'],
+             ['Hepato', u' f\xf6rh\xf6jda leverv\xe4rden'],
+             ['Reproductive system', u' testikelsm\xe4rta']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 5],
  u'_rank': 10,
  u'_type': u'LSFU2'}

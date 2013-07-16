@@ -22,7 +22,11 @@
              ['GI', u'Dyspepsi Buksm\xe4rtor Flatulens Illam\xe5ende'],
              ['Skin', u'Hudutslag Kl\xe5da'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Vaginalbl\xf6dnin g F\xf6rs\xe4mring av uterina fibroider'],
+=======
+              u'Vaginal-bl\xf6dning F\xf6rs\xe4mring av uterina fibroider'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'\xd6dem'],
              ['Investigations', u'Vikt\xf6kning']]],
            ['Uncommon',

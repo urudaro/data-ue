@@ -38,7 +38,11 @@
              ['Hepato',
               u'Nedsatt leverfunktio n, leverskada, speciellt vid l\xe5ngtidsbeha ndling, leversvikt, akut hepatit, ikterus.'],
              ['Skin',
+<<<<<<< HEAD
               u'Sv\xe5ra former av hudreaktion er (erytema multiforme, exfoliativ dermatit, bl\xe5sbildande reaktioner inklusive Stevens-Joh nson syndrom och toxisk epidermal nekrolys, alopeci, nekrotiseran de fascit.'],
+=======
+              u'Sv\xe5ra former av hudreaktion er (erytema multiforme, exfoliativ dermatit, bl\xe5sbildande reaktioner inklusive Stevens-Johnson syndrom och toxisk epidermal nekrolys, alopeci, nekrotiseran de fascit.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Renal papill\xe4r nekros vid l\xe5ngtidsbeha ndling'],
              ['Investigations', u'Mycket s\xe4llsynta']]]],
  '_note': u' ?MSFU',

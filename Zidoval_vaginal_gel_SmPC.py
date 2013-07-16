@@ -1,5 +1,9 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Infections', u'Vaginal candidainfektion.'],
+=======
+            [['Infections', u'(>1/100, <1/10): Vaginal candidainfektion.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Minskad aptit.'],
              ['Psychiatric', u'Huvudv\xe4rk, yrsel'],
              ['GI',

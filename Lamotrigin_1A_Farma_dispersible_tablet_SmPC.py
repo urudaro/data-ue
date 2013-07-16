@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [[u'Unknown',
             [['Blood',
               u'Hematologiska avvikelser   s\xe5som neutropeni,   Mycket s\xe4llsynta   leukopeni, anemi, trombocytopeni, pancytopeni,'],
@@ -14,3 +15,23 @@
  '_pages': [19, 21],
  u'_rank': 10,
  u'_type': u'LFSU'}
+=======
+{'_data': [['Very common',
+            [['Immune system',
+              u'Ostadighet, motorikst\xf6rningar, f\xf6rs\xe4mring av s\xe4llsynta Parkinsons sjukdom , extrapyramidala biverkningar, koreoatetos , \xf6kad anfallsfrekvens Aseptisk meningit (see avsnitt 4.4) Ingen k\xe4nd frekvens \xd6gon Dubbelseende , dimsyn Mindre vanliga Konjunktivit S\xe4llsynta Magtarmkanalen Illam\xe5ende , kr\xe4kning , diarr\xe9 , muntorrhet Vanliga Lever och gallv\xe4gar Leversvikt, leverdysfunktion 4 , f\xf6rh\xf6jda Mycket leverfunktionsv\xe4rden s\xe4llsynta Hud och subkutan Hudutslag 5\xa7 Mycket vanliga v\xe4vnad Stevens\u2013Johnson Syndrom S\xe4llsynta Toxisk epidermal nekrolys Mycket']]],
+           ['Uncommon', [['Immune system', u'Ataxi']]],
+           ['Rare',
+            [['Immune system',
+              u'Centrala och Huvudv\xe4rk \u2020\xa7 Mycket vanliga perifera nervsystemet S\xf6mnighet \u2020\xa7 , yrsel \u2020\xa7 , tremor , s\xf6mnl\xf6shet \u2020 , Vanliga agitation'],
+             ['Immune system', u'Nystagmus'],
+             ['Immune system',
+              u'Muskuloskeletala Artralgi Vanliga systemet och bindv\xe4v Lupusliknande reaktioner Mycket'],
+             ['Immune system',
+              u'Allm\xe4nna symtom Tr\xf6tthet, v\xe4rk , ryggv\xe4rk Vanliga och/eller symtom Beskrivning av vissa biverkningar 1 Hematologiska avvikelser och lymfadenopati \xe4r m\xf6jligen kopplade till \xf6verk\xe4nslighetssyndromet (se Immunsystemet 2 Hudutslag har \xe4ven rapporterats som delsymtom i ett \xf6verk\xe4nslighetssyndrom med ett varierande m\xf6nster av systemiska symtom med bland annat feber, lymfadenopati, ansikts\xf6dem samt blod- och leverabnormiteter. Syndromet uppvisar mycket varierande klinisk sv\xe5righetsgrad och kan i s\xe4llsynta fall leda till disseminerad intravasal koagulation och multiorgansvikt. Det \xe4r viktigt att notera att tidiga tecken p\xe5 \xf6verk\xe4nslighet (t.ex. feber, lymfadenopati) kan upptr\xe4da utan tecken p\xe5 samtidiga hudreaktioner. Om patienten uppvisar s\xe5dana statusfynd och symtom ska patienten omedelbart utv\xe4rderas och Lamotrigin 1A Farma uts\xe4ttas om inte en annan orsak kan fastst\xe4llas. Dessa biverkningar har rapporterats under annan klinisk erfarenhet. Det finns rapporter om att lamotrigin kan f\xf6rv\xe4rra Parkinson-symtom hos patienter med Parkinsons sjukdom samt enstaka rapporter om extrapyramidala biverkningar och koreoatetos hos patienter utan denna bakomliggande sjukdom. Leverdysfunktion upptr\xe4der vanligtvis i samband med \xf6verk\xe4nslighetsreaktioner men enstaka fall har rapporterats utan tydliga tecken p\xe5 \xf6verk\xe4nslighet. I kliniska studier d\xe4r lamotrigin gavs som till\xe4ggsmedicinering f\xf6rekom hudutslag hos upp till 8-12 % av patienterna som fick lamotrigin och hos 5-6 % av patienterna som fick placebo. Hudutslagen ledde till att lamotrigin sattes ut hos 2 % av patienterna. Utslagen \xe4r vanligtvis makulopapul\xe4ra, upptr\xe4der i allm\xe4nhet inom \xe5tta veckor fr\xe5n behandlingsstart och f\xf6rsvinner vid uts\xe4ttning av Lamotrigin 1A Farma (se avsnitt 4.4). Allvarliga och potentiellt livshotande hudutslag har rapporterats, inkluderande Stevens Johnsons syndrom och toxisk epidermal nekrolys (Lyells syndrom). Fast\xe4n majoriteten av patienterna \xe5terh\xe4mtar sig d\xe5 lamotriginbehandlingen s\xe4tts ut har vissa patienter f\xe5tt irreversibel \xe4rrbildning och s\xe4llsynta associerade d\xf6dsfall har f\xf6rekommit (se avsnitt 4.4). Risken f\xf6r hudutslag f\xf6refaller generellt vara starkt kopplad till: h\xf6ga initialdoser av lamotrigin och \xf6verskridande av den rekommenderade dosupptrappningen av lamotriginbehandlingen (se avsnitt 4.2) samtidig anv\xe4ndning av valproat (se avsnitt 4.2). Hudutslag har \xe4ven rapporterats som del av ett \xf6verk\xe4nslighetssyndrom som s\xe4tts i samband med ett varierande m\xf6nster av systemiska symtom (se Immunsystemet Det har kommit rapporter om s\xe4nkning av benmineraldensitet, osteopeni, osteoporos och frakturer hos patienter som st\xe5r p\xe5 l\xe5ngtidsbehandling med Lamotrigin 1A Farma. Mekanismen, genom vilken Lamotrigin 1A Farma p\xe5verkar benmetabolismen, har inte identifierats.']]],
+           ['Unknown',
+            [['Immune system',
+              u'koagulation, multipel organsvikt). Psykiska st\xf6rningar Aggressivitet, irritabilitet. Vanliga Konfusion, hallucinationer, tics Mycket']]]],
+ '_pages': [19, 21],
+ u'_rank': 7,
+ u'_type': u'LSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

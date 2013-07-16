@@ -14,13 +14,21 @@
              ['Psychiatric',
               u'Nedst\xe4mdhet, oro, nervositet, rastl\xf6shet, s\xf6mnst\xf6rningar inklusive somnolens'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Myokardisk ischemi inklusive angina pectoris eller myokardinfarkt , takykardi, arytmi, palpitationer, perifert \xf6dem'],
+=======
+              u'Myokardisk ischemi inklusive angina pectoris eller myokardinfarkt, takykardi, arytmi, palpitationer, perifert \xf6dem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Svindel, parestesi, ageusi, dysgeusi'],
              ['Eye', u'Visuella st\xf6rningar inklusive dimsyn'],
              ['Vascular', u'Blodvallningar'],
              ['Respiratory', u'Bronkospasm inklusive f\xf6rs\xe4mrad astma, t\xe4ppt n\xe4sa'],
              ['GI',
+<<<<<<< HEAD
               u'Pankreatit (mycket s\xe4llsynta fall av d\xf6dlig utg\xe5ng har rapporterats med ACE-h\xe4mmare) , \xf6kade pankreasenzy-mer, angio\xf6dem i tunntarmen, \xf6vre magsm\xe4rta inklusive gastrit, f\xf6rstoppning, muntorrhet'],
+=======
+              u'Pankreatit (mycket s\xe4llsynta fall av d\xf6dlig utg\xe5ng har rapporterats med ACE-h\xe4mmare), \xf6kade pankreasenzy-mer, angio\xf6dem i tunntarmen, \xf6vre magsm\xe4rta inklusive gastrit, f\xf6rstoppning, muntorrhet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'\xd6kning av leverenzymer och/eller konjugerat bilirubin'],
              ['Skin',
               u'Angio\xf6dem; i mycket s\xe4llsynta fall kan obstruktion i luftv\xe4garna pga angio\xf6dem f\xe5 en d\xf6dlig utg\xe5ng, pruritus, hyperhidros'],
@@ -31,7 +39,11 @@
              ['General', u'Pyrexi']]],
            ['Rare',
             [['Blood',
+<<<<<<< HEAD
               u'Minskat antal vita blodkroppar (inklusive neutropeni eller agranulocytos) , minskat antal r\xf6da blodkroppar, minskat hemoglobin, minskat antal blodpl\xe4ttar'],
+=======
+              u'Minskat antal vita blodkroppar (inklusive neutropeni eller agranulocytos), minskat antal r\xf6da blodkroppar, minskat hemoglobin, minskat antal blodpl\xe4ttar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'F\xf6rvirring'],
              ['Nervous system', u'Tremor, balansst\xf6rning'],
              ['Eye', u'Konjunktivit'],
@@ -41,9 +53,15 @@
              ['Hepato', u'Kolestatisk gulsot, hepatocellul\xe4r skada'],
              ['Skin', u'Exfoliativ dermatit, urtikaria, onkolys,'],
              ['General', u'Asteni']]],
+<<<<<<< HEAD
            ['Very rare', [['Skin', u'Ljus-k\xe4nsli ghets-reakti on']]],
            ['Unknown',
             [['Blood', u'Benm\xe4rgsdep-ress ion, pancytopeni, hemolytisk anemi'],
+=======
+           ['Very rare', [['Skin', u'Ljus-k\xe4nslighets-reaktion']]],
+           ['Unknown',
+            [['Blood', u'Benm\xe4rgsdep-ression, pancytopeni, hemolytisk anemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'Anafylaktiska eller anafylaktoida reaktioner, \xf6kning i antinukle\xe4ra antikroppar'],
              ['Metabolism', u'Minskat blodnatrium'],

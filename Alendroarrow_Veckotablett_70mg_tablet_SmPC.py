@@ -14,15 +14,26 @@
               u'symtomatisk hypokalcemi, ofta associerad med predisponerande tillst\xe5nd. (se avsnitt 4.4).'],
              ['Eye', u'uveit, sklerit, episklerit.'],
              ['GI',
+<<<<<<< HEAD
               u'esofagusstriktur*, orofaryngeal ulceration*, perforation, ulcus och bl\xf6dning i \xf6vre magtarmkanalen) (se avsnitt 4.4).'],
+=======
+              u'esofagusstriktur*, orofaryngeal ulceration*, perforation, ulcus och bl\xf6dning i \xf6vre magtarmkanalen) (se avsnitt 4.4). *Se avsnitt 4.2 och 4.4.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'hudutslag med fotosensitivitet.'],
              ['Musculoskeletal',
               u'Osteonekros i k\xe4ken har rapporterats hos patienter behandlade med bisfosfonater. De flesta rapporterna g\xe4ller cancerpatienter, men fall har ocks\xe5 rapporterats f\xf6r patienter som behandlats f\xf6r osteoporos. Osteonekros i k\xe4ken s\xe4tts vanligtvis i samband med tandutdragning och/eller lokal infektion (inklusive osteomyelit). Cancerdiagnos, cytostatikabehandling, str\xe5lbehandling, kortikosteroider, d\xe5lig munhygien och r\xf6kning anses ocks\xe5 vara riskfaktorer; sv\xe5r muskul oskeletal sm\xe4rta (i skelett, muskler eller leder) (se avsnitt 4.4 \u201dVarningar och f\xf6rsiktighet\u201d). Efter marknadsf\xf6ring har f\xf6ljande biverkningar rapporterats (frekvens: s\xe4llsynt): Atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning).'],
              ['General',
+<<<<<<< HEAD
               u'\xf6verg\xe5ende symtom som vid en akutfasreaktion (myalgi, allm\xe4n sjukdomsk\xe4nsla och i s\xe4llsynta fall feber) vanligtvis i samband med behandlingsstart. Efter godk\xe4nnande f\xf6r f\xf6rs\xe4ljning har f\xf6ljande reaktioner rapporterats (ingen k\xe4nd frekvens): Centrala och perifera nervsystemet: yrsel, dysgeusi. \xd6ron och balansorgan: svindel. Hud och subkutan v\xe4vnad: alopeci. Muskuloskeletala systemet och bindv\xe4v: ledsvullnad. L\xe4kemedelsvkerket 2011-12-02']]],
            ['Very rare',
             [['Skin',
               u'enstaka fall av sv\xe5ra hudreaktioner, d\xe4ribland Stevens-Johnsons syndrom och toxisk epidermal nekrolys.']]],
+=======
+              u'\xf6verg\xe5ende symtom som vid en akutfasreaktion (myalgi, allm\xe4n sjukdomsk\xe4nsla och i s\xe4llsynta fall feber) vanligtvis i samband med behandlingsstart. Efter godk\xe4nnande f\xf6r f\xf6rs\xe4ljning har f\xf6ljande reaktioner rapporterats (ingen k\xe4nd frekvens): L\xe4kemedelsvkerket 2011-12-02']]],
+           ['Very rare',
+            [['Skin',
+              u'enstaka fall av sv\xe5ra hudreaktioner, d\xe4ribland Stevens- Johnsons syndrom och toxisk epidermal nekrolys.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['GI',
               u'buksm\xe4rta 3,7 3,0 6,6 4,8 dyspepsi 2,7 2,2 3,6 3,5 sura uppst\xf6tningar 1,9 2,4 2,0 4,3 illam\xe5ende 1,9 2,4 3,6 4,0 buksp\xe4nning 1,0 1,4 1,0 0,8 f\xf6rstoppning 0,8 1,6 3,1 1,8 diarr\xe9 0,6 0,5 3,1 1,8 dysfagi 0,4 0,5 1,0 0,0 flatulens 0,4 1,6 2,6 0,5 gastrit 0,2 1,1 0,5 1,3 mags\xe5r 0,0 1,1 0,0 0,0 esofaguss\xe5r 0,0 0,0 1,5 0,0 Muskuloskeletala systemet muskuloskeletal (skelett, 2,9 3,2 4,1 2,5 muskel och led) sm\xe4rta muskelkramp 0,2 1,1 0,0 1,0 Centrala och perifera'],

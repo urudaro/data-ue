@@ -1,6 +1,10 @@
 {'_data': [['Very common',
             [['Nervous system', u'Huvudv\xe4rk S\xf6mnst\xf6rningar Rastl\xf6shet Nervositet'],
+<<<<<<< HEAD
              ['GI', u'Buksm\xe4rta'],
+=======
+             ['GI', u'Buksm\xe4rta Bukkramper Illam\xe5ende Kr\xe4kningstendens'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Led-och muskelsm\xe4rtor'],
              ['General', u'Orkesl\xf6shet']]],
            ['Common',
@@ -9,7 +13,11 @@
              ['Nervous system', u'T\xf6rst Yrsel Frossa \xd6kad svettning Vertigo'],
              ['Eye', u'\xd6kad t\xe5rsekretion (lakrimation)'],
              ['Respiratory', u'Sm\xe4rtor i br\xf6stkorgen'],
+<<<<<<< HEAD
              ['GI', u'Diarr\xe9'],
+=======
+             ['GI', u'Diarr\xe9 F\xf6rstoppning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Hudutslag'],
              ['Renal', u'Urinretention'],
              ['Reproductive system', u'F\xf6rdr\xf6jd s\xe4desutt\xf6mning Minskad potens'],

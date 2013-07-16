@@ -12,10 +12,17 @@
              ['Skin',
               u'Hudutslag/exantem/   Urtikaria,   Stevens-Johnsons   eruption, pruritus   angio\xf6dem   syndrom, Lyells'],
              ['Musculoskeletal',
+<<<<<<< HEAD
               u'H\xf6ft-, handleds-   Artralgi, myalgi   eller kotfrakturer (se   avsnitt 4.4)'],
              ['Renal', u'Interstitiell nefrit.'],
              ['Reproductive system', u'Gynekomasti'],
              ['General', u'Asteni, tr\xf6tthet och   F\xf6rh\xf6jd']]]],
+=======
+              u'H\xf6ft-, handleds- eller   Artralgi, myalgi   kotfrakturer (se   avsnitt 4.4)'],
+             ['Renal', u'Interstitiell nefrit.'],
+             ['Reproductive system', u'Gynekomasti'],
+             ['General', u'Asteni, tr\xf6tthet och   F\xf6rh\xf6jd kropps-']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 5],
  u'_rank': 13,
  u'_type': u'LFSU'}

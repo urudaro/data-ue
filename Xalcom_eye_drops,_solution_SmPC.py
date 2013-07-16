@@ -39,6 +39,10 @@
              ['Musculoskeletal', u'Myalgi.'],
              ['Reproductive system', u'Sexuell dysfunktion, minskad libido.'],
              ['General', u'Asteni/tr\xf6tthet.']]]],
+<<<<<<< HEAD
  '_pages': [5, 7],
+=======
+ '_pages': [5, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 27,
  u'_type': u'LSFU'}

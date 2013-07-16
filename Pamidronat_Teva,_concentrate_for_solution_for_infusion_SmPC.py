@@ -14,11 +14,19 @@
             [['Blood', u' Anemi, leukopeni'],
              ['Immune system',
               u' \xd6verk\xe4nslighetsreaktioner inklusive anafylaktiska reaktioner, bronkospasm, dyspn\xe9, angioneurotiskt \xf6dem'],
+<<<<<<< HEAD
              ['Metabolism', u'Hyperkalemi, hypokalemi, hypernatremi'],
              ['Nervous system',
               u' Agitation, f\xf6rvirringstillst\xe5nd, yrsel, s\xf6mnsv\xe5righeter, d\xe5sighet, letargi'],
              ['Eye', u' Uveit (irit, iridocyklit), sklerit, episklerit, konjunktivit'],
              ['GI', u'Buksm\xe4rtor, anorexi, diarr\xe9, f\xf6rstoppning, dyspepsi'],
+=======
+             ['Metabolism', u' Hyperkalemi, hypokalemi, hypernatremi'],
+             ['Nervous system',
+              u' Agitation, f\xf6rvirringstillst\xe5nd, yrsel, s\xf6mnsv\xe5righeter, d\xe5sighet, letargi'],
+             ['Eye', u' Uveit (irit, iridocyklit), sklerit, episklerit, konjunktivit'],
+             ['GI', u' Buksm\xe4rtor, anorexi, diarr\xe9, f\xf6rstoppning, dyspepsi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u' Hudutslag, kl\xe5da '],
              ['Musculoskeletal', u' Muskelkramper']]],
            ['Rare',
@@ -26,6 +34,7 @@
              ['Renal',
               u' Fokal segmental glomeruloskleros inbegripet den kollapsande varianten, nefrotiskt syndrom, renal tubul\xe4r st\xf6rning, glomerulonefropati, tubulointerstitiell nefrit']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Blood', u'inklusive enskilda rapporter Trombocytopeni'],
              ['Immune system', u'Anafylaktisk'],
              ['Nervous system', u'Kramper,'],
@@ -37,4 +46,18 @@
               u' Onormala leverfunktionsprover, f\xf6rh\xf6jt serumkreatinin, f\xf6rh\xf6jt blodurea']]]],
  '_pages': [6, 7],
  u'_rank': 26,
+=======
+            [['Blood', u'r Trombocytopeni'],
+             ['Immune system', u' Anafylaktisk'],
+             ['Metabolism', u'r Hypernatremi med f\xf6rvirringstillst\xe5nd'],
+             ['Nervous system', u' Kramper,'],
+             ['Eye', u' Xantopsi, inflammation i \xf6gonh\xe5lan'],
+             ['GI', u' L\xe5gt'],
+             ['GI', u' Gastrit'],
+             ['Renal', u' F\xf6rs\xe4mrad'],
+             ['Investigations',
+              u' Onormala leverfunktionsprover, f\xf6rh\xf6jt serumkreatinin, f\xf6rh\xf6jt blodurea']]]],
+ '_pages': [6, 7],
+ u'_rank': 27,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU2'}

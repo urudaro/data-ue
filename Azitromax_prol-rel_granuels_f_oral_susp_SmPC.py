@@ -21,7 +21,13 @@
              ['Skin', u'Urtikaria'],
              ['Investigations',
               u'Aggressivitet, nervositet, agitation, oro, rastl\xf6shet, trombocytopeni, parestesi, synkop\xe9, h\xf6rselneds\xe4ttning inkluderande d\xf6vhet och/eller tinnitus, hj\xe4rtartymier inklusive ventrikul\xe4r takykardi, hj\xe4rtklappning, QT f\xf6rl\xe4ngning torsades de pointes*, hypotension, intrahepatisk gallstas, hepatit, levernekros och leversvikt (s\xe4llan fatal), angio\xf6dem, fotosensibilitet, erytema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys, interstitiell nefrit, akut njurinsufficiens, anafylaxi, inklusive anafylaktisk chock och \xf6dem, missf\xe4rgningar av tungan.']]],
+<<<<<<< HEAD
            ['Unknown', [['Investigations', u'Hypoestesi']]]],
+=======
+           ['Unknown',
+            [['Investigations',
+              u'Hypoestesi *Hj\xe4rtklappningar och arytmier inklusive ventrikul\xe4r takykardi (som setts vid behandling med andra makrolider) har rapporterats. S\xe4llsynta rapporter av QT f\xf6rl\xe4ngning och torsades de pointes har f\xf6rekommit. Ett orsakssamband mellan azitromycin och dessa effekter har inte kunnat uteslutas (se avsnitt 4.4 Varningar och f\xf6rsiktighet).']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [5, 7],
  u'_rank': 18,
  u'_type': u'LSFU'}

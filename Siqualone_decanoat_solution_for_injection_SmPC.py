@@ -4,7 +4,11 @@
               u'Menstruationsrubbningar, galaktorr\xe9, impotens hos m\xe4n och nedsatt sexuellt  intresse hos kvinnor.'],
              ['GI', u'Muntorrhet.'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Extrapyramidala biverkningar. Parkinsonism, akatisi, rigiditet, tremor, akinesi,  hypokinesi. Akut dystoni, okulogyra kriser, opistotonus. Tardiv dyskinesi  (l\xe5ngtidsbehandling).']]],
+=======
+              u'Extrapyramidala biverkningar. Parkinsonism, akatisi, rigiditet, tremor, akinesi,  hypokinesi. Akut dystoni, okulogyra kriser, opistotonus. Tardiv dyskinesi (l\xe5ngtidsbehandling).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['General', u'Vikt\xf6kning/viktminskning, salivation.'],
              ['Vascular', u'Ortostatism.'],

@@ -60,7 +60,11 @@
               u'Anafylaktiska eller anafylaktoida reaktioner p\xe5 antingen ramipril eller anafylaktisk reaktion p\xe5 hydroklortiazid, \xf6kning i antinukle\xe4ra antikroppar'],
              ['Hepato', u'Akut leversvikt, kolestatisk gulsot, hepatocellul\xe4r skada'],
              ['Reproductive system', u'Gynekomasti, minskat libido'],
+<<<<<<< HEAD
              ['Psychiatric', u'F\xf6rvirring, rastl\xf6shet, uppm\xe4rksamhetsst\xf6r-n ing']]]],
+=======
+             ['Psychiatric', u'F\xf6rvirring, rastl\xf6shet, uppm\xe4rksamhetsst\xf6r-ning']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [8, 10],
  u'_rank': 38,

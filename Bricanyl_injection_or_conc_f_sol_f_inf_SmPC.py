@@ -26,6 +26,10 @@
              ['Skin', u'Urtikaria och exantem.'],
              ['Musculoskeletal', u'Muskelkramper.']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [3, 4],
+=======
+ '_pages': [3, 5],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 19,
  u'_type': u'MSFU'}

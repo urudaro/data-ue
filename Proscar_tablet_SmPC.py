@@ -12,7 +12,11 @@
              ['Immune system',
               u' \xf6verk\xe4nslighetsreaktioner s\xe5som svullnad av ansikte och l\xe4ppar'],
              ['Hepato', u' f\xf6rh\xf6jda leverv\xe4rden'],
+<<<<<<< HEAD
              ['Reproductive system', u'testikelsm\xe4rta']]]],
+=======
+             ['Reproductive system', u' testikelsm\xe4rta']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [2, 3],
  u'_rank': 10,
  u'_type': u'LSFU2'}

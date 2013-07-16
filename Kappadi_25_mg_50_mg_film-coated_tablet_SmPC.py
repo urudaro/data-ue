@@ -7,7 +7,12 @@
              ['Skin', u'Utslag.']]],
            ['Uncommon', [['Vascular', u'Bronkospasm']]],
            ['Rare',
+<<<<<<< HEAD
             [['GI', u'), inklusive enstaka rapporter.'],
+=======
+            [['GI',
+              u'(<1/10000), inklusive enstaka rapporter. Tabellen inkluderar biverkningar b\xe5de fr\xe5n l\xe5ngtids- och korttidsanv\xe4ndning.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'\xd6verk\xe4nslighetsreaktioner inklusive anafylaktiska och anafylaktoida reaktioner (inklusive hypotoni och chock).'],
              ['Nervous system', u'Somnolens.'],

@@ -1,7 +1,11 @@
 {'_data': [['Common',
             [['Vascular', u' Hypokalemi, natriumretention med \xe5tf\xf6ljande \xf6dem.  '],
              ['Endocrine',
+<<<<<<< HEAD
               u' H\xe4mning av endogen ACTH- och  kortisoluts\xf6ndring, Cushing-liknande symtombild, tillv\xe4xth\xe4mning hos barn, osteoporos, muskel- och hudatrofi med f\xf6rs\xe4mrad s\xe5rl\xe4kning. Diabetes mellitus kan f\xf6rs\xe4mras och latent diabetes bli manifest. '],
+=======
+              u' H\xe4mning av endogen ACTH- och kortisoluts\xf6ndring, Cushing-liknande symtombild, tillv\xe4xth\xe4mning hos barn, osteoporos, muskel- och hudatrofi med f\xf6rs\xe4mrad s\xe5rl\xe4kning. Diabetes mellitus kan f\xf6rs\xe4mras och latent diabetes bli manifest. '],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Other', u' H\xe4mning av infektionsf\xf6rsvaret. ']]],
            ['Uncommon',
             [['Skin', u' Hud- och mjukdelsatrofier vid subkutan injektion.  '],

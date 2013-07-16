@@ -38,6 +38,10 @@
              ['Investigations', u'Viktminskning']]],
            ['Unknown', [['Skin', u'Erythema multiforme']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [11, 14],
+=======
+ '_pages': [12, 14],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 31,
  u'_type': u'MSFU'}

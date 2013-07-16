@@ -1,6 +1,10 @@
 {'_data': [['Rare',
             [['Blood',
+<<<<<<< HEAD
               u'Hemorragiska manifestationer (t.ex. gynekologisk bl\xf6dning, bl\xf6dning fr\xe5n mag-tarmkanalen och andra hud- eller slemhinnebl\xf6dningar) (se avsnitt 4.4, Bl\xf6dningar).'],
+=======
+              u'Hemorragiska manifestationer (t.ex. gynekologisk bl\xf6dning, bl\xf6dning fr\xe5n mag- tarmkanalen och andra hud- eller slemhinnebl\xf6dningar) (se avsnitt 4.4, Bl\xf6dningar).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism',
               u'Hyponatremi (omfattande serumnatrium mindre \xe4n 110 mmol/l) har rapporterats och f\xf6refaller vara reversibel d\xe5 fluoxetin uts\xe4tts. N\xe5gra fall beror sannolikt p\xe5 otillr\xe4cklig uts\xf6ndring av antidiuretiskt hormon. Flertalet av rapporterna h\xe4rr\xf6rde fr\xe5n \xe4ldre patienter och patienter som fick diuretika eller hade v\xe4tskebrist av annan anledning.'],
              ['Respiratory',

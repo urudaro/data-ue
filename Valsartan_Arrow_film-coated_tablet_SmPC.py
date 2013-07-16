@@ -1,5 +1,9 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Metabolism', u'Yrsel, postural yrsel'],
+=======
+            [['Nervous system', u'Yrsel, postural yrsel'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypotoni, ortostatisk hypotoni'],
              ['Renal', u'Njursvikt och nedsatt njurfunktion']]],
            ['Uncommon',
@@ -8,7 +12,11 @@
              ['GI', u'Buksm\xe4rta'],
              ['General', u'Tr\xf6tthet'],
              ['Metabolism', u'Hyperkalemi'],
+<<<<<<< HEAD
              ['Metabolism', u'Synkope, huvudv\xe4rk'],
+=======
+             ['Nervous system', u'Synkope, huvudv\xe4rk'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'Vertigo'],
              ['Cardiac', u'Hj\xe4rtsvikt'],
              ['Respiratory', u'Hosta'],
@@ -28,7 +36,11 @@
              ['Renal', u'Njursvikt och nedsatt njurfunktion, f\xf6rh\xf6jt serumkreatinin'],
              ['Blood', u'Trombocytopeni'],
              ['Immune system', u'\xd6verk\xe4nslighet inklusive serumsjuka'],
+<<<<<<< HEAD
              ['Metabolism', u'F\xf6rh\xf6jt serumkalium, hyponatremi Centrala och perifera'],
+=======
+             ['Metabolism', u'F\xf6rh\xf6jt serumkalium, hyponatremi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Vaskulit'],
              ['Hepato', u'F\xf6rh\xf6jda leverfunktionsv\xe4rden'],
              ['Skin', u'Utslag, kl\xe5da'],

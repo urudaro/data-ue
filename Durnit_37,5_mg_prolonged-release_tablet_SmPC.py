@@ -6,14 +6,22 @@
            ['Common',
             [['Metabolism', u'F\xf6rh\xf6jt serumkolesterol, viktminskning'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Onormala dr\xf6mmar, s\xe4nkt libido, yrsel, \xf6kad muskeltonus (hypertoni), insomnia, nervositet, parestesier, sedation, tremor, f\xf6rvirring, personlighets-f\xf6r\xe4n dring'],
+=======
+              u'Onormala dr\xf6mmar, s\xe4nkt libido, yrsel, \xf6kad muskeltonus (hypertoni), insomnia, nervositet, parestesier, sedation, tremor, f\xf6rvirring, personlighets-f\xf6r\xe4ndring'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Onormal ackommodation, mydriasis, synst\xf6rning'],
              ['Cardiac',
               u'Hypertoni, vasodilatation (mest v\xe4rmevallningar/ blodvallningar), hj\xe4rtklappning'],
              ['Respiratory', u'G\xe4spning'],
              ['GI', u'Minskad aptit (anorexi), f\xf6rstoppning, kr\xe4kning'],
              ['Renal',
+<<<<<<< HEAD
               u'Onormal ejakulation/orgasm (m\xe4n), anorgasmi, erektil dysfunktion (impotens), f\xf6rs\xe4mrad urinering (mest sv\xe5righeter att komma ig\xe5ng), menstruations-st\xf6rn ingar s\xe5som \xf6kad bl\xf6dning eller mer oregelbunden bl\xf6dning (t.ex. menorragi, metrorragi), pollakisuri'],
+=======
+              u'Onormal ejakulation/orgasm (m\xe4n), anorgasmi, erektil dysfunktion (impotens), f\xf6rs\xe4mrad urinering (mest sv\xe5righeter att komma ig\xe5ng), menstruations-st\xf6rningar s\xe5som \xf6kad bl\xf6dning eller mer oregelbunden bl\xf6dning (t.ex. menorragi, metrorragi), pollakisuri'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Asteni (tr\xf6tthet), frossbrytningar']]],
            ['Uncommon',
             [['Blood', u'Ekkymos, gastrointestinal bl\xf6dning'],
@@ -26,10 +34,17 @@
              ['Skin', u'Hudutslag, alopeci'],
              ['Renal', u'Onormal orgasm (kvinnor), urinretention'],
              ['General',
+<<<<<<< HEAD
               u'Angio\xf6dem, Ljusk\xe4nslighets-reakt ion * F\xf6rekomsten av huvudv\xe4rk i poolade kliniska studier var 30,3 % med venlafaxin och 31.3 % med']]],
            ['Rare',
             [['Nervous system',
               u'Akatisi/psyko-m otorisk rastl\xf6shet, kramper, manisk reaktion'],
+=======
+              u'Angio\xf6dem, Ljusk\xe4nslighets-reaktion * F\xf6rekomsten av huvudv\xe4rk i poolade kliniska studier var 30,3 % med venlafaxin och 31.3 % med']]],
+           ['Rare',
+            [['Nervous system',
+              u'Akatisi/psyko-motorisk rastl\xf6shet, kramper, manisk reaktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Urininkontinens']]],
            ['Unknown',
             [['Blood',

@@ -4,11 +4,19 @@
              ['Respiratory', u'faryngit, hosta *'],
              ['GI', u'illam\xe5ende, gasbildning, hicka, epigastrit, kr\xe4kningar, stomatit'],
              ['General', u'munntorrhet, irritation i munh\xe5la och esofagus, n\xe4st\xe4ppa']]],
+<<<<<<< HEAD
            ['Uncommon', [['Cardiac', u'palpita-tio ner']]],
            ['Rare',
             [['Immune system',
               u'allergiska reaktioner som t ex angio\xf6dem, anafylaktiska reaktioner'],
              ['Cardiac', u'f\xf6rmaks-flimm er']]],
+=======
+           ['Uncommon', [['Cardiac', u'palpita-tioner']]],
+           ['Rare',
+            [['Immune system',
+              u'allergiska reaktioner som t ex angio\xf6dem, anafylaktiska reaktioner'],
+             ['Cardiac', u'f\xf6rmaks-flimmer']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare', []],
            ['Unknown', [['Skin', u'erytem, urtikaria']]]],
  '_note': u' ?MSFU',

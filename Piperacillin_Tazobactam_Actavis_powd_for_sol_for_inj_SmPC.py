@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['Skin', u'utslag, inklusive makulopapul\xe4rt utslag']]],
+=======
+{'_data': [['Common',
+            [['GI', u'diarr\xe9, kr\xe4kning, illam\xe5ende'],
+             ['Skin', u'utslag, inklusive makulopapul\xe4rt utslag']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'Candidasuperinfektion'],
              ['Blood', u'leukopeni, neutropeni, trombocytopeni'],
@@ -32,5 +38,9 @@
              ['Renal', u'f\xf6rh\xf6jt blodurea']]]],
  '_note': u' ?MSFU',
  '_pages': [7, 8],
+<<<<<<< HEAD
  u'_rank': 24,
+=======
+ u'_rank': 25,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

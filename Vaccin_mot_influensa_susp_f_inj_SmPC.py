@@ -1,6 +1,10 @@
 {'_data': [['Unknown',
             [['Skin',
+<<<<<<< HEAD
               u'subkutan v\xe4vnad Muskuloskeletala Myalgi, systemet och artralgi* bindv\xe4v Allm\xe4nna Feber, symtom och/eller sjukdomsk\xe4nsla, symtom vid frossa, tr\xf6tthet administreringsst Lokala \xe4llet reaktioner: rodnad, svullnad, sm\xe4rta, ekkymos, f\xf6rh\xe5rdnader*'],
+=======
+              u'v\xe4vnad Muskuloskeletala Myalgi, systemet och artralgi* bindv\xe4v Allm\xe4nna symtom Feber, och/eller symtom sjukdomsk\xe4nsla vid , frossa, tr\xf6tthet administrerings- Lokala st\xe4llet reaktioner: rodnad, svullnad, sm\xe4rta, ekkymos, f\xf6rh\xe5rdnader* *Dessa reaktioner f\xf6rsvinner vanligtvis inom 1\u20132 dagar utan behandling. BIVERKNINGAR RAPPORTERADE I SAMBAND MED UPPF\xd6LJNING EFTER GODK\xc4NNANDE F\xd6R F\xd6RS\xc4LJNING F\xf6rutom de reaktioner som observerats vid kliniska pr\xf6vningar har \xe4ven f\xf6ljande biverkningar rapporterats i samband med uppf\xf6ljning efter godk\xe4nnande f\xf6r f\xf6rs\xe4ljning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'\xd6verg\xe5ende trombocytopeni, \xf6verg\xe5ende lymfadenopati'],
              ['Immune system',
               u'Allergiska reaktioner som i s\xe4llsynta fall leder till chock, angio\xf6dem'],

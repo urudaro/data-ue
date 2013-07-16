@@ -63,7 +63,11 @@
              ['Eye', u'xantopsi'],
              ['Ear', u'nekrotiserande angit (vaskulit, kutan vaskulit)'],
              ['Investigations',
+<<<<<<< HEAD
               u'glukosuri \u2020 Frekvensen av muskelkramper som vanligen g\xe4ller f\xf6r doser av hydroklortiazid om 12,5 mg och 25 mg, medan frekvensen av h\xe4ndelsen \xe4r mindre vanlig f\xf6r doser om 6 mg av hydroklortiazid.']]]],
+=======
+              u'glukosuri \u2020 Frekvensen av muskelkramper som vanligen g\xe4ller f\xf6r doser av hydroklortiazid om 12,5 mg och 25 mg, medan frekvensen av h\xe4ndelsen \xe4r mindre vanlig f\xf6r doser om 6 mg av hydroklortiazid. * Dessa biverkningar \xe4r endast relevant f\xf6r hydroklortiaziddoser om 12,5 mg och 25 mg']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [10, 12],
  u'_rank': 47,
  u'_type': u'LSFU'}

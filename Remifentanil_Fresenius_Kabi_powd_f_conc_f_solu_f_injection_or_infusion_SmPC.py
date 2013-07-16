@@ -18,7 +18,13 @@
              ['Nervous system', u'sedering (under uppvaknandet efter allm\xe4n anestesi)'],
              ['Cardiac',
               u'asystoli/hj\xe4rtstopp med f\xf6reg\xe5ende bradykardi hos patienter som behandlats med remifentanil i kombination med andra anestetika']]],
+<<<<<<< HEAD
            ['Unknown', [['Psychiatric', u'beroende']]]],
  '_pages': [17, 18],
  u'_rank': 15,
+=======
+           ['Unknown', [['Psychiatric', u'beroende'], ['Skin', u'Sida 17 av 24']]]],
+ '_pages': [17, 18],
+ u'_rank': 16,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

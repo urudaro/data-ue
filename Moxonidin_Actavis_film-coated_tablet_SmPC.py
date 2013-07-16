@@ -5,7 +5,12 @@
              ['Nervous system',
               u'd\xe5sighet, huvudv\xe4rk*, yrsel, somnolens, svindel, s\xf6mnst\xf6rningar'],
              ['Vascular', u'vasodilatation'],
+<<<<<<< HEAD
              ['GI', u'f\xf6rstoppning och andra st\xf6rningar i magtarmkanalen'],
+=======
+             ['GI',
+              u'kr\xe4kningar, dyspepsi*, f\xf6rstoppning och andra st\xf6rningar i magtarmkanalen'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'utslag, kl\xe5da'],
              ['Musculoskeletal', u'ryggv\xe4rk']]],
            ['Uncommon',

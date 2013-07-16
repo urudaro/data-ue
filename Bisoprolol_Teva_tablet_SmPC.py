@@ -30,7 +30,11 @@
              ['Skin', u'\xf6verk\xe4nslighetsreaktioner som kl\xe5da, rodnad och utslag'],
              ['Reproductive system', u'potensst\xf6rningar'],
              ['General',
+<<<<<<< HEAD
               u'f\xf6rh\xf6jda triglycerider, f\xf6rh\xf6jda leverenzymer (ALAT, ASAT) G\xe4ller f\xf6r hypertoni och angina pectoris']]],
+=======
+              u'f\xf6rh\xf6jda triglycerider, f\xf6rh\xf6jda leverenzymer (ALAT, ASAT) G\xe4ller f\xf6r hypertoni och angina pectoris * dessa symtom upptr\xe4der framf\xf6rallt i b\xf6rjan av behandlingen, symtomen \xe4r vanligen milda och f\xf6rsvinner oftast inom 1 till 2 veckor.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Eye', u'konjunktivit'],
              ['Skin',

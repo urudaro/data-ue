@@ -124,6 +124,10 @@
              ['Infections', u'Infektion (G3/4:6,3 %) Neutropen infektion'],
              ['General',
               u'Letargi (G3/4: 3,4 %) Pyrexi (G3/4:0,6 %) V\xe4tskeretention \xd6dem'],
+<<<<<<< HEAD
+=======
+             ['Immune system', u'Induktionskemoterapi f\xf6ljt av radioterapi (TAX 324)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'Viktminskning'],
              ['Blood',
               u'Neutropeni (G3/4:83,5 %) Anemi (G3/4:12,4 %) Trombocytopeni (G3/4: 4,0 %) Febril neutropeni'],
@@ -251,5 +255,9 @@
              ['Immune system', u'\xd6verk\xe4nslighetsreaktio ner']]]],
  '_note': u' ?MSFU',
  '_pages': [10, 26],
+<<<<<<< HEAD
  u'_rank': 189,
+=======
+ u'_rank': 190,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

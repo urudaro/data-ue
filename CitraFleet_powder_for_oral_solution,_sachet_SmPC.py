@@ -13,7 +13,12 @@
              ['Metabolism', u'hyponatremi'],
              ['Nervous system',
               u'epilepsi, grand mal-anfall, krampanfall, f\xf6rvirringstillst\xe5nd'],
+<<<<<<< HEAD
              ['GI', u'diarr\xe9*, flatulens'],
+=======
+             ['GI',
+              u'diarr\xe9*, flatulens *Diarr\xe9 \xe4r den fr\xe4msta kliniska effekten av CitraFleet.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'hudutslag (inklusive erytemat\xf6sa och makulopapul\xf6sa utslag), urtikaria, kl\xe5da och purpura'],
              ['General',

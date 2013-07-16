@@ -25,7 +25,11 @@
              ['Ear', u'tinnitus Hj\xe4rtat och blodk\xe4rl'],
              ['Ear',
               u'flushing, palpitationer , hj\xe4rtinfarkt eller cerebrovaskul\xe4r h\xe4ndelse m\xf6jligtvis sekund\xe4r till uttalad hypotoni hos h\xf6griskpatienter (se avsnitt 4.4)'],
+<<<<<<< HEAD
              ['Respiratory', u'rinorr\xe9, halont och heshet, bronkospasm/astma'],
+=======
+             ['Respiratory', u'; rinorr\xe9, halont och heshet, bronkospasm/astma'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'ileus, pankreatit, kr\xe4kningar, dyspepsi, f\xf6rstoppning, anorexi, magirritation, muntorrhet, mags\xe5r, flatulens'],
              ['Skin', u'diafores, pruritus, urtikaria, alopeci'],
@@ -47,7 +51,11 @@
              ['Hepato',
               u'leversvikt, levernekros (kan vara d\xf6dlig), hepatit \u2013 antingen hepatocellul\xe4r eller kolestatisk, gulsot, kolecystit (fr\xe4mst patienter med tidigare kolelitiasis)'],
              ['Skin',
+<<<<<<< HEAD
               u'erythema multiforme, Stevens-Johnsons syndrom, exfoliativ dermatit, toxisk epidermal nekrolys, purpura, kutan lupus erythematosus, erytrodermi, pemfigus Ett symtomkomplex har rapporterats vilket kan inkludera n\xe5gra eller alla av f\xf6ljande symptom: feber, serosit, vaskulit, myalgi/myosit, artralgi/artrit, positivt test p\xe5 ANA, f\xf6rh\xf6jda ESR-v\xe4rden, eosinofili och leukocytos. Utslag, fotosensitivitet eller andra dermatologiska yttringar kan f\xf6rekomma.'],
+=======
+              u'erythema multiforme, Stevens-Johnsons syndrom, exfoliativ dermatit, toxisk epidermal nekrolys, purpura, kutan lupus erythematosus, erytrodermi, pemfigus Ett symtomkomplex har rapporterats vilket kan inkludera n\xe5gra eller alla av f\xf6ljande symptom: feber, serosit, vaskulit, myalgi/myosit, artralgi/artrit, positivt test p\xe5 ANA, f\xf6rh\xf6jda ESR v\xe4rden, eosinofili och leukocytos. Utslag, fotosensitivitet eller andra dermatologiska yttringar kan f\xf6rekomma.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'oliguri, interstitiell nefrit'],
              ['Reproductive system', u'gynekomasti'],
              ['Investigations',

@@ -20,9 +20,16 @@
            ['Rare',
             [['Nervous system', u'Extrapyramidala symtom'],
              ['Cardiac', u'Sinoatriellt block Atrioventrikul\xe4rt block'],
+<<<<<<< HEAD
              ['Hepato', u'Leverp\xe5verkan inklusive hepatit***']]],
            ['Very rare', [['Nervous system', u'Neuroleptiskt malignt syndrom']]]],
  '_note': u' ?MSFU',
  '_pages': [5, 6],
  u'_rank': 20,
+=======
+             ['Hepato', u'Leverp\xe5verkan inklusive hepatit***']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 6],
+ u'_rank': 19,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

@@ -20,6 +20,7 @@
              ['Investigations',
               u'liten till m\xe5ttlig \xf6kning av serumtransaminaser och/eller alkaliska fosfataser. Amnesi Anterograd amnesi kan f\xf6rekomma vid terapeutiska doser och risken \xf6kar vid h\xf6gre dos. Amnesi kan \xe5tf\xf6ljas av ol\xe4mpligt beteende (se avsnitt 4.4 Varningar och f\xf6rsiktighet). Depression En befintlig depression kan bli manifest vid behandling med bensodiazepiner eller bensodiazepinliknande substanser (s\xe4llsynt). Psykiatriska och paradoxala reaktioner Reaktioner som rastl\xf6shet, agitation, irritabilitet, aggressivitet, vanf\xf6rest\xe4llningar, raserianfall, mardr\xf6mmar, hallucinationer, psykoser, ol\xe4mpligt beteende och andra beteendest\xf6rningar kan i'],
              ['Investigations',
+<<<<<<< HEAD
               u'eller mycket s\xe4llsynta fall intr\xe4ffa vid anv\xe4ndandet av bensodiazepiner eller bensodiazepinliknande substanser. De kan i vissa fall bli riktigt sv\xe5ra med detta l\xe4kemedel. Risken f\xf6r dessa reaktioner \xe4r st\xf6rre f\xf6r barn och \xe4ldre. Beroende Anv\xe4ndning kan leda till fysiskt beroende \xe4ven vid terapeutiska doser. Uts\xe4ttande av behandlingen kan leda till abstinens eller rebound-fenomen (se avsnitt 4.4 Varningar och f\xf6rsiktighet). Psykiskt beroende kan ocks\xe5 f\xf6rekomma. Missbruk har rapporterats.']]],
            ['Very rare',
             [['Immune system',
@@ -32,4 +33,17 @@
               u'somnambulism (se avsnitt 4.4 Varningar och f\xf6rsiktighet). Se ocks\xe5 nedan, under \u201dAmnesi\u201d.']]]],
  '_pages': [4, 5],
  u'_rank': 16,
+=======
+              u'eller mycket s\xe4llsynta fall intr\xe4ffa vid anv\xe4ndandet av bensodiazepiner eller bensodiazepinliknande substanser. De kan i vissa fall bli riktigt sv\xe5ra med detta l\xe4kemedel. Risken f\xf6r dessa reaktioner \xe4r st\xf6rre f\xf6r barn och \xe4ldre.']]],
+           ['Very rare',
+            [['Immune system',
+              u'anafylaktiska reaktioner och angio\xf6dem, Stevens-Johnsons syndrom, toxisk epidermal nekrolys/Lyells syndrom, erythema multiforme.'],
+             ['Psychiatric',
+              u'minskad libido. : fysiskt och psykiskt beroende. Se ocks\xe5 nedan, under \u201dDepression\u201d, \u201dPsykiatriska och paradoxala reaktioner\u201d samt \u201dBeroende\u201d.']]],
+           ['Unknown',
+            [['Nervous system',
+              u'somnambulism (se avsnitt 4.4 Varningar och f\xf6rsiktighet). Se ocks\xe5 nedan, under \u201dAmnesi\u201d.']]]],
+ '_pages': [4, 5],
+ u'_rank': 15,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

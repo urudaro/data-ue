@@ -1,10 +1,15 @@
 {'_data': [['Common', [['Hepato', u'\xd6verg\xe5ende leverenzymstegring.']]],
            ['Rare',
             [['Immune system', u'hypotension och br\xf6stsm\xe4rta.'],
+<<<<<<< HEAD
              ['Nervous system', u'Ofrivilliga r\xf6relser s\xe5som tremor och myokloni'],
              ['GI', u'behandling)'],
              ['Hepato', u'Leversvikt (fatala fall har rapporterats).'],
              ['Skin', u'Ospecifika hudreaktioner.'],
+=======
+             ['GI', u'behandling)'],
+             ['Hepato', u'Leversvikt (fatala fall har rapporterats).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'f\xf6rh\xf6jning; normaliseras vid fortsatt  behandling)']]],
            ['Very rare',
             [['Blood',
@@ -18,9 +23,16 @@
              ['Vascular', u'Vaskulit.'],
              ['GI', u'Pankreatit, diarr\xe9'],
              ['Hepato', u'Hepatit, ibland med gulsot.'],
+<<<<<<< HEAD
              ['Skin', u'Erythema multiforme. Alopeci.'],
              ['Musculoskeletal', u'Atralgi. Myalgi.'],
              ['Renal', u'Akut interstitiell nefrit']]]],
  '_pages': [4, 6],
  u'_rank': 19,
+=======
+             ['Hepato', u'Erythema multiforme. Alopeci.'],
+             ['Renal', u'Akut interstitiell nefrit']]]],
+ '_pages': [4, 6],
+ u'_rank': 16,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

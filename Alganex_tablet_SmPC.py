@@ -7,7 +7,11 @@
            ['Uncommon',
             [['Cardiac', u'Palpitationer'],
              ['GI',
+<<<<<<< HEAD
               u'Kr\xe4kningar F\xf6rstoppning Diarr\xe9 Stomatit Gastrointestinal Ulcus duodeni Ulcus ventriculi Gastrit Melaena Ulcerativ stomatit Muntorrhet'],
+=======
+              u'Kr\xe4kningar F\xf6rstoppning Diarr\xe9 Stomatit Gastrointestinal bl\xf6dning Ulcus duodeni Ulcus ventriculi Gastrit Melaena Ulcerativ stomatit Muntorrhet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Exantem Urtikaria Kl\xe5da'],
              ['Metabolism', u'Anorexi'],
              ['General', u'Tr\xf6tthet \xd6dem'],
@@ -15,11 +19,19 @@
            ['Rare',
             [['Cardiac', u'Hj\xe4rtsvikt'],
              ['Blood',
+<<<<<<< HEAD
               u'Leukopeni Agranulocytos Trombocytopeni trombocyt-aggregation med \xf6kad bl\xf6dningsben\xe4genhet'],
              ['Eye', u'Synst\xf6rningar'],
              ['Ear', u'\xd6ronsusningar'],
              ['GI',
               u'GI-perforering Hematemes Flatulens F\xf6rs\xe4mring av ulcer\xf6s kolit F\xf6rs\xe4mring av Crohns'],
+=======
+              u'Leukopeni Agranulocytos Trombocytopeni H\xe4mmad trombocyt-aggregation med \xf6kad bl\xf6dningsben\xe4genhet'],
+             ['Eye', u'Synst\xf6rningar'],
+             ['Ear', u'\xd6ronsusningar'],
+             ['GI',
+              u'GI-perforering Hematemes Flatulens F\xf6rs\xe4mring av ulcer\xf6s kolit F\xf6rs\xe4mring av Crohns sjukdom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Fotosensibilitet Erythema multiforme Stevens-Johnsons syndrom Toxisk epidermal nekrolys (Lyells syndrom)'],
              ['Vascular',

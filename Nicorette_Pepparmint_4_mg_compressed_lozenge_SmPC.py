@@ -15,6 +15,10 @@
            ['Very rare',
             [['Immune system',
               u'\xf6verk\xe4nslighet (inklusive allergiska och anafylaktiska reaktioner), angio\xf6dem']]]],
+<<<<<<< HEAD
  '_pages': [5, 6],
+=======
+ '_pages': [6, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 11,
  u'_type': u'LSFU'}

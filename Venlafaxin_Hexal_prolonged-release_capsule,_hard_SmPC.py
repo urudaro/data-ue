@@ -39,6 +39,7 @@
              ['Nervous system',
               u'Malignt neuroleptikasyn drom (NMS), serotonergt syndrom, delirium, extrapyramidala reaktioner (inklusive dystoni och dyskinesi), tardiv dyskinesi, suicidalt beteende, suicidtankar**'],
              ['Special Senses', u'Tr\xe5ngvinkelglau kom'],
+<<<<<<< HEAD
              ['Cardiac', u'Hypotoni,'],
              ['Vascular',
               u'QT-f\xf6rl\xe4ngning, kammarflimmer , kammartakykar di (inklusive torsade de pointes)'],
@@ -46,6 +47,15 @@
              ['GI', u'Pankreatit'],
              ['Skin',
               u'Erythema multiforme, toxisk epidermal nekrolys, Stevens-Johnson s syndrom, kl\xe5da, n\xe4sselutslag'],
+=======
+             ['Cardiac', u'Hypotoni, QT'],
+             ['Vascular',
+              u'f\xf6rl\xe4ngning, kammarflimmer , kammartakykar di (inklusive torsade de pointes)'],
+             ['Respiratory', u'Pulmonell eosinofili'],
+             ['GI', u'Pankreatit'],
+             ['Skin',
+              u'Erythema multiforme, toxisk epidermal nekrolys, Stevens-Johnsons syndrom, kl\xe5da, n\xe4sselutslag'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Rabdomyolys'],
              ['Systemic', u'Anafylaxi']]]],
  '_note': u' ?MSFU',

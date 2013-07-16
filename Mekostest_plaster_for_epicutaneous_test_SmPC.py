@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['Skin', u'ill \xd6verg\xe5ende'], ['Skin', u'hypopigmentering/hyperpigmentering']]],
            ['Uncommon', [['Skin', u'Uppflammande dermatit till \u22641/100)']]],
@@ -8,3 +9,13 @@
  '_pages': [4, 4],
  u'_rank': 5,
  u'_type': u'LSFU'}
+=======
+{'_data': [['Very common',
+            [['Skin', u'L\xe5ngvarig reaktion  irritation orsakad av klistret i pl\xe5stret']]],
+           ['Common', [['Skin', u'\xd6verg\xe5ende']]],
+           ['Uncommon', [['Skin', u'hypopigmentering/hyperpigmentering  Uppflammande dermatit']]],
+           ['Rare', [['Skin', u'Sensibilisering']]]],
+ '_pages': [4, 4],
+ u'_rank': 4,
+ u'_type': u'TSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

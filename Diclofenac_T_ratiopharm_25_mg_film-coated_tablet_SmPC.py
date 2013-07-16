@@ -1,12 +1,17 @@
 {'_data': [['Very common', [['GI', u'0);']]],
            ['Common',
+<<<<<<< HEAD
             [['GI', u'Vanliga (>1/100, <1/10);'],
+=======
+            [['GI', u'(\u22651/100, <1/10);'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'epigastrisk sm\xe4rta och andra gastrointestinala st\xf6rningar (t.ex. illam\xe5ende, kr\xe4kning, diarr\xe9, bukkramper, dyspepsi, flatulens, anorexi).'],
              ['Nervous system', u'huvudv\xe4rk, yrsel och svindel.'],
              ['Skin', u'hudutslag eller kl\xe5da.'],
              ['Hepato', u'f\xf6rh\xf6jda serumtransaminaser (S-ALAT, S-ASAT).']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['GI', u'Mindre vanliga (>1/1000, <1/100);'],
              ['Hepato',
               u'hepatit med eller utan gulsot, mycket s\xe4llsynt som fatal fulminant hepatit.']]],
@@ -22,6 +27,19 @@
               u'fall. Ibland har \xf6dem rapporterats och i mycket s\xe4llsynta fall impotens (kausalt samband med diklofenak oklart). Biverkningar som \xe4nnu inte har observerats f\xf6r denna produkt, men som generellt tillskrivs andra substanser i klassen: Kliniska pr\xf6vningar och epidemiologiska data tyder p\xe5 att anv\xe4ndning av diklofenak, s\xe4rskilt i h\xf6ga doser (150 mg dagligen) och vid l\xe5ngtidsbehandling, kan medf\xf6ra en liten \xf6kad risk f\xf6r arteriella trombotiska h\xe4ndelser (till exempel hj\xe4rtinfarkt eller stroke, se avsnitt 4.4). \xd6dem, hypertension och hj\xe4rtsvikt har rapporterats i samband med NSAID-behandling.']]],
            ['Very rare',
             [['GI', u'\xe4ven enstaka fall).'],
+=======
+            [['GI', u'(\u22651/1000, <1/100);'],
+             ['Hepato',
+              u'hepatit med eller utan gulsot, mycket s\xe4llsynt som fatal fulminant hepatit.']]],
+           ['Rare',
+            [['GI', u'(\u22651/10 000, <1/1000);'],
+             ['GI',
+              u'Gastrointestinala bl\xf6dningar (hematemes, melena och blodig diarr\xe9), mags\xe5r med perforation, sjukdomar i nedre delen av mag-tarmkanalen (s\xe5som ospecifik hemorragisk kolit eller f\xf6rs\xe4mring av ulcer\xf6s kolit eller Crohns proktokolit), aft\xf6s stomatit, glossit, s\xe5r p\xe5 matstrupen, intestinal stenos och f\xf6rstoppning.'],
+             ['Nervous system', u'd\xe5sighet.'],
+             ['Skin', u'n\xe4sselfeber.']]],
+           ['Very rare',
+            [['GI', u', \xe4ven enstaka fall).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'k\xe4nselbortfall inklusive parestesi, minnesst\xf6rningar, desorientering, synst\xf6rningar (dimsyn, diplopi), nedsatt h\xf6rsel, tinnitus, s\xf6mnl\xf6shet, irritabilitet, kramper, depression, \xe5ngest, mardr\xf6mmar, tremor, psykotiska reaktioner, smakf\xf6r\xe4ndringar och aseptisk meningit.'],
              ['Skin',
@@ -35,7 +53,13 @@
               u'Trombocytopeni, leukopeni, agranulocytos, hemolytisk anemi och aplastisk anemi har beskrivits som mycket s\xe4llsynta biverkningar.'],
              ['Cardiac', u'Palpitationer, br\xf6stsm\xe4rta, hypertension och hj\xe4rtsvikt'],
              ['Respiratory',
+<<<<<<< HEAD
               u'M\xf6jligt f\xf6rv\xe4rrande av astmasymtom Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet : Astma och anafylaktiska systemiska reaktioner inklusive hypotoni har beskrivits som']]]],
  '_pages': [6, 7],
  u'_rank': 22,
+=======
+              u'M\xf6jligt f\xf6rv\xe4rrande av astmasymtom Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet : Astma och anafylaktiska systemiska reaktioner inklusive hypotoni har beskrivits som s\xe4llsynta \xf6verk\xe4nslighetsreaktioner. Vaskulit och pneumonit har observerats i mycket s\xe4llsynta fall. Ibland har \xf6dem rapporterats och i mycket s\xe4llsynta fall impotens (kausalt samband med diklofenak oklart). Biverkningar som \xe4nnu inte har observerats f\xf6r denna produkt, men som generellt tillskrivs andra substanser i klassen: Kliniska pr\xf6vningar och epidemiologiska data tyder p\xe5 att anv\xe4ndning av diklofenak, s\xe4rskilt i h\xf6ga doser (150 mg dagligen) och vid l\xe5ngtidsbehandling, kan medf\xf6ra en liten \xf6kad risk f\xf6r arteriella trombotiska h\xe4ndelser (till exempel hj\xe4rtinfarkt eller stroke, se avsnitt 4.4). \xd6dem, hypertension och hj\xe4rtsvikt har rapporterats i samband med NSAID-behandling.']]]],
+ '_pages': [6, 7],
+ u'_rank': 20,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

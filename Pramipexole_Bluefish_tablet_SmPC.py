@@ -16,7 +16,11 @@
              ['GI', u'f\xf6rstoppning, kr\xe4kningar'],
              ['General', u'tr\xf6tthet'],
              ['Investigations',
+<<<<<<< HEAD
               u'biverkan, \xf6verdriven somnolens under dagtid och episoder av pl\xf6tsligt insomnande (se \xe4ven avsnitt 4.4). St\xf6rningar av libido Pramipexol kan i mindre vanliga fall ha samband med st\xf6rningar av libido (\xf6kning (0,1 %) eller Minskning (0,4 %)). St\xf6rd impulskontroll Patologiskt spelberoende, \xf6kad libido, hypersexualitet, tv\xe5ngsm\xe4ssigt k\xf6pbeteende, hets\xe4tning och tv\xe5ngs\xe4tning kan f\xf6rekomma hospatienter som behandlas med dopaminagonister inklusive pramipexole. (Se avsnitt 4.4 Varningar och f\xf6rsiktighet). I en retrospektiv tv\xe4rsnittsunders\xf6kning (cross sectional) och fall-kontroll-studie med 3 090 patienter med Parkinsons sjukdom, hade 13,6 % av alla patienter som fick dopaminerg eller ickedopaminerg behandling symtom p\xe5 en st\xf6rd impulskontroll under de senaste sex m\xe5naderna. Symtomen som observerats inkluderar spelberoende, tv\xe5ngsm\xe4ssigt k\xf6pbeteende, hets\xe4tning, och tv\xe5ngsm\xe4ssigt sexuellt beteende (hypersexualitet). T\xe4nkbara oberoende riskfaktorer f\xf6r st\xf6rningar i impulskontrollen omfattade dopaminerg behandling och h\xf6gre doser av dopaminerg behandling, \xe5lder (\u2264 65 \xe5r), ensamst\xe5ende och enligt egen uppgift spelberoende i sl\xe4kten.']]],
+=======
+              u'biverkan, \xf6verdriven somnolens under dagtid och episoder av pl\xf6tsligt insomnande (se \xe4ven avsnitt 4.4). St\xf6rningar av libido Pramipexol kan i mindre vanliga fall ha samband med st\xf6rningar av libido (\xf6kning (0,1 %) eller Minskning (0,4 %)). St\xf6rd impulskontroll och tv\xe5ngsm\xe4ssigt beteende Patienter som behandlas med dopaminagonister f\xf6r Parkinsons sjukdom, inklusive pramipexol, s\xe4rskilt vid h\xf6ga doser, har rapporteras visa tecken p\xe5 patologiskt spelberoende, \xf6kad libido och hypersexualitet, vilket vanligen \xe4r reversibelt vid dosreduktion eller uts\xe4ttning (se \xe4ven avsnitt 4.4). I en retrospektiv tv\xe4rsnittsunders\xf6kning (cross sectional) och fall-kontroll-studie med 3 090 patienter med Parkinsons sjukdom, hade 13,6 % av alla patienter som fick dopaminerg eller ickedopaminerg behandling symtom p\xe5 en st\xf6rd impulskontroll under de senaste sex m\xe5naderna. Symtomen som observerats inkluderar spelberoende, tv\xe5ngsm\xe4ssigt k\xf6pbeteende, hets\xe4tning, och tv\xe5ngsm\xe4ssigt sexuellt beteende (hypersexualitet). T\xe4nkbara oberoende riskfaktorer f\xf6r st\xf6rningar i impulskontrollen omfattade dopaminerg behandling och h\xf6gre doser av dopaminerg behandling, \xe5lder (\u2264 65 \xe5r), ensamst\xe5ende och enligt egen uppgift spelberoende i sl\xe4kten.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'pneumoni'],
              ['Psychiatric',
@@ -25,7 +29,11 @@
              ['Respiratory', u'dyspn\xe9'],
              ['Skin', u'\xf6verk\xe4nslighet, pruritus, hudutslag'],
              ['Investigations',
+<<<<<<< HEAD
               u'vikt\xf6kning Annan indikation, de vanligaste biverkningarna De vanligaste biverkningarna (\u2265 5 %) som rapporterades hos patienter med annan indikation vid behandling med pramipexol var illam\xe5ende, huvudv\xe4rk och tr\xf6tthet. Illam\xe5ende och tr\xf6tthet f\xf6rekom oftare hos kvinnliga patienter som behandlades med pramipexol (20,8 % resp. 10,5 %) j\xe4mf\xf6rt med manliga (6,7 % resp. 7,3 %).'],
+=======
+              u'vikt\xf6kning Annan indikation, de vanligaste biverkningarna De vanligaste biverkningarna (\u2265 5 %) som rapporterades hos patienter med annan indikation vid behandling med pramipexol var illam\xe5ende, huvudv\xe4rk och tr\xf6tthet. Illam\xe5ende och tr\xf6tthet f\xf6rekom oftare hos kvinnliga patienter som behandlades med pramipexol (20,8 % resp. 10,5 %) j\xe4mf\xf6rt med manliga (6,7 % resp. 7,3 %). Tabell 2: Annan indikation Organsystem Biverkan'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric',
               u'f\xf6rvirring, hallucinationer, st\xf6rningar av libido, rastl\xf6shet'],
              ['Nervous system', u'episoder av pl\xf6tsligt insomnande, synkope'],

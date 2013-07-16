@@ -17,6 +17,10 @@
            ['Unknown',
             [['Immune system',
               u'En f\xf6rdr\xf6jd multiorgan\xf6verk\xe4nslighet (k\xe4nd som \xf6verk\xe4nslighetssyndrom eller DRESS) med feber, utslag, vaskulit, lymfadenopati, pseudolymfom, artralgi, leukopeni, eosinofili, hepatosplenomegali, onormala leverfunktionstester och f\xf6rlust av gallg\xe5ngar (vanishing bile duct syndrome) (f\xf6rst\xf6relse och bortfall av intrahepatiska gallg\xe5ngar) f\xf6rekommer i olika kombinationer. Andra organ kan ocks\xe5 p\xe5verkas (t ex lever, lungor, njurar, pankreas, myokardium och colon). Om s\xe5dana reaktioner uppkommer, vilket kan ske n\xe4r som helst under behandlingen, ska Allopurinol Nordic Drugs omedelbart s\xe4ttas ut permanent. De generaliserade \xf6verk\xe4nslighetsreaktioner som f\xf6rekommit har oftast setts i samband med njur- och/eller leversjukdom, i synnerhet vid d\xf6dlig utg\xe5ng.']]]],
+<<<<<<< HEAD
  '_pages': [3, 5],
+=======
+ '_pages': [3, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 10,
  u'_type': u'LSFU'}

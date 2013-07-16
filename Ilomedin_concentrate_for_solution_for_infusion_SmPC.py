@@ -4,7 +4,12 @@
              ['GI', u'Illam\xe5ende, kr\xe4kningar'],
              ['Skin', u'Hyperhidros']]],
            ['Common',
+<<<<<<< HEAD
             [['Psychiatric', u'Apati, f\xf6rvirringstillst\xe5nd'],
+=======
+            [['Metabolism', u'Minskad aptit'],
+             ['Psychiatric', u'Apati, f\xf6rvirringstillst\xe5nd'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Yrsel / vertigo, parestesi / bultande k\xe4nsla / hyperestesi / br\xe4nnande k\xe4nsla, rastl\xf6shet / agitation, sedering, s\xf6mnighet'],
              ['Cardiac', u'Takykardi*, bradykardi, angina pectoris*'],
@@ -37,5 +42,9 @@
              ['GI', u'Proktit']]]],
  '_note': u' ?MSFU',
  '_pages': [4, 6],
+<<<<<<< HEAD
  u'_rank': 28,
+=======
+ u'_rank': 29,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

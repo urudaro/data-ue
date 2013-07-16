@@ -46,6 +46,10 @@
              ['Investigations', u'f\xf6rh\xf6jda leverenzymer, f\xf6rh\xf6jt serumbilirubin']]],
            ['Very rare', [['GI', u'angio\xf6dem i tarmen']]],
            ['Unknown', [['Endocrine', u'abnorm sekretion av antidiuretiskt hormon (SIADH).']]]],
+<<<<<<< HEAD
  '_pages': [9, 10],
+=======
+ '_pages': [8, 10],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 35,
  u'_type': u'LSFU'}

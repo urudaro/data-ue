@@ -1,4 +1,5 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['GI', u'Buksm\xe4rta, illam\xe5ende,  buksp\xe4nningar, anala besv\xe4r.'],
              ['General', u'Sjukdomsk\xe4nsla.']]],
            ['Common',
@@ -21,3 +22,15 @@
  '_pages': [3, 4],
  u'_rank': 15,
  u'_type': u'TSFU'}
+=======
+            [['GI',
+              u't buksm\xe4rta, illam\xe5ende, bukdistension, analt obehag. Vanligt kr\xe4kning, dyspepsi Mindre vanligt dysfagi Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+             ['GI',
+              u'sjukdomsk\xe4nsla, t\xf6rst Vanligt frossbrytningar Mindre vanligt obehag']]],
+           ['Unknown',
+            [['Investigations',
+              u'minskning av bikarbonat i blod, minskning av kalcium i blod, hyperkalcemi, minskning av klorid i blod, \xf6kning av klorid i blod, minskning av fosfat i blod, avvikande leverfunktionstester']]]],
+ '_pages': [3, 4],
+ u'_rank': 3,
+ u'_type': u'LSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

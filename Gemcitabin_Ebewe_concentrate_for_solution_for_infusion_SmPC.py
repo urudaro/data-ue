@@ -15,12 +15,17 @@
              ['Metabolism', u'\u2022Anorexi'],
              ['Nervous system', u'\u2022Huvudv\xe4rk \u2022Insomnia \u2022Somnolens.'],
              ['Respiratory', u'\u2022Hosta \u2022Rinit.'],
+<<<<<<< HEAD
              ['GI', u'\u2022Diarr\xe9 \u2022Stomatit, s\xe5r i munnen \u2022F\xf6rstoppning.'],
+=======
+             ['GI', u'\u2022Diarr\xe9 \u2022Stomatit, s\xe5r i munnen \u2022F\xf6rstoppning,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'\u2022\xd6kat bilirubin.'],
              ['Skin', u'\u2022Kl\xe5da \u2022Svettningar.'],
              ['Musculoskeletal', u'\u2022Ryggsm\xe4rta \u2022Myalgi.'],
              ['General', u'\u2022Feber \u2022Asteni \u2022Frossa.']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Nervous system', u'\u2022Cerebrovaskul\xe4ra h\xe4ndelser.'],
              ['Cardiac',
               u'\u2022Arytmi (f\xf6retr\xe4desvis supraventrikul\xe4r) \u2022Hj\xe4rtsvikt.'],
@@ -49,4 +54,23 @@
              ['Skin', u'\u2022Toxisk epidermal nekrolys \u2022Stevens-Johnsons syndrom.']]]],
  '_pages': [7, 11],
  u'_rank': 32,
+=======
+            [['Respiratory',
+              u'\u2022Interstitiell pneumonit (se avsnitt 4.4) \u2022Bronkospasm (vanligtvis mild och \xf6verg\xe5ende men parenteral behandling kan beh\xf6vas).']]],
+           ['Rare',
+            [['Cardiac', u'\u2022Hj\xe4rtinfarkt.'],
+             ['Vascular', u'\u2022Hypotension.'],
+             ['Hepato', u'\u2022F\xf6rh\xf6jt gamma-glutamyltransferas (GGT).'],
+             ['Skin',
+              u'\u2022Ulceration \u2022Bl\xe5s- och s\xe5rbildning \u2022Hudfj\xe4llning.'],
+             ['General',
+              u'\u2022Reaktioner vid injektionsst\xe4llet (oftast av mild natur). \u2022Toxiska effekter av str\xe5lning (se avsnitt 4.5).']]],
+           ['Very rare',
+            [['Blood', u'\u2022Trombocytos.'],
+             ['Immune system', u'\u2022Anafylaktoid reaktion.'],
+             ['Skin',
+              u'\u2022Allvarliga hudreaktioner inklusive deskvamation och bull\xf6sa hudutslag.']]]],
+ '_pages': [7, 11],
+ u'_rank': 25,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU2'}

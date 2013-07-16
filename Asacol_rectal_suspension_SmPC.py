@@ -14,7 +14,11 @@
              ['Renal',
               u'nefrotiskt syndrom, interstitiell nefrit, njursvikt som kan vara reversibelt vid uts\xe4ttande'],
              ['Investigations',
+<<<<<<< HEAD
               u'f\xf6rh\xf6jt S-kreatinin, viktminskning, s\xe4nkt kreatininclearance, \xf6kat amylas, SR-stegring, \xf6kat lipas, BUN-stegring. Ett ok\xe4nt antal av ovan n\xe4mnda biverkningar har f\xf6rmodligen samband med underliggande IBD ist\xe4llet f\xf6r Asacol/mesalazin medicinering. Detta st\xe4mmer framf\xf6rallt f\xf6r mag-tarmbiverkningar. F\xf6r att undvika bloddyskrasi som ett resultat av benm\xe4rgsdepression ska patienter monitoreras noggrant, se avsnitt 4.4. Samtidig administrering av immunosuppressiva l\xe4kemedel s\xe5som azatioprin eller 6-MP kan p\xe5skynda leukopeni, se avsnitt 4.5. Samtidig anv\xe4ndning av NSAID, azatioprin eller metotrexat kan \xf6ka risken f\xf6r renala reaktioner, se avsnitt 4.5.']]]],
+=======
+              u'f\xf6rh\xf6jt S-kreatinin, viktminskning, s\xe4nkt kreatininclearance, \xf6kat amylas, SR- stegring, \xf6kat lipas, BUN-stegring. Ett ok\xe4nt antal av ovan n\xe4mnda biverkningar har f\xf6rmodligen samband med underliggande IBD ist\xe4llet f\xf6r Asacol/mesalazin medicinering. Detta st\xe4mmer framf\xf6rallt f\xf6r mag tarmbiverkningar. F\xf6r att undvika bloddyskrasi som ett resultat av benm\xe4rgsdepression ska patienter monitoreras noggrant, se avsnitt 4.4. Samtidig administrering av immunosuppressiva l\xe4kemedel s\xe5som azatioprin eller 6-MP kan p\xe5skynda leukopeni, se avsnitt 4.5. Samtidig anv\xe4ndning av NSAID, azatioprin eller metotrexat kan \xf6ka risken f\xf6r renala reaktioner, se avsnitt 4.5.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 5],
  u'_rank': 13,
  u'_type': u'LSFU'}

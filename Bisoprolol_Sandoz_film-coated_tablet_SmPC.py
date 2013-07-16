@@ -22,7 +22,11 @@
              ['Vascular', u'ortostatisk hypotoni'],
              ['Respiratory',
               u'bronkospasm hos patienter med bronkialastma eller obstruktiv luftv\xe4gssjukdom'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'muskelsvaghet, muskelkramper'],
+=======
+             ['Musculoskeletal', u'muskelsvaghet och kramper'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system',
               u'asteni (hos patienter med hypertoni eller angina pectoris)']]],
            ['Rare',

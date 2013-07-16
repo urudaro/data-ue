@@ -15,6 +15,7 @@
             [['Immune system',
               u'\xd6verk\xe4nslighetsreaktioner inkluderande urtikaria, angio\xf6dem och anafylaktisk reaktion.']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Cardiac', u'Hj\xe4rtinfarkt, angina pectoris, koronar vasospasm'],
              ['GI',
               u'Ischemi eller infarkt (t ex intestinal ischemi, intestinal infarkt, mj\xe4ltinfarkt) vilket kan upptr\xe4da som blodig diarr\xe9 eller magsm\xe4rtor.'],
@@ -22,4 +23,13 @@
            ['Unknown', [['Cardiac', u'Arytmier, ventrikul\xe4r takykardi']]]],
  '_pages': [5, 6],
  u'_rank': 13,
+=======
+            [['Cardiac',
+              u'Hj\xe4rtinfarkt, angina pectoris, koronar vasospasm : Arytmier, ventrikul\xe4r takykardi'],
+             ['GI',
+              u'Ischemi eller infarkt (t ex intestinal ischemi, intestinal infarkt, mj\xe4ltinfarkt) vilket kan upptr\xe4da som blodig diarr\xe9 eller magsm\xe4rtor.'],
+             ['Renal', u'Akuta urintr\xe4ngningar']]]],
+ '_pages': [5, 6],
+ u'_rank': 12,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

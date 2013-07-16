@@ -19,7 +19,11 @@
               u'Dimsyn, br\xe4nnande/svidande \xf6gonsm\xe4rta, konjunktivit, nedsatt synsk\xe4rpa'],
              ['Ear', u'Svindel, tinnitus'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Hypotoni, ortostatisk hypotoni, sternalgi, angina pectoris, AV-block grad II, cerebrovaskul\xe4r h\xe4ndelse, hj\xe4rtinfarkt, palpitation, arytmier (f\xf6rmaksflimmer, sinusbradykardi, takykardi, kammartakykardi, kammarflimmer)'],
+=======
+              u'Hypotoni, ortostatisk hypotoni, sternalgi, angina pectoris, AV- block grad II, cerebrovaskul\xe4r h\xe4ndelse, hj\xe4rtinfarkt, palpitation, arytmier (f\xf6rmaksflimmer, sinusbradykardi, takykardi, kammartakykardi, kammarflimmer)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Vaskulit'],
              ['Respiratory',
               u'Svalgbesv\xe4r, faryngit, laryngit, dyspn\xe9, bronkit, epistaxis, rinit, t\xe4ppta luftv\xe4gar'],
@@ -28,7 +32,11 @@
              ['Skin',
               u'Alopeci, dermatit, torr hud, erytem, rodnad, ljusk\xe4nslighet, pruritus, hudutslag, urtikaria, svettning'],
              ['Musculoskeletal',
+<<<<<<< HEAD
               u'Armv\xe4rk, ledsvullnad, kn\xe4v\xe4rk, muskuloskeletal v\xe4rk, axelv\xe4rk, stelhet, artralgi, artrit, coxalgi, fibromyalgi, muskelsvaghet Inte k\xe4nd: Rabdomyolys'],
+=======
+              u'Armv\xe4rk, ledsvullnad, kn\xe4v\xe4rk, muskuloskeletal v\xe4rk, axelv\xe4rk, stelhet, artralgi, artrit, coxalgi, fibromyalgi, muskelsvaghet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Nokturi, urintr\xe4ngningar, urinv\xe4gsinfektion'],
              ['Reproductive system', u'Minskad k\xf6nsdrift, impotens'],
              ['General', u'Ansikts\xf6dem, feber'],
@@ -56,7 +64,14 @@
            ['Very rare',
             [['Investigations',
               u'F\xf6rh\xf6jda leverenzym- och bilirubinv\xe4rden Hydroklortiazid']]],
+<<<<<<< HEAD
            ['Unknown', [['Hepato', u'Onormal leverfunktion']]]],
  '_pages': [10, 13],
  u'_rank': 42,
+=======
+           ['Unknown',
+            [['Hepato', u'Onormal leverfunktion'], ['Musculoskeletal', u'Rabdomyolys']]]],
+ '_pages': [10, 13],
+ u'_rank': 43,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

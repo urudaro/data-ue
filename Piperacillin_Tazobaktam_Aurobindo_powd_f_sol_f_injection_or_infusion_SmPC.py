@@ -9,7 +9,11 @@
              ['Vascular', u'hypotoni tromboflebit'],
              ['GI', u'F\xf6rstoppning, dyspepsi, gulsot, stomatit'],
              ['Hepato',
+<<<<<<< HEAD
               u'f\xf6rh\xf6jt alaninamino-transfe ras, f\xf6rh\xf6jt aspartatamino-trans feras'],
+=======
+              u'f\xf6rh\xf6jt alaninamino-transferas, f\xf6rh\xf6jt aspartatamino-transferas'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'n\xe4sselfeber, kl\xe5da'],
              ['Renal', u'f\xf6rh\xf6jt blodkreatinin'],
              ['General', u'Feber, reaktion vid injektionsst\xe4llet']]],
@@ -20,7 +24,11 @@
              ['Vascular', u', flebit,  blodvallning'],
              ['GI', u'pseudomembran\xf6s kolit, buksm\xe4rta'],
              ['Hepato',
+<<<<<<< HEAD
               u'f\xf6rh\xf6jt blodbilirubin, f\xf6rh\xf6jt alkalinfosfatas i blodet, f\xf6rh\xf6jt gammaglutamyl-tr ansferas, Hepatit'],
+=======
+              u'f\xf6rh\xf6jt blodbilirubin, f\xf6rh\xf6jt alkalinfosfatas i blodet, f\xf6rh\xf6jt gammaglutamyl-transferas, Hepatit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Bull\xf6s dermatit, erythema multiforme, exantem,'],
              ['Musculoskeletal', u'Artralgi, myalgi'],
              ['Renal', u'Tubuloi nefrit, njursvikt'],

@@ -30,7 +30,11 @@
             [['Immune system',
               u'\xd6verk\xe4nslighe t mot l\xe4kemedel inklusive angio\xf6dem'],
              ['Psychiatric', u'Onormala tankar'],
+<<<<<<< HEAD
              ['Nervous system', u'Kramper, nedsatt medvetande-g rad, onormal koordination'],
+=======
+             ['Nervous system', u'Kramper, nedsatt medvetande-grad, onormal koordination'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Minskad puls'],
              ['GI', u'F\xf6rs\xe4mrad t\xf6mning av mags\xe4cken']]]],
  '_note': u' ?MSFU',

@@ -35,6 +35,7 @@
              ['GI',
               u'Gastrointestinal perforation. Gastrointestinal bl\xf6dning, ulceration eller perforation kan ibland vara allvarliga och potentiellt livshotande, s\xe4rskilt hos \xe4ldre (se avsnitt 4.4).'],
              ['Hepato', u'Hepatit'],
+<<<<<<< HEAD
              ['Skin', u'Bull\xf6sa utslag, erythema multiforme.'],
              ['Renal', u'Akut njursvikt hos patienter med riskfaktorer (se avsnitt 4.4)']]],
            ['Unknown',
@@ -43,4 +44,13 @@
              ['Skin', u'Fotosensibilisering.']]]],
  '_pages': [7, 9],
  u'_rank': 29,
+=======
+             ['Skin', u'Bull\xf6sa utslag, erythema multiforme. Fotosensibilisering.'],
+             ['Renal', u'Akut njursvikt hos patienter med riskfaktorer (se avsnitt 4.4)']]],
+           ['Unknown',
+            [['Immune system', u'anafylaktiska/anafylaktoida reaktioner.'],
+             ['Psychiatric', u'f\xf6rvirringstillst\xe5nd, desorientering.']]]],
+ '_pages': [7, 9],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

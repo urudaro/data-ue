@@ -9,7 +9,11 @@
              ['Ear',
               u'Tinnitus 2 (0,12%) 2 (0,08%) 0 (0,0%) Vertigo 3 (0,18%) 3 (0,12%) 0 (0,0%)'],
              ['Cardiac',
+<<<<<<< HEAD
               u'H\xf6gergrenblock 4 (0,24%) 5 (0,20%) 3 (0,22%) Sinusarytmi 5 (0,30%) 5 (0,20%) 1 (0,07%) Elektrokardiogram 9 (0,53%) 10 (0,40%) 5 (0,37%) QT-f\xf6rl\xe4ngning Andra EKG-avvikelser 7 (0,41%) 11 (0,44%) 2 (0,15%)'],
+=======
+              u'H\xf6gergrenblock 4 (0,24%) 5 (0,20%) 3 (0,22%) Sinusarytmi 5 (0,30%) 5 (0,20%) 1 (0,07%) Elektrokardiogram QT- 9 (0,53%) 10 (0,40%) 5 (0,37%) f\xf6rl\xe4ngning Andra EKG-avvikelser 7 (0,41%) 11 (0,44%) 2 (0,15%)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Yrsel 14 (0,83%) 23 (0,91%) 8 (0,59%)'],
              ['Respiratory',
               u'Dyspn\xe9 2 (0,12%) 2 (0,08%) 0 (0,0%) Obehag i n\xe4san 2 (0,12%) 2 (0,08%) 0 (0,0%) Torrhet i n\xe4san 3 (0,18%) 6 (0,24%) 4 (0,29%)'],
@@ -19,7 +23,11 @@
              ['General',
               u'Tr\xf6tthet 14 (0,83%) 19 (0,75%) 18 (1,32%) T\xf6rst 3 (0,18%) 4 (0,16%) 1 (0,07%) F\xf6rb\xe4ttrat tidigare 2 (0,12%) 2 (0,08%) 1 (0,07%) tillst\xe5nd Pyrexi 2 (0,12%) 3 (0,12%) 1 (0,07%) Asteni 3 (0,18%) 4 (0,16%) 5 (0,37%)'],
              ['Investigations',
+<<<<<<< HEAD
               u'\xd6kat gamma-glutamyltransfer 7 (0,41%) 8 (0,32%) 2 (0,15%) as \xd6kat 5 (0,30%) 5 (0,20%) 3 (0,22%) alaninaminotransferas \xd6kat 3 (0,18%) 3 (0,12%) 3 (0,22%) aspartataminotransferas \xd6kat blodkreatinin 2 (0,12%) 2 (0,08%) 0 (0,0%) \xd6kade triglycerider i 2 (0,12%) 2 (0,08%) 3 (0,22%) blodet \xd6kad kroppsvikt 8 (0,47%) 12 (0,48%) 2 (0,15%)']]]],
+=======
+              u'\xd6kat gamma- 7 (0,41%) 8 (0,32%) 2 (0,15%) glutamyltransferas \xd6kat 5 (0,30%) 5 (0,20%) 3 (0,22%) alaninaminotransferas \xd6kat 3 (0,18%) 3 (0,12%) 3 (0,22%) aspartataminotransferas \xd6kat blodkreatinin 2 (0,12%) 2 (0,08%) 0 (0,0%) \xd6kade triglycerider i 2 (0,12%) 2 (0,08%) 3 (0,22%) blodet \xd6kad kroppsvikt 8 (0,47%) 12 (0,48%) 2 (0,15%)']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [3, 4],
  u'_rank': 12,
  u'_type': u'LSFU'}

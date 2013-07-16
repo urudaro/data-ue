@@ -5,7 +5,11 @@
              ['Psychiatric',
               u'S\xf6mnst\xf6rningar inkl. dr\xf6mst\xf6rningar och s\xf6mnl\xf6shet']]],
            ['Common',
+<<<<<<< HEAD
             [['Cardiac', u'Palpitationer'],
+=======
+            [['Cardiac', u'(>1/100, <1/10): Palpitationer'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Tremor'],
              ['Respiratory', u'Dyspn\xe9, faryngit, hosta'],
              ['GI',

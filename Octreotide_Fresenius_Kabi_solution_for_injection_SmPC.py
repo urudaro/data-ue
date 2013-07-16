@@ -17,6 +17,7 @@
              ['Hepato', u'Kolecystit, gallbl\xe5seslam, hyperbilirubinemi'],
              ['Skin', u'Kl\xe5da, utslag, alopeci'],
              ['Investigations',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jda niv\xe5er av transaminas Efter f\xf6rs\xe4ljning Spontant rapporterade biverkningar anges i tabell 2 och har rapporterats frivilligt. Det \xe4r inte alltid m\xf6jligt att fastst\xe4lla frekvens eller orsakssamband betr\xe4ffande l\xe4kemedelsexponering.']]],
            ['Uncommon', [['Metabolism', u'Uttorkning'], ['Cardiac', u'Takykardi']]],
            ['Rare',
@@ -27,4 +28,13 @@
               u'kolestas, gulsot, kolestatisk gulsot Hud och subkutan v\xe4vnad Urticaria Unders\xf6kningar F\xf6rh\xf6jda niv\xe5er av alkalisk fosfatas och gammaglutamyltransferas']]]],
  '_pages': [5, 6],
  u'_rank': 18,
+=======
+              u'F\xf6rh\xf6jda niv\xe5er av transaminas Efter f\xf6rs\xe4ljning Spontant rapporterade biverkningar anges i tabell 2 och har rapporterats frivilligt. Det \xe4r inte alltid m\xf6jligt att fastst\xe4lla frekvens eller orsakssamband betr\xe4ffande l\xe4kemedelsexponering. Tabell 2 \u2013 Spontant rapporterade biverkningar Immunsystemet Anafylaxi, allergi/\xf6verk\xe4nslighetsreaktioner Hj\xe4rtat Arytmier Lever och gallv\xe4gar Akut pankreatit, akut hepatit utan kolestas, kolestatisk hepatit, kolestas, gulsot, kolestatisk gulsot Hud och subkutan v\xe4vnad Urticaria Unders\xf6kningar F\xf6rh\xf6jda niv\xe5er av alkalisk fosfatas och gammaglutamyltransferas']]],
+           ['Uncommon', [['Metabolism', u'Uttorkning'], ['Cardiac', u'Takykardi']]],
+           ['Rare',
+            [['GI',
+              u'Akut tarmobstruktion, sv\xe5r epigastrisk sm\xe4rta, \xf6m och sp\xe4nd buk, akut pankreatit, kolelitiasisinducerad pankreatit']]]],
+ '_pages': [5, 6],
+ u'_rank': 17,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -10,7 +10,11 @@
             [['Immune system',
               u'hj\xe4lp\xe4mnen Centrala och perifera Br\xe4nnande k\xe4nsla'],
              ['Skin',
+<<<<<<< HEAD
               u'utslag, pruritus Allm\xe4nna symtom och/eller Pyrexi symtom vid administreringsst\xe4llet']]]],
+=======
+              u'pruritus Allm\xe4nna symtom och/eller Pyrexi symtom vid administreringsst\xe4llet']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [2, 2],
  u'_rank': 8,
  u'_type': u'LSFU'}

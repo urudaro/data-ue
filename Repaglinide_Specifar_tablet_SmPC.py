@@ -8,6 +8,10 @@
             [['Metabolism', u'Hypoglykemisk koma  och hypoglykemisk medvetsl\xf6shet'],
              ['GI', u'Illam\xe5ende'],
              ['Skin', u'\xd6verk\xe4nslighet*']]]],
+<<<<<<< HEAD
  '_pages': [6, 7],
+=======
+ '_pages': [7, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 9,
  u'_type': u'TSFU'}

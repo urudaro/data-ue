@@ -14,7 +14,11 @@
               u'Pseudomembran\xf6s kolit (se \xe4ven 4.4 Varningar och f\xf6rsiktighetsm\xe5tt).'],
              ['Renal', u'F \xf6rh\xf6jning av serumkreatinin och serumurea.'],
              ['Renal',
+<<<<<<< HEAD
               u'M\xe5ttlig, \xf6verg\xe5ende \xf6kning av bilirubin och/eller leverenzymer (S-ASAT, S-ALAT, gamma-GT, alkaliskt fosfatas, LDH).']]],
+=======
+              u'M\xe5ttlig, \xf6verg\xe5ende \xf6kning av bilirubin och/eller leverenzymer (S-ASAT, S- ALAT, gamma-GT, alkaliskt fosfatas, LDH).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Immune system',
               u'E rythema multiforme (milda till sv\xe5ra former dvs Stevens-Johnsons syndrom) och toxisk epidermal nekrolys. Hos patienter med anlag f\xf6r allergi \xe4r risken f\xf6r \xf6verk\xe4nslighetsreaktioner f\xf6rh\xf6jd.'],

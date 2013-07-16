@@ -17,7 +17,11 @@
              ['Vascular', u'hypotension'],
              ['Skin', u'urticaria, kl\xe5da'],
              ['Musculoskeletal', u'arthralgi,  muskelsammandragningar'],
+<<<<<<< HEAD
              ['Renal', u'oliguri  serumkreatininstegring'],
+=======
+             ['Renal', u'oliguri'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'feber']]],
            ['Unknown',
             [['Immune system',

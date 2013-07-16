@@ -2,7 +2,11 @@
             [['Investigations', u'\xd6kningar i   Hyponatremi'],
              ['Cardiac', u'Myokardinfarkt'],
              ['Blood',
+<<<<<<< HEAD
               u'Minskat   Benm\xe4rgsdepression,   hemoglobin,   anemi, trombocytopeni,'],
+=======
+              u'Minskat   Benm\xe4rgsdepression, anemi,   hemoglobin,   trombocytopeni, leukopeni,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Yrsel,   Parestesi, svindel,   huvudv\xe4rk,   smakf\xf6r\xe4ndring,   synkope   s\xf6mnst\xf6rningar'],
              ['Respiratory', u'Hosta (se avsnitt   Rinit   Bronkospasm, sinusit,'],
@@ -16,7 +20,12 @@
              ['Vascular', u'Ortostatiska   Raynauds fenomen'],
              ['General', u'Tr\xf6tthet, asteni'],
              ['Reproductive system', u'Impotens   Gynekomasti'],
+<<<<<<< HEAD
              ['Psychiatric', u'Hum\xf6rsv\xe4ngningar   Mental   , depressiva   f\xf6rvirring'],
+=======
+             ['Psychiatric',
+              u'Hum\xf6rsv\xe4ngningar,   Mental   depressiva symtom   f\xf6rvirring'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Postural hypotoni'],
              ['Blood', u'Leukopeni, neutropeni/agranulocytos,'],
              ['Nervous system', u'Aptitl\xf6shet, parestesi, svimningsk\xe4nsla'],

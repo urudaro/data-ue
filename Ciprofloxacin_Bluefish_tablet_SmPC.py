@@ -1,5 +1,6 @@
 {'_data': [['Common', [['GI', u'Illam\xe5en de Diarr\xe9']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Infections', u'Mykotiska superinfektione'],
              ['Blood', u'Eosinofili'],
              ['Metabolism', u'Anorexi'],
@@ -10,6 +11,18 @@
              ['Skin', u'Hudutslag Pruritus Urtikaria'],
              ['Musculoskeletal',
               u'Muskuloskeleta l sm\xe4rta (t ex sm\xe4rta i extremiterna, ryggsm\xe4rta, br\xf6stsm\xe4rta) Artralgi'],
+=======
+            [['Infections', u'Mykotiska superinfektion er'],
+             ['Blood', u'Eosinofili'],
+             ['Metabolism', u'Anorexi'],
+             ['Nervous system',
+              u'Huvudv\xe4rk Yrsel S\xf6mnst\xf6rning ar Smakf\xf6r\xe4ndri ngar'],
+             ['GI', u'Kr\xe4kning Sm\xe4rta i magtarmkanal en och buken Dyspepsi Flatulens'],
+             ['Hepato', u'F\xf6rh\xf6jt transaminas F\xf6rh\xf6jt bilirubin'],
+             ['Skin', u'Hudutslag Pruritus Urtikaria'],
+             ['Musculoskeletal',
+              u'Muskuloskelet al sm\xe4rta (t ex sm\xe4rta i extremiterna, ryggsm\xe4rta, br\xf6stsm\xe4rta) Artralgi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Nedsatt njurfunktion'],
              ['General', u'Asteni Feber'],
              ['Investigations', u'F\xf6rh\xf6jning av alkaliska fosfatv\xe4rdet']]],
@@ -25,9 +38,15 @@
              ['Ear', u'Tinnitus H\xf6rself\xf6rlust / Nedsatt h\xf6rsel'],
              ['Cardiac', u'Takykardi'],
              ['Vascular', u'Vasodilatation Hypotension Svimning'],
+<<<<<<< HEAD
              ['Respiratory', u'Dyspn\xe9 (inklusive astmatiskt tillst\xe5nd)'],
              ['Hepato', u'Nedsatt leverfunktion Kolestatisk ikterus Hepatit'],
              ['Skin', u'Ljusk\xe4nslighetsreak tioner (se avsnitt 4.4)'],
+=======
+             ['Respiratory', u'Dyspn\xe9 (inklusive'],
+             ['Hepato', u'Nedsatt leverfunktion Kolestatisk ikterus Hepatit'],
+             ['Skin', u'Ljusk\xe4nslighetsre aktioner (se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Myalgi Artrit \xd6kad muskeltonus och kramper'],
              ['Renal',
               u'Njursvikt Hematuri Krystalluri (se avsnitt 4.4) Tubulointerstitial nefrit'],
@@ -35,11 +54,19 @@
              ['Investigations', u'F\xf6rh\xf6jt amylas']]],
            ['Very rare',
             [['Blood',
+<<<<<<< HEAD
               u'Hemolytisk anemi Agranulocytos Pancytopeni (livshotande) Benm\xe4rgsdepres sion (livshotande)'],
              ['Immune system',
               u'Anafylaktisk reaktion Anafylaktisk chock (livshotande) (se avsnitt 4.4) Reaktion liknande serumsjuka'],
              ['Nervous system',
               u'Migr\xe4n F\xf6rs\xe4mrad koordinationsf\xf6r m\xe5ga G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension'],
+=======
+              u'Hemolytisk anemi Agranulocytos Pancytopeni (livshotande) Benm\xe4rgsdepre ssion (livshotande)'],
+             ['Immune system',
+              u'Anafylaktisk reaktion Anafylaktisk chock (livshotande) (se avsnitt 4.4) Reaktion liknande serumsjuka'],
+             ['Nervous system',
+              u'Migr\xe4n F\xf6rs\xe4mrad koordinationsf \xf6rm\xe5ga G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'F\xf6rvr\xe4ngt f\xe4rgseende'],
              ['Vascular', u'Vaskulit'],
              ['GI', u'Pankreatit'],
@@ -52,11 +79,20 @@
            ['Unknown',
             [['Nervous system', u'Perifer neuropati (se avsnitt 4.4)'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Ventrikul\xe4r arytmi och torsade de pointes (har rapporterats \xf6verv\xe4gande f\xf6r patienter med riskfaktorer f\xf6r QT-f\xf6rl\xe4ngni ng), EKG QT-f\xf6rl\xe4ngni ng (se avsnitt 4.4 och 4.9).'],
              ['Skin', u'Akut generaliserat exantemat\xf6s pustulos (AGEP).'],
              ['Investigations',
               u'\xd6kad INR (international normalised ratio, hos patienter med vitamin K antagonist)']]]],
  '_note': u' ?MSFU',
  '_pages': [10, 13],
+=======
+              u'Ventrikul\xe4r arytmi och torsade de pointes (har rapporterats \xf6verv\xe4gande f\xf6r patienter med riskfaktorer f\xf6r QT-f\xf6rl\xe4ngning) , EKG QT-f\xf6rl\xe4ngning (se avsnitt 4.4 och 4.9).'],
+             ['Skin', u'Akut generaliserat exantemat\xf6s pustulos (AGEP).'],
+             ['Investigations',
+              u'\xd6kad INR (internationa normalised ratio, hos patienter med vitamin K antagonist)']]]],
+ '_note': u' ?MSFU',
+ '_pages': [11, 14],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 41,
  u'_type': u'MSFU'}

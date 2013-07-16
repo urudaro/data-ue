@@ -1,10 +1,18 @@
 {'_data': [['Common',
             [['GI', u'diarr\xe9, illam\xe5ende. kr\xe4kningar'],
+<<<<<<< HEAD
              ['Skin', u'utslag, inklusive makulopapul\xf6s a utslag']]],
            ['Uncommon',
             [['Infections', u'candida-superinf ektioner'],
              ['Blood', u'leukopeni, neutropeni, trombocytopeni'],
              ['Immune system', u'\xf6verk\xe4nslighetsr eaktioner'],
+=======
+             ['Skin', u'utslag, inklusive makulopapul\xf6sa utslag']]],
+           ['Uncommon',
+            [['Infections', u'candida-superinfektioner'],
+             ['Blood', u'leukopeni, neutropeni, trombocytopeni'],
+             ['Immune system', u'\xf6verk\xe4nslighets-reaktioner'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'huvudv\xe4rk, s\xf6mnl\xf6shet'],
              ['Vascular', u'hypotoni, tromboflebit, flebit'],
              ['GI', u'gulsot, stomatit, f\xf6rstoppning, dyspepsi'],
@@ -16,11 +24,19 @@
            ['Rare',
             [['Blood',
               u'anemi, hemolytisk anemi, purpura, epistaxis, f\xf6rl\xe4ngd bl\xf6dningstid, eosinofili'],
+<<<<<<< HEAD
              ['Immune system', u'anafylaktisk/ anafylaktoid-reakti on (inklusive chock)'],
              ['Vascular', u'blodvallningar'],
              ['GI', u'pseudomembran\xf6s kolit, buksm\xe4rtor'],
              ['Hepato',
               u'hepatit, f\xf6rh\xf6jt bilirubin i blod, f\xf6rh\xf6jt alkaliskt fosfatas i blod, f\xf6rh\xf6jt gamma-glutamyltra nsferas'],
+=======
+             ['Immune system', u'anafylaktisk/ anafylaktoid-reaktion (inklusive chock)'],
+             ['Vascular', u'blodvallningar'],
+             ['GI', u'pseudomembran\xf6s kolit, buksm\xe4rtor'],
+             ['Hepato',
+              u'hepatit, f\xf6rh\xf6jt bilirubin i blod, f\xf6rh\xf6jt alkaliskt fosfatas i blod, f\xf6rh\xf6jt gamma-glutamyltransferas'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'erythema multiforme, bull\xf6s dermatit, exantem'],
              ['Musculoskeletal', u'artralgi, myalgi'],
              ['Renal', u'njursvikt, tubulo-interstitiell nefrit,'],

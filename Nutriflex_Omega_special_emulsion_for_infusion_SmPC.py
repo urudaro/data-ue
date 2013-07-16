@@ -1,9 +1,15 @@
 {'_data': [['Uncommon', [['GI', u'Illam\xe5ende, kr\xe4kningar, aptitf\xf6rlust']]],
            ['Rare',
             [['Immune system',
+<<<<<<< HEAD
               u'00 ): Allergiska reaktioner (t.ex. anafylaktiska reaktioner, hudsymptom, svullnad av svalg, mun och ansikte)'],
              ['Nervous system', u'00): D\xe5sighet'],
              ['Vascular', u'00): Hypertension eller hypotension, flushing'],
+=======
+              u'(> 1/10 000, < 1/1000 ): Allergiska reaktioner (t.ex. anafylaktiska reaktioner, hudsymptom, svullnad av svalg, mun och ansikte)'],
+             ['Nervous system', u'(> 1/10 000, < 1/1000): D\xe5sighet'],
+             ['Vascular', u'(> 1/10 000, < 1/1000): Hypertension eller hypotension, flushing'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'(> 1/10,000, < 1/1,000): Dyspnea, cyanos'],
              ['Skin', u'Erytema'],
              ['General',

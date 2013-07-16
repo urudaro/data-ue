@@ -3,6 +3,7 @@
             [['Infections', u'bronkit.'],
              ['Nervous system', u'yrsel, somnolens, parestesi'],
              ['Eye',
+<<<<<<< HEAD
               u'\xf6gontorrhet, \xa0synst\xf6rningar \xa0inklusive \xa0onormal \xa0ackom modation. \xd6ron \xa0och \xa0balansorgan'],
              ['Eye', u'vertigo.'],
              ['Cardiac', u'palpitationer'],
@@ -10,6 +11,15 @@
               u'dyspepsi, \xa0f\xf6rstoppning, \xa0buksm\xe4rta, \xa0flatulens, \xa0kr\xe4kningar, \xa0diarr\xe9.'],
              ['Skin', u'torr\xa0hud.'],
              ['Skin', u'dysuri, \xa0urinretention.'],
+=======
+              u'\xf6gontorrhet, \xa0synst\xf6rningar \xa0inklusive \xa0onormal \xa0ackom modation.'],
+             ['Ear', u'vertigo.'],
+             ['Cardiac', u'palpitationer'],
+             ['GI',
+              u'dyspepsi, \xa0f\xf6rstoppning, \xa0buksm \xe4rta, \xa0flatulens, \xa0kr\xe4kningar, \xa0diarr\xe9.'],
+             ['Skin', u'torr\xa0hud.'],
+             ['Renal', u'dysuri, \xa0urinretention.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'tr\xf6tthet, \xa0br\xf6stsm\xe4rtor, \xa0perifert \xa0\xf6dem.'],
              ['Investigations',
               u'vikt\xf6kning. Fall av f\xf6rv\xe4rrade demenssymtom (t.ex. f\xf6rvirring, desorientering, vanf\xf6rest\xe4llning) har rapporterats hos patienter som stod p\xe5 behandling med kolinesterash\xe4mmare mot demens d\xe5 tolterodinbehandling initierades.']]],
@@ -23,7 +33,11 @@
             [['Immune system', u'analfylaktiska reaktioner.'],
              ['Psychiatric', u'hallucinationer, f\xf6rvirring, desorientering.'],
              ['Vascular', u'v\xe4rmevallningar'],
+<<<<<<< HEAD
              ['Skin', u'angio\xf6de m. Njurar\xa0och \xa0urinv\xe4gar']]]],
+=======
+             ['Skin', u'angio\xf6dem.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [3, 4],
  u'_rank': 21,
  u'_type': u'LSFU'}

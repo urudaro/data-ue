@@ -7,7 +7,11 @@
             [['Blood', u'Leukopeni, trombocytopeni , anemi.'],
              ['Nervous system', u'Huvudv\xe4rk, tr\xf6tthet, d\xe5sighet.'],
              ['Respiratory',
+<<<<<<< HEAD
               u'Lungkomplikat ioner pga interstitiell alveolit/pneum onit och relaterade d\xf6dsfall (oberoende av dos och duration av metotrexatbeha ndling). Typiska symtom kan vara: allm\xe4n sjukdomsk\xe4nsl a; torr, irriterande hosta; andn\xf6d progredierande till andningsstillest \xe5nd, br\xf6stsm\xe4rta, feber. Om s\xe5dana komplikationer misst\xe4nks m\xe5ste Ebetrex-behand ling avbrytas omedelbart och infektion (inklusive lunginflammati on) uteslutas.'],
+=======
+              u'Lungkomplikati oner pga interstitiell alveolit/pneumo nit och relaterade d\xf6dsfall (oberoende av dos och duration av meto-trexatbehandlin g). Typiska symtom kan vara: allm\xe4n sjukdomsk\xe4nsla ; torr, irriterande hosta; andn\xf6d progredierande till andningsstillest \xe5nd, br\xf6stsm\xe4rta, feber. Om s\xe5dana komplikationer misst\xe4nks m\xe5ste Ebetrex-behandling avbrytas omedelbart och infektion (inklusive lunginflammati on) uteslutas.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Diarr\xe9 (s\xe4rskilt under de f\xf6rsta 24-48 timmarna efter administrering av Ebetrex).'],
              ['Hepato', u'Vanliga'],
@@ -17,16 +21,28 @@
              ['Immune system', u'Allergiska reaktioner, anafylaktisk chock.'],
              ['Metabolism', u'Diabetes mellitus.'],
              ['Psychiatric', u'Depression.'],
+<<<<<<< HEAD
              ['Nervous system', u'Yrsel, f\xf6rvirringstillst \xe5nd, kramper.'],
+=======
+             ['Nervous system', u'Yrsel, f\xf6rvirrings-tillst\xe5nd, kramper.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Neoplasms',
               u'Enstaka fall av lymfom, som i ett antal fall gick i regress efter avbrytande av behandlingen med metotrexat. I en nyligen genomf\xf6rd studie kunde det inte fastst\xe4llas att behandling med metotrexat ger \xf6kad incidens av lymfom.'],
              ['Vascular', u'Vaskulit (som sv\xe5ra toxiska symtom).'],
              ['Respiratory', u'Lungfibros.'],
+<<<<<<< HEAD
              ['GI', u'Gastrointestinal a s\xe5r och bl\xf6dningar.'],
              ['Hepato',
               u'Utveckling av fettlever, fibros och cirrhos (upptr\xe4der frekvent trots regelbundet kontrollerade normala leverenzym-v\xe4r den); minskning av serumalbumin. Mindre vanliga'],
              ['Skin',
               u'Urtikaria, fotosensibilitet, \xf6kad hud-pigmenteri ng, h\xe5ravfall, onormal s\xe5rl\xe4kning, \xf6kning av reumatiska noduli, herpes zoster, sm\xe4rtsamma lesioner av psoriasisplack. (Psoriatiska lesioner som f\xf6rv\xe4rras pga UV-str\xe5lning under samtidig behandling med metotrexat (se \xe4ven avsnitt 4.4)); sv\xe5ra toxiska reaktioner: vaskulit, herpetiforma hudutslag, Stevens-Johnso ns syndrom, toxisk epidermal nekrolys (Lyells syndrom).'],
+=======
+             ['GI', u'Gastro-intestinala s\xe5r och bl\xf6dningar.'],
+             ['Hepato',
+              u'Utveckling av fettlever, fibros och cirrhos (upptr\xe4der frekvent trots regelbundet kontrollerade normala leverenzym-v\xe4rden); minskning av serumalbumin. Mindre vanliga'],
+             ['Skin',
+              u'Urtikaria, fotosensibilitet, \xf6kad hud-pigmentering, h\xe5ravfall, onormal s\xe5rl\xe4kning, \xf6kning av reumatiska noduli, herpes zoster, sm\xe4rtsamma lesioner av psoriasisplack. (Psoriatiska lesioner som f\xf6rv\xe4rras pga UV-str\xe5lning under samtidig behandling med metotrexat (se \xe4ven avsnitt 4.4)); sv\xe5ra toxiska reaktioner: vaskulit, herpetiforma hudutslag, Stevens-Johnsons syndrom, toxisk epidermal nekrolys (Lyells syndrom).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Artralgi, myalgi, osteoporos.'],
              ['Renal',
               u'Inflammation och s\xe5r i urinbl\xe5san (eventuellt med hematuri), dysuri.'],
@@ -36,33 +52,60 @@
            ['Rare',
             [['Cardiac', u'Perikardit, exsudat i perikardiet, hj\xe4rttamponad'],
              ['Blood', u'Megaloblastisk anemi.'],
+<<<<<<< HEAD
              ['Psychiatric', u'Hum\xf6rsv\xe4ngni ngar.'],
              ['Eye', u'Allvarliga synrubbningar.'],
              ['Vascular',
               u'Hypotension, tromboembolis ka h\xe4ndelser (inklusive arteriella och cerebrala tromboser, tromboflebit, djupa ventromboser, retinala ventromboser, lungemboli).'],
              ['Respiratory',
               u'Faryngit, apn\xe9, bronkialastmali knande reaktioner med hosta, dyspn\xe9 och patologiska fynd i lungfunktionste'],
+=======
+             ['Psychiatric', u'Hum\xf6rsv\xe4ng-ningar.'],
+             ['Eye', u'Allvarliga synrubbningar.'],
+             ['Vascular',
+              u'Hypotension, trombo-emboliska h\xe4ndelser (inklusive arteriella och cerebrala tromboser, tromboflebit, djupa ventromboser, retinala ventromboser, lungemboli).'],
+             ['Respiratory',
+              u'Faryngit, apn\xe9, bronkialastma-liknande reaktioner med hosta, dyspn\xe9 och patologiska fynd i lungfunktions-test.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Enterit, melena. Gingivit, malabsorption.'],
              ['Hepato', u'Akut hepatit och hepatotoxicitet. S\xe4llsynta'],
              ['Skin',
               u'\xd6kad pigmentering i naglar, onykolys, akne, petekier, ekkymos, erythema multiforme, erytemat\xf6sa huderuptioner.'],
              ['Musculoskeletal', u'Stressfraktur.'],
              ['Renal', u'Njursvikt, oliguri, anuri, azotemi.'],
+<<<<<<< HEAD
              ['Reproductive system', u'Oligospermi, menstruationsst \xf6rning.']]],
            ['Very rare',
             [['Blood',
               u'Sv\xe5ra fall av benm\xe4rgsdepre ssion, aplastisk anemi. Lymfadenopati, lymfoproliferati va rubbningar (delvis reversibla), eosinofili och neutropeni. De f\xf6rsta tecknen p\xe5 dessa livshotande komplikationer kan vara: feber, ont i halsen, s\xe5r i munnens slemhinna, influensaliknan de besv\xe4r, kraftig utmattning, epistaxis och dermatorrhagia. Anv\xe4ndning av metotrexat ska genast avbrytas om antalet blodkroppar sjunker signifikant.'],
              ['Immune system',
               u'Immunosuppre ssion. Hypogammagl obulinaemi. Allergisk vaskulit'],
+=======
+             ['Reproductive system', u'Oligospermi, menstruations-st\xf6rning.']]],
+           ['Very rare',
+            [['Infections',
+              u'Sepsis, opportunistiska infektioner (kan vara fatala i vissa fall), infektioner orsakade av cytomegaloviru s. Dessutom har nokardios, histoplasma-och kryptokockmyk os och disseminerad herpes simplex rapporterats.'],
+             ['Blood',
+              u'Sv\xe5ra fall av benm\xe4rgs-depression, aplastisk anemi. Lymfadenopati, lymfoproliferati va rubbningar (delvis reversibla), eosinofili och neutropeni. De f\xf6rsta tecknen p\xe5 dessa livshotande komplikationer kan vara: feber, ont i halsen, s\xe5r i munnens slemhinna, influensaliknan de besv\xe4r, kraftig utmattning, epistaxis och dermatorrhagia. Anv\xe4ndning av metotrexat ska genast avbrytas om antalet blodkroppar sjunker signifikant.'],
+             ['Immune system',
+              u'Immuno-suppression. Hypogamma-globulinaemi. Allergisk vaskulit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Insomnia.'],
              ['Nervous system',
               u'Sm\xe4rta, minskad muskelstyrka eller parestesier i extremiteterna, smakf\xf6r\xe4ndring ar (metallsmak), akut aseptisk meningit med meningism (paralys, kr\xe4kningar).'],
              ['Eye', u'Konjunktivit, retinopati.'],
              ['Respiratory',
+<<<<<<< HEAD
               u'Pneumocystis carinii-pneumo ni, och andra pulmonella infektioner, kronisk obstruktiv lungsjukdom. Pleuraexsudat.'],
              ['GI', u'Hematemes, toxisk megakolon.'],
              ['Hepato',
               u'Reaktivering av kronisk hepatit, akut lever-degenerer ing. leversvikt. Dessutom har, herpes simplex hepatit och nedsatt leverfunktion observerats (se \xe4ven avsnitt 4.4 betr\xe4ffande leverbiopsi). Mycket s\xe4llsynta'],
+=======
+              u'Pneumocystis carinii-pneumoni, och andra pulmonella infektioner, kronisk obstruktiv lungsjukdom. Pleuraexsudat.'],
+             ['GI', u'Hematemes, toxisk megakolon.'],
+             ['Hepato',
+              u'Reaktivering av kronisk hepatit, akut lever-degenerering. leversvikt. Dessutom har, herpes simplex hepatit och nedsatt leverfunktion observerats (se \xe4ven avsnitt 4.4 betr\xe4ffande leverbiopsi). Mycket s\xe4llsynta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Akut paronyki, furunkulos, telangiektasier, hidradenit.'],
              ['Renal', u'Proteinuri.'],
              ['General',
@@ -71,5 +114,9 @@
               u'Minskad libido, impotens, vaginal flytning, infertilitet, gynekomasti.']]]],
  '_note': u' ?MSFU',
  '_pages': [8, 15],
+<<<<<<< HEAD
  u'_rank': 47,
+=======
+ u'_rank': 48,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

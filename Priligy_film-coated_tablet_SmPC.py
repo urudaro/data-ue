@@ -33,7 +33,11 @@
               u'\xd6kad hj\xe4rtfrekvens, f\xf6rh\xf6jt diastoliskt blodtryck, f\xf6rh\xf6jt ortostatiskt blodtryck']]],
            ['Rare',
             [['Nervous system', u'Yrsel vid anstr\xe4ngning, pl\xf6tsliga s\xf6mnattacker'],
+<<<<<<< HEAD
              ['GI', u'Br\xe5dskande tarm-t\xf6mning ar']]]],
+=======
+             ['GI', u'Br\xe5dskande tarm-t\xf6mningar']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [10, 12],
  u'_rank': 26,

@@ -17,18 +17,30 @@
              ['Psychiatric', u'Agitation, f\xf6rvirring, depression'],
              ['Nervous system', u'Smakf\xf6r\xe4ndringar'],
              ['Eye', u'Dimsyn'],
+<<<<<<< HEAD
              ['Respiratory', u'Bronkospasm'],
              ['GI', u'Stomatit, gastrointestinal candidiasis'],
              ['Hepato', u'Hepatit med eller utan gulsot'],
              ['Skin', u'Alopeci, fotosensitivitet']]],
+=======
+             ['GI', u'Stomatit, gastrointestinal candidiasis'],
+             ['Hepato', u'Hepatit med eller utan gulsot'],
+             ['Skin', u'Alopeci, fotosensitivitet'],
+             ['Skin', u'Artralgi, myalgi']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Blood', u'Agranulocytos, pancytopeni'],
              ['Psychiatric', u'Aggression, hallucinationer'],
              ['Hepato', u'Leversvikt,  encefalopati  hos  patienter  med  leversjukdom'],
              ['Skin',
               u'Erytema multiforme, Stevens-Johnsons syndrom,  toxisk epidermal nekrolys (TEN)'],
+<<<<<<< HEAD
              ['Renal', u'Interstitiell nefrit'],
              ['Reproductive system', u'Gynekomasti']]]],
+=======
+             ['Skin', u'Muskelsvaghet'],
+             ['Renal', u'Interstitiell nefrit']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [6, 7],
  u'_rank': 24,
  u'_type': u'TSFU'}

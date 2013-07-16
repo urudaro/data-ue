@@ -1,10 +1,14 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Nervous system', u'Huvudv\xe4rk'],
              ['Vascular', u'V\xe4rmevallningar'],
              ['GI', u'Illam\xe5ende'],
              ['Skin', u'Utslag'],
              ['Musculoskeletal', u'Artralgi/ledstelhet  Artrit  Osteoporos'],
              ['General', u'Asteni']]],
+=======
+            [['Vascular', u'V\xe4rmevallningar'], ['GI', u'Illam\xe5ende'], ['Skin', u'Utslag']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Metabolism', u'Anorexi  Hyperkolesterolemi'],
              ['Nervous system', u'Somnolens  Karpaltunnelsyndrom'],
@@ -12,6 +16,7 @@
              ['Hepato',
               u'F\xf6rh\xf6jt alkaliskt fosfatas,  alaninaminotransferas och aspartataminotransferas'],
              ['Skin', u'H\xe5ravfall (alopeci),  Allergiska reaktioner'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Skelettsm\xe4rta'],
              ['Reproductive system', u'Vaginal torrhet  Vaginalbl\xf6dningar***']]],
            ['Uncommon',
@@ -24,4 +29,17 @@
            ['Very rare', [['Skin', u'Stevens-Johnsons syndrom  Angio\xf6dem']]]],
  '_pages': [4, 5],
  u'_rank': 18,
+=======
+             ['Skin', u'Skelettsm\xe4rta']]],
+           ['Uncommon',
+            [['Hepato', u'F\xf6rh\xf6jning av gamma GT och bilirubin.  Hepatit'],
+             ['Skin', u'Urtikaria'],
+             ['Skin', u'Triggerfinger']]],
+           ['Rare',
+            [['Skin',
+              u'Erythema multiforme  Anafylaktiska reaktioner Kutan vaskulit (inklusive vissa rapporter om Henoch-Sch\xf6nleins purpura)**']]],
+           ['Very rare', [['Skin', u'Stevens-Johnsons syndrom  Angio\xf6dem Osteoporos']]]],
+ '_pages': [4, 5],
+ u'_rank': 14,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

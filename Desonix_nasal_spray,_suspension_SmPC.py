@@ -6,6 +6,7 @@
               u'Omedelbar eller f\xf6rdr\xf6jd  \xf6verk\xe4nslighetsreaktion (urtikaria, utslag, kl\xe5da, dermatit, angio\xf6dem)']]],
            ['Rare',
             [['Endocrine',
+<<<<<<< HEAD
               u'Tecken och symtom p\xe5 systemiska  kortikosteroideffekter, s\xe5som binjuresuppression och tillv\xe4xt-h\xe4mning'],
              ['Eye', u'Glaukom, katarakt (vid  l\xe5ngtids-behandling)'],
              ['Musculoskeletal', u'Osteoporos (vid  l\xe5ngtids-behandling)']]],
@@ -13,6 +14,15 @@
             [['Immune system', u'Anafylaktisk reaktion'],
              ['Nervous system', u'Dysfoni'],
              ['Respiratory', u'S\xe5r i n\xe4sslemhinnan,  n\xe4sseptum-perforation']]]],
+=======
+              u'Tecken och symtom p\xe5 systemiska  kortikosteroideffekter, s\xe5som binjuresuppression och tillv\xe4xt- h\xe4mning'],
+             ['Eye', u'Glaukom, katarakt (vid l\xe5ngtids-  behandling)'],
+             ['Musculoskeletal', u'Osteoporos (vid l\xe5ngtids-  behandling)']]],
+           ['Very rare',
+            [['Immune system', u'Anafylaktisk reaktion'],
+             ['Nervous system', u'Dysfoni'],
+             ['Respiratory', u'S\xe5r i n\xe4sslemhinnan, n\xe4sseptum-  perforation']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [5, 6],
  u'_rank': 8,
  u'_type': u'TSFU'}

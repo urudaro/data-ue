@@ -79,7 +79,11 @@
               u'Tarmobstruktion, Ascites, Enterit, Gastrit, Dysfagi, Sm\xe4rta i nedre delen av buken, Esofagit, Bukbesv\xe4r, Gastro-esofageal refluxsjukdom, Kolit, Blod i avf\xf6ringen'],
              ['Hepato', u'Gulsot'],
              ['Skin',
+<<<<<<< HEAD
               u'Hudulceration, Hudutslag, Urtikaria, Fotosensitivitets-reakti oner, Palmarerytem, Svullet ansikte, Allvarlig och/eller livshotande (grad 3-4) eller bed\xf6md medicinskt relevant Purpura'],
+=======
+              u'Hudulceration, Hudutslag, Urtikaria, Fotosensitivitets-reaktioner, Palmarerytem, Svullet ansikte, Allvarlig och/eller livshotande (grad 3-4) eller bed\xf6md medicinskt relevant Purpura'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal',
               u'Ledsvullnad, Skelettsm\xe4rta, Ansiktssm\xe4rta, Muskuloskeletal stelhet, Muskelsvaghet'],
              ['Renal',

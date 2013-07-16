@@ -1,5 +1,9 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Vascular', u'Flebit'],
+=======
+            [['Vascular', u'(>1/100, <1/10): Flebit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende, kr\xe4kningar'],
              ['Hepato', u'Reversibla \xf6kning av leverrelaterade enzymer'],
              ['Skin', u'Pruritus, urtikaria och hudutslag (inklusive fotosensibilitet)'],

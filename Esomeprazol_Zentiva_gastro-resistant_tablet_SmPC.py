@@ -1,6 +1,10 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'Huvudv\xe4rk'],
              ['GI',
+=======
+            [['GI',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Buksm\xe4rta, f\xf6rstoppning, diarr\xe9, flatulens,  illam\xe5ende/kr\xe4kningar']]],
            ['Uncommon',
             [['Metabolism', u'Perfiert \xf6dem'],
@@ -18,11 +22,17 @@
              ['Psychiatric', u'Agitation, f\xf6rvirring, depression'],
              ['Nervous system', u'Smakf\xf6r\xe4ndringar'],
              ['Eye', u'Dimsyn'],
+<<<<<<< HEAD
              ['Respiratory', u'Bronkospasm'],
              ['GI', u'Stomatit, gastrointestinal candidiasis'],
              ['Hepato', u'Hepatit med eller utan gulsot'],
              ['Skin', u'Alopeci, fotosensitivitet'],
              ['General', u'Allm\xe4n sjukdomsk\xe4nsla, \xf6kad svettning']]],
+=======
+             ['GI', u'Stomatit, gastrointestinal candidiasis'],
+             ['Hepato', u'Hepatit med eller utan gulsot'],
+             ['Skin', u'Alopeci, fotosensitivitet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Blood', u'Agranulocytos, pancytopeni'],
              ['Metabolism', u'Hypomagnesemi'],
@@ -33,5 +43,9 @@
              ['Renal', u'Interstitiell nefrit'],
              ['Reproductive system', u'Gynekomasti']]]],
  '_pages': [5, 6],
+<<<<<<< HEAD
  u'_rank': 27,
+=======
+ u'_rank': 24,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

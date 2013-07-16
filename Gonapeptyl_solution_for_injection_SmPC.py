@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [[u'Unknown',
             [['Infections', u'\xd6vre'],
              ['Immune system', u'\xd6verk\xe4nslighet'],
@@ -16,3 +17,32 @@
  '_pages': [4, 5],
  u'_rank': 13,
  u'_type': u'LFSU'}
+=======
+{'_data': [['Very common',
+            [['Nervous system', u'Huvudv\xe4rk'],
+             ['GI', u'Buksm\xe4rta, illam\xe5ende Utsp\xe4nd buk,'],
+             ['General', u'Inflammation vid injektionsst\xe4llet']]],
+           ['Common',
+            [['Infections', u'\xd6vre luftv\xe4gsinfektion, faryngit'],
+             ['Nervous system', u'Yrsel'],
+             ['Vascular', u'V\xe4rmevallningar'],
+             ['GI', u'kr\xe4kningar'],
+             ['Musculoskeletal', u'Ryggsm\xe4rta'],
+             ['Pregnancy', u'Missfall'],
+             ['General',
+              u'Sm\xe4rta/reaktion vid injektionsst\xe4llet,tr\xf6tt-het, influensaliknande symtom']]],
+           ['Unknown',
+            [['Immune system', u'\xd6verk\xe4nslighet'],
+             ['Psychiatric', u'S\xf6mnst\xf6rningar, hum\xf6rsv\xe4ngningar, minskad libido'],
+             ['Eye', u'F\xf6rs\xe4mrad syn, dimsyn'],
+             ['Respiratory', u'Dyspn\xe9'],
+             ['GI', u'Obehagsk\xe4nsla i buken'],
+             ['Skin', u'Kraftig svettning, kl\xe5da, utslag, angio\xf6dem, urtikaria'],
+             ['Musculoskeletal', u'Muskelkramper, artralgi'],
+             ['General', u'Asteni, erytem vid injektionsst\xe4llet'],
+             ['Investigations', u'Vikt\xf6kning']]]],
+ '_note': u' ?MSFU',
+ '_pages': [4, 5],
+ u'_rank': 19,
+ u'_type': u'MSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

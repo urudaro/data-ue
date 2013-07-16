@@ -4,7 +4,11 @@
              ['Skin', u'Pruritus']]],
            ['Common',
             [['Psychiatric',
+<<<<<<< HEAD
               u'\xc5ngest, f\xf6rvirring, nervositet, depression, tanke-st\xf6rning ar'],
+=======
+              u'\xc5ngest, f\xf6rvirring, nervositet, depression, tanke-st\xf6rningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Huvudv\xe4rk, illam\xe5ende'],
              ['Vascular', u'Ortostatisk hypotension'],
              ['Respiratory', u'Dyspn\xe9'],
@@ -17,14 +21,22 @@
              ['Nervous system',
               u'Kramper, ofrivilliga muskelsamman -dragningar, hypertension, hypoestesi, parestesi, talsv\xe5righeter, synkope, tremor, svindel'],
              ['Vascular', u'Vasodilatation, hypotension'],
+<<<<<<< HEAD
              ['Respiratory', u'Andnings-depre ssion, bronkospasm'],
+=======
+             ['Respiratory', u'Andnings-depression, bronkospasm'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'F\xf6r\xe4ndrat smaksinne, gastrointestinal a besv\xe4r, gasbildning, dysfagi, ileus, uppst\xf6tningar'],
              ['Hepato', u'Gallstensanfall'],
              ['Skin', u'Urtikaria, torr hud'],
              ['Renal', u'Anuri, urinr\xf6rsspasm'],
              ['Reproductive system', u'Amenorr\xe9, minskad libido, impotens'],
+<<<<<<< HEAD
              ['General', u'Perifert \xf6dem, t\xf6rst, abstinens-sympt om']]],
+=======
+             ['General', u'Perifert \xf6dem, t\xf6rst, abstinens-symptom']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Immune system',
               u'Allergisk reaktion, anafylaktoid reaktion, anafylaktisk reaktion'],

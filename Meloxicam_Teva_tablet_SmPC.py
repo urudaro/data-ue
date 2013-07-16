@@ -37,15 +37,25 @@
              ['GI',
               u'gastrointestinal perforation. Gastrointestinal bl\xf6dning, ulceration eller perforation kan ibland vara allvarliga och potentiellt livshotande, s\xe4rskilt hos \xe4ldre (se avsnitt 4.4).'],
              ['Hepato', u'hepatit.'],
+<<<<<<< HEAD
              ['Skin', u'bull\xf6sa utslag, erythema multiforme.'],
+=======
+             ['Skin', u'bull\xf6sa utslag, erythema multiforme. fotosensibilisering.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal',
               u'akut njursvikt s\xe4rskilt hos patienter med riskfaktorer (se avsnitt 4.4).'],
              ['General',
               u'fall av agranulocytos har rapporterats hos patienter som behandlats med meloxikam och andra potentiellt myelotoxiska l\xe4kemedel (se avsnitt 4.5). d) Biverkningar som \xe4nnu inte observerats i f\xf6rh\xe5llande till produkten, men som \xe4r allm\xe4nt accepterade och som kan tillskrivas andra f\xf6reningar i klassen Organiska njurskador vilka troligen resulterar i akut njursvikt: mycket s\xe4llsynta fall av interstitiell nefrit, akut tubul\xe4r nekros, nefrotiskt syndrom och papill\xe4r nekros har rapporterats (se avsnitt 4.4).']]],
            ['Unknown',
             [['Immune system', u'anafylaktiska/anafylaktoida reaktioner.'],
+<<<<<<< HEAD
              ['Psychiatric', u'f\xf6rvirringstillst\xe5nd, desorientering.'],
              ['Skin', u'fotosensibilisering.']]]],
  '_pages': [8, 11],
  u'_rank': 29,
+=======
+             ['Psychiatric', u'f\xf6rvirringstillst\xe5nd, desorientering.']]]],
+ '_pages': [9, 11],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -20,7 +20,11 @@
              ['Reproductive system', u'Priapism']]],
            ['Common',
             [['GI',
+<<<<<<< HEAD
               u'Ileus har observerats i mycket s\xe4llsynta fall (se avsnitt 4.4). S\xe4llsynta fall av dysfagi har observerats vid behandling med Clozapine Sandoz. Aspiration av intagen f\xf6da kan intr\xe4ffa hos patienter med dysfagi eller som en f\xf6ljd av akut \xf6verdosering.'],
+=======
+              u'. Ileus har observerats i mycket s\xe4llsynta fall (se avsnitt 4.4). S\xe4llsynta fall av dysfagi har observerats vid behandling med Clozapine Sandoz. Aspiration av intagen f\xf6da kan intr\xe4ffa hos patienter med dysfagi eller som en f\xf6ljd av akut \xf6verdosering.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood',
               u'Leukopeni, minskat antal vita blodkroppar/neutropeni, eosinofili, leukocytos Mindre Agranulocytos'],
              ['Blood', u'vanlig'],
@@ -29,10 +33,15 @@
              ['Psychiatric', u'vanliga'],
              ['Nervous system',
               u'Dimsyn, huvudv\xe4rk, tremor, rigiditet, akatisi, extrapyramidala symtom, kramper /muskelryckningar/myokloniska ryck'],
+<<<<<<< HEAD
              ['Cardiac', u'vanlig'],
              ['Cardiac', u'EKG-f\xf6r\xe4ndringar'],
              ['Vascular', u'Hypertension, postural hypotension, synkope'],
              ['GI', u'vanlig'],
+=======
+             ['Cardiac', u'EKG-f\xf6r\xe4ndringar'],
+             ['Vascular', u'Hypertension, postural hypotension, synkope'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende, kr\xe4kningar, anorexi, muntorrhet'],
              ['Hepato', u'F\xf6rh\xf6jda leverenzymv\xe4rden'],
              ['Renal', u'Urininkontinens, urinretention'],
@@ -73,7 +82,11 @@
             [['Metabolism',
               u'Nedsatt glukostolerans och/eller utveckling eller exacerbation av diabetes mellitus har i s\xe4llsynta fall rapporterats under behandling med klozapin. Allvarlig hyperglykemi, som ibland har gett upphov till ketoacidos/hyperosmol\xe4r koma, har i mycket s\xe4llsynta fall rapporterats f\xf6r patienter som tidigare inte haft hyperglykemi. Glukosniv\xe5erna normaliserades hos de flesta patienter efter det att Clozapine Sandoz-behandlingen avbrutits och i n\xe5gra fall \xe5terkom hyperglykemin n\xe4r behandlingen \xe5ter insattes. De flesta patienterna hade riskfaktorer f\xf6r icke-insulinberoende diabetes mellitus, men hyperglykemi har ocks\xe5 dokumenterats f\xf6r patienter med icke k\xe4nda riskfaktorer (se avsnitt 4.4).'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Takykardi och postural hypotension, med eller utan synkope, kan f\xf6rekomma, s\xe4rskilt under de f\xf6rsta behandlingsveckorna. Prevalensen och sv\xe5righetsgraden av hypotensionen p\xe5verkas av hastigheten och storleken p\xe5 dostitreringen. Cirkulationskollaps som en f\xf6ljd av kraftig hypotension, har rapporterats f\xf6r Clozapine Sandoz, s\xe4rskilt i samband med aggressiv titrering. Detta kan leda till allvarliga konsekvenser som hj\xe4rt- och andningsstillest\xe5nd. En minoritet av Clozapine Sandoz-behandlade patienter f\xe5r EKG-f\xf6r\xe4ndringar liknande de som ses med andra antipsykotika. Dessa f\xf6r\xe4ndringar omfattar ST-s\xe4nkning och utplaning eller inversion av T-v\xe5gen, vilka normaliseras efter uts\xe4ttande av Clozapine Sandoz. Den kliniska betydelsen av dessa f\xf6r\xe4ndringar \xe4r oklar. S\xe5dana avvikelser har dock observerats hos patienter med myokardit, vilket d\xe4rf\xf6r ska tas i beaktande.'],
+=======
+              u'Takykardi och postural hypotension, med eller utan synkope, kan f\xf6rekomma, s\xe4rskilt under de f\xf6rsta behandlingsveckorna. Prevalensen och sv\xe5righetsgraden av hypotensionen p\xe5verkas av hastigheten och storleken p\xe5 dostitreringen. Cirkulationskollaps som en f\xf6ljd av kraftig hypotension, har rapporterats f\xf6r Clozapine Sandoz, s\xe4rskilt i samband med aggressiv titrering. Detta kan leda till allvarliga konsekvenser som hj\xe4rt- och andningsstillest\xe5nd. En minoritet av Clozapine Sandoz-behandlade patienter f\xe5r EKG-f\xf6r\xe4ndringar liknande de som ses med andra antipsykotika. Dessa f\xf6r\xe4ndringar omfattar ST-s\xe4nkning och utplaning eller inversion av T v\xe5gen, vilka normaliseras efter uts\xe4ttande av Clozapine Sandoz. Den kliniska betydelsen av dessa f\xf6r\xe4ndringar \xe4r oklar. S\xe5dana avvikelser har dock observerats hos patienter med myokardit, vilket d\xe4rf\xf6r ska tas i beaktande.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory',
               u'Andningsdepression eller andningsstillest\xe5nd, med eller utan cirkulationskollaps, har intr\xe4ffat i mycket'],
              ['Hepato',
@@ -81,11 +94,19 @@
              ['Renal',
               u'Enstaka fall av akut interstitiell nefrit har rapporterats i samband med Clozapine Sandoz-behandling.'],
              ['General',
+<<<<<<< HEAD
               u'enbart eller tillsammans med litium eller andra CNS-aktiva l\xe4kemedel. Akuta uts\xe4ttningsreaktioner har rapporterats (se avsnitt 4.4).'],
+=======
+              u'Fall av malignt neuroleptikasyndrom (NMS) har observerats hos patienter som f\xe5tt Clozapine Sandoz enbart eller tillsammans med litium eller andra CNS-aktiva l\xe4kemedel. Akuta uts\xe4ttningsreaktioner har rapporterats (se avsnitt 4.4). Tabellen nedan (Tabell 4) sammanfattar de ackumulerade biverkningarna som rapporterats spontant och i de kliniska studierna. Tabell 4: Frekvens biverkningar under behandling med Clozapine Sandoz, uppskattad fr\xe5n spontanrapporter och fr\xe5n kliniska studier Biverkningarna grupperas under frekvensrubriker enligt f\xf6ljande: Mycket vanlig (\u22651/10), vanlig (\u22651/100, <1/10), mindre vanlig (\u22651/1000, <1/100), s\xe4llsynt (\u22651/10000, <1/1000), mycket s\xe4llsynt (<1/10000), frekvens inte k\xe4nd (kan inte uppskattas fr\xe5n tillg\xe4ngliga data).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'Ven\xf6s tromboembolism (inklusive lungemboli och djup ventrombos)'],
              ['GI', u'Diarr\xe9, ischemisk kolit, toxisk megakolon, tarminfarkt'],
              ['Pregnancy', u'Neonatalt uts\xe4ttningssyndrom (se 4.6)']]]],
  '_pages': [12, 16],
+<<<<<<< HEAD
  u'_rank': 65,
+=======
+ u'_rank': 63,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

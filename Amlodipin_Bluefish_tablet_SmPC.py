@@ -44,7 +44,11 @@
              ['GI', u''],
              ['Skin', u'leverenzymer*'],
              ['Skin',
+<<<<<<< HEAD
               u'urtikaria,  exfoliativ  dermatit,  Stevens-Johnson syndrom,  Quincke-\xf6dem, fotosensibilitet']]]],
+=======
+              u'urtikaria, exfoliativ dermatit, Stevens-  Johnson  syndrom,  Quincke-\xf6dem, fotosensibilitet']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 5],
  u'_rank': 32,
  u'_type': u'TSFU'}

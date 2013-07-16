@@ -8,7 +8,11 @@
              ['Renal', u'Dysuri'],
              ['General', u'Tr\xf6tthet, perifert \xf6dem']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Immune system', u'\xd6verk\xe4nslighets-rea ktioner'],
+=======
+            [['Immune system', u'\xd6verk\xe4nslighets-reaktioner'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Oro'],
              ['Nervous system', u'Parestesier, minnesneds\xe4ttning'],
              ['Ear', u'Yrsel'],

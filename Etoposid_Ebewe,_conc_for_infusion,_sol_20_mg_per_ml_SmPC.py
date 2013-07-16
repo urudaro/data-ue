@@ -1,10 +1,18 @@
 {'_data': [['Very common',
             [['Blood',
+<<<<<<< HEAD
               u'): Den dosbegr\xe4nsande toxiciteten hos etoposid \xe4r myelosuppression. Det l\xe4gsta v\xe4rdet f\xf6r vita blodkroppar f\xf6rekommer 5 till 15 dagar (f\xf6r granulocyter 7 till 14 dagar) efter l\xe4kemedlets administrering. Leukopeni upptr\xe4der oftare \xe4n trombocytopeni och \xe4r oftare m\xe5ttlig till sv\xe5r (WHO grad 3 eller 4). Hematologisk \xe5terh\xe4mtning \xe4r vanligen fullst\xe4ndig 24 till 28 dagar efter den sista dosen och kumulativ toxicitet har inte observerats med etoposid ensamt. Minskning av hemoglobin (hos ca 40%). Det l\xe4gsta v\xe4rdet p\xe5 granulocyter upptr\xe4der 7 till 14 dagar efter dosen med \xe5terh\xe4mtning p\xe5 cirka 21 dagar.'],
              ['GI',
               u'): Illam\xe5ende och kr\xe4kningar \xe4r de vanligaste gastrointestinala biverkningarna och upptr\xe4der hos ca 30-40% av patienterna (se avsnitt 4.4 Varningar och f\xf6rsiktighetsm\xe5tt). Diarr\xe9 (1-13%) och anorexi (10-13%).'],
              ['Skin',
               u'): Reversibel alopeci, som kan resultera i total skallighet, har uppst\xe5tt hos ca 66% av patienterna.']]],
+=======
+              u'Den dosbegr\xe4nsande toxiciteten hos etoposid \xe4r myelosuppression. Det l\xe4gsta v\xe4rdet f\xf6r vita blodkroppar f\xf6rekommer 5 till 15 dagar (f\xf6r granulocyter 7 till 14 dagar) efter l\xe4kemedlets administrering. Leukopeni upptr\xe4der oftare \xe4n trombocytopeni och \xe4r oftare m\xe5ttlig till sv\xe5r (WHO grad 3 eller 4). Hematologisk \xe5terh\xe4mtning \xe4r vanligen fullst\xe4ndig 24 till 28 dagar efter den sista dosen och kumulativ toxicitet har inte observerats med etoposid ensamt. Minskning av hemoglobin (hos ca 40%). Det l\xe4gsta v\xe4rdet p\xe5 granulocyter upptr\xe4der 7 till 14 dagar efter dosen med \xe5terh\xe4mtning p\xe5 cirka 21 dagar.'],
+             ['GI',
+              u'Illam\xe5ende och kr\xe4kningar \xe4r de vanligaste gastrointestinala biverkningarna och upptr\xe4der hos ca 30-40% av patienterna (se avsnitt 4.4 Varningar och f\xf6rsiktighetsm\xe5tt). Diarr\xe9 (1-13%) och anorexi (10-13%).'],
+             ['Skin',
+              u'Reversibel alopeci, som kan resultera i total skallighet, har uppst\xe5tt hos ca 66% av patienterna.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Blood',
               u'Infektioner och bl\xf6dningar till f\xf6ljd av sv\xe5r myelosuppression.'],
@@ -23,11 +31,19 @@
              ['Respiratory',
               u'Apn\xe9 med spontan \xe5terh\xe4mtning av andning efter avslutad etoposidbehandling har rapporterats. Pl\xf6tsliga, d\xf6dliga reaktioner i samband med bronkospasm har rapporterats. Hosta, laryngospasm och cyanos. Interstitiell pneumoni / pulmonell fibros.'],
              ['Hepato',
+<<<<<<< HEAD
               u'Efter h\xf6ga doser av etoposid har en \xf6kning av leverenzymer rapporterats.'],
              ['Skin', u'\xd6dem i ansikte och tunga, svettning.']]],
            ['Rare',
             [['Infections',
               u'Feber och sepsis har rapporterats i s\xe4llsynta fall vid anv\xe4ndning av etoposid.'],
+=======
+              u'(>1/1000, <1/100) Efter h\xf6ga doser av etoposid har en \xf6kning av leverenzymer rapporterats.'],
+             ['Skin', u'\xd6dem i ansikte och tunga, svettning.']]],
+           ['Rare',
+            [['Infections',
+              u'(>1/10 000, <1/1000): Feber och sepsis har rapporterats i s\xe4llsynta fall vid anv\xe4ndning av etoposid.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Neoplasms',
               u'F\xf6rekomst av akut leukemi, (med eller utan en preleukemisk fas) har i s\xe4llsynta fall rapporterats hos patienter behandlade med etoposid i kombination med andra cytostatika. En anomali i kromosom 11q23 har observerats i vissa fall av sekund\xe4r leukemi hos patienter som har tagit epipodofyllotoxiner och d\xe4r leukemin \xe5terkommit. Ett ytterligare karaktersistikum f\xf6r sekund\xe4r leukemi hos patienter som tagit epipodofyllotoxiner \xe4r den korta latensperioden, och tiden i medeltal f\xf6r att utveckla leukemin \xe4r ca 32 m\xe5nader.'],
              ['Blood', u'Anemi.'],
@@ -36,7 +52,11 @@
              ['Metabolism',
               u'Hyperurikemi har rapporterats i s\xe4llsynta fall vid anv\xe4nding av etoposid'],
              ['Nervous system',
+<<<<<<< HEAD
               u') Konfusion, hyperkinesi, akinesi, somnolens, yrsel, tr\xf6tthet, eftersmak och \xf6verg\xe5ende kortikal blindhet.'],
+=======
+              u'(>1/10 000, <1/1000) Konfusion, hyperkinesi, akinesi, somnolens, yrsel, tr\xf6tthet, eftersmak och \xf6verg\xe5ende kortikal blindhet.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Pneumoni har rapporterats i s\xe4llsynta fall.'],
              ['GI',
               u'Magsm\xe4rtor, f\xf6rstoppning och esofagit upptr\xe4der i s\xe4llsynta fall.'],

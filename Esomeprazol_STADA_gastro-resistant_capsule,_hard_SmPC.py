@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Blood', u'Agranulocytos, pancytopeni'],
              ['Psychiatric', u'Aggression, hallucinationer'],
@@ -12,11 +13,19 @@
               u'Buksm\xe4rta, f\xf6rstoppning, diarr\xe9, flatulens,  illam\xe5ende/kr\xe4kningar']]],
            ['Uncommon',
             [['Immune system', u'Perfiert \xf6dem'],
+=======
+{'_data': [['Common',
+            [['GI',
+              u'Buksm\xe4rta, f\xf6rstoppning, diarr\xe9, flatulens,  illam\xe5ende/kr\xe4kningar']]],
+           ['Uncommon',
+            [['Metabolism', u'Perfiert \xf6dem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'S\xf6mnl\xf6shet'],
              ['Nervous system', u'Yrsel, parestesi, s\xf6mnighet'],
              ['Ear', u'Yrsel'],
              ['GI', u'Muntorrhet'],
              ['Hepato', u'F\xf6rh\xf6jning av leverenzymer'],
+<<<<<<< HEAD
              ['Skin', u'Dermatit, kl\xe5da, utslag, n\xe4sselutslag'],
              ['Musculoskeletal', u'H\xf6ft-, handleds- eller kotfrakturer (se avsnitt  4.4)']]],
            ['Rare',
@@ -45,4 +54,28 @@
              ['GI', u'Mikroskopisk kolit']]]],
  '_pages': [7, 9],
  u'_rank': 33,
+=======
+             ['Skin', u'Dermatit, kl\xe5da, utslag, n\xe4sselutslag']]],
+           ['Rare',
+            [['Blood', u'Leukopeni, trombocytopeni'],
+             ['Immune system',
+              u'\xd6verk\xe4nslighetsreaktioner s\xe5som feber,  angio\xf6dem och anafylaktisk reaktion/chock'],
+             ['Metabolism', u'Hyponatremi'],
+             ['Psychiatric', u'Agitation, f\xf6rvirring, depression'],
+             ['Nervous system', u'Smakf\xf6r\xe4ndringar'],
+             ['Eye', u'Dimsyn'],
+             ['GI', u'Stomatit, gastrointestinal candidiasis'],
+             ['Hepato', u'Hepatit med eller utan gulsot'],
+             ['Skin', u'Alopeci, fotosensitivitet'],
+             ['Skin', u'Artralgi, myalgi'],
+             ['General', u'Allm\xe4n sjukdomsk\xe4nsla, \xf6kad svettning']]],
+           ['Very rare',
+            [['Blood', u'Agranulocytos, pancytopeni'],
+             ['Skin',
+              u'Erytema multiforme, Stevens-Johnsons  syndrom, toxisk epidermal nekrolys (TEN)'],
+             ['Skin', u'Muskelsvaghet']]],
+           ['Unknown', [['Metabolism', u'Hypomagnesemi [se varningar och']]]],
+ '_pages': [7, 8],
+ u'_rank': 23,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

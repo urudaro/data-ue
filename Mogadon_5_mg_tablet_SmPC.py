@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['Nervous system', u'D\xe5sighet (ca 3\u201310%)']]],
            ['Uncommon',
             [['Nervous system',
               u'Ataxi, koncentrationssv\xe5righeter, nedsatt reaktionsf\xf6rm\xe5ga, muskelsvaghet, domningar'],
+=======
+{'_data': [['Common', [['Nervous system', u'(>1/100, <1/10) D\xe5sighet (ca 3\u201310%)']]],
+           ['Uncommon',
+            [['Nervous system',
+              u'(>1/1 000, <1/100) Ataxi, koncentrationssv\xe5righeter, nedsatt reaktionsf\xf6rm\xe5ga, muskelsvaghet, domningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Mindre vanlig (>1/1 000, <1/100) Yrsel, huvudv\xe4rk']]],
            ['Very rare',
             [['Nervous system', u'Depression'],

@@ -4,16 +4,26 @@
               u'Yrsel, parestesi, huvudv\xe4rk, d\xe5sighet, dysestesi, hypestesi'],
              ['Eye', u'Synst\xf6rning'],
              ['Vascular', u'Flush'],
+<<<<<<< HEAD
              ['Respiratory', u'Tr\xe5nghets-k\xe4ns la i svalget'],
+=======
+             ['Respiratory', u'Tr\xe5nghets-k\xe4nsla i svalget'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende, muntorrhet, dyspepsi, buksm\xe4rtor'],
              ['Skin', u'Hyperhidros'],
              ['General', u'Tr\xf6tthet, obehagsk\xe4nsla i br\xf6stet']]],
            ['Uncommon',
             [['Metabolism', u'Dehydrering'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'\xc5ngest, s\xf6mnl\xf6shet, f\xf6rvirring, nervositet, agitation, depression, depersonali-s ation'],
              ['Nervous system',
               u'Dysgeusi, tremor, Koncentra-tio nsproblem, letargi, hyperestesi, sl\xf6het, yrsel, ofrivilliga muskel-sammandrag-ningar'],
+=======
+              u'\xc5ngest, s\xf6mnl\xf6shet, f\xf6rvirring, nervositet, agitation, depression, depersonali-sation'],
+             ['Nervous system',
+              u'Dysgeusi, tremor, Koncentra-tionsproblem, letargi, hyperestesi, sl\xf6het, yrsel, ofrivilliga muskel-sammandrag-ningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'\xd6gonsm\xe4rta, \xf6gonirritation , fotofobi'],
              ['Ear', u'Tinnitus, \xf6ronsm\xe4rta'],
              ['Cardiac', u'Palpitationer, takykardi'],
@@ -22,6 +32,7 @@
              ['GI', u'Diarr\xe9, dysfagi, flatulens, magbesv\xe4r, uppbl\xe5st mage'],
              ['Skin', u'Kl\xe5da'],
              ['Musculoskeletal',
+<<<<<<< HEAD
               u'Muskuloske-l etal stelhet, muskuloske-l etal sm\xe4rta, sm\xe4rta i extremiter, ryggsm\xe4rta, artralgi'],
              ['Renal', u'Pollakiuri, polyuri'],
              ['General',
@@ -30,15 +41,31 @@
             [['Blood', u'Lymfadenopati'],
              ['Metabolism', u'Hypoglykemi'],
              ['Psychiatric', u'Onormala dr\xf6mmar, personlighets-f \xf6r\xe4ndring'],
+=======
+              u'Muskuloske-letal stelhet, muskuloske-letal sm\xe4rta, sm\xe4rta i extremiter, ryggsm\xe4rta, artralgi'],
+             ['Renal', u'Pollakiuri, polyuri'],
+             ['General',
+              u'Br\xf6stsm\xe4rta, v\xe4rmek\xe4nsla, intolerans f\xf6r temperatur skillnader, sm\xe4rta, asteni, t\xf6rst, tr\xf6ghet, \xf6kad energi, generell obehags-k\xe4nsla']]],
+           ['Rare',
+            [['Blood', u'Lymfadenopati'],
+             ['Metabolism', u'Hypoglykemi'],
+             ['Psychiatric', u'Onormala dr\xf6mmar, personlighets-f\xf6r\xe4ndring'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Amnesia, \xf6kad eller minskad muskeltonus, hyporeflexi, r\xf6relseproblem'],
              ['Eye', u'Nattblindhet'],
              ['Ear', u'\xd6ronobehag, \xf6ronsjukdom, \xf6ronkl\xe5da, hyperakusi'],
              ['Cardiac', u'Bradykardi'],
              ['Respiratory',
+<<<<<<< HEAD
               u'N\xe4sblod, hicka, hyperventi-lati on, andnings-besv \xe4r, halsirritation'],
              ['GI',
               u'F\xf6rstoppning, rapningar, gastroesofagal reflux, irritabel tarm, l\xe4ppbl\xe5sor, l\xe4ppsm\xe4rta, esofageal spasm, bl\xe5sor i munslemhin-n an, peptiskt s\xe5r, spottk\xf6rtel-sm \xe4rta, stomatit, tandsm\xe4rta'],
+=======
+              u'N\xe4sblod, hicka, hyperventi-lation, andnings-besv\xe4r, halsirritation'],
+             ['GI',
+              u'F\xf6rstoppning, rapningar, gastroesofagal reflux, irritabel tarm, l\xe4ppbl\xe5sor, l\xe4ppsm\xe4rta, esofageal spasm, bl\xe5sor i munslemhin-nan, peptiskt s\xe5r, spottk\xf6rtel-sm\xe4rta, stomatit, tandsm\xe4rta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Erytem, piloerektion, purpura, urticaria'],
              ['Renal', u'Nokturi, njursm\xe4rta'],
              ['Reproductive system', u'Br\xf6st\xf6mhet'],
@@ -49,6 +76,10 @@
            ['Very rare', []],
            ['Unknown', []]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [4, 8],
+=======
+ '_pages': [4, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 35,
  u'_type': u'MSFU'}

@@ -1,7 +1,11 @@
 {'_data': [['Common',
             [['Blood', u'Eosinofili'],
              ['Metabolism', u'Yrsel, huvudv\xe4rk, agitation, tremor.'],
+<<<<<<< HEAD
              ['GI', u'Illam\xe5ende, diarr\xe9, kr\xe4kningar, magsm\xe4rtor.'],
+=======
+             ['GI', u'; Illam\xe5ende, diarr\xe9, kr\xe4kningar, magsm\xe4rtor.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Hudutslag.'],
              ['General',
               u'Flebit p\xe5 infusionsst\xe4llet. Detta kan undvikas genom att anv\xe4nda l\xe4ngre infusionstider. Irritation p\xe5 injektionsst\xe4llet. Lokala reaktioner vid injektionsst\xe4llet och lokala flebiter har rapporterats efter intraven\xf6s administrering av ciprofloxacin, framf\xf6rallt d\xe5 infusionstiden \xe4r 30 minuter eller mindre (se avsnitt 4.4).'],

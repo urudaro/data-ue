@@ -9,12 +9,20 @@
             [['Metabolism', u'V\xe4tskeretention'],
              ['Nervous system', u'Migr\xe4n'],
              ['Psychiatric', u'Minskad libido'],
+<<<<<<< HEAD
              ['Vascular', u'M\xe5ttlig blodtrycks-f\xf6rh\xf6jni ng'],
+=======
+             ['Vascular', u'M\xe5ttlig blodtrycks-f\xf6rh\xf6jning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Kr\xe4kningar, diarr\xe9'],
              ['Skin', u'Utslag, urtikaria'],
              ['Reproductive system', u'Utebliven bortfallsbl\xf6dning, br\xf6stf\xf6rstoring']]],
            ['Rare',
+<<<<<<< HEAD
             [['Immune system', u'\xd6verk\xe4nslighets-reaktio n'],
+=======
+            [['Immune system', u'\xd6verk\xe4nslighets-reaktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Endocrine',
               u'S\xe4nkt glukostolerans, f\xf6rh\xf6jt blodsocker, \xf6kat insulinbehov'],
              ['Investigations', u'Viktminskning'],

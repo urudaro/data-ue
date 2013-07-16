@@ -27,7 +27,11 @@
              ['Renal',
               u'Proteinuri, kreatinstegring, interstitiell nefrit, njurinsufficiens, hematuri, oliguri, pollakisuri, urinretention'],
              ['Skin',
+<<<<<<< HEAD
               u'Allvarliga hudreaktioner (severe cutaneous adverse reactions, SCARs); Stevens-Johnson syndrome (SJS) och toxisk epidermal nekrolys (TEN) har rapporterats (se avsnitt 4.4). Erythema multiforme, exfoliativ dermatiti, h\xe5ravfall, erythema nodosum, hirsutism, f\xf6r\xe4ndrad hudpigmentering, kl\xe5da, acne, purpura, svettningar, fotosensibilitet'],
+=======
+              u'Allvarliga hudreaktioner (severe cutaneous adverse reactions, SCARs); Stevens- Johnson syndrome (SJS) och toxisk epidermal nekrolys (TEN) har rapporterats (se avsnitt 4.4). Erythema multiforme, exfoliativ dermatiti, h\xe5ravfall, erythema nodosum, hirsutism, f\xf6r\xe4ndrad hudpigmentering, kl\xe5da, acne, purpura, svettningar, fotosensibilitet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal',
               u'Muskelv\xe4rk, ledv\xe4rk, muskelkramper, SLE-liknande reaktioner'],
              ['Endocrine', u'Gynekomasti, galaktorr\xe9'],
@@ -40,7 +44,13 @@
               u'Sexuell funktionsned-s\xe4ttning Det finns rapporter om nedsatt fertilitet hos karbamazepinbehandlade m\xe4n, men n\xe5got s\xe4kert samband har h\xe4rvid inte kunnat konstateras.'],
              ['Psychiatric',
               u'Konfusion och aktivering av andra psykotiska symtom, hallucinationer, agitation, oro, rastl\xf6shet, aggressivitet, depression']]],
+<<<<<<< HEAD
            ['Very rare', [['Immune system', u'Anafylaktoida reaktioner']]],
+=======
+           ['Very rare',
+            [['Immune system',
+              u'Anafylaktoida reaktioner *\xd6verk\xe4nslighetsreaktioner i form av varierande kombinationer av feber, hudutslag, vaskulit, lymfadenopati, pseudolymfom, ledv\xe4rk, leukopeni, eosinofili, hepatosplenomegali, och onormal leverfunktionstester har rapporterats. Andra organ kan ocks\xe5 p\xe5verkas (t.ex. lever, lungor, njurar, bukspottsk\xf6rteln, hj\xe4rtmuskulaturen, tarmen).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Skin',
               u'Det finns \xf6kad bevisning ang\xe5ende associationen av genetiska mark\xf6rer och f\xf6rekomsten av hudbiverkningar s\xe5som SJS,TEN,DRESS,AGEP och makulopapul\xf6sa utslag. Hos japanska och europeiska patienter har dessa biverkningar rapporterats som associerade med anv\xe4ndningen av karbamazepin och n\xe4rvaron av allelen HLA-A*3101. En annan mark\xf6r, HLA-B*1502 har p\xe5visats vara starkt relaterat till SJS och TEN bland individer med hankinesiskt,thail\xe4ndskt och vissa andra asiatiska ursprung (se avsnitt 4.2 och 4.4 f\xf6r ytterligare information).'],

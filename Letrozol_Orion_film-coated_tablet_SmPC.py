@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Skin', u'\xf6kad svettning'],
              ['General', u'blodvallning, tr\xf6tthet inkluderande asteni']]],
@@ -14,6 +15,18 @@
              ['Neoplasms',
               u'tum\xf6rsm\xe4rta (g\xe4ller ej vid adjuvant eller  f\xf6rl\xe4ngd adjuvant behandling)'],
              ['Blood', u'leukopeni'],
+=======
+{'_data': [['Very common', [['General', u'blodvallning, tr\xf6tthet inkluderande asteni']]],
+           ['Common',
+            [['Metabolism', u'anorexia, \xf6kad aptit, hyperkolesterolemi'],
+             ['Psychiatric', u'depression'],
+             ['GI', u'illam\xe5ende, kr\xe4kning, dyspepsi,  f\xf6rstoppning, diarr\xe9.'],
+             ['Hepato',
+              u'alopeci, utslag inkluderande erytemiskt,  makulopapul\xf6st, psoriasisliknande och vesikul\xe4rt utslag'],
+             ['Investigations', u'vikt\xf6kning']]],
+           ['Uncommon',
+            [['Blood', u'leukopeni'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'generaliserat \xf6dem'],
              ['Psychiatric', u'\xe5ngest inkluderande nervositet,  irritabilitet'],
              ['Nervous system',
@@ -22,6 +35,7 @@
              ['Cardiac', u'palpitationer, takykardi'],
              ['Vascular',
               u'tromboflebit inkluderande ytlig och djup  tromboflebit, hypertoni, ischemisk hj\xe4rtsjukdom'],
+<<<<<<< HEAD
              ['Respiratory', u'dyspn\xe9, hosta'],
              ['GI', u'buksm\xe4rta, stomatit, muntorrhet'],
              ['Hepato', u'\xf6kning av leverenzymer'],
@@ -29,13 +43,28 @@
              ['Renal', u'\xf6kad urinfrekvens'],
              ['Reproductive system',
               u'vaginalbl\xf6dning, vaginalflytning,  vaginaltorrhet, br\xf6stsm\xe4rta'],
+=======
+             ['GI', u'buksm\xe4rta, stomatit, muntorrhet'],
+             ['Hepato', u'\xf6kning av leverenzymer'],
+             ['Hepato', u'kl\xe5da, hudtorrhet, urtikaria.'],
+             ['Hepato', u'artrit'],
+             ['Renal', u'\xf6kad urinfrekvens'],
+             ['Reproductive system', u'vaginalbl\xf6dning, vaginalflytning,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'viktf\xf6rlust']]],
            ['Rare',
             [['Vascular', u'lungemboli, arteriell trombos,  cerebrovaskul\xe4r infarkt']]],
            ['Unknown',
             [['Hepato', u'hepatit'],
+<<<<<<< HEAD
              ['Skin',
               u'anafylaktisk reaktion, angio\xf6dem, toxisk  epidermal nekrolys, erythema multiforme']]]],
  '_pages': [3, 5],
  u'_rank': 27,
+=======
+             ['Hepato',
+              u'anafylaktisk reaktion, angio\xf6dem, toxisk  epidermal nekrolys, erythema multiforme frakturer']]]],
+ '_pages': [3, 5],
+ u'_rank': 23,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

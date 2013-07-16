@@ -5,7 +5,11 @@
              ['Vascular', u'Huvudv\xe4rk. Yrsel. Tr\xf6tthet.'],
              ['Psychiatric', u'Depression']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Cardiac', u') Hj\xe4rtklappning. Hj\xe4rtsvikt. Arytmi.'],
+=======
+            [['Cardiac', u'(> 1/1000, < 1/100) Hj\xe4rtklappning. Hj\xe4rtsvikt. Arytmi.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood',
               u'Leukopeni. Trombocytopeni. Sekund\xe4ranemi pga manifest eller ockult bl\xf6dning. Disseminerad intravasal koagulation.'],
              ['Nervous system', u'Parestesier. Perifer neuropati.'],

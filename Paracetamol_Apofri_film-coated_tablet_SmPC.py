@@ -9,7 +9,11 @@
              ['Hepato', u'St\xf6rningar av leverfunktionen, leversvikt,  levernekros, gulsot.'],
              ['Skin', u'Kl\xe5da, utslag, svettningar, purpura,  angio\xf6dem, urtikaria.'],
              ['General',
+<<<<<<< HEAD
               u'Yrsel (ej svindel), sjukdomsk\xe4nsla,  pyrexi, sedering, l\xe4kemedelsinteraktioner.'],
+=======
+              u'Yrsel (ej svindel), sjukdomsk\xe4nsla, pyrexi,  sedering, l\xe4kemedelsinteraktioner.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Injury', u'\xd6verdosering och f\xf6rgiftning']]],
            ['Very rare',
             [['Blood', u'Trombocytopeni, leukopeni, neutropeni  och hemolytisk anemi.'],

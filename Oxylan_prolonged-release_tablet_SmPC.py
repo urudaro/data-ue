@@ -45,8 +45,14 @@
             [['Psychiatric', u'talrubbningar'],
              ['Skin', u'urtikaria eller exfoliativ dermatit'],
              ['General',
+<<<<<<< HEAD
               u'anafylaktiska reaktioner; i mycket s\xe4llsynta fall kan sojalecitin ge allergiska reaktioner']]],
            ['Unknown', [['General', u'tolerans och beroende kan utvecklas.']]]],
  '_pages': [5, 7],
  u'_rank': 34,
+=======
+              u'anafylaktiska reaktioner; i mycket s\xe4llsynta fall kan sojalecitin ge allergiska reaktioner : tolerans och beroende kan utvecklas.']]]],
+ '_pages': [5, 7],
+ u'_rank': 33,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

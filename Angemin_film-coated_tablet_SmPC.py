@@ -1,7 +1,10 @@
 {'_data': [['Common',
             [['Psychiatric', u'Depression, emotionell labilitet, nervositet'],
              ['Nervous system', u'Huvudv\xe4rk'],
+<<<<<<< HEAD
              ['Cardiac', u'( >'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Buksm\xe4rtor, illam\xe5ende, f\xf6rstorad buk'],
              ['Reproductive system',
               u'Benign br\xf6stneoplasm, br\xf6stf\xf6rstoring, tillv\xe4xt av uterusmyomer, benign cervixneoplasm, menstruationsrubbningar, vaginalflytning'],
@@ -15,7 +18,11 @@
              ['Nervous system',
               u'Parestesier, f\xf6rs\xe4mrad koncentrations-f\xf6rm\xe5ga, yrsel'],
              ['Eye', u'\xd6gonbesv\xe4r, synrubbningar'],
+<<<<<<< HEAD
              ['Cardiac', u'Palpitation ( >'],
+=======
+             ['Cardiac', u'Palpitation'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'Emboli, ven\xf6s trombos, hypertoni, migr\xe4n, tromboflebit, \xe5derbr\xe5ck'],
              ['Respiratory', u'Dyspn\xe9'],
@@ -41,5 +48,9 @@
              ['General', u'Frossbrytningar']]]],
  '_note': u' ?MSFU',
  '_pages': [7, 11],
+<<<<<<< HEAD
  u'_rank': 29,
+=======
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

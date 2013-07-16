@@ -2,7 +2,11 @@
             [['Blood',
               u'febril neutropeni, neutropeni (se Magtarmkanalen), trombocytopeni, anemi, leukopeni.'],
              ['GI',
+<<<<<<< HEAD
               u'Illam\xe5ende, kr\xe4kningar, diarr\xe9 (vilka alla kan vara allvarliga), f\xf6rstoppning, buksm\xe4rta* och mukosit'],
+=======
+              u'Illam\xe5ende, kr\xe4kningar, diarr\xe9 (vilka alla kan vara allvarliga), f\xf6rstoppning, buksm\xe4rta* och mukosit *Neutropen kolit, inklusive neutropen kolit med d\xf6dlig utg\xe5ng, har rapporterats som en komplikation vid topotekaninducerad neutropeni (se avsnitt 4.4).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'alopeci'],
              ['Metabolism', u'anorexi (vilken kan vara allvarlig).'],
              ['Infections', u'infektion'],

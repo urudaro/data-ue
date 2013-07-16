@@ -17,7 +17,11 @@
              ['General', u'Irritation p\xe5 administreringsst\xe4llet'],
              ['Investigations', u'F\xf6rh\xf6jda leverenzymv\xe4rden'],
              ['Investigations',
+<<<<<<< HEAD
               u'Parestesier och rodnad i ansiktet kan intr\xe4ffa strax efter injektion.']]]],
+=======
+              u'. Parestesier och rodnad i ansiktet kan intr\xe4ffa strax efter injektion.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 5],
  u'_rank': 15,
  u'_type': u'LSFU2'}

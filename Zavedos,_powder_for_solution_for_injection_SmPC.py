@@ -6,7 +6,12 @@
               u'Illam\xe5ende, kr\xe4kning, mukosit, stomatit, diarr\xe9, sm\xe4rta eller sveda i buken'],
              ['Skin', u'Alopeci'],
              ['Renal', u'R\xf6df\xe4rgning av urinen under 1-2 dagar efter behandlingen'],
+<<<<<<< HEAD
              ['General', u'Feber Huvudv\xe4rk Frossa']]],
+=======
+             ['General',
+              u'Feber Huvudv\xe4rk Frossa * Icke-specifika ST-f\xf6r\xe4ndringar ** Se avsnitt 4.4 f\xf6r associerade tecken och symptom \u2020 D\xe4ribland sv\xe5r enterokolit / neutropen enterokolit med perforation \u2021 \u201dStr\xe5lningsinducerad hudreaktion\u201d \xa7 Denna biverkan kan vara allvarlig']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Blood', u'Benm\xe4rgsh\xe4mning'],
              ['Cardiac',
@@ -31,16 +36,29 @@
             [['Immune system', u'Anafylaxi'],
              ['Cardiac', u'Perikardit, myokardit Atrioventrikul\xe4rt block och grenblock'],
              ['Vascular', u'Tromboembolism, v\xe4rmevallning'],
+<<<<<<< HEAD
              ['GI', u'Gastriska erosioner eller ulcerationer'],
              ['Skin', u'Akrala erytem']]],
+=======
+             ['GI',
+              u'Gastriska erosioner eller ulcerationer Hyperpigmentering av munslemhinnan'],
+             ['Skin', u'Akrala erytem Lokal reaktion, hudf\xf6r\xe4ndringar, onykolys']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood', u'Pancytopeni'],
              ['Metabolism', u'Tum\xf6rlyssyndrom'],
              ['Cardiac', u'Kronisk hj\xe4rtinsufficiens'],
+<<<<<<< HEAD
              ['GI', u'Hyperpigmentering av munslemhinnan'],
              ['Skin', u'Lokal reaktion, hudf\xf6r\xe4ndringar, onykolys'],
              ['GI',
               u'Stomatit och, i sv\xe5ra fall, ulceration i mukosa, dehydrering orsakad av sv\xe5ra kr\xe4kningar och diarr\xe9, risk f\xf6r kolonperforation osv. Administreringsst\xe4llet Flebit/tromboflebit och f\xf6rebyggande \xe5tg\xe4rder diskuteras i avsnitt 6.6. Oavsiktliga paraven\xf6sa infiltrat kan orsaka sm\xe4rta, sv\xe5r cellulit och v\xe4vnadsnekros. \xd6vriga biverkningar: hyperurikemi F\xf6rebyggande \xe5tg\xe4rder i form av uppv\xe4tskning, alkalisering av urinen och profylax med allopurinol kan minimera eventuella komplikationer till tum\xf6rlyssyndrom.']]]],
  '_pages': [6, 8],
  u'_rank': 33,
+=======
+             ['GI',
+              u'Stomatit och, i sv\xe5ra fall, ulceration i mukosa, dehydrering orsakad av sv\xe5ra kr\xe4kningar och diarr\xe9, risk f\xf6r kolonperforation osv. Administreringsst\xe4llet Flebit/tromboflebit och f\xf6rebyggande \xe5tg\xe4rder diskuteras i avsnitt 6.6. Oavsiktliga paraven\xf6sa infiltrat kan orsaka sm\xe4rta, sv\xe5r cellulit och v\xe4vnadsnekros. \xd6vriga biverkningar: hyperurikemi F\xf6rebyggande \xe5tg\xe4rder i form av uppv\xe4tskning, alkalisering av urinen och profylax med allopurinol kan minimera eventuella komplikationer till tum\xf6rlyssyndrom.']]]],
+ '_pages': [6, 8],
+ u'_rank': 31,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

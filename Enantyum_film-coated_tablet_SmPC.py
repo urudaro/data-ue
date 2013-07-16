@@ -21,9 +21,15 @@
              ['Skin', u'Urticaria, akne, \xf6kad svettning'],
              ['Musculoskeletal', u'Ryggsm\xe4rta'],
              ['Renal', u'Akut njursvikt, polyuri'],
+<<<<<<< HEAD
              ['Reproductive system', u'Menstruatio ns-rubbninga r; prostatast\xf6rn ingar'],
              ['General', u'Perifert \xf6dem'],
              ['Investigations', u'Onormalt lever-funktio nstest']]],
+=======
+             ['Reproductive system', u'Menstruation s-rubbningar; prostatast\xf6rn ingar'],
+             ['General', u'Perifert \xf6dem'],
+             ['Investigations', u'Onormalt lever-funktionstest']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Blood', u'Neutropeni, trombocytopeni'],
              ['Immune system', u'Anafylaktisk reaktion inkl anafylaktisk chock'],
@@ -35,7 +41,11 @@
              ['GI', u'Pankreatit'],
              ['Hepato', u'Hepatocellul\xe4r skada'],
              ['Skin',
+<<<<<<< HEAD
               u'Stevens-Johnsons syndrom, toxisk epidermal nekrolys (Lyell`s syndrom), angio\xf6dem, ansikts\xf6dem, fotosensitivitets-rea ktioner, pruritus'],
+=======
+              u'Stevens-Johnsons syndrom, toxisk epidermal nekrolys (Lyell`s syndrom), angio\xf6dem, ansikts\xf6dem, fotosensitivitets-reaktioner, pruritus'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Nefrit eller nefrotiskt syndrom']]]],
  '_note': u' ?MSFU',
  '_pages': [6, 8],

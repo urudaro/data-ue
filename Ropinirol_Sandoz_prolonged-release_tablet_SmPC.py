@@ -13,7 +13,12 @@
               u'Vanliga Perifera \xf6dem Perifera \xf6dem Ut\xf6ver biverkningarna ovan har f\xf6ljande h\xe4ndelser rapporterats med ropinirol filmdragerade (omedelbar fris\xe4ttning) tabletter hos patienter med Parkinsons sjukdom i kliniska studier (vid doser upp till 24 mg/dag) och/eller efter marknadsintroduktionen. Vid monoterapi Till\xe4ggsbehandling'],
              ['Psychiatric', u'F\xf6rvirring'],
              ['Vascular', u'Vanliga Kr\xe4kningar, halsbr\xe4nna, Halsbr\xe4nna buksm\xe4rtor'],
+<<<<<<< HEAD
              ['General', u'\xd6dem i benen']]],
+=======
+             ['General',
+              u'\xd6dem i benen * Ropinirol har satts i samband med s\xf6mnighet och har i mindre vanliga fall givit upphov till uttalad s\xf6mnighet dagtid och pl\xf6tsliga s\xf6mnattacker.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Vascular', u'Postural hypotension, hypotension'],
              ['Psychiatric',

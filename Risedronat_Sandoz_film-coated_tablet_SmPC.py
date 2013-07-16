@@ -10,7 +10,11 @@
            ['Rare',
             [['GI', u'glossit (<0,1% mot 0,1%), esofagusstriktur (<0,1% mot 0,0%)'],
              ['Investigations',
+<<<<<<< HEAD
               u'abnorma leverfunktionstester* Laboratoriev\xe4rden Tidig, \xf6verg\xe5ende, asymptomatisk och lindrig minskning av serumkalcium och fosfatniv\xe5er har observerats hos vissa patienter.']]],
+=======
+              u'abnorma leverfunktionstester* Laboratoriev\xe4rden Tidig, \xf6verg\xe5ende, asymptomatisk och lindrig minskning av serumkalcium och fosfatniv\xe5er har observerats hos vissa patienter. * Ej incidens fr\xe5n fas III-studier p\xe5 osteoporospatienter; frekvensen baserar sig p\xe5 laboratoriefynd och biverkningsobservationer fr\xe5n tidigare kliniska studier. I en ett\xe5rig, dubbelblind, multicenterstudie j\xe4mf\xf6rande risedronatnatrium 5 mg dagligen (n=480) och risedronatnatrium 35 mg en g\xe5ng i veckan (n=485) hos postmenopausala kvinnor med osteoporos, var de allm\xe4nna s\xe4kerhets- och tolerabilitetsprofilerna likartade. D\xe4rut\xf6ver har f\xf6ljande biverkningar med m\xf6jligt eller troligt samband enligt pr\xf6vare rapporterats (incidens h\xf6gre i risedronat 35 mg gruppen \xe4n i risedronatnatrium 5 mg gruppen): gastrointestinala problem (1,6% mot 1,0%) och sm\xe4rta (1,2% mot 0,8%). I en tv\xe5-\xe5rig studie p\xe5 m\xe4n med osteoporos var \xf6vergripande s\xe4kerhet och tolerabilitet likartad mellan behandlad grupp och placebobgrupp. Biverkningarna var \xf6verensst\xe4mmande med de som tidigare observerats hos kvinnor. D\xe4rut\xf6ver har f\xf6ljande biverkningar rapporterats efter godk\xe4nnande f\xf6r f\xf6rs\xe4ljning (frekvens ok\xe4nd)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Immune system', u'Anafylaktiska reaktioner'],
              ['Eye', u'Irit, uveit'],

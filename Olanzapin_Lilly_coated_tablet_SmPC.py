@@ -2,12 +2,20 @@
             [['Metabolism', u'Viktuppg\xe5ng'],
              ['Nervous system', u'Somnolens'],
              ['Investigations',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jd plasma-prolaktinniv \xe5 (>7 mmol/l) var mycket syndrom. rapporterats vid abrupt vanliga L\xe5ngtidsbehandling (minst seminatriumvalproat f\xf6rekom studiens b\xf6rjan. Pediatrisk population ungdomar med data fr\xe5n'],
+=======
+              u'F\xf6rh\xf6jd plasma-prolaktinniv\xe5 var mycket vanligt. syndrom. rapporterats vid abrupt L\xe5ngtidsbehandling (minst f\xf6rekom en \xf6kning i kroppsvikt Pediatrisk population ungdomar med data fr\xe5n'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Mycket vanlig: viktuppg\xe5ng vanlig'],
              ['Nervous system', u'mycket vanlig'],
              ['GI', u'vanlig : muntorrhet.'],
              ['Hepato', u'mycket vanlig'],
+<<<<<<< HEAD
              ['Investigations', u'studiens b\xf6rjan till h\xf6ga']]],
+=======
+             ['Investigations', u'b\xf6rjan till h\xf6ga (>1,467']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Blood', u'Eosinofili'],
              ['Metabolism',
@@ -17,17 +25,29 @@
              ['GI',
               u'Milda, \xf6verg\xe5ende antikolinerga effekter, inklusive f\xf6rstoppning och muntorrhet'],
              ['Hepato',
+<<<<<<< HEAD
               u'\xd6verg\xe5ende, asymtomatiska f\xf6rh\xf6jningar av leveramino-transfe raser (ALAT, ASAT), s\xe4rskilt i b\xf6rjan av behandlingen (se avsnitt 4.4)'],
              ['Skin', u'Utslag'],
              ['Reproductive system', u'Asteni Tr\xf6tthet \xd6dem'],
              ['Investigations',
               u'vanligt. -uts\xe4ttande av olanzapin. -hos olanzapinbehandlade patienter. Potentiellt associerade sexuella funktionsrelaterade 48 veckor) -en \xf6kning i kroppsvikt om -studier p\xe5 vuxna. '],
+=======
+              u'\xd6verg\xe5ende, asymtomatiska f\xf6rh\xf6jningar av leveramino-transferaser (ALAT, ASAT), s\xe4rskilt i b\xf6rjan av behandlingen (se avsnitt 4.4)'],
+             ['Skin', u'Utslag'],
+             ['Reproductive system', u'Asteni Tr\xf6tthet \xd6dem'],
+             ['Investigations',
+              u'uts\xe4ttande av olanzapin. -48 veckor) -om -studier p\xe5 vuxna. '],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism',
               u', f\xf6rh\xf6jd triglyceridniv\xe5 : f\xf6rh\xf6jd kolesterolniv\xe5'],
              ['Nervous system', u': sedering (inklusive hypersomni, letargi, somnolens).'],
              ['Hepato',
               u': f\xf6rh\xf6jda niv\xe5er av leveraminotransferaser (ALAT/ASAT, se avsnitt 4.4).'],
+<<<<<<< HEAD
              ['Investigations', u'(>1,467 mmol/l). ']]],
+=======
+             ['Investigations', u'mmol/l). ']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Blood', u'Leukopeni Neutropeni'],
              ['Cardiac', u'Bradykardi QTc-f\xf6rl\xe4ngning (se avsnitt 4.4)'],
@@ -36,7 +56,11 @@
              ['Skin', u'Fotosensitivitetsreaktioner Alopeci'],
              ['Renal', u'Urininkontinens'],
              ['Investigations',
+<<<<<<< HEAD
               u'H\xf6g kreatinfosfokinasniv\xe5 \xd6kad total bilirubinniv\xe5 >7 % hos 17,4 % av patienterna under den'],
+=======
+              u'H\xf6g kreatinfosfokinasniv\xe5 \xd6kad total bilirubinniv\xe5 >7 % hos 17,4 % av patienterna under den akuta behandlingen'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u', \xf6kad aptit.']]],
            ['Unknown',
             [['Blood', u'Trombocytopeni'],

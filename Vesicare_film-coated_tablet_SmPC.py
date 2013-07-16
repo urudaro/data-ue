@@ -1,18 +1,32 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['GI', u'Muntorrhe']]],
            ['Common',
             [['Eye', u'Dimsyn'], ['GI', u'Obstipation Illam\xe5ende Dyspepsi Buksm\xe4rto']]],
            ['Uncommon',
             [['Infections', u'Urinv\xe4gs-infekti on Cystit'],
              ['Nervous system', u'Somnolens \xc4ndrad smakuppfattnin g'],
+=======
+{'_data': [['Very common', [['GI', u'Muntorrhet']]],
+           ['Common',
+            [['Eye', u'Dimsyn'], ['GI', u'Obstipation Illam\xe5ende Dyspepsi Buksm\xe4rtor']]],
+           ['Uncommon',
+            [['Infections', u'Urinv\xe4gs-infektion Cystit'],
+             ['Nervous system', u'Somnolens \xc4ndrad smakuppfattning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Torra \xf6gon'],
              ['Respiratory', u'Nasal torrhet'],
              ['GI', u'Gastroesofageal reflux Torr hals'],
              ['Skin', u'Torr hud'],
+<<<<<<< HEAD
              ['Renal', u'Miktions-sv\xe5rig heter'],
+=======
+             ['Renal', u'Miktions-sv\xe5righeter'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Tr\xf6tthet Perifert \xf6dem']]],
            ['Rare',
             [['Nervous system', u'Yrsel* Huvudv\xe4rk*'],
              ['GI',
+<<<<<<< HEAD
               u'Kolon-obstru ktion Fekal inkl\xe4mning (tr\xf6g mage och h\xe5rd avf\xf6ring) Kr\xe4kningar*'],
              ['Skin', u'Pruritus* Hudutslag*'],
              ['Renal', u'Urinretentio n']]],
@@ -34,4 +48,15 @@
  '_note': u' ?MSFU',
  '_pages': [4, 5],
  u'_rank': 28,
+=======
+              u'Kolon-obstruktion Fekal inkl\xe4mning (tr\xf6g mage och h\xe5rd avf\xf6ring) Kr\xe4kningar*'],
+             ['Skin', u'Pruritus* Hudutslag*'],
+             ['Renal', u'Urinretention']]],
+           ['Very rare',
+            [['Psychiatric', u'Hallucinationer* F\xf6rvirrings-tillst\xe5nd*'],
+             ['Skin', u'Erythema multiforme* Urtikaria* Angio\xf6dem*']]]],
+ '_note': u' ?MSFU',
+ '_pages': [4, 5],
+ u'_rank': 17,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

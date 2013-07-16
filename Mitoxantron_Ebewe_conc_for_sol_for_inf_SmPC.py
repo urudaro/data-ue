@@ -37,7 +37,11 @@
            ['Very rare', [['Investigations', u'Viktf\xf6r\xe4ndringar']]],
            ['Unknown',
             [['Cardiac',
+<<<<<<< HEAD
               u'Kardiomyopati och hj\xe4rtinfarkt (myokardinfarkt) har rapporterats.'],
+=======
+              u'; Kardiomyopati och hj\xe4rtinfarkt (myokardinfarkt) har rapporterats.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Konjunktivit.'],
              ['GI', u'Pankreatit.'],
              ['Skin',

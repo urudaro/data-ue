@@ -12,15 +12,26 @@
              ['Skin', u'Exantem, allergiska dermatiter, pruritus, urtikaria, \xf6dem']]],
            ['Rare',
             [['Immune system',
+<<<<<<< HEAD
               u'Allvarliga akuta \xf6verk\xe4nslighets-re aktioner (t.ex bronkospasm) upp till anafylaktisk chock (se avsnitt 4.4).'],
              ['Nervous system', u'Huvudv\xe4rk, yrsel, vertigo'],
              ['Hepato',
               u'Pankreatit (se avsnitt 4.4), \xd6kning av leverenzymer. Symtomatisk utf\xe4llning av ceftriaxon-kalciu msalter i gallbl\xe5san hos vuxna (se avsnitt 4.4)'],
+=======
+              u'Allvarliga akuta \xf6verk\xe4nslighets-reaktioner (t.ex bronkospasm) upp till anafylaktisk chock (se avsnitt 4.4).'],
+             ['Nervous system', u'Huvudv\xe4rk, yrsel, vertigo'],
+             ['Hepato',
+              u'Pankreatit (se avsnitt 4.4), \xd6kning av leverenzymer. Symtomatisk utf\xe4llning av ceftriaxon-kalciumsalter i gallbl\xe5san hos vuxna (se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Glukosuri, Hematouri, Oliguri, \xd6kning av serumkreatinin'],
              ['General', u'Flebiter efter i.v. administrering,']]],
            ['Very rare',
             [['Blood',
+<<<<<<< HEAD
               u'Agranulocytos (<500/mm\xb3), mest efter 10 dagars behandling och en total dos p\xe5 20 g ceftriaxon eller mer; Koagulations-rubb ningar, Sm\xe4rre f\xf6rl\xe4ngningar av protrombintiden har beskrivits.'],
+=======
+              u'Agranulocytos (<500/mm\xb3), mest efter 10 dagars behandling och en total dos p\xe5 20 g ceftriaxon eller mer; Koagulations-rubbningar, Sm\xe4rre f\xf6rl\xe4ngningar av protrombintiden har beskrivits.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Pseudomembran\xf6s'],
              ['Skin',
               u'Lyell syndrom /toxisk epidermolys, Stevens-Johnson syndrom Erytema multiforme'],

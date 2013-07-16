@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['Metabolism', u'chVikt\xf6kning eller viktminskning'],
              ['Nervous system', u'Huvudv\xe4rk'],
@@ -31,3 +32,18 @@
  '_pages': [7, 10],
  u'_rank': 25,
  u'_type': u'MSFU'}
+=======
+{'_data': [[u'Unknown',
+            [['Nervous system', u'Huvudv\xe4rk   Yrsel'],
+             ['GI', u'Illam\xe5ende   Utsp\xe4ndhet i buken'],
+             ['Musculoskeletal', u'Myalgi'],
+             ['Reproductive system', u'\xd6mhet och sm\xe4rta i br\xf6sten   Cervikal polyp'],
+             ['Investigations', u'\xd6kad hj\xe4rtfrekvens'],
+             ['General', u'Tr\xf6tthet, Sm\xe4rta i armh\xe5lan'],
+             ['Skin', u'Hudirritation, hudutslag'],
+             ['Psychiatric', u'Depression, s\xf6mnsv\xe5righeter,'],
+             ['Vascular', u'Hypertoni']]]],
+ '_pages': [7, 11],
+ u'_rank': 9,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['Endocrine', u'Hum\xf6rf\xf6r\xe4 ndring a r inklusive depre ssion'],
              ['Endocrine',
@@ -11,3 +12,10 @@
  '_pages': [3, 4],
  u'_rank': 4,
  u'_type': u'LSFU'}
+=======
+{'_data': [['Common', [['Endocrine', u'Hum\xf6rf\xf6r\xe4 ndring a r']]],
+           ['Very rare', [['Endocrine', u'Hypofysa po pl e xi']]]],
+ '_pages': [3, 4],
+ u'_rank': 2,
+ u'_type': u'TSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

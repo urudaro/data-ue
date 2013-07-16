@@ -1,5 +1,9 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'Huvudv\xe4rk'],
+=======
+            [['Nervous system', u'(>1/100, <1/10): Huvudv\xe4rk'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Buksm\xe4rtor, illam\xe5ende, kr\xe4kningar och diarr\xe9'],
              ['Skin', u'Rodnad'],
              ['General', u'Feber']]],

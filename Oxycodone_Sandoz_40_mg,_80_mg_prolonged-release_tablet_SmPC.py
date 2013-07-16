@@ -46,10 +46,17 @@
            ['Very rare',
             [['Psychiatric', u'talsv\xe5righeter'],
              ['Skin', u'urtikaria eller exfoliativ dermatit'],
+<<<<<<< HEAD
              ['General', u'anafylaktiska reaktioner']]],
            ['Unknown',
             [['General',
               u'tolerans och beroende kan utvecklas. L\xe5ngvarig anv\xe4ndning av Oxycodone Sandoz depottabletter kan leda till fysiskt beroende och ett uts\xe4ttningssyndrom kan uppst\xe5 vid pl\xf6tsligt avbrytande av behandlingen. N\xe4r en patient inte l\xe4ngre beh\xf6ver behandling med oxikodon \xe4r r\xe5det att trappa ner dosen gradvis f\xf6r att f\xf6rhindra uts\xe4ttningssymtom. Opioidabstinens eller uts\xe4ttningssymtom karakteriseras av n\xe5got eller allt av f\xf6ljande: rastl\xf6shet, t\xe5rfl\xf6de, snuva, g\xe4spningar, svettningar, frossa, muskelv\xe4rk, pupillutvidgning och hj\xe4rtklappning. Andra symtom kan ocks\xe5 uppst\xe5, t.ex.: retbarhet, oro, ryggv\xe4rk, ledsm\xe4rta, svaghet, magkramper, s\xf6mnsv\xe5righeter, illam\xe5ende, anorexi, kr\xe4kningar, diarr\xe9 eller f\xf6rh\xf6jt blodtryck eller snabb andning eller puls.']]]],
  '_pages': [6, 7],
  u'_rank': 35,
+=======
+             ['General',
+              u'anafylaktiska reaktioner : tolerans och beroende kan utvecklas. L\xe5ngvarig anv\xe4ndning av Oxycodone Sandoz depottabletter kan leda till fysiskt beroende och ett uts\xe4ttningssyndrom kan uppst\xe5 vid pl\xf6tsligt avbrytande av behandlingen. N\xe4r en patient inte l\xe4ngre beh\xf6ver behandling med oxikodon \xe4r r\xe5det att trappa ner dosen gradvis f\xf6r att f\xf6rhindra uts\xe4ttningssymtom. Opioidabstinens eller uts\xe4ttningssymtom karakteriseras av n\xe5got eller allt av f\xf6ljande: rastl\xf6shet, t\xe5rfl\xf6de, snuva, g\xe4spningar, svettningar, frossa, muskelv\xe4rk, pupillutvidgning och hj\xe4rtklappning. Andra symtom kan ocks\xe5 uppst\xe5, t.ex.: retbarhet, oro, ryggv\xe4rk, ledsm\xe4rta, svaghet, magkramper, s\xf6mnsv\xe5righeter, illam\xe5ende, anorexi, kr\xe4kningar, diarr\xe9 eller f\xf6rh\xf6jt blodtryck eller snabb andning eller puls.']]]],
+ '_pages': [6, 7],
+ u'_rank': 34,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

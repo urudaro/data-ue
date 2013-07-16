@@ -27,6 +27,10 @@
              ['Vascular', u'Hypertoni, hypotoni'],
              ['General', u'Asteni, allm\xe4nt \xf6dem, perifert \xf6dem'],
              ['Psychiatric', u'F\xf6rvirringstillst\xe5nd']]]],
+<<<<<<< HEAD
  '_pages': [6, 8],
+=======
+ '_pages': [5, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 24,
  u'_type': u'LSFU'}

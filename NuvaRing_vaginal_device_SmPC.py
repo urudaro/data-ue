@@ -13,7 +13,11 @@
              ['Reproductive system', u'Br\xf6stsp\xe4nningar, Kvinnlig   Amenorr\xe9,'],
              ['General', u'Tr\xf6tthet,   Irritabilitet,   Olustk\xe4nsla, \xd6dem,'],
              ['Investigations', u'Vikt\xf6kning   Blodtrycks\xf6kning'],
+<<<<<<< HEAD
              ['Injury', u'Ringrelaterat obehag,   Komplikationer']]]],
+=======
+             ['Injury', u'Ringrelaterat obehag,   Komplikationer med']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [9, 10],
  u'_rank': 15,
  u'_type': u'LFSU'}

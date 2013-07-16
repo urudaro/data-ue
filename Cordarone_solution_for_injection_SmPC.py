@@ -8,7 +8,11 @@
             [['Immune system', u' Anafylaktisk chock.'],
              ['Nervous system',
               u' F\xf6rh\xf6jt benignt intrakraniellt tryck (pseudo-tumor cerebri), huvudv\xe4rk. '],
+<<<<<<< HEAD
              ['Cardiac', u'Uttalad bradykardi, sinusarrest som kr\xe4ver att'],
+=======
+             ['Cardiac', u' Uttalad bradykardi, sinusarrest som kr\xe4ver att'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory',
               u' Interstitiell pneumonit (se avsnitt 4.4), sv\xe5ra respiratoriska komplikationer (ARDS), ibland fatala (se avsnitt 4.4 och 4.5), bronkospasm och/eller apn\xe9 hos patienter med sv\xe5r respirationssvikt, speciellt hos astmapatienter.'],
              ['GI', u' Illam\xe5ende.'],
@@ -17,7 +21,11 @@
              ['General', u' Flush/v\xe4rmek\xe4nsla, svettning. ']]],
            ['Unknown',
             [['Endocrine', u' Hypertyreoidism. '],
+<<<<<<< HEAD
              ['Cardiac', u'torsade de pointes (se avsnitt 4.4 och 4.5)'],
+=======
+             ['Cardiac', u' torsade de pointes (se avsnitt 4.4 och 4.5)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u' Ryggsm\xe4rta.  ']]]],
  '_pages': [7, 8],
  u'_rank': 13,

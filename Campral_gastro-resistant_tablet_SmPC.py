@@ -9,6 +9,10 @@
             [['Immune system',
               u'\xd6verk\xe4nslighetsreaktioner inklusive urtikaria, angio\xf6dem eller anafylaktiska reaktioner.']]],
            ['Unknown', [['Skin', u'Vesikobull\xf6sa eruptioner.']]]],
+<<<<<<< HEAD
  '_pages': [3, 3],
+=======
+ '_pages': [3, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 8,
  u'_type': u'LSFU'}

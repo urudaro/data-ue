@@ -1,8 +1,12 @@
 {'_data': [['Very common',
             [['Nervous system', u'Somnolens; yrsel; huvudv\xe4rk.'],
              ['GI', u'Konstipation, illam\xe5ende; kr\xe4kningar.'],
+<<<<<<< HEAD
              ['Skin', u'Kl\xe5da.'],
              ['General', u'Anafylaktiska reaktioner. Tolerans och beroende kan utvecklas.']]],
+=======
+             ['Skin', u'Kl\xe5da.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Metabolism', u'Anorexia.'],
              ['Psychiatric',
@@ -43,7 +47,12 @@
              ['Skin', u'Torr hud; herpes simplex.'],
              ['Renal', u'Hematuri.'],
              ['Reproductive system', u'Amenorr\xe9.'],
+<<<<<<< HEAD
              ['General', u'Viktf\xf6r\xe4ndringar (\xf6kning eller minskning); celluliter.']]]],
+=======
+             ['General', u'Viktf\xf6r\xe4ndringar (\xf6kning eller minskning); celluliter.']]],
+           ['Very rare', [['General', u'Anafylaktiska reaktioner.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [5, 7],
  u'_rank': 31,
  u'_type': u'LSFU'}

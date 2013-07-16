@@ -11,8 +11,13 @@
             [['Neoplasms', u'Sekund\xe4r akut leukemi.'],
              ['Cardiac',
               u'Hj\xe4rttamponad hos patienter med thalassemi som f\xe5tt h\xf6gdosbehandl.'],
+<<<<<<< HEAD
              ['Respiratory', u'Interstitiell pneumonit (l\xe5ngtidsbeh. med'],
              ['Skin', u'Alopeci (h\xf6gdosbeh.), hyperpigmen-te ring.'],
+=======
+             ['Respiratory', u'Interstitiell pneumonit (l\xe5ngtidsbeh. med normal-1 dos)'],
+             ['Skin', u'Alopeci (h\xf6gdosbeh.), hyperpigmen-tering.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Hemorragisk cystit (h\xf6gdosbeh. i komb. med cyklofosfamid).']]],
            ['Uncommon',
             [['Reproductive system',
@@ -34,7 +39,11 @@
             [['Nervous system', u'Myastenia gravis.'],
              ['Cardiac', u'Endokardiell fibros.'],
              ['Reproductive system', u'Gynekomasti.'],
+<<<<<<< HEAD
              ['General', u'Addison-liknand e syndrom']]]],
+=======
+             ['General', u'Addison-liknande syndrom']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [3, 6],
  u'_rank': 23,

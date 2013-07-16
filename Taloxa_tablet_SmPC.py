@@ -24,6 +24,10 @@
               u'Sv\xe5r hepatit, akut leversvikt med d\xf6dlig utg\xe5ng i vissa fall.'],
              ['Renal',
               u'Kristalluri. Allm\xe4nna symtom och/ellersymtom vid administreringsst\xe4llet']]]],
+<<<<<<< HEAD
  '_pages': [5, 6],
+=======
+ '_pages': [5, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 18,
  u'_type': u'LSFU'}

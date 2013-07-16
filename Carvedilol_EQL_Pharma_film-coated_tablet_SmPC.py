@@ -19,7 +19,11 @@
              ['GI', u'Illam\xe5ende, diarr\xe9, kr\xe4kning, dyspepsi, buksm\xe4rta'],
              ['Musculoskeletal', u'Sm\xe4rta i extremiteter'],
              ['Renal',
+<<<<<<< HEAD
               u'Njursvikt, njurfunktions-avvik elser hos patienter med diffus k\xe4rlsjukdom och/eller underliggande njurinsufficiens, miktionssv\xe5righeter'],
+=======
+              u'Njursvikt, njurfunktions-avvikelser hos patienter med diffus k\xe4rlsjukdom och/eller underliggande njurinsufficiens, miktionssv\xe5righeter'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'\xd6dem, sm\xe4rta']]],
            ['Uncommon',
             [['Psychiatric', u'S\xf6mnrubbning'],
@@ -29,7 +33,11 @@
               u'Hudreaktioner (t.ex. allergiskt exantem, dermatit, urtikaria, kl\xe5da, psoriasis och lichen planus liknande hudskador) Alopecia'],
              ['Reproductive system', u'Erektil dysfunktion']]],
            ['Rare',
+<<<<<<< HEAD
             [['Blood', u'Trombocytope ni'],
+=======
+            [['Blood', u'Trombo-cytopeni'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Minskad kontraktilitet (under dostitrering)'],
              ['Respiratory', u'N\xe4st\xe4ppa'],
              ['GI', u'F\xf6rstoppning']]],
@@ -37,7 +45,11 @@
             [['Blood', u'Leukopeni'],
              ['Immune system', u'\xd6verk\xe4nslighet (allergisk reaktion)'],
              ['GI', u'Muntorrhet'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jda serum-transaminasv\xe4rd en'],
+=======
+             ['Hepato', u'F\xf6rh\xf6jda serum-transaminas-v\xe4rden'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Urininkontinens hos kvinnor']]]],
  '_note': u' ?MSFU',
  '_pages': [7, 9],

@@ -17,16 +17,26 @@
              ['Hepato', u'Kolecystit, gallslam, hyperbilirubinemi'],
              ['Skin', u'Kl\xe5da, utslag, alopeci Allm\xe4nna symtom och/eller'],
              ['Investigations',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jda niv\xe5er av transaminas Efter f\xf6rs\xe4ljning Spontant rapporterade biverkningar anges i tabell 2 och har rapporterats frivilligt. Det \xe4r inte alltid m\xf6jligt att fastst\xe4lla frekvens eller orsakssamband betr\xe4ffande l\xe4kemedelsexponering.']]],
+=======
+              u'F\xf6rh\xf6jda niv\xe5er av transaminas Efter f\xf6rs\xe4ljning Spontant rapporterade biverkningar anges i tabell 2 och har rapporterats frivilligt. Det \xe4r inte alltid m\xf6jligt att fastst\xe4lla frekvens eller orsakssamband betr\xe4ffande l\xe4kemedelsexponering. Tabell 2 \u2013 Biverkningar rapporterade i spontana rapporter Immunsystemet Anafylax, allergi/\xf6verk\xe4nslighetsreaktioner Hud och subkutan v\xe4vnad Urticaria Lever och gallv\xe4gar Akut pankreatit, akut hepatit utan kolestas, kolestatisk hepatit, kolestas, gulsot, kolestatisk gulsot Hj\xe4rtat Arytmier Unders\xf6kningar F\xf6rh\xf6jda niv\xe5er av alkalisk fosfatas och gammaglutamyltransferas']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Metabolism', u'Uttorkning'],
              ['Cardiac', u'Takykardi Andningsv\xe4gar, br\xf6stkorg och mediastinum']]],
            ['Rare',
             [['GI',
+<<<<<<< HEAD
               u'Akut tarmobstruktion, sv\xe5r epigastrisk sm\xe4rta, \xf6mhet och kramper i buken, akut pankreatit kolelitias-inducerad pankreatit Centrala och perifera']]],
            ['Unknown',
             [['Hepato',
               u'gulsot, kolestatisk gulsot Hj\xe4rtat Arytmier Unders\xf6kningar F\xf6rh\xf6jda niv\xe5er av alkalisk fosfatas och gammaglutamyltransferas']]]],
  '_pages': [5, 6],
  u'_rank': 18,
+=======
+              u'Akut tarmobstruktion, sv\xe5r epigastrisk sm\xe4rta, \xf6mhet och kramper i buken, akut pankreatit kolelitias-inducerad pankreatit Centrala och perifera']]]],
+ '_pages': [5, 6],
+ u'_rank': 17,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

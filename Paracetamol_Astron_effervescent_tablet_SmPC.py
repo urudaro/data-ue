@@ -1,11 +1,21 @@
 {'_data': [['Rare',
             [['Blood',
               u'Trombocytopeni, leukopeni, neutropeni, hemolytisk (>1/10 000, <1/1000) anemi, anemi'],
+<<<<<<< HEAD
              ['Nervous system', u'Tremor, huvudv\xe4rk.'],
              ['Eye', u'Synrubbningar.'],
              ['GI', u'Bl\xf6dning, buksm\xe4rta, diarr\xe9 , illam\xe5ende, kr\xe4kningar.'],
              ['Hepato', u'Onormal leverfunktion, leversvikt, levernekros, gulsot.'],
              ['Injury', u'\xd6verdosering och f\xf6rgiftning.']]],
+=======
+             ['Nervous system', u'Tremor, huvudv\xe4rk. (\u22651/10 000, <1/1000)'],
+             ['Eye', u'Synrubbningar. (\u22651/10 000, <1/1000)'],
+             ['GI',
+              u'Bl\xf6dning, buksm\xe4rta, diarr\xe9 , illam\xe5ende, kr\xe4kningar. (\u22651/10 000, <1/1000)'],
+             ['Hepato',
+              u'Onormal leverfunktion, leversvikt, levernekros, gulsot. (\u22651/10 000, <1/1000)'],
+             ['Injury', u'\xd6verdosering och f\xf6rgiftning. (\u22651/10 000, <1/1000)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Metabolism', u'Hypoglykemi'],
              ['Respiratory', u'Bronkospasm'],

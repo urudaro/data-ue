@@ -17,8 +17,16 @@
              ['Skin', u'Stevens-Johnsons syndrom  '],
              ['Skin', u'Toxisk epidermal nekrolys  '],
              ['Skin', u'Bull\xf6s exfoliativ dermatit  '],
+<<<<<<< HEAD
              ['Renal',
               u'Kristalluri 8 Ingen k\xe4nd frekvens Se avsnitt 4.4 Se avsnitt 4.4. 3 Illam\xe5ende f\xf6rknippas oftare med h\xf6ga orala doser. Om gastrointestinala reaktioner \xe4r p\xe5tagliga kan de reduceras genom att Amoxicillin/Clavulanic acid BB tas i b\xf6rjan av en m\xe5ltid. Inklusive pseudomembran\xf6s kolit och bl\xf6dande kolit (se avsnitt 4.4) 5 En m\xe5ttlig \xf6kning av ASAT och/eller ALAT har noterats hos patienter behandlade med betalaktamantibiotika, men signifikansen av dessa resultat \xe4r']]]],
  '_pages': [5, 6],
  u'_rank': 18,
+=======
+             ['Skin', u'Akut generaliserad exantemat\xf6s pustulos (AGEP)  '],
+             ['Renal',
+              u'Kristalluri 8 Ingen k\xe4nd frekvens Se avsnitt 4.4 Se avsnitt 4.4. 3 Illam\xe5ende f\xf6rknippas oftare med h\xf6ga orala doser. Om gastrointestinala reaktioner \xe4r p\xe5tagliga kan de reduceras genom att Amoxicillin/Clavulanic acid BB tas i b\xf6rjan av en m\xe5ltid. Inklusive pseudomembran\xf6s kolit och bl\xf6dande kolit (se avsnitt 4.4) 5 En m\xe5ttlig \xf6kning av ASAT och/eller ALAT har noterats hos patienter behandlade med betalaktamantibiotika, men signifikansen av dessa resultat \xe4r']]]],
+ '_pages': [5, 6],
+ u'_rank': 19,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

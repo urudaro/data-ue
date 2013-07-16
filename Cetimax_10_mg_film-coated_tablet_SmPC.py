@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['Psychiatric', u'0)']]],
            ['Uncommon',
+=======
+{'_data': [['Uncommon',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
             [['Psychiatric', u'agitation'],
              ['Nervous system', u'parestesi'],
              ['GI', u'diarr\xe9'],
@@ -16,10 +20,19 @@
              ['General', u'\xf6dem'],
              ['Investigations', u'vikt\xf6kning']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Blood', u'trombocytopeni'],
              ['Immune system', u'anafylaktisk chock'],
              ['Psychiatric', u'tics'],
              ['Nervous system', u'dysgeusi, synkope, tremor, dystoni, dyskinesi'],
+=======
+            [['Psychiatric', u'(>1/10)'],
+             ['Blood', u'trombocytopeni'],
+             ['Immune system', u'anafylaktisk chock'],
+             ['Psychiatric', u'tics'],
+             ['Nervous system',
+              u'dysgeusi, synkope, tremor, dystoni, dyskinesi : amnesi, minnesst\xf6rningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'ackommodationsst\xf6rningar, dimsyn, okulogyr kris'],
              ['Skin', u'angioneurotiskt \xf6dem, fixt l\xe4kemedelsutslag'],
              ['Renal', u'dysuri, enures']]],
@@ -33,8 +46,14 @@
               u'Faryngit 1,29 % 1,34 % S\xf6mnighet, som visserligen f\xf6rekom statistiskt sett oftare i cetirizingruppen \xe4n placebogruppen, var mild till m\xe5ttlig i de flesta fallen. Objektiva tester i andra studier har visat att normala dagliga aktiviteter inte p\xe5verkas av den rekommenderade dagliga dosen hos friska, unga f\xf6rs\xf6kspersoner. Biverkningar med frekvenser p\xe5 1% eller mer hos barn i \xe5ldern 6 m\xe5nader till 12 \xe5r, som ing\xe5tt i placebokontrollerade kliniska eller farmakokliniska pr\xf6vningar, \xe4r'],
              ['GI', u'Diarr\xe9 1,0 % 0,6 %'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'S\xf6mnighet 1.8 % 1,4 % Andningsv\xe4gar, br\xf6stkorg och mediastinum Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet Tr\xf6tthet 1,0 % 0,3 % Erfarenhet efter marknadsf\xf6ringen Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har enstaka fall av f\xf6ljande biverkningar rapporterats efter marknadsf\xf6ringen. Biverkningar \xe4r listade enligt MedDRA klassificering. F\xf6r dessa mindre vanliga biverkningar har frekvensen baserats p\xe5 erfarenhet efter marknadsf\xf6ringen. Frekvensen klassificeringen av de biverkningar \xe4r f\xf6ljande'],
              ['Nervous system', u'amnesi, minnesst\xf6rningar']]]],
  '_pages': [3, 5],
  u'_rank': 29,
+=======
+              u'S\xf6mnighet 1.8 % 1,4 % Andningsv\xe4gar, br\xf6stkorg och mediastinum Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet Tr\xf6tthet 1,0 % 0,3 % Erfarenhet efter marknadsf\xf6ringen Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har enstaka fall av f\xf6ljande biverkningar rapporterats efter marknadsf\xf6ringen. Biverkningar \xe4r listade enligt MedDRA klassificering. F\xf6r dessa mindre vanliga biverkningar har frekvensen baserats p\xe5 erfarenhet efter marknadsf\xf6ringen. Frekvensen klassificeringen av de biverkningar \xe4r f\xf6ljande']]]],
+ '_pages': [3, 5],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

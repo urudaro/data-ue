@@ -11,8 +11,11 @@
             [['Blood', u'Eosinofili och hemolytisk anemi.'],
              ['Immune system',
               u'Larynx\xf6dem, serumsjuka,  allergisk vaskulit, anafylaxi och anafylaktisk chock.'],
+<<<<<<< HEAD
              ['Nervous system',
               u'CNS-effekter, inklusive  hyperkinesi, yrsel och  konvulsioner. Konvulsioner kan intr\xe4ffa hos patienter med f\xf6rs\xe4mrad njurfunktion, epilepsi, meningit eller hos patienter som f\xe5r h\xf6ga doser.'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Ytlig missf\xe4rgning av t\xe4nderna  (s\xe4rskilt med suspensionen). Missf\xe4rgningen kan i allm\xe4nhet avl\xe4gsnas genom tandborstning.'],
              ['Hepato', u'Hepatit och kolestatisk gulsot.']]],
@@ -21,5 +24,9 @@
               u'Leukopeni, neutropeni,  granulocytopeni, trombocytopeni, pancytopeni, anemi, myelosuppression, agranulocytos, f\xf6rl\xe4ngd bl\xf6dningstid och f\xf6rl\xe4ngd protrombintid. Alla var reversibla vid avbruten behandling.'],
              ['GI', u'Om allvarlig och kvarst\xe5ende  diarr\xe9 intr\xe4ffar ska den mycket']]]],
  '_pages': [6, 7],
+<<<<<<< HEAD
  u'_rank': 11,
+=======
+ u'_rank': 10,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

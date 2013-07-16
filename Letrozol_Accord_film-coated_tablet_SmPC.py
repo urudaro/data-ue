@@ -37,13 +37,21 @@
              ['Reproductive system', u'Vaginalflytning, vaginaltorrhet, br\xf6stsm\xe4rta'],
              ['General', u'Generaliserat \xf6dem, torra slemhinnor, t\xf6rst, feber'],
              ['Investigations',
+<<<<<<< HEAD
               u'Viktminskning F\xf6r vissa biverkningar har p\xe5tagliga skillnader i den rapporterade frekvensen observerats vid adjuvant behandling. F\xf6ljande tabeller inneh\xe5ller information om signifikanta skillnader vid monoterapi med letrozol kontra tamoxifen och vid sekventiell behandling med letrozol och tamoxifen']]],
+=======
+              u'Viktminskning 1 Biverkningar som enbart rapporterats vid metastaserad sjukdom. F\xf6r vissa biverkningar har p\xe5tagliga skillnader i den rapporterade frekvensen observerats vid adjuvant behandling. F\xf6ljande tabeller inneh\xe5ller information om signifikanta skillnader vid monoterapi med letrozol kontra tamoxifen och vid sekventiell behandling med letrozol och tamoxifen Tabell 2 Adjuvant behandling med letrozol i monoterapi mot tamoxifen i monoterapi \u2013 biverkningar med signifikanta skillnader Letrozol, incidens Tamoxifen, incidens Benfraktur 10,1 % (13,8 %) 7,1 % (10,5 %) Bensk\xf6rhet 5,1 % (5,1 %) 2,7% (2,7 %) Tromboemboliska biverkningar 2,1 % (2,9 %) 3,6 % (4,5 %) Hj\xe4rtinfarkt 1,0 % (1,5 %) 0,5 % (1,0 %) Endometriell hyperplasi / 0,2 % (0,4 %) 2,3 % (2,9 %) endometriecancer Obs! Behandlingstiden var 60 m\xe5nader i median. Rapportperioden inkluderar behandlingstiden plus 30 dagar efter avslutad behandling. Procentandelen inom parentes anger biverkningsfrekvenser n\xe4r som helst efter randomisering, inklusive efter perioden med studiebehandling. Mediantiden f\xf6r uppf\xf6ljning var 73 m\xe5nader.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Vascular',
               u'Lungemboli, arteriell trombos, cerebrovaskul\xe4r infarkt Andningsv\xe4gar, br\xf6stkorg och mediastinum']]],
            ['Unknown',
             [['Other',
+<<<<<<< HEAD
               u'biverkningar s\xe5som bensk\xf6rhet och/eller benfrakturer och kardiovaskul\xe4ra biverkningar (inklusive cerebrovaskul\xe4ra och tromboemboliska). F\xf6rekomsten av dessa biverkningar anges i tabell 1. Biverkningar i tabellform Biverkningsfrekvenserna f\xf6r letrozol baseras huvudsakligen p\xe5 data fr\xe5n kliniska studier. L\xe4kemedelsbiverkningarna i tabell 1 har rapporterats vid kliniska pr\xf6vningar och efter f\xf6rs\xe4ljningsgodk\xe4nnande av letrozol'],
+=======
+              u'biverkningar s\xe5som bensk\xf6rhet och/eller benfrakturer och kardiovaskul\xe4ra biverkningar (inklusive cerebrovaskul\xe4ra och tromboemboliska). F\xf6rekomsten av dessa biverkningar anges i tabell 1. Biverkningar i tabellform Biverkningsfrekvenserna f\xf6r letrozol baseras huvudsakligen p\xe5 data fr\xe5n kliniska studier. L\xe4kemedelsbiverkningarna i tabell 1 har rapporterats vid kliniska pr\xf6vningar och efter f\xf6rs\xe4ljningsgodk\xe4nnande av letrozol: Tabell 1 Biverkningarna \xe4r rangordnade efter frekvens, med den vanligast f\xf6rekommande f\xf6rst, enligt f\xf6ljande: mycket vanliga \u226510%, vanliga \u22651% till <10%, mindre vanliga \u22650,1% till <1%, s\xe4llsynta \u22650,01% till <0,1%, mycket s\xe4llsynta <0,01%, ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'Anafylaktisk reaktion'],
              ['Hepato', u'Hepatit'],
              ['Skin',

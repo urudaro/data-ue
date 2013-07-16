@@ -19,6 +19,10 @@
              ['Cardiac',
               u'asystoli/hj\xe4rtstillest\xe5nd med f\xf6reg\xe5ende bradykardi hos patienter som behandlats med remifentanil i kombination med andra anestestesimedel.']]],
            ['Unknown', [['Psychiatric', u'beroende']]]],
+<<<<<<< HEAD
  '_pages': [15, 16],
+=======
+ '_pages': [15, 15],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 15,
  u'_type': u'LSFU'}

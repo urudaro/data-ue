@@ -13,7 +13,12 @@
               u'QT-f\xf6rl\xe4ngning, Torsade de Pointes, hj\xe4rtstillest\xe5nd, ventrikul\xe4ra arrytmier, ventrikelflimmer, ventrikeltakykardi'],
              ['Vascular', u'Hypotoni'],
              ['GI', u'F\xf6rstoppning, kr\xe4kningar'],
+<<<<<<< HEAD
              ['Hepato', u'Onormalt leverfunktionstest'],
+=======
+             ['Hepato',
+              u'\xd6kning av transaminaser, alkaliskt fosfatas, bilirubin och glutamyltranspeptidas'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Kl\xe5da, erytema utslag, makulopapul\xf6sa utslag, urtikaria, dermatit'],
              ['Renal', u'Urinretention']]],
@@ -25,14 +30,24 @@
            ['Unknown',
             [['Blood', u'Trombocytopeni'],
              ['Psychiatric', u'Aggression, depression, tics'],
+<<<<<<< HEAD
              ['Nervous system', u'Dystoni, parestesi'],
              ['Eye', u'okulogyr kris'],
              ['GI', u'Diarr\xe9'],
              ['Hepato', u'Hepatit'],
+=======
+             ['Nervous system', u'Dystoni, parestesier'],
+             ['Eye', u'okulogyr kris'],
+             ['GI', u'Diarr\xe9'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'dysuri, enures'],
              ['General', u'Asteni, \xf6dem'],
              ['Investigations',
               u'Vikt\xf6kning Behandling med neuroleptika kan ge upphov till f\xf6rl\xe4ngning av QT-intervallet och kardiella arrytmier. Fall av pl\xf6tslig d\xf6d som kan ha kardiell orsak (se avsnitt 4.4) har rapporterats vid behandling med s\xe5dana l\xe4kemedel.']]]],
  '_pages': [4, 6],
+<<<<<<< HEAD
  u'_rank': 27,
+=======
+ u'_rank': 26,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -33,6 +33,10 @@
            ['Very rare',
             [['Skin',
               u'Bull\xf6sa reaktioner s\xe5som Stevens-Johnsons syndrom, toxisk epidermal nekrolys']]]],
+<<<<<<< HEAD
  '_pages': [7, 8],
+=======
+ '_pages': [7, 9],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 23,
  u'_type': u'LSFU'}

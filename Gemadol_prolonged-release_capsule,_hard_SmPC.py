@@ -13,7 +13,11 @@
              ['Skin', u'Hudreaktioner (t ex kl\xe5da, rodnad, utslag).']]],
            ['Rare',
             [['Immune system',
+<<<<<<< HEAD
               u'Allergiska reaktioner (t ex dyspn\xe9, bronkospasm, v\xe4sande andningsljud, angioneurotiskt \xf6dem) och anafylaxi.'],
+=======
+              u'(>1/10000, <1/1000): Allergiska reaktioner (t ex dyspn\xe9, bronkospasm, v\xe4sande andningsljud, angioneurotiskt \xf6dem) och anafylaxi.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Aptitf\xf6r\xe4ndring.'],
              ['Psychiatric',
               u'Psykiska biverkningar kan intr\xe4ffa som varierar individuellt i intensitet och typ (beroende p\xe5 personlighet och behandlingstid). Dessa biverkningar inkluderar f\xf6r\xe4ndring av sinnesst\xe4mning (vanligen upprymdhet, ibland dysfori), aktivitetsf\xf6r\xe4ndringar (vanligen d\xe4mpning ibland \xf6kning) och f\xf6r\xe4ndring av kognitiv och sensorisk kapacitet (t ex f\xf6rm\xe5ga att fatta beslut, uppfattningsf\xf6rm\xe5ga), hallucinationer, f\xf6rvirring, s\xf6mnrubbningar och mardr\xf6mmar. L\xe5ngvarigt bruk av Gemadol depotkapslar kan ge upphov till beroende (se avsnitt 4.4). Abstinenssymtom, liknande de som intr\xe4ffar vid uts\xe4ttning av opiater, kan omfatta uppr\xf6rdhet, \xe4ngslan, nervositet, s\xf6mnl\xf6shet, hyperkinesi, skakningar och gastrointestinala symtom.'],

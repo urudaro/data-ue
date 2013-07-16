@@ -78,7 +78,11 @@
              ['Hepato', u'leversvikt, gallg\xe5ngsstenos']]],
            ['Unknown',
             [['Infections',
+<<<<<<< HEAD
               u'S\xe5som v\xe4lk\xe4nt vid behandling med andra potenta immunsuppressiva l\xe4kemedel f\xf6religger \xf6kad risk f\xf6r infektioner (virala, bakteriella, svampinfektioner, infektioner orsakade av protozoer). Redan existerande infektioner kan f\xf6rv\xe4rras. B\xe5de generaliserade och lokala infektioner kan f\xf6rekomma. Nefropati orsakad av BK-virus och progressiv multifokal leukoencefalopati (PML) i samband med JC-virusinfektion, har rapporterats hos patienter som behandlats med immunsuppressiva l\xe4kemedel, inklusive Tacni.'],
+=======
+              u'S\xe5som v\xe4lk\xe4nt vid behandling med andra potenta immunsuppressiva l\xe4kemedel f\xf6religger \xf6kad risk f\xf6r infektioner (virala, bakteriella, svampinfektioner, infektioner orsakade av protozoer). Redan existerande infektioner kan f\xf6rv\xe4rras. B\xe5de generaliserade och lokala infektioner kan f\xf6rekomma. Nefropati orsakad av BK-virus och progressiv multifokal leukoencefalopati (PML) i samband med JC virusinfektion, har rapporterats hos patienter som behandlats med immunsuppressiva l\xe4kemedel, inklusive Tacni.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'Allergiska och anafylaktoida reaktioner har observerats hos patienter som behandlats med takrolimus (se avsnitt 4.4).']]]],
  '_pages': [9, 13],

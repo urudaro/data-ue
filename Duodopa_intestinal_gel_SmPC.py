@@ -1,10 +1,16 @@
 {'_data': [['Common',
             [['Metabolism', u'Anorexi'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Hallucinationer, f\xf6rvirring, mardr\xf6mmar, s\xf6mnighet, tr\xf6tthet, s\xf6mnl\xf6shet, depression med i mycket s\xe4llsynta fall sj\xe4lvmords-f\xf6rs\xf6k, eufori, demens, vanf\xf6re-st\xe4llningar, centralstimulerand e effekt'],
              ['Nervous system', u'Dyskinesier, choreatiska'],
              ['Nervous system',
               u'r\xf6relser och dystoni, \u201dON-OFF\u201d episoder, yrsel, bradykinesi (\u201dON-OFF\u201d episoder somnole'],
+=======
+              u'Hallucinationer, f\xf6rvirring, mardr\xf6mmar, s\xf6mnighet, tr\xf6tthet, s\xf6mnl\xf6shet, depression med i mycket s\xe4llsynta fall sj\xe4lvmords-f\xf6rs\xf6k, eufori, demens, vanf\xf6re-st\xe4llningar, central-stimulerande effekt'],
+             ['Nervous system',
+              u'Dyskinesier, choreatiska r\xf6relser och dystoni, \u201dON-OFF\u201d episoder, yrsel, bradykinesi (\u201dON-OFF\u201d episoder somnolen'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Palpitationer, oregelbunden hj\xe4rtrytm'],
              ['Vascular', u'Ortostatisk hypotension, svimningsk\xe4nsla, synkope'],
              ['GI', u'Illam\xe5ende, kr\xe4kningar, muntorrhet, bitter smak i munnen']]],
@@ -22,9 +28,14 @@
             [['Blood', u'Leukopeni, hemolytisk och icke-hemolytisk anemi, trombocytopeni'],
              ['Psychiatric',
               u'Agitation, r\xe4dsla, nedsatt tankef\xf6rm\xe5ga, desorientering, \xf6kad libido, domningar'],
+<<<<<<< HEAD
              ['Nervous system', u'Malignt neuroleptikasyndro'],
              ['Nervous system',
               u'm, parestesier, fall och g\xe5ngrubbningar, trismus, huvudv\xe4rk, kramper'],
+=======
+             ['Nervous system',
+              u'Malignt neuroleptika-syndrom, parestesier, fall och g\xe5ngrubbningar, trismus, huvudv\xe4rk, kramper'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye',
               u'Dimsyn, blefarospasm (se avsnitt 4.9), aktivering av latent Horners syndrom, dubbelseende, dilaterade pupiller, okulogyra kriser'],
              ['Vascular', u'Flebit'],
@@ -37,5 +48,9 @@
            ['Very rare', [['Blood', u'Agranulocytos']]]],
  '_note': u' ?MSFU',
  '_pages': [5, 7],
+<<<<<<< HEAD
  u'_rank': 27,
+=======
+ u'_rank': 25,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

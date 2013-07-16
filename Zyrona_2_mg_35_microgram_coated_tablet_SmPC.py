@@ -11,7 +11,11 @@
            ['Rare',
             [['Eye', u'Kontaktlinsintolerans'],
              ['Reproductive system', u'F\xf6r\xe4ndringar i vaginal sekretion'],
+<<<<<<< HEAD
              ['General', u'\xd6verk\xe4nslighets-reaktio ner']]]],
+=======
+             ['General', u'\xd6verk\xe4nslighets-reaktioner']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [10, 10],
  u'_rank': 8,

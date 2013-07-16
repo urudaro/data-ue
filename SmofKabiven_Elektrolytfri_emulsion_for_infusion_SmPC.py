@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['General', u'Svag \xf6kning av kroppstemperaturen']]],
+=======
+{'_data': [['Common', [['General', u'Svag \xf6kning av kroppstemperature n']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['GI', u'Aptitl\xf6shet, illam\xe5ende, kr\xe4kningar'],
              ['Metabolism', u'F\xf6rh\xf6jda plasmaniv\xe5er av leverenzymer'],

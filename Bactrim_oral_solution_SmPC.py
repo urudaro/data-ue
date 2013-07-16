@@ -28,7 +28,11 @@
              ['Blood',
               u'Agranulocytos, megaoblastisk anemi, hemolytisk/ autoimmun anemi, aplastisk pancytopeni, methemoglobinemi <'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslighets-rea ktioner som t ex feber, angioneurotiskt \xf6dem, anafylaktiska reaktioner och serumsjuka. Lunginfiltrat s\xe5som eosinofil eller allergisk alveolit, med symtom s\xe5som hosta eller andf\xe5ddhet. Periarteritis nodosa och allergisk myokardit.'],
+=======
+              u'\xd6verk\xe4nslighets-reaktioner som t ex feber, angioneurotiskt \xf6dem, anafylaktiska reaktioner och serumsjuka. Lunginfiltrat s\xe5som eosinofil eller allergisk alveolit, med symtom s\xe5som hosta eller andf\xe5ddhet. Periarteritis nodosa och allergisk myokardit.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'\xd6kning av serumkalium, hyperkalemi, hyponatremi, hypoglykemi'],
              ['Psychiatric', u'Hallucinationer'],
              ['Nervous system',
@@ -40,6 +44,7 @@
               u'Fotosensitivitet. Erytema multiforme, Steven Johnson syndrome, toxisk epidermal nekrolys (Lyell\xb4s syndrom), purpura och Henoch-Schoenlein purpura'],
              ['Musculoskeletal', u'Artralgi, myalgi, rabdomyolys <'],
              ['Renal',
+<<<<<<< HEAD
               u'Nedsatt njurfunktion, interstitiell nefrit, f\xf6rh\xf6jd ureakv\xe4ve i blodet, f\xf6rh\xf6jt serumkreatinin, kristalluri. \xd6kad diures (se 4.4).']]],
            ['Unknown',
             [['Blood', u'frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data)'],
@@ -50,4 +55,10 @@
  '_note': u' ?MSFU',
  '_pages': [5, 7],
  u'_rank': 34,
+=======
+              u'Nedsatt njurfunktion, interstitiell nefrit, f\xf6rh\xf6jd ureakv\xe4ve i blodet, f\xf6rh\xf6jt serumkreatinin, kristalluri. \xd6kad diures (se 4.4).']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 7],
+ u'_rank': 31,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Infections', u'   influensasyndrom, faryngit, rinit  '],
              ['GI', u'   dyspepsi, tandbesv\xe4r  ']]],
            ['Unknown',
@@ -8,6 +9,17 @@
              ['Eye', u'   katarakt, glaukom, \xf6kat intraokul\xe4rt tryck  '],
              ['Respiratory', u' '],
              ['General', u'   tr\xf6tthet  '],
+=======
+            [['Infections', u' : influensasyndrom, faryngit, rinit  '],
+             ['GI', u' : dyspepsi, tandbesv\xe4r  ']]],
+           ['Unknown',
+            [['Immune system',
+              u' : \xf6verk\xe4nslighet (inkluderande hudutslag, urtikaria, kl\xe5da och  '],
+             ['Nervous system', u' '],
+             ['Eye', u' : katarakt, glaukom, \xf6kat intraokul\xe4rt tryck  '],
+             ['Respiratory', u'  '],
+             ['General', u' : tr\xf6tthet  '],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u' ']]]],
  '_pages': [4, 4],
  u'_rank': 8,

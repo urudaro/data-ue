@@ -30,7 +30,11 @@
               u'Febril neutropeni, Pancytopeni, Granulocytopeni, Trombocytopeni, Leukopeni, Hemolytisk anemi, F\xf6rh\xf6jd INR (internationellt normaliserad kvot)/f\xf6rl\xe4ngd protrombintid'],
              ['Immune system', u'Hypersensitivitet'],
              ['Metabolism',
+<<<<<<< HEAD
               u'Diabetes, Hypokalemi, St\xf6rd aptit, Malnutrition, Hypertriglyceridemi Allvarliga och/eller medicinskt relevanta'],
+=======
+              u'Diabetes, Hypokalemi, St\xf6rd aptit, Malnutrition, Hypertriglyceridemi Allvarliga och/eller livshotande (grad 3-4) medicinskt relevanta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric',
               u'F\xf6rvirringstillst\xe5nd, Panikattack, S\xe4nkt st\xe4mningsl\xe4ge, Minskad libido'],
              ['Nervous system',
@@ -44,7 +48,11 @@
              ['Respiratory',
               u'Lungemboli, Pneumotorax, Hemoptys, Astma, Anstr\xe4ngningsutl\xf6st dyspn\xe9'],
              ['GI',
+<<<<<<< HEAD
               u'Tarmobstruktion, Ascites, Enterit, Gastrit, Dysfagi, Sm\xe4rta i nedre delen av buken, Esofagit, Bukbesv\xe4r, Gastro-esofageal refluxsjukdom, Kolit, Blod i avf\xf6ringen Allvarliga och/eller medicinskt relevanta'],
+=======
+              u'Tarmobstruktion, Ascites, Enterit, Gastrit, Dysfagi, Sm\xe4rta i nedre delen av buken, Esofagit, Bukbesv\xe4r, Gastro-esofageal refluxsjukdom, Kolit, Blod i avf\xf6ringen Allvarliga och/eller livshotande (grad 3-4) medicinskt relevanta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Gulsot'],
              ['Skin',
               u'Hudulceration, Hudutslag, Urtikaria, Fotosensitivitets-reaktioner, Palmarerytem, Svullet ansikte, Purpura'],

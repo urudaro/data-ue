@@ -1,11 +1,18 @@
 {'_data': [['Very common',
             [['Blood', u'Anemi'],
+<<<<<<< HEAD
              ['Nervous system', u'Yrsel'],
              ['Vascular', u'V\xe4rmevallningar'],
              ['GI', u'Buksm\xe4rta, f\xf6rstoppning,  illam\xe5ende'],
              ['Renal', u'Hematuri'],
              ['Reproductive system', u'Gynekomasti och \xf6mhet i  br\xf6sten'],
              ['General', u'Asteni, \xf6dem']]],
+=======
+             ['Vascular', u'V\xe4rmevallningar'],
+             ['GI', u'Buksm\xe4rta, f\xf6rstoppning,  illam\xe5ende'],
+             ['Renal', u'Hematuri'],
+             ['Reproductive system', u'Gynekomasti och \xf6mhet i']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Metabolism', u'Minskad aptit'],
              ['Psychiatric', u'Minskad libido, depression'],
@@ -15,6 +22,7 @@
              ['Hepato', u'Hepatotoxicitet, gulsot, hypertransminasaemia'],
              ['Skin', u'Alopeci, hirsutism/h\xe5rv\xe4xt,  torr hud, pruritus, hudutslag'],
              ['Reproductive system', u'Erektil dysfunktion'],
+<<<<<<< HEAD
              ['General', u'Sm\xe4rtor i br\xf6stkorgen'],
              ['Investigations', u'Vikt\xf6kning']]],
            ['Uncommon',
@@ -23,4 +31,12 @@
              ['Respiratory', u'Interstitiell lungsjukdom,  d\xf6dsfall har rapporterats']]]],
  '_pages': [3, 4],
  u'_rank': 19,
+=======
+             ['Investigations', u'Vikt\xf6kning']]],
+           ['Uncommon',
+            [['Immune system',
+              u'\xd6verk\xe4nslighetsreaktioner  som angioneurotiskt \xf6dem och urtikaria']]]],
+ '_pages': [3, 4],
+ u'_rank': 15,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

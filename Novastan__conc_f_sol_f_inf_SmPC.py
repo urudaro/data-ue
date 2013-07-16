@@ -32,6 +32,10 @@
               u'F\xf6rl\xe4ngt INR, s\xe4nkta koagulationsfaktorhalter, \xf6kad koagulationstid, f\xf6rh\xf6jt ASAT, f\xf6rh\xf6jt ALAT, f\xf6rh\xf6jda alkaliska fosfater, f\xf6rh\xf6jt LD'],
              ['Injury', u'S\xe5rsekretion']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [8, 8],
+=======
+ '_pages': [7, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 22,
  u'_type': u'MSFU'}

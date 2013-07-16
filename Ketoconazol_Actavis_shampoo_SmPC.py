@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Uncommon',
             [['Infections', u'Follikulit'],
              ['Nervous system', u'Dysgeusi'],
@@ -10,3 +11,10 @@
  '_pages': [2, 3],
  u'_rank': 6,
  u'_type': u'TSFU'}
+=======
+{'_data': [[u'Unknown',
+            [['Skin', u'Lokal irritation, torrt och   Missf\xe4rgning av h\xe5ret,']]]],
+ '_pages': [2, 2],
+ u'_rank': 1,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

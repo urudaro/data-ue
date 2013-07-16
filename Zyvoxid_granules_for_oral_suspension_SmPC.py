@@ -1,13 +1,22 @@
 {'_data': [['Common',
             [['Infections',
+<<<<<<< HEAD
               u'Candidiasis, oral candidiasis, vaginal candidiasis, svamp-infekt ioner'],
              ['Nervous system', u'Huvudv\xe4rk, smak-f\xf6r\xe4ndr ingar (metallsmak)'],
+=======
+              u'Candidiasis, oral candidiasis, vaginal candidiasis, svamp-infektioner'],
+             ['Nervous system', u'Huvudv\xe4rk, smak-f\xf6r\xe4ndringar (metallsmak)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Diarr\xe9, illam\xe5ende, kr\xe4kningar.'],
              ['Hepato',
               u'Onormala leverfunktion sv\xe4rden; f\xf6rh\xf6jt ASAT, ALAT eller alkaliskt fosfatas'],
              ['Renal', u'F\xf6rh\xf6jt BUN Polyuri, f\xf6rh\xf6jt'],
              ['Investigations',
+<<<<<<< HEAD
               u'Kemiska v\xe4rden F\xf6rh\xf6jt LDH, kreatinkinas, lipas, amylas eller glukos (ej fasteglukos). S\xe4nkt totalprotein, albumin, natrium eller kalcium. \xd6kning eller s\xe4nkning av kalium eller']]],
+=======
+              u'Kemiska v\xe4rden F\xf6rh\xf6jt LDH, kreatinkinas, lipas, amylas eller glukos (ej fasteglukos). S\xe4nkt totalprotein, albumin, natrium eller kalcium. \xd6kning eller']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'Vaginit'],
              ['Blood', u'Leukopeni*, neutropeni, eosinofili'],
@@ -32,7 +41,11 @@
            ['Very rare', []],
            ['Unknown',
             [['Infections',
+<<<<<<< HEAD
               u'Antibiotika-associ erad kolit, inklusive pseudo-membran\xf6 s kolit*'],
+=======
+              u'Antibiotika-associerad kolit, inklusive pseudo-membran\xf6s kolit*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'Myelosuppression *, pancytopeni*, sideroblastisk anemia*'],
              ['Immune system', u'Anafylaxi'],
              ['Metabolism', u'Mj\xf6lksyraacidos*, hyponatremi'],

@@ -30,8 +30,12 @@
             [['Immune system', u'Allergiska reaktioner (t.ex. urtikaria)'],
              ['Nervous system', u'Hypokinesi'],
              ['Cardiac', u'Hj\xe4rtklappning'],
+<<<<<<< HEAD
              ['Reproductive system',
               u'Generaliserat \xf6dem Ingen k\xe4nd frekvens: Uts\xe4ttningsreaktioner (oftast oro, insomnia, illam\xe5ende, sm\xe4rta, svettningar), br\xf6stsm\xe4rta. Pl\xf6tsliga, of\xf6rklarliga d\xf6dsfall har rapporterats, d\xe4r eventuellt orsakssamband med gabapentinbehandling inte har fastst\xe4llts.'],
+=======
+             ['Reproductive system', u'Generaliserat \xf6dem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations',
               u'F\xf6rh\xf6jda leverfunktionstester SGOT (ASAT), SGPT (ALAT) och bilirubin']]],
            ['Unknown',

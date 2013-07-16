@@ -7,7 +7,11 @@
              ['Hepato', u'F\xf6rh\xf6jning av serum transaminaser (S-ALAT, S-ASAT)']]],
            ['Uncommon',
             [['Immune system',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslighetsreaktioner, s\xe5som astma, anafylaktiska reaktioner (inklusive hypotension och chock)'],
+=======
+              u'\xd6verk\xe4nslighetsreaktioner , s\xe5som astma, anafylaktiska reaktioner (inklusive hypotension och chock)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Gastrointestinal bl\xf6dning (hematemes, melena, blodiga diarr\xe9er)'],
              ['Skin', u'Urtikaria'],
              ['Hepato', u'Hepatit med eller utan ikterus'],
@@ -21,7 +25,11 @@
              ['GI',
               u'Gastrit, gastrointestinala s\xe5r (med eller utan bl\xf6dningar och perforation), tarmbesv\xe4r (s\xe5som ospecifik hemorragisk kolit eller exacerbationer av ulcer\xf6s kolit eller Crohns sjukdom), stomatit (inklusive aft\xf6s stomatit), glossit, esofaguslesioner, tarmstenos och obstipation'],
              ['Skin',
+<<<<<<< HEAD
               u'Bull\xf6s eruption, eksem, erytema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys (Lyells syndrom), exfoliativ dermatit, h\xe5ravfall, ljus\xf6verk\xe4nslighets-r eaktioner, purpura, (inklusive allergisk purpura)'],
+=======
+              u'Bull\xf6s eruption, eksem, erytema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys (Lyells syndrom), exfoliativ dermatit, h\xe5ravfall, ljus\xf6verk\xe4nslighets-reaktioner, purpura, (inklusive allergisk purpura)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypertension, vaskulit'],
              ['Hepato', u'Fatal fulminant hepatit, gulsot, leversjukdom']]],
            ['Very rare',

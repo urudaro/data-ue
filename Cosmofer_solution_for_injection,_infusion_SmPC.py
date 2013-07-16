@@ -1,6 +1,9 @@
 {'_data': [['Uncommon',
             [['Cardiac', u'och'],
+<<<<<<< HEAD
              ['GI', u'Illam\xe5ende, buksm\xe4rta'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'v\xe4rmek\xe4nsla'],
              ['Immune system',
               u'Anafylaktoida reaktioner inklusive andn\xf6d, urtikaria, hudutslag, kl\xe5da, illam\xe5ende och frossa.'],
@@ -11,7 +14,10 @@
              ['Cardiac', u'och']]],
            ['Rare',
             [['Cardiac', u'Arytmi, takykardi'],
+<<<<<<< HEAD
              ['GI', u'Diarr\xe9'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General',
               u'Tr\xf6tthet Sm\xe4rta och brun missf\xe4rgning p\xe5 injektionsst\xe4llet'],
              ['Musculoskeletal', u'Myalgi'],
@@ -31,5 +37,9 @@
              ['Cardiac', u'hypertension']]]],
  '_note': u' ?MSFU',
  '_pages': [6, 7],
+<<<<<<< HEAD
  u'_rank': 25,
+=======
+ u'_rank': 23,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

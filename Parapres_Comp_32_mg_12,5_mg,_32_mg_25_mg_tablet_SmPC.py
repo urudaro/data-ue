@@ -14,6 +14,10 @@
               u'Hyperglykemi, hyperurikemi,  elektrolytrubbning (inklusive hyponatremi och hypokalemi)'],
              ['Nervous system', u'Yrsel, vertigo'],
              ['Renal', u'Glukosuri'],
+<<<<<<< HEAD
+=======
+             ['General', u'Svaghet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'H\xf6jda kolesterol- och triglyceridv\xe4rden']]],
            ['Uncommon',
             [['Vascular', u'Postural hypotension'],
@@ -44,9 +48,17 @@
               u'Toxisk epidermal nekrolys, kutana  lupus erythematosus-liknande reaktioner, \xe5teraktivering av kutan lupus erythematosus'],
              ['Musculoskeletal', u'Muskelspasm'],
              ['Renal', u'Renal dysfunktion och interstitiell nefrit'],
+<<<<<<< HEAD
              ['Investigations', u'Feber'],
              ['Investigations', u'H\xf6jda BUN- och serumkreatininv\xe4rden']]],
            ['Unknown', [['Eye', u'Akut myopi, akut tr\xe5ngvinkelglaukom']]]],
  '_pages': [7, 8],
  u'_rank': 36,
+=======
+             ['General', u'Feber'],
+             ['Investigations', u'H\xf6jda BUN- och serumkreatininv\xe4rden']]],
+           ['Unknown', [['Eye', u'Akut myopi, akut tr\xe5ngvinkelglaukom']]]],
+ '_pages': [7, 8],
+ u'_rank': 37,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

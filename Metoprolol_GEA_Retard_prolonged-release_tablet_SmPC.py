@@ -42,7 +42,12 @@
              ['Investigations', u'Vikt\xf6kning']]],
            ['Unknown',
             [['Investigations',
+<<<<<<< HEAD
               u'kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data): \xd6kning av triglyceridkoncentrationen i blodet, s\xe4nkning av HDL-kolesterolkoncentrationen i blodet']]]],
  '_pages': [6, 7],
+=======
+              u'(kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data): \xd6kning av triglyceridkoncentrationen i blodet, s\xe4nkning av HDL-kolesterolkoncentrationen i blodet']]]],
+ '_pages': [6, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 31,
  u'_type': u'LSFU'}

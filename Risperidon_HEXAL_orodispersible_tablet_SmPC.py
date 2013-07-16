@@ -13,8 +13,12 @@
               u'Kr\xe4kningar, diarr\xe9,  f\xf6rstoppning, illam\xe5ende, buksm\xe4rta, dyspepsi, muntorrhet, magbesv\xe4r'],
              ['Skin', u'Hudutslag, erytem'],
              ['Musculoskeletal', u'Ledv\xe4rk, ryggsm\xe4rta,  extremitetssm\xe4rta'],
+<<<<<<< HEAD
              ['Renal', u'Enures'],
              ['General', u'Feber, tr\xf6tthet, perifert \xf6dem,  asteni, br\xf6stsm\xe4rta']]],
+=======
+             ['Renal', u'Enures']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections',
               u'Sinuit, virusinfektion,  \xf6roninfektion, tonsillit,  cellv\xe4vsinflammation, mediaotit, \xf6goninfektion, lokaliserad infektion, akarodermatit, luftv\xe4gsinfektion, cystit, onykomykos'],
@@ -38,7 +42,11 @@
              ['Renal', u'Urinretention, dysuri,  urininkontinens, pollakisuri'],
              ['Reproductive system',
               u'Amenorr\xe9, sexuell  dysfunktion, erektil  dysfunktion, ejakulationsst\xf6rning, galaktorr\xe9, gynekomasti, menstruationsrubbning, vaginal flytning'],
+<<<<<<< HEAD
              ['General',
+=======
+             ['Reproductive system',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Ansikts\xf6dem, g\xe5ngrubbning,  k\xe4nsla av att inte m\xe5 som  vanligt, tr\xf6ghet, influensaliknande sjukdom, t\xf6rst, obehagsk\xe4nsla i br\xf6stet, frossa']]],
            ['Rare',
             [['Infections', u'Kronisk mediaotit'],
@@ -52,7 +60,11 @@
              ['Hepato', u'Gulsot'],
              ['Skin', u'Mj\xe4ll'],
              ['Musculoskeletal', u'Rabdomyolys'],
+<<<<<<< HEAD
              ['General',
+=======
+             ['Reproductive system',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Generaliserat \xf6dem,  hypotermi, l\xe4kemedelsabstinenssyndrom, perifer kyla']]],
            ['Unknown',
             [['Blood', u'Agranulocytos'],
@@ -60,5 +72,9 @@
              ['Pregnancy', u'Neonatalt uts\xe4ttningssyndrom  (se avsnitt 4.6)'],
              ['Reproductive system', u'Priapism']]]],
  '_pages': [8, 13],
+<<<<<<< HEAD
  u'_rank': 43,
+=======
+ u'_rank': 42,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

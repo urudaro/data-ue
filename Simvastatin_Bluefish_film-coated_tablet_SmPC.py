@@ -6,6 +6,7 @@
              ['Hepato', u'heptatit/gulsot'],
              ['Skin', u'kl\xe5da, hudutslag, h\xe5ravfall'],
              ['Musculoskeletal',
+<<<<<<< HEAD
               u'myopati* (inkluderande myosit), rabdomyolys med eller utan akut njursjukdom (se avsnitt 4.4), myalgi, muskelkramper.'],
              ['General',
               u'asteni Ett \xf6verk\xe4nslighetssyndrom best\xe5ende av n\xe5gra av f\xf6ljande symtom har rapporterats i s\xe4llsynta fall: angio\xf6dem, lupusliknande sjukdomsbild, polymyalgia rheumatica, dermatomyosit, vaskulit, trombocytopeni, eosinofili, SR-stegring, artrit och artralgi, urtikaria, fotosensibilisering, feber, rodnad, dyspn\xe9 och allm\xe4n sjukdomsk\xe4nsla.'],
@@ -21,4 +22,20 @@
              ['Reproductive system', u'erektil dysfunktion']]]],
  '_pages': [9, 11],
  u'_rank': 14,
+=======
+              u'myopati* (inkluderande myosit), rabdomyolys med eller utan akut njursjukdom (se avsnitt 4.4), myalgi, muskelkramper. *I en klinisk studie intr\xe4ffade myopati oftare hos patienter som behandlades med simvastatin 80 mg/dag j\xe4mf\xf6rt med patienter som behandlades med 20 mg/dag (1,0 % respektive 0,02 %).'],
+             ['General',
+              u'asteni Ett \xf6verk\xe4nslighetssyndrom best\xe5ende av n\xe5gra av f\xf6ljande symtom har rapporterats i s\xe4llsynta fall: angio\xf6dem, lupusliknande sjukdomsbild, polymyalgia rheumatica, dermatomyosit, vaskulit, trombocytopeni, eosinofili, SR-stegring, artrit och artralgi, urtikaria, fotosensibilisering, feber, rodnad, dyspn\xe9 och allm\xe4n sjukdomsk\xe4nsla.'],
+             ['Investigations',
+              u'f\xf6rh\xf6jda serumtransaminaser (alaninaminotransferas, aspartataminotransferas, \u03b3- glutamyltranspeptidas (se avsnitt 4.4 Leverp\xe5verkan), f\xf6rh\xf6jda alkaliska fosfataser, f\xf6rh\xf6jt CK-v\xe4rde i serum (se avsnitt 4.4). F\xf6ljande biverkningar har rapporterats f\xf6r vissa statiner: \u2022S\xf6mnsv\xe5righeter, inklusive mardr\xf6mmar \u2022Sexuella st\xf6rningar \u2022Minnesf\xf6rlust \u2022Diabetes Mellitus: Frekvensen beror p\xe5 n\xe4rvaro eller fr\xe5nvaron av riskfaktorer (fasteblodglukos \u22655.6 mmol/L, BMI>30kg/m2, h\xf6jda triglycerider, anamnes med hypertension).']]],
+           ['Very rare',
+            [['Psychiatric', u'insomnia : depression'],
+             ['Nervous system', u'nedsatt minnesf\xf6rm\xe5ga'],
+             ['Hepato', u'leversvikt']]],
+           ['Unknown',
+            [['Respiratory', u'i nterstitiell lungsjukdom (se avsnitt 4.4)'],
+             ['Reproductive system', u'erektil dysfunktion']]]],
+ '_pages': [9, 11],
+ u'_rank': 13,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

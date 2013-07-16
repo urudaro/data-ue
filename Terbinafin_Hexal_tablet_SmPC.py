@@ -2,11 +2,19 @@
             [['GI',
               u'Dyspepsi Illam\xe5ende L\xe4tt magsm\xe4rta Diarr\xe9 M\xe4ttnadsk\xe4 nsla Aptitf\xf6rlust'],
              ['Skin', u'Hudutslag Urtikaria'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Artralgi och Myalgi']]],
            ['Common', [['Nervous system', u'Huvudv\xe4rk. Smakf\xf6rlust och s\xe4llsynta']]],
            ['Uncommon',
             [['Nervous system',
               u'smakf\xf6r\xe4ndringar. Detta f\xf6rsvinner vanligen l\xe5ngsamt om l\xe4kemedlet s\xe4tts ut inom 15 veckor. I enstaka fall kan dysgeusi/ageusi kvarst\xe5 i upp till 2 Minskat f\xf6dointag som leder till betydande viktnedg\xe5ng har observerats i mycket fall.']]],
+=======
+             ['Musculoskeletal', u'Artralgi Myalgi']]],
+           ['Common', [['Nervous system', u'Huvudv\xe4rk. Smakf\xf6rlust och \xe5r.']]],
+           ['Uncommon',
+            [['Nervous system',
+              u'smakf\xf6r\xe4ndringar. Detta f\xf6rsvinner vanligen l\xe5ngsamt om l\xe4kemedlet s\xe4tts ut inom 15 veckor. I enstaka fall kan dysgeusi/ageusi kvarst\xe5 i upp till 2 Minskat f\xf6dointag som leder till betydande viktnedg\xe5ng har observerats i mycket']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Hepato',
               u'Nedsatt lever-och gallfunktion (fr\xe4mst kolestas) (Se avsnitt 4.4)']]],
@@ -22,18 +30,31 @@
              ['General', u'Tr\xf6tthet']]],
            ['Unknown',
             [['Blood', u'Anemi'],
+<<<<<<< HEAD
              ['Immune system', u'Anafylaktisk reaktion Serumsjukeliknand e reaktion'],
              ['Psychiatric',
               u'Oro och depressionssymto m sekund\xe4rt till smakf\xf6r\xe4ndringar'],
+=======
+             ['Immune system', u'Anafylaktisk reaktion Serumsjuke-liknande reaktion'],
+             ['Psychiatric',
+              u'Oro och depressions-symtom sekund\xe4rt till smak-f\xf6r\xe4ndringar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Anosmi, inklusive permanent anosmi Hyposmi'],
              ['Ear', u'Hypoakusi H\xf6rselneds\xe4ttning Tinnitus'],
              ['Vascular', u'Vaskulit'],
              ['GI', u'Pankreatit'],
              ['Skin',
+<<<<<<< HEAD
               u'Fotosensitivitetsrea ktioner (t.ex. fotodermatos, allergisk fotosensitivitetsrea ktion och polymorft ljusutslag)'],
              ['Musculoskeletal', u'Rabdomyolys'],
              ['General', u'Influensaliknande sjukdom Pyrexi'],
              ['Investigations', u'F\xf6rh\xf6jt blodkreatinfosfoki nas']]]],
+=======
+              u'Fotosensitivitets-reaktioner (t.ex. fotodermatos, allergisk fotosensitivitets-reaktion och polymorft ljusutslag)'],
+             ['Musculoskeletal', u'Rabdomyolys'],
+             ['General', u'Influensaliknande sjukdom Pyrexi'],
+             ['Investigations', u'F\xf6rh\xf6jt blodkreatin-fosfokinas']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [5, 7],
  u'_rank': 23,

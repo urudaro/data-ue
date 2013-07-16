@@ -1,5 +1,11 @@
 {'_data': [[u'Unknown',
+<<<<<<< HEAD
             [['Cardiac', u'palpitationer, angina pectoris   mindre vanliga'],
+=======
+            [['Nervous system',
+              u'yrsel, vertigo   vanliga   somnolens, huvudv\xe4rk, s\xf6mnst\xf6rningar   mindre vanliga'],
+             ['Cardiac', u'palpitationer, angina pectoris   mindre vanliga'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'symtomatisk hypotoni (s\xe4rskilt hos patienter med   mindre vanliga'],
              ['GI', u'buksm\xe4rta, f\xf6rstoppning   mindre vanliga'],
@@ -46,5 +52,9 @@
              ['Psychiatric', u'depression   ingen k\xe4nd'],
              ['Investigations', u'hyponatremi   ingen k\xe4nd']]]],
  '_pages': [5, 8],
+<<<<<<< HEAD
  u'_rank': 43,
+=======
+ u'_rank': 44,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LFSU'}

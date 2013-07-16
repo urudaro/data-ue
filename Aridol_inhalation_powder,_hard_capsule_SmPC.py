@@ -13,7 +13,12 @@
              ['GI', u'Sm\xe4rta i \xf6vre delen av buken, diarr\xe9, muns\xe5r'],
              ['Skin', u'Kl\xe5da, hyperhidros'],
              ['Musculoskeletal', u'Skelettmuskelsm\xe4rtor'],
+<<<<<<< HEAD
              ['General', u'Tr\xf6tthet, darrighet, t\xf6rstk\xe4nslor']]]],
+=======
+             ['General',
+              u'Tr\xf6tthet, darrighet, t\xf6rstk\xe4nslor *Hosta rapporterades endast som en biverkning om testet avbr\xf6ts p\xe5 grund av detta.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [5, 6],
  u'_rank': 13,
  u'_type': u'LSFU'}

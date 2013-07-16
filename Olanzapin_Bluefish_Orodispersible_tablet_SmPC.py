@@ -1,7 +1,11 @@
 {'_data': [['Very common',
             [['Metabolism', u'Viktuppg\xe5ng'],
              ['Nervous system', u'Somnolens'],
+<<<<<<< HEAD
              ['Investigations', u'F\xf6rh\xf6jd plasma-prolaktinn iv\xe5']]],
+=======
+             ['Investigations', u'F\xf6rh\xf6jd plasma-prolaktinniv\xe5']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Blood', u'Eosinofili'],
              ['Metabolism',
@@ -21,7 +25,11 @@
              ['Cardiac', u'Bradykardi QTc-f\xf6rl\xe4ngning (se avsnitt 4.4)'],
              ['Vascular',
               u'Tromboemboli (inklusive lungemboli och djup ventrombos) (se avsnitt 4.4)'],
+<<<<<<< HEAD
              ['Skin', u'Fotosensitivitetsreak-tio ner Alopeci'],
+=======
+             ['Skin', u'Fotosensitivitetsreak-tioner Alopeci'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Urininkontinens, urinretention'],
              ['Reproductive system',
               u'Amenorr\xe9 Br\xf6stf\xf6rstoring Galaktorr\xe9 hos kvinnor Gynekomasti/br\xf6stf\xf6rsto ring hos m\xe4n'],
@@ -33,7 +41,11 @@
              ['Metabolism',
               u'Utveckling eller f\xf6rs\xe4mring av diabetessjukdom, ibland associerat med ketoacidos eller koma, inklusive n\xe5gra fall med d\xf6dlig utg\xe5ng (se avsnitt 4.4). Hypotermi'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Kramper, d\xe4r det i de flesta fall finns kramper eller riskfaktorer f\xf6r kramper i anamnesen. Malignt neuroleptika-syndro m (se avsnitt 4.4). Dystoni (inklusive okulogyration). Tardiv dyskinesi Uts\xe4ttningssymtom'],
+=======
+              u'Kramper, d\xe4r det i de flesta fall finns kramper eller riskfaktorer f\xf6r kramper i anamnesen. Malignt neuroleptika-syndrom (se avsnitt 4.4). Dystoni (inklusive okulogyration). Tardiv dyskinesi Uts\xe4ttningssymtom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac',
               u'Ventrikul\xe4r takykardi/flimmer, pl\xf6tsligt d\xf6dsfall (se avsnitt 4.4).'],
              ['GI', u'Pankreatit'],

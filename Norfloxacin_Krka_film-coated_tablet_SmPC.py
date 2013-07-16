@@ -12,10 +12,16 @@
              ['Musculoskeletal',
               u' Artralgi. Tendinit, senruptur (se 4.4 Varningar och f\xf6rsiktighetsm\xe5tt) '],
              ['Other', u' Perifera parestesier. Pseudomembran\xf6s kolit. ']]],
+<<<<<<< HEAD
            ['Very rare', [['General', u' Feber  ']]],
            ['Unknown',
             [['Cardiac',
               u' Ventrikul\xe4r arytmi och torsade de pointes (har rapporterats  \xf6verv\xe4gande  f\xf6r patienter med riskfaktorer f\xf6r QT-f\xf6rl\xe4ngning), EKG  f\xf6rl\xe4ngning (se avsnitt 4.4 och 4.9).  ']]]],
+=======
+           ['Very rare',
+            [['General', u' Feber  '],
+             ['Cardiac', u' Ventrikul\xe4r arytmi och torsade de pointes (har rapporterats  ']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 4],
  u'_rank': 12,
  u'_type': u'DFSU'}

@@ -3,16 +3,26 @@
             [['Metabolism', u'Minskad aptit'],
              ['Psychiatric', u'F\xf6rvirring, depression (se avsnitt nedan), akatisi'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Ataxi, koordinationssv\xe5rig heter, f\xf6rs\xe4mrad minnesf\xf6rm\xe5ga, sluddrigt tal, koncentrationssv\xe5ri gheter, yrsel, huvudv\xe4rk, berusningsk\xe4nsla'],
+=======
+              u'Ataxi, koordinations-sv\xe5righeter, f\xf6rs\xe4mrad minnesf\xf6rm\xe5ga, sluddrigt tal, koncentrations-sv\xe5righeter, yrsel, huvudv\xe4rk, berusningsk\xe4nsla'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Dimsyn'],
              ['Cardiac', u'Takykardi, palpitationer'],
              ['Respiratory', u'N\xe4st\xe4ppa'],
              ['GI',
               u'Gastrointestinala symptom (f\xf6rstoppning, illam\xe5ende diarr\xe9, muntorrhet, \xf6kad salivbildning, dysfagi)'],
              ['Skin', u'Allergisk dermatit'],
+<<<<<<< HEAD
              ['General', u'Tr\xf6tthet, orkesl\xf6shet, irritabilitet']]],
            ['Uncommon',
             [['Endocrine', u'Hyperprolaktine mi'],
+=======
+             ['General', u'Tr\xf6tthet, orkesl\xf6shet,']]],
+           ['Uncommon',
+            [['Endocrine', u'Hyper-prolaktinemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Anorexi'],
              ['Psychiatric',
               u'Hallucinationer, raseri, aggressivt beteende, fientligt beteende, oro, agitation, f\xf6r\xe4ndringar i libido, s\xf6mnl\xf6shet, onormala tankar, nervositet, stimulering'],
@@ -23,6 +33,7 @@
              ['Skin', u'Dermatit, kl\xe5da'],
              ['Musculoskeletal', u'Muskuloskeletal svaghet'],
              ['Renal', u'Inkontinens, urinretention'],
+<<<<<<< HEAD
              ['Reproductive system', u'Sexuell dysfunktion, menstruella oregelbundenhet er'],
              ['Investigations', u'Vikt\xe4ndring,']]],
            ['Rare',
@@ -35,9 +46,26 @@
              ['Skin', u'Hudreaktion er']]],
            ['Unknown',
             [['Nervous system', u'Autonoma manifestati oner'],
+=======
+             ['Reproductive system', u'Sexuell dysfunktion, menstruella oregelbunden-heter']]],
+           ['Rare',
+            [['Endocrine', u'L\xe4kemedelsverket 2012-08-24'],
+             ['Metabolism', u'Aptit-stimulering'],
+             ['Psychiatric',
+              u'Psykiska och paradoxala reaktioner och beroende (se avsnitt nedan)'],
+             ['Nervous system', u'Bort-domning, minskad vakenhet'],
+             ['Vascular', u'Hypotoni'],
+             ['Skin', u'Hud-reaktioner']]],
+           ['Unknown',
+            [['Nervous system', u'Autonoma manifest-ationer'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Hepatit'],
              ['General', u'Perifert \xf6dem']]]],
  '_note': u' ?MSFU',
  '_pages': [7, 9],
+<<<<<<< HEAD
  u'_rank': 31,
+=======
+ u'_rank': 30,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

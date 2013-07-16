@@ -2,8 +2,12 @@
             [['Nervous system', u'Huvudv\xe4rk Yrsel'],
              ['GI', u'Illam\xe5ende Dyspepsi Gastrointestinal sm\xe4rta Diarr\xe9'],
              ['Skin', u'Svettning'],
+<<<<<<< HEAD
              ['General', u'\xd6dem'],
              ['Psychiatric', u'D\xe5sighet']]],
+=======
+             ['General', u'\xd6dem']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Nervous system', u'Parestesi Smakf\xf6r\xe4ndringar'],
              ['Eye', u'Synf\xf6r\xe4ndringar'],
@@ -15,7 +19,11 @@
              ['Musculoskeletal', u'Myalgi'],
              ['General', u'Asteni Blekhet Om\xe5ttlig t\xf6rst'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Abnorma tankar Depression Eufori Koncentrationsst\xf6 rningar S\xf6mnl\xf6shet Nervositet']]],
+=======
+              u'D\xe5sighetAbnorma tankar Depression Eufori Koncentrationsst\xf6 rningar S\xf6mnl\xf6shet Nervositet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Cardiac', u'Hj\xe4rtsvikt'],
              ['Blood', u'Trombocytopeni'],
@@ -45,8 +53,15 @@
              ['Hepato', u'Hepatit, kolestatisk gulsot, leversvikt'],
              ['Reproductive system', u'Kvinnlig infertilitet'],
              ['Investigations',
+<<<<<<< HEAD
               u'F\xf6rl\xe4ngd bl\xf6dningstid, f\xf6rh\xf6jt S-urea, f\xf6rh\xf6jt kreatinin, hyperkalemi, hyponatremi Onormala leverfunktions-v \xe4rden']]]],
  '_note': u' ?MSFU',
  '_pages': [8, 11],
  u'_rank': 37,
+=======
+              u'F\xf6rl\xe4ngd bl\xf6dningstid, f\xf6rh\xf6jt S-urea, f\xf6rh\xf6jt kreatinin, hyperkalemi, hyponatremi Onormala leverfunktions-v\xe4rden']]]],
+ '_note': u' ?MSFU',
+ '_pages': [8, 11],
+ u'_rank': 36,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

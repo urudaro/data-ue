@@ -1,16 +1,29 @@
 {'_data': [['Very common', [['Hepato', u'Mycket']]],
            ['Common',
+<<<<<<< HEAD
             [['Psychiatric', u''],
              ['Nervous system', u'Yrsel.'],
+=======
+            [['Nervous system', u'Yrsel.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypotoni.'],
              ['Respiratory', u'Hosta.'],
              ['GI', u'Illam\xe5ende, kr\xe4kningar, diarr\xe9.'],
              ['General', u'Huvudv\xe4rk, tr\xf6tthet.']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Nervous system', u'Parestesier, syncope.'],
              ['Cardiac',
               u'Palpitationer, br\xf6stsm\xe4rtor, takykardi, angina pectoris, asystoli, hj\xe4rtinfarkt eller cerebrovaskul\xe4ra h\xe4ndelser (troligen i samband med \xf6kat blodtrycksfall hos h\xf6griskpatienter).'],
              ['GI', u'Dyspepsi, buksm\xe4rtor, muntorrhet.'],
+=======
+            [['Psychiatric', u'S\xf6mnrubbningar, nervositet.'],
+             ['Nervous system', u'Parestesier, syncope.'],
+             ['Cardiac',
+              u'Palpitationer, br\xf6stsm\xe4rtor, takykardi, angina pectoris, asystoli, hj\xe4rtinfarkt eller cerebrovaskul\xe4ra h\xe4ndelser (troligen i samband med \xf6kat blodtrycksfall hos h\xf6griskpatienter).'],
+             ['GI', u'Dyspepsi, buksm\xe4rtor, muntorrhet.'],
+             ['Skin', u'Exantem, pruritus, urtikaria.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Impotens.'],
              ['General', u'Asteni.']]],
            ['Rare',
@@ -22,9 +35,20 @@
              ['GI', u'Smakf\xf6r\xe4ndring, f\xf6rstoppning, pankreatit.'],
              ['Hepato', u'Leverp\xe5verkan.'],
              ['Hepato', u'Hepatit.'],
+<<<<<<< HEAD
              ['General',
               u'Angio\xf6dem (med svullnad av ansikte, l\xe4ppar, tunga, svalg). Agranulocytos har rapporterats i s\xe4llsynta fall, liksom \xe4ven ett syndrom inkluderande feber, serosit, vaskulit, myalgi, artralgi/artrit, positiv ANA, SR-stegring, eosinofili och leukocytos. F\xf6r andra ACE-h\xe4mmare har \xe4ven gynekomasti och vaskulit rapporterats och det kan inte uteslutas att dessa biverkningar \xe4r gruppspecifika. Laboratoriev\xe4rden: \xd6verg\xe5ende f\xf6rh\xf6jda serumkreatinin- och ureav\xe4rden har iakttagits, speciellt vid samtidig diuretikaterapi. L\xe4tt s\xe4nkta v\xe4rden av hemoglobin och hematokrit har rapporterats f\xf6r andra ACE-h\xe4mmare. Det kan inte uteslutas att dessa observationer \xe4r gruppspecifika.']]],
            ['Unknown', [['Skin', u'Exantem, pruritus, urtikaria.']]]],
  '_pages': [8, 9],
  u'_rank': 21,
+=======
+             ['Skin',
+              u'Pemfigus, psoriasisliknande utslag. Muskuloskeletala systemet, bindv\xe4v och benv\xe4vnad'],
+             ['Skin', u'Myalgi, artralgi, ryggsm\xe4rtor. Njur- och urinv\xe4gar'],
+             ['Skin', u'Nedsatt njurfunktion, hyperkalemi.'],
+             ['General',
+              u'Angio\xf6dem (med svullnad av ansikte, l\xe4ppar, tunga, svalg). Agranulocytos har rapporterats i s\xe4llsynta fall, liksom \xe4ven ett syndrom inkluderande feber, serosit, vaskulit, myalgi, artralgi/artrit, positiv ANA, SR-stegring, eosinofili och leukocytos. F\xf6r andra ACE-h\xe4mmare har \xe4ven gynekomasti och vaskulit rapporterats och det kan inte uteslutas att dessa biverkningar \xe4r gruppspecifika. Laboratoriev\xe4rden: \xd6verg\xe5ende f\xf6rh\xf6jda serumkreatinin- och ureav\xe4rden har iakttagits, speciellt vid samtidig diuretikaterapi. L\xe4tt s\xe4nkta v\xe4rden av hemoglobin och hematokrit har rapporterats f\xf6r andra ACE-h\xe4mmare. Det kan inte uteslutas att dessa observationer \xe4r gruppspecifika.']]]],
+ '_pages': [8, 9],
+ u'_rank': 25,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

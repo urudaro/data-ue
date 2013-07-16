@@ -9,7 +9,11 @@
              ['Cardiac', u' Palpitationer'],
              ['Hepato', u' \xd6kning av leverenzymer.'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Gynekomasti, \xf6mhet i manlig br\xf6stk\xf6rtel, testikelsm\xe4rta, infertilitet*']]]],
+=======
+              u' Gynekomasti, \xf6mhet i manlig br\xf6stk\xf6rtel, testikelsm\xe4rta, infertilitet*']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [3, 4],
  u'_rank': 6,
  u'_type': u'LSFU2'}

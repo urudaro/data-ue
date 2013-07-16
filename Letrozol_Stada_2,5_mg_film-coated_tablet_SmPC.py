@@ -13,9 +13,14 @@
              ['General', u'sjukdomsk\xe4nsla, perifera \xf6dem'],
              ['Investigations', u'vikt\xf6kning.']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Infections',
               u'urinv\xe4gsinfektion Benigna, maligna och ospecificerade neoplasmer (inkluderande cystor och polyper)'],
              ['Infections',
+=======
+            [['Infections', u'urinv\xe4gsinfektion'],
+             ['Neoplasms',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'tum\xf6rsm\xe4rta (g\xe4ller ej vid adjuvant eller f\xf6rl\xe4ngd adjuvant behandling)'],
              ['Blood', u'leukopeni'],
              ['Metabolism', u'generaliserat \xf6dem'],

@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Vascular', u'Hematom'],
              ['Respiratory', u'Epistaxis'],
              ['GI', u'Gastrointe stinal bl\xf6dning, diarr\xe9, buksm\xe4rta, dyspepsi'],
@@ -42,3 +43,10 @@
  '_pages': [6, 8],
  u'_rank': 27,
  u'_type': u'MSFU'}
+=======
+            [['Blood',
+              u'Trombocyto-   Neutropeni,   Trombotisk Trombocytopen   peni,   inklusive allvarlig   Purpura (TTP) (se avsnitt']]]],
+ '_pages': [6, 8],
+ u'_rank': 1,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common', []],
            ['Common',
             [['Metabolism', u'Hypokalcemi'],
@@ -21,3 +22,18 @@
  '_pages': [5, 6],
  u'_rank': 13,
  u'_type': u'MSFU'}
+=======
+{'_data': [['Uncommon',
+            [['Blood', u'anemi'],
+             ['Nervous system', u'parestesi, dysgeusi'],
+             ['GI',
+              u'bl\xf6dning, ulcus duodeni, gastrit, dysfagi,   buksm\xe4rta, muntorrhet'],
+             ['Skin', u'kl\xe5da'],
+             ['Renal', u'azotemi (uremi)'],
+             ['General',
+              u'br\xf6stsm\xe4rta, influensa-liknande sjukdom,   sjukdomsk\xe4nsla, sm\xe4rta'],
+             ['Investigations', u'f\xf6rh\xf6jt parathormon']]]],
+ '_pages': [4, 5],
+ u'_rank': 7,
+ u'_type': u'LFSUR'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

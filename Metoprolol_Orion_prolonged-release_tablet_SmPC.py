@@ -46,6 +46,10 @@
              ['Hepato', u'Hepatit'],
              ['Psychiatric',
               u'Gl\xf6mska eller nedsatt minnesf\xf6rm\xe5ga, f\xf6rvirring, hallucinationer, personlighetsf\xf6r\xe4ndringar (t.ex. hum\xf6rsv\xe4ngningar)']]]],
+<<<<<<< HEAD
  '_pages': [6, 7],
+=======
+ '_pages': [6, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 33,
  u'_type': u'LSFU'}

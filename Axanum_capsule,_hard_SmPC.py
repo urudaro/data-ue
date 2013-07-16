@@ -15,7 +15,11 @@
            ['Rare',
             [['Blood', u'trombocytopeni'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xf6verk\xe4nslighets-reakt ioner s\xe5som feber, angio\xf6dem och anafylaktisk reaktion/chock'],
+=======
+              u'\xf6verk\xe4nslighets-reaktioner s\xe5som feber, angio\xf6dem och anafylaktisk reaktion/chock'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'hyponatremi'],
              ['Psychiatric', u'depression'],
              ['Nervous system', u'smakf\xf6r\xe4ndringar'],
@@ -27,6 +31,10 @@
              ['Musculoskeletal', u'artralgi, myalgi'],
              ['General', u'sjukdomsk\xe4nsla']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [6, 9],
+=======
+ '_pages': [6, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 23,
  u'_type': u'MSFU'}

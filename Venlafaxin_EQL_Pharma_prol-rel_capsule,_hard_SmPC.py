@@ -2,7 +2,11 @@
             [['Nervous system', u'Muntorrhet %), huvudv\xe4rk (30,3%)*'],
              ['Cardiac', u'och'],
              ['GI', u'Illam\xe5ende (20,0 %)'],
+<<<<<<< HEAD
              ['Skin', u'Svettning (inklusive natt-svettnin g) [12,2 %]']]],
+=======
+             ['Skin', u'Svettning (inklusive natt-svettning) [12,2 %]']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Metabolism', u'F\xf6rh\xf6jt serumkolestero l, viktminskning'],
              ['Nervous system',
@@ -27,11 +31,19 @@
              ['GI', u'Bruxism, diarr\xe9'],
              ['Skin', u'Hudutslag, alopeci'],
              ['Reproductive system', u'Onormal orgasm (kvinnor), urinretention'],
+<<<<<<< HEAD
              ['Systemic', u'Angio\xf6dem, ljusk\xe4nslighets-r eaktion']]],
            ['Rare',
             [['Nervous system',
               u'Akatisi/ psykomotorisk rastl\xf6shet, kramper, manisk reaktion'],
              ['Reproductive system', u'Urin-inkontine ns']]],
+=======
+             ['Systemic', u'Angio\xf6dem, ljusk\xe4nslighets-reaktion']]],
+           ['Rare',
+            [['Nervous system',
+              u'Akatisi/ psykomotorisk rastl\xf6shet, kramper, manisk reaktion'],
+             ['Reproductive system', u'Urin-inkontinens']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood',
               u'Slemhinnebl\xf6dni ng, f\xf6rl\xe4ngd bl\xf6dningstid, trombocytopeni, bloddyskrasier (inklusive agranulocytos, aplastisk anemi, neutropeni och pancytopeni)'],
@@ -40,6 +52,7 @@
              ['Nervous system',
               u'Malignt neuroleptikasynd rom (NMS), serotonergt syndrom, delirium, extrapyramidala reaktioner (inklusive dystoni och dyskinesi), tardiv dyskinesi, suicidalt beteende, suicidtankar**, yrsel, aggression***'],
              ['Special Senses', u'Tr\xe5ngvinkelglauk om'],
+<<<<<<< HEAD
              ['Cardiac', u'Hypotoni,'],
              ['Vascular',
               u'QT-f\xf6rl\xe4ngning, kammarflimmer, kammartakykardi (inklusive torsade de pointes)'],
@@ -47,6 +60,15 @@
              ['GI', u'Pankreatit'],
              ['Skin',
               u'Erythema multiforme, toxisk epidermal nekrolys, Stevens-Johnson s syndrom, kl\xe5da, n\xe4sselutslag'],
+=======
+             ['Cardiac', u'Hypotoni, QT'],
+             ['Vascular',
+              u'f\xf6rl\xe4ngning, kammarflimmer, kammartakykardi (inklusive torsade de pointes)'],
+             ['Respiratory', u'Pulmonell eosinofili'],
+             ['GI', u'Pankreatit'],
+             ['Skin',
+              u'Erythema multiforme, toxisk epidermal nekrolys, Stevens-Johnsons syndrom, kl\xe5da, n\xe4sselutslag'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Rabdomyolys'],
              ['Systemic', u'Anafylaxi']]]],
  '_note': u' ?MSFU ANOMALI in Headers ANOMALI in Headers',

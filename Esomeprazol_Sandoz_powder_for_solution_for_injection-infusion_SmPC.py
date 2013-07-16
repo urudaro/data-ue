@@ -24,19 +24,33 @@
              ['Hepato', u'hepatit med eller utan gulsot'],
              ['Skin', u'alopeci, fotosensitivitet'],
              ['Musculoskeletal', u'artralgi, myalgi'],
+<<<<<<< HEAD
              ['General', u'allm\xe4n sjukdomsk\xe4nsla, \xf6kad svettning']]],
            ['Very rare',
             [['Blood', u'agranulocytos, pancytopeni'],
              ['Metabolism',
               u'hypomagnesemi; allvarlig hypomagnesemi kan korrelera med hypokalcemi'],
+=======
+             ['General',
+              u'allm\xe4n sjukdomsk\xe4nsla, \xf6kad svettning *Reaktioner vid administreringsst\xe4llet har huvudsakligen observerats i en studie med h\xf6gdosexponering under 3 dagar (72 timmar), se avsnitt 5.3. Hos sv\xe5rt sjuka patienter har i enstaka fall irreversibla synst\xf6rningar rapporterats vid behandling med h\xf6ga doser av omeprazol (racematet) givet som intraven\xf6s injektion. Inget orsakssamband har dock kunnat fastst\xe4llas.']]],
+           ['Very rare',
+            [['Blood', u'agranulocytos, pancytopeni'],
+             ['Metabolism', u'hypomagnesemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'aggression, hallucinationer'],
              ['Hepato', u'leversvikt, encefalopati hos leversjuka patienter'],
              ['Skin',
               u'erytema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys (TEN)'],
              ['Musculoskeletal', u'muskelsvaghet'],
              ['Renal', u'interstitiell nefrit'],
+<<<<<<< HEAD
              ['Reproductive system', u'gynekomasti']]],
            ['Unknown', [['GI', u'mikroskopisk kolit']]]],
  '_pages': [8, 9],
  u'_rank': 31,
+=======
+             ['Reproductive system', u'gynekomasti']]]],
+ '_pages': [5, 7],
+ u'_rank': 30,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -6,6 +6,10 @@
              ['GI', u'Illam\xe5ende.'],
              ['Skin', u'Urtikaria och   exantem.'],
              ['Musculoskeletal', u'Muskelkramper.']]]],
+<<<<<<< HEAD
  '_pages': [3, 3],
+=======
+ '_pages': [3, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 7,
  u'_type': u'LFSU'}

@@ -35,7 +35,11 @@
              ['General',
               u'Feber, letargi, perifera \xf6dem, sjukdomsk\xe4nsla, br\xf6stsm\xe4rta'],
              ['Infections',
+<<<<<<< HEAD
               u'Herpes zoster, urinv\xe4gsinfektion, oral candidiasis, \xf6vre luftv\xe4gsinfektion, rinit, influensa,'],
+=======
+              u'Herpes zoster, urinv\xe4gsinfektion, oral candidiasis, \xf6vre luftv\xe4gsinfektion,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'Benm\xe4rgsdepression, febril neutropeni'],
              ['Metabolism',
               u'Hypokalemi, hyponatremi, hypomagnesemi, hypokalcemi, hyperglykemi'],
@@ -79,7 +83,11 @@
               u'Tarmobstruktion, ascites, enterit, gastrit, dysfagi, sm\xe4rta i nedre delen av buken, esofagit, bukbesv\xe4r, gastro-esofageal refluxsjukdom, kolit, blod i avf\xf6ringen'],
              ['Hepato', u'Gulsot'],
              ['Skin',
+<<<<<<< HEAD
               u'Hudulceration, hudutslag, urtikaria, fotosensitivitets-reaktion er, palmarerytem, svullet ansikte, purpura'],
+=======
+              u'Hudulceration, hudutslag, urtikaria, fotosensitivitets-reaktioner, palmarerytem, svullet ansikte, purpura'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal',
               u'Ledsvullnad, skelettsm\xe4rta, ansiktssm\xe4rta, muskuloskeletal stelhet, muskelsvaghet'],
              ['Renal',

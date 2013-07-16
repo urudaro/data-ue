@@ -1,5 +1,10 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'0): \xd6verg\xe5ende smakrubbningar (speciellt metallsmak).']]],
+=======
+            [['Nervous system',
+              u'(> 1/100, <1/10): \xd6verg\xe5ende smakrubbningar (speciellt metallsmak).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Nervous system', u'huvudv\xe4rk; yrsel.'],
              ['Cardiac', u'hypotension och kollaps, takykardi och hj\xe4rtklappning.'],

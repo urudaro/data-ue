@@ -16,7 +16,11 @@
              ['Eye', u'Visuella st\xf6rningar inklusive dimsyn'],
              ['Respiratory', u'Bronkospasm inklusive f\xf6rs\xe4mrad astma, t\xe4ppt n\xe4sa'],
              ['GI',
+<<<<<<< HEAD
               u'Pankreatit (mycket s\xe4llsynta fall av d\xf6dlig utg\xe5ng har rapporterats med ACE-h\xe4mmare) , \xf6kade pankreas-enzym er, angio\xf6dem i tunntarmen, \xf6vre magsm\xe4rta inklusive gastrit, f\xf6rstoppning, muntorrhet'],
+=======
+              u'Pankreatit (mycket s\xe4llsynta fall av d\xf6dlig utg\xe5ng har rapporterats med ACE-h\xe4mmare), \xf6kade pankreas-enzymer, angio\xf6dem i tunntarmen, \xf6vre magsm\xe4rta inklusive gastrit, f\xf6rstoppning, muntorrhet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal',
               u'Nedsatt njurfunktion inklusive akut njursvikt, \xf6kad urinproduktion, f\xf6rv\xe4rring av tidigare proteinuri, \xf6kning av blodurea och blodkreatinin'],
              ['Skin',
@@ -41,6 +45,7 @@
              ['General', u'Asteni'],
              ['Hepato', u'Kolestatisk gulsot, hepatocellul\xe4r skada'],
              ['Psychiatric', u'F\xf6rvirring']]],
+<<<<<<< HEAD
            ['Very rare', [['Skin', u'Ljusk\xe4nslighets reaktion']]],
            ['Unknown',
             [['Blood', u'Benm\xe4rgs-dep ression, pancytopeni, hemolytisk anemi'],
@@ -49,6 +54,16 @@
              ['GI', u'Aft\xf6s stomatit'],
              ['Skin',
               u'Toxisk epidermal nekrolys, Stevens-Johns ons syndrom, erythema multiforme, pemfigus, f\xf6rv\xe4rrad psoriasis, psoriasiform dermatit, pemfigoida eller lichenoida exantem och enantem, alopeci'],
+=======
+           ['Very rare', [['Skin', u'Ljusk\xe4nslighetsr eaktion']]],
+           ['Unknown',
+            [['Blood', u'Benm\xe4rgs-depression, pancytopeni, hemolytisk anemi'],
+             ['Nervous system',
+              u'Cerebral ischemi inklusive ischemisk stroke och transitorisk ischemisk attack, f\xf6rs\xe4mring av psykomoto-risk f\xf6rm\xe5ga, br\xe4nnande k\xe4nsla, parosmi'],
+             ['GI', u'Aft\xf6s stomatit'],
+             ['Skin',
+              u'Toxisk epidermal nekrolys, Stevens-Johnsons syndrom, erythema multiforme, pemfigus, f\xf6rv\xe4rrad psoriasis, psoriasiform dermatit, pemfigoida eller lichenoida exantem och enantem, alopeci'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Minskat blodnatrium'],
              ['Vascular', u'Raynauds fenomen'],
              ['Immune system',
@@ -58,6 +73,10 @@
              ['Reproductive system', u'Gynekomasti'],
              ['Psychiatric', u'Uppm\xe4rksamh etsst\xf6rning']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [8, 10],
+=======
+ '_pages': [7, 10],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 44,
  u'_type': u'MSFU'}

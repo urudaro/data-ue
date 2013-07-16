@@ -10,6 +10,10 @@
               u'(vid h\xf6ga doser): Administrering av hydroxietylst\xe4rkelse kan medf\xf6ra st\xf6rningar av blodkoagulationen, beroende p\xe5 dosen.'],
              ['Immune system',
               u'L\xe4kemedel som inneh\xe5ller hydroxietylst\xe4rkelse kan orsaka anafylaktiska reaktioner (\xf6verk\xe4nslighetsreaktioner, milda influensaliknande symptom, bradykardi, takykardi, bronkospasm och icke-kardiellt lung\xf6dem). Om en \xf6verk\xe4nslighetsreaktion upptr\xe4der ska infusionen omedelbart avbrytas och l\xe4mplig intensivv\xe5rd initieras.']]]],
+<<<<<<< HEAD
  '_pages': [3, 4],
+=======
+ '_pages': [3, 3],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 5,
  u'_type': u'LSFU'}

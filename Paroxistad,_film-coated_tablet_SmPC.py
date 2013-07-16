@@ -1,5 +1,9 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Nervous system', u'F\xf6rs\xe4mrad koncentrationsf\xf6rm\xe5ga'],
+=======
+            [['Nervous system', u'; F\xf6rs\xe4mrad koncentrationsf\xf6rm\xe5ga'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende.'],
              ['Reproductive system', u'Sexuell funktionsst\xf6rning.']]],
            ['Common',
@@ -36,7 +40,11 @@
              ['Cardiac', u'Bradykardi.'],
              ['Hepato', u'F\xf6rh\xf6jning av leverenzymer.'],
              ['Hepato',
+<<<<<<< HEAD
               u'Avbrytande av paroxetin b\xf6r \xf6verv\xe4gas vid kvarst\xe5ende f\xf6rh\xf6jning av leverfunktionsv\xe4rden.'],
+=======
+              u'. Avbrytande av paroxetin b\xf6r \xf6verv\xe4gas vid kvarst\xe5ende f\xf6rh\xf6jning av leverfunktionsv\xe4rden.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Hyperprolaktinemi/galaktorr\xe9.'],
              ['Musculoskeletal',
               u'Ledsm\xe4rta, muskelsm\xe4rta Epidemiologiska studier som fr\xe4mst har utf\xf6rts p\xe5 patienter 50 \xe5r och \xe4ldre, visar en \xf6kad risk f\xf6r benfraktur hos patienter som behandlas med SSRI och TCA. Mekanismen \xe4r ok\xe4nd.']]],

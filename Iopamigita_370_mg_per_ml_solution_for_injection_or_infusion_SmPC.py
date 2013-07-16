@@ -18,7 +18,11 @@
              ['Renal',
               u'St\xf6rningar i njurfunktionen till akut njursvikt, s\xe4rskilt hos patienter vars njurfunktion redan \xe4r nedsatt'],
              ['General',
+<<<<<<< HEAD
               u'Allvarliga livshotande reaktioner (inklusive d\xf6dsfall) som kr\xe4ver akutbehandling som ber\xf6r vitala funktioner i det kardiovaskul\xe4ra systemet, vanligtvis i samband med andning och reaktioner i centrala']]],
+=======
+              u'Allvarliga livshotande reaktioner (inklusive d\xf6dsfall) som kr\xe4ver akutbehandling som ber\xf6r vitala funktioner i det kardiovaskul\xe4ra systemet, vanligtvis i samband med andning och reaktioner i centrala nervsystemet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Cardiac',
               u'Kliniskt relevant st\xf6rning av blodtryck, hj\xe4rtfrekvens, hj\xe4rtrytm eller hj\xe4rtfunktion och hj\xe4rtstillest\xe5nd'],
@@ -26,7 +30,11 @@
              ['Skin',
               u'Toxiska hudreaktioner som mukokutant syndrom (t ex Stevens-Johnson eller Lyell\u2019s syndrom). Inget samband har kunnat p\xe5visas.'],
              ['General',
+<<<<<<< HEAD
               u'Mycket s\xe4llsynta K\xe4nsla av v\xe4rme och kyla, f\xf6r\xe4ndringar i kroppstemperatur (feber), huvudv\xe4rk, k\xe4nner sig sjuk, k\xf6ldk\xe4nsla, vasovagala reaktioner Tromboflebiter och ventrombos'],
+=======
+              u'K\xe4nsla av v\xe4rme och kyla, f\xf6r\xe4ndringar i kroppstemperatur (feber), huvudv\xe4rk, k\xe4nner sig sjuk, k\xf6ldk\xe4nsla, vasovagala reaktioner Tromboflebiter och ventrombos'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Inflammation och v\xe4vnadsnekros']]],
            ['Unknown',
             [['Immune system',
@@ -35,7 +43,13 @@
               u'F\xf6rs\xe4mring av metaboliskt tillst\xe5nd, uppkomst av hypertyroidism genom tyreotoxisk kris'],
              ['Nervous system',
               u'Cerebral angiografi och \xf6vriga procedurer d\xe4r kontrastmedel ges i arteriellt blod i hj\xe4rna i h\xf6ga koncentrationer'],
+<<<<<<< HEAD
              ['General', u'Ingen k\xe4nd Extravasering, lokal sm\xe4rta och \xf6dem']]]],
  '_pages': [9, 11],
+=======
+             ['General',
+              u'Extravasering, lokal sm\xe4rta och \xf6dem Sv\xe5ra anafylaktiska/anafylaktoida reaktioner som chock visar sig som kraftigt blodtrycksfall, takykardi, dyspn\xe9, agitation, cyanos, blekhet, kallsvettning, medvetandegrumling och andnings och cirkulationsstillest\xe5nd. Blodtrycksfallet kan \xe4ven f\xf6rekomma med bradykardi (vasovagal reaktion), varifr\xe5n takykardi vanligen utvecklas efter en tid.']]]],
+ '_pages': [9, 10],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 21,
  u'_type': u'LSFU'}

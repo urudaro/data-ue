@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['Vascular', u'V\xe4rme-vall ningar*']]],
+=======
+{'_data': [['Very common', [['Vascular', u'V\xe4rme-vallningar*']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Psychiatric',
               u'Hum\xf6rsv\xe4ngningar,d epression, minskad libido, s\xf6mnl\xf6shet'],
@@ -31,7 +35,11 @@
              ['General',
               u'Perifert \xf6dem, sm\xe4rtor (f\xf6rv\xe4rrade), svullnad, sm\xe4rtor (ej specificerade), allm\xe4n sjukdomsk\xe4nsla, k\xf6ldk\xe4nsla, irritabilitet'],
              ['Investigations',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jda aspartat-aminotransfer as, f\xf6rh\xf6jt blodv\xe4rde av laktatdehydrogenas, f\xf6rh\xf6jt blodv\xe4rde av testosteron, s\xe4nkt kreatininclearance, f\xf6rh\xf6jt v\xe4rde av sura fosfataser i prostata, viktminskning'],
+=======
+              u'F\xf6rh\xf6jda aspartat-aminotransferas, f\xf6rh\xf6jt blodv\xe4rde av laktatdehydrogenas, f\xf6rh\xf6jt blodv\xe4rde av testosteron, s\xe4nkt kreatininclearance, f\xf6rh\xf6jt v\xe4rde av sura fosfataser i prostata, viktminskning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Injury', u'Stentocklusion, bl\xe5nad']]],
            ['Rare',
             [['Infections', u'Hudinfektion'],

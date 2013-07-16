@@ -4,14 +4,22 @@
            ['Common',
             [['Psychiatric',
               u'Neuropsykiatriska st\xf6rningar \xe4r vanliga hos patienter med Parkinsons sjukdom. APO-go Pen b\xf6r anv\xe4ndas med s\xe4rskild f\xf6rsiktighet hos dessa patienter. Neuropsykiatriska st\xf6rningar (inklusive \xf6verg\xe5ende, lindrig konfusion och synhallucinationer) har f\xf6rkommit under behandling med apomorfinhydroklorid.'],
+<<<<<<< HEAD
              [u'Nervous system',
+=======
+             ['Nervous system',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'I b\xf6rjan av behandlingen kan \xf6verg\xe5ende sedation f\xf6rekomma i anslutning till varje dos apomorfinhydroklorid. Detta f\xf6rsvinner vanligen under de f\xf6rsta behandlingsveckorna. Apomorfin associeras med somnolens. Yrsel/omt\xf6ckning har ocks\xe5 rapporterats.'],
              ['Respiratory',
               u'G\xe4spningar har rapporterats under apomorfinbehandling.'],
              ['GI',
               u'Illam\xe5ende och kr\xe4kningar, s\xe4rskilt i b\xf6rjan av behandlingen, vanligen p\xe5 grund av att domperidon inte anv\xe4nts (se avsnitt 4.2).']]],
            ['Uncommon',
+<<<<<<< HEAD
             [[u'GI',
+=======
+            [[u'Blood',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Hemolytisk anemi och trombocytopeni har rapporterats f\xf6r patienter som behandlats med apomorfin.'],
              ['Nervous system',
               u'Under \u201don\u201d-perioder kan apomorfin orsaka dyskinesi som i vissa fall kan vara sv\xe5r, och kan hos ett f\xe5tal patienter leda till att behandlingen m\xe5ste s\xe4ttas ut. Apomorfin har associerats med pl\xf6tsliga s\xf6mnattacker (se avsnitt 4.4).'],

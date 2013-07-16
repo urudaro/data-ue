@@ -1,11 +1,19 @@
 {'_data': [['Very rare',
             [['Hepato',
+<<<<<<< HEAD
               u'Leversinusoidalt obstruktionssyndrom, \xe4ven kallat veno-ocklusiv leversjukdom, eller patologiska manifestationer i samband med s\xe5dan leversjukdom, inklusive peliosis hepatis, nodul\xe4r regenerativ hyperplasi, perisinusoidal fibros. Kliniska manifestationer kan vara portal hypertoni och/eller f\xf6rh\xf6jda transaminaser.'],
+=======
+              u'): Leversinusoidalt obstruktionssyndrom, \xe4ven kallat veno-ocklusiv leversjukdom, eller patologiska manifestationer i samband med s\xe5dan leversjukdom, inklusive peliosis hepatis, nodul\xe4r regenerativ hyperplasi, perisinusoidal fibros. Kliniska manifestationer kan vara portal hypertoni och/eller f\xf6rh\xf6jda transaminaser.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal',
               u'Akut tubulointerstitiell nefropati som leder till akut njursvikt. Hematologisk toxicitet Incidens per patient (%) per grad Oxaliplatin och 5-FU/FA Behandling av Adjuvant behandling 85 mg/m varannan metastaserande cancer vecka Alla Gr 3 Gr 4 Alla Gr 3 Gr 4 grader grader Anemi 82,2 3 <1 75,6 0,7 0,1 Neutropeni 71,4 28 14 78,9 28,8 12,3 Trombocytopeni 71,6 4 <1 77,4 1,5 0,2 Febril neutropeni 5,0 3,6 1,4 0,7 0,7 0,0 Neutropen sepsis 1,1 0,7 0,4 1,1 0,6 0,4']]],
            ['Unknown',
             [['Eye',
+<<<<<<< HEAD
               u'- Synf\xe4lts-st\xf6rninga r Optisk neurit \xd6verg\xe5ende synf\xf6rlust, reversibel efter avslutad behandling \xd6ron och - Ototoxicitet - D\xf6vhet balansorgan Blodk\xe4rl - Epistaxis - Bl\xf6dning Flush Djup ven-trombos Lungemboli Hypertoni Andnings-v\xe4g - Dyspn\xe9 - Hicka - Interstitiell ar, br\xf6stkorg - Hosta lungsjukdom, och ibland d\xf6dlig mediastinum - Lungfibros** Magtarm-kan - Illam\xe5ende - Dyspepsi - Ileus - Kolit inkl. alen* - Diarr\xe9 - Gastroesofagal - Clostridium Kr\xe4kning reflux Tarm-obstruktion difficile-orsakad Stomatit/ - Rektal bl\xf6dning diarr\xe9 L\xe4kmedelsverket 2010-02-26'],
+=======
+              u'- Synf\xe4lts- st\xf6rningar Optisk neurit \xd6verg\xe5ende synf\xf6rlust, reversibel efter avslutad behandling \xd6ron och - Ototoxicitet - D\xf6vhet balansorgan Blodk\xe4rl - Epistaxis - Bl\xf6dning Flush Djup ven trombos Lungemboli Hypertoni Andnings- - Dyspn\xe9 - Hicka - Interstitiell v\xe4gar, - Hosta lungsjukdom, br\xf6stkorg och ibland d\xf6dlig mediastinum - Lungfibros** Magtarm- - Illam\xe5ende - Dyspepsi - Ileus - Kolit inkl. kanalen* - Diarr\xe9 - Gastroesofagal - Tarm- Clostridium Kr\xe4kning reflux obstruktion difficile-orsakad Stomatit/ - Rektal bl\xf6dning diarr\xe9 mukosit Buksm\xe4rtor F\xf6rstoppning L\xe4kmedelsverket 2010-02-26'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Incidens per patient (%) per grad Oxaliplatin och 5-FU/FA Behandling av Adjuvant behandling 85 mg/m varannan metastaserande cancer vecka Alla Gr 3 Gr 4 Alla Gr 3 Gr 4 grader grader Illam\xe5ende 69,9 8 <1 73,7 4,8 0,3 L\xe4kmedelsverket 2010-02-26'],
              ['Nervous system',

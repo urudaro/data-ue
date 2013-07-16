@@ -1,6 +1,10 @@
 {'_data': [['Very common',
             [['Investigations',
+<<<<<<< HEAD
               u'hyperkalemi* upptr\xe4dde mer frekvent hos diabetespatienter behandlade med irbesartan \xe4n med placebo. Hos hypertonipatienter med diabetes och med mikroalbuminuri och normal njurfunktion upptr\xe4dde hyperkalemi (\u22655,5 mekv/l) hos 29,4% av patienterna i irbesartan 300 mg-gruppen och hos 22% av patienterna i placebogruppen. Hos hypertonipatienter med diabetes och med kronisk njurinsufficiens och overt proteinuri upptr\xe4dde hyperkalemi (\u22655,5 mekv/l) hos 46,3% av patienterna i irbesartangruppen och hos 26,3% av patienterna i placebogruppen.']]],
+=======
+              u'hyperkalemi* upptr\xe4dde mer frekvent hos diabetespatienter behandlade med irbesartan \xe4n med placebo. Hos hypertonipatienter med diabetes och med mikroalbuminuri och normal njurfunktion upptr\xe4dde hyperkalemi (\u22655,5 mekv/l) hos 29,4% av patienterna i irbesartan 300 mg gruppen och hos 22% av patienterna i placebogruppen. Hos hypertonipatienter med diabetes och med kronisk njurinsufficiens och overt proteinuri upptr\xe4dde hyperkalemi (\u22655,5 mekv/l) hos 46,3% av patienterna i irbesartangruppen och hos 26,3% av patienterna i placebogruppen.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Investigations',
               u'signifikanta \xf6kningar av kreatinkinas i plasma s\xe5gs ofta (1,7%) hos irbesartanbehandlade personer. Ingen av dessa \xf6kningar hade samband med identifierbara, kliniska, muskuloskeletala h\xe4ndelser. Hos 1,7% av hypertonipatienter med framskriden diabetesrelaterad njursjukdom behandlad med irbesartan har en s\xe4nkning i hemoglobin*, som inte var kliniskt signifikant, observerats.'],

@@ -1,5 +1,10 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'huvudv\xe4rk, d\xe5sighet, yrsel.'], ['GI', u'illam\xe5ende']]],
+=======
+            [['Nervous system', u'(>1/100, <1/10): huvudv\xe4rk, d\xe5sighet, yrsel.'],
+             ['GI', u'illam\xe5ende']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['General',
               u'tr\xf6tthet Hos vuxna har f\xf6ljande biverkningar rapporterats efter marknadsf\xf6ring. Frekvensen med vilken dessa biverkningar uppkommer \xe4r ok\xe4nd (kan ej ber\xe4knas fr\xe5n tillg\xe4ngliga data)']]],

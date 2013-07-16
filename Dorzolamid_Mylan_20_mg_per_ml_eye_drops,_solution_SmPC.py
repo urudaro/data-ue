@@ -2,7 +2,11 @@
            ['Common',
             [['Nervous system', u'huvudv\xe4rk'],
              ['Eye',
+<<<<<<< HEAD
               u'ytlig punktatkeratit, \xf6kat t\xe5rfl\xf6de, konjunktivit, \xf6gonlocksinflamma tion, \xf6gonkl\xe5da, \xf6gonlocksirritation, dimsyn'],
+=======
+              u'ytlig punktatkeratit, \xf6kat t\xe5rfl\xf6de, konjunktivit, \xf6gonlocks-inflammation, \xf6gonkl\xe5da, \xf6gonlocksirritation, dimsyn'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'illam\xe5ende, bitter smak i munnen'],
              ['General', u'asteni/tr\xf6tthet']]],
            ['Uncommon', [['Eye', u'iridocyklit']]],

@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['General',
               u'000) vid behandling med gabapentin. Fall av hemorragisk pankreatit (se avsnitt 4.4), hypotoni, bradykardi, synkope, f\xf6rmaksflimmer, onormalt EKG och makulopapul\xf6sa utslag har rapporterats hos patienter som erh\xe5llit gabapentin. Laboratoriev\xe4rden \u2013 Kliniska manifestationer F\xf6rh\xf6jd aktivitet av leverenzymer har rapporterats i kombination med andra antiepileptika. En m\xf6jligen dosberoende \xf6kning av anfallsfrekvensen har observerats hos ett f\xe5tal patienter. Dosrelaterade upprepade anfall av okarakt\xe4ristisk typ har \xe4ven rapporterats.']]],
            ['Common',
+=======
+{'_data': [['Common',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
             [['Blood', u'leukopeni'],
              ['Psychiatric',
               u'nervositet, depressiv sinnesst\xe4mning, desorientering, f\xf6rvirring och k\xe4nslom\xe4ssig labilitet, oro. Dessutom har aggressivt beteende och hyperkinesi rapporterats i kliniska studier p\xe5 barn under 12 \xe5r.'],
@@ -36,10 +40,18 @@
              ['Skin', u'urtikaria, alopeci, angio\xf6dem'],
              ['Renal', u'akut njursvikt'],
              ['General',
+<<<<<<< HEAD
               u'uts\xe4ttningsreaktion (sm\xe4rta, svettningar, br\xf6stsm\xe4rta) Allergiska reaktioner (Stevens-Johnsons syndrom och erythema multiforme) \xe4r mycket s\xe4llsynta (<']]],
+=======
+              u'uts\xe4ttningsreaktion (sm\xe4rta, svettningar, br\xf6stsm\xe4rta) Allergiska reaktioner (Stevens-Johnsons syndrom och erythema multiforme) \xe4r mycket s\xe4llsynta (< 1/10 000) vid behandling med gabapentin. Fall av hemorragisk pankreatit (se avsnitt 4.4), hypotoni, bradykardi, synkope, f\xf6rmaksflimmer, onormalt EKG och makulopapul\xf6sa utslag har rapporterats hos patienter som erh\xe5llit gabapentin. Laboratoriev\xe4rden \u2013 Kliniska manifestationer F\xf6rh\xf6jd aktivitet av leverenzymer har rapporterats i kombination med andra antiepileptika. En m\xf6jligen dosberoende \xf6kning av anfallsfrekvensen har observerats hos ett f\xe5tal patienter. Dosrelaterade upprepade anfall av okarakt\xe4ristisk typ har \xe4ven rapporterats.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Skin',
               u'l\xe4kemedelsrelaterade utslag med eosinofili och systemiska symtom (se avsnitt 4.4)']]]],
  '_pages': [5, 7],
+<<<<<<< HEAD
  u'_rank': 28,
+=======
+ u'_rank': 27,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

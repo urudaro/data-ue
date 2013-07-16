@@ -31,6 +31,10 @@
               u'Alopeci, purpura, hudmissf\xe4rgningar,  hyperhidros, kl\xe5da, hudutslag, exantem.'],
              ['Musculoskeletal', u'Artralgi, myalgi, muskelkramper,  ryggsm\xe4rtor'],
              ['Renal', u'Miktionsst\xf6rningar, nokturi, \xf6kad  urineringsfrekvens'],
+<<<<<<< HEAD
+=======
+             ['Reproductive system', u'Impotens, gynekomasti'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Br\xf6stsm\xe4rtor, asteni, v\xe4rk,  sjukdomsk\xe4nsla'],
              ['Investigations', u'Vikt\xf6kning, viktminskning']]],
            ['Rare',
@@ -45,7 +49,13 @@
              ['GI', u''],
              ['Hepato', u''],
              ['Skin',
+<<<<<<< HEAD
               u'urtikaria, exfoliativ dermatit,  Stevens-Johnsons syndrom, Quinckes \xf6dem, fotosensibilitet']]]],
  '_pages': [4, 5],
  u'_rank': 32,
+=======
+              u'urtikaria, exfoliativ dermatit, Stevens-  Johnsons syndrom, Quinckes \xf6dem, fotosensibilitet']]]],
+ '_pages': [4, 5],
+ u'_rank': 33,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

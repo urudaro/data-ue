@@ -20,7 +20,12 @@
              ['Metabolism', u'Hyperglykemi'],
              ['Infections',
               u'Pneumoni, influensa, nedre luftv\xe4gsinfektion, bronkit, urinv\xe4gsinfektion, \xf6roninfektion, sinuit, virusinfektion'],
+<<<<<<< HEAD
              ['Injury', u'Fall']]],
+=======
+             ['Injury',
+              u'Fall a Hyperprolaktinemi kan i vissa fall leda till gynekomasti, st\xf6rningar i menstruationen, amenorr\xe9, galaktorr\xe9. Extrapyramidal st\xf6rning kan f\xf6rekomma: Parkinsonism (hypersalivation, muskuloskeletal stelhet, parkinsonism, dregling, kugghjulsrigiditet, bradykinesi, hypokinesi, maskansikte, muskelstelhet, akinesi, nackstelhet, muskelrigiditet, parkinsonistisk g\xe5ng och onormal glabellarreflex), akatisi (akatisi, rastl\xf6shet, hyperkinesi och restless legs syndrom), tremor, dyskinesi (dyskinesi, muskelryckningar, koreoatetos, atetos och myoklonus), dystoni. Dystoni innefattar: dystoni, muskelspasmer, hypertoni, tortikollis, ofrivilliga muskelkontraktioner, muskelkontraktur, blefarospasm, okulogyration, tungf\xf6rlamning, spasm i ansiktet, laryngospasm, myotoni, opistotonus, orofaryngeal spasm, pleurototonus, tungspasm och trismus. Tremor innefattar: tremor och parkinsonistisk vilotremor. Det b\xf6r noteras att ett bredare spektrum av symptom \xe4r inkluderade, vilka inte n\xf6dv\xe4ndigtvis har extrapyramidalt ursprung. I placebokontrollerade studier rapporterades diabetes mellitus hos 0,18 % av risperidonbehandlade patienter j\xe4mf\xf6rt med en frekvens p\xe5 0,11 % av placebogruppen. Den totala incidensen fr\xe5n alla kliniska studier var 0,43 % f\xf6r alla risperidonbehandlade patienter. Nedanst\xe5ende f\xf6rteckning g\xe4ller ytterligare biverkningar f\xf6rknippade med risperidon, vilka har framkommit i kliniska pr\xf6vningar avseende den perorala beredningsformen av risperidon (Risperdal), men som inte fastst\xe4llts som biverkningar i de kliniska pr\xf6vningarna avseende Risperdal Consta. Ytterligare biverkningar som rapporterats f\xf6r oralt Risperdal men inte f\xf6r Risperdal Consta, efter klassificering av organsystem']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Investigations', u'QT-f\xf6rl\xe4ngning p\xe5 EKG'],
              ['Cardiac',
@@ -36,19 +41,30 @@
              ['Metabolism',
               u'Mindre vanliga Diabetes mellitus , aptit\xf6kning, aptitminskning, \xf6kat kolesterol, \xf6kade triglycerider'],
              ['Infections',
+<<<<<<< HEAD
               u'Cystit, gastroenterit, infektion, lokaliserad infektion, subkutan abscess'],
              ['Injury',
               u'8 Mindre vanliga Sm\xe4rta i samband med injektionen a Hyperprolaktinemi kan i vissa fall leda till gynekomasti, st\xf6rningar i menstruationen, amenorr\xe9, galaktorr\xe9. Extrapyramidal st\xf6rning kan f\xf6rekomma: Parkinsonism (hypersalivation, muskuloskeletal stelhet, parkinsonism, dregling, kugghjulsrigiditet, bradykinesi, hypokinesi, maskansikte, muskelstelhet, akinesi, nackstelhet, muskelrigiditet, parkinsonistisk g\xe5ng och onormal glabellarreflex), akatisi (akatisi, rastl\xf6shet, hyperkinesi och restless legs syndrom), tremor, dyskinesi (dyskinesi, muskelryckningar, koreoatetos, atetos och myoklonus), dystoni. Dystoni innefattar: dystoni, muskelspasmer, hypertoni, tortikollis, ofrivilliga muskelkontraktioner, muskelkontraktur, blefarospasm, okulogyration, tungf\xf6rlamning, spasm i ansiktet, laryngospasm, myotoni, opistotonus, orofaryngeal spasm, pleurototonus, tungspasm och trismus. Tremor innefattar: tremor och parkinsonistisk vilotremor. Det b\xf6r noteras att ett bredare spektrum av symptom \xe4r inkluderade, vilka inte n\xf6dv\xe4ndigtvis har extrapyramidalt ursprung. I placebokontrollerade studier rapporterades diabetes mellitus hos 0,18 % av risperidonbehandlade patienter j\xe4mf\xf6rt med en frekvens p\xe5 0,11 % av placebogruppen. Den totala incidensen fr\xe5n alla kliniska studier var 0,43 % f\xf6r alla risperidonbehandlade patienter. Nedanst\xe5ende f\xf6rteckning g\xe4ller ytterligare biverkningar f\xf6rknippade med risperidon, vilka har framkommit i kliniska pr\xf6vningar avseende den perorala beredningsformen av risperidon (Risperdal), men som inte fastst\xe4llts som biverkningar i de kliniska pr\xf6vningarna avseende Risperdal Consta.']]],
+=======
+              u'Cystit, gastroenterit, infektion, lokaliserad infektion, subkutan abscess']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Respiratory', u'S\xf6mnapn\xe9syndrom'],
              ['GI', u'Tarmobstruktion, pankreatit'],
              ['Endocrine', u'Inadekvat sekretion av antidiuretiskt hormon'],
              ['Metabolism', u'Hypoglykemi']]],
+<<<<<<< HEAD
            ['Very rare', [['Metabolism', u'Diabetisk ketoacidos']]],
            ['Unknown',
             [['Blood', u'Agranulocytos'],
              ['Eye', u'Retinalart\xe4rocklusion'],
              ['Metabolism', u'Vattenintoxikation'],
+=======
+           ['Very rare', [['Metabolism', u'Diabetisk ketoacidos Vattenintoxikation']]],
+           ['Unknown',
+            [['Blood', u'Agranulocytos'],
+             ['Eye', u'Retinalart\xe4rocklusion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations',
               u'H\xf6jd kroppstemperatur, f\xf6rh\xf6jt eosinofilantal, minskat antal vita blodkroppar, minskat hemoglobin, f\xf6rh\xf6jt kreatinfosfokinas (CK) i blod, s\xe4nkt kroppstemperatur'],
              ['Infections',
@@ -75,7 +91,13 @@
              ['Reproductive system',
               u'Ejakulationsst\xf6rning, vaginal flytning, menstruationsrubbning'],
              ['General',
+<<<<<<< HEAD
               u'Generaliserat \xf6dem, ansikts\xf6dem, g\xe5ngrubbning, t\xf6rst, frossa, perifer kyla, l\xe4kemedelsabstinenssyndrom Klasseffekter Liksom f\xf6r andra antipsykotiska l\xe4kemedel har mycket s\xe4llsynta fall av QT-f\xf6rl\xe4ngning rapporterats f\xf6r risperidon efter lansering. Till andra hj\xe4rteffekter relaterade till den aktuella l\xe4kemedelsklassen, som rapporterats f\xf6r antipsykotiska l\xe4kemedel som f\xf6rl\xe4nger QT-intervallet, h\xf6r ventrikelarytmi, ventrikelflimmer, ventrikeltakykardi, pl\xf6tslig d\xf6d, hj\xe4rtstopp och torsade de pointes. Ven\xf6s trombo-embolisk sjukdom 10 Fall av ven\xf6s trombo-embolisk sjukdom, inkluderat fall av lungemboli och fall av djup ventrombos, har rapporterats med antipsykotiska l\xe4kemedel (ok\xe4nd frekvens). Viktuppg\xe5ng I den 12 veckor l\xe5nga dubbelblinda, placebokontrollerade studien var det 9 % av patienterna som behandlats med Risperdal Consta, j\xe4mf\xf6rt med 6 % av patienterna som behandlats med placebo, som hade en viktuppg\xe5ng p\xe5 \uf0b3 7 % av kroppsvikten vid studiens avslutning. I den 1-\xe5riga \xf6ppna studien av Risperdal Consta l\xe5g f\xf6r\xe4ndringen i kroppsvikt hos enskilda patienter i allm\xe4nhet inom \xb17 % r\xe4knat fr\xe5n baslinjev\xe4rdet; 25 % av patienterna hade \xf6kat sin kroppsvikt med \uf0b3 7 %.']]]],
  '_pages': [7, 11],
  u'_rank': 52,
+=======
+              u'Generaliserat \xf6dem, ansikts\xf6dem, g\xe5ngrubbning, t\xf6rst, frossa, perifer kyla, l\xe4kemedelsabstinenssyndrom Klasseffekter Liksom f\xf6r andra antipsykotiska l\xe4kemedel har mycket s\xe4llsynta fall av QT-f\xf6rl\xe4ngning rapporterats f\xf6r risperidon efter lansering. Till andra hj\xe4rteffekter relaterade till den aktuella l\xe4kemedelsklassen, som rapporterats f\xf6r antipsykotiska l\xe4kemedel som f\xf6rl\xe4nger QT-intervallet, h\xf6r ventrikelarytmi, ventrikelflimmer, ventrikeltakykardi, pl\xf6tslig d\xf6d, hj\xe4rtstopp och torsade de pointes. Ven\xf6s trombo-embolisk sjukdom Fall av ven\xf6s trombo-embolisk sjukdom, inkluderat fall av lungemboli och fall av djup ventrombos, har rapporterats med antipsykotiska l\xe4kemedel (ok\xe4nd frekvens). Viktuppg\xe5ng I den 12 veckor l\xe5nga dubbelblinda, placebokontrollerade studien var det 9 % av patienterna som behandlats med Risperdal Consta, j\xe4mf\xf6rt med 6 % av patienterna som behandlats med placebo, som hade en viktuppg\xe5ng p\xe5 \uf0b3 7 % av kroppsvikten vid studiens avslutning. I den 1-\xe5riga \xf6ppna studien av Risperdal Consta l\xe5g f\xf6r\xe4ndringen i kroppsvikt hos enskilda patienter i allm\xe4nhet inom \xb17 % r\xe4knat fr\xe5n baslinjev\xe4rdet; 25 % av patienterna hade \xf6kat sin kroppsvikt med \uf0b3 7 %.']]]],
+ '_pages': [7, 11],
+ u'_rank': 50,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

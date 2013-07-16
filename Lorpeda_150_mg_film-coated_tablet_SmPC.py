@@ -5,8 +5,14 @@
              ['Skin', u'Hand-fot-syndromet (palmar-plantar erytrodysestesi)'],
              ['General', u'Tr\xf6tthet, Asteni']]],
            ['Common',
+<<<<<<< HEAD
             [['Infections', u'Herpesvirusinfektion, Nedre luftv\xe4gsinfektion'],
              ['Metabolism', u'Alla grader'],
+=======
+            [['Infections', u'Herpesvirusinfektion, Nasofaryngit, Nedre luftv\xe4gsinfektion'],
+             ['Blood', u'Neutropeni, Anemi'],
+             ['Metabolism', u'Dehydrering, Minskad aptit, Viktnedg\xe5ng Alla grader'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'S\xf6mnl\xf6shet, Depression'],
              ['Nervous system',
               u'Huvudv\xe4rk, Letargi, Yrsel, Paraestesi, Dysgeusi (smakrubbning)'],
@@ -57,5 +63,9 @@
              ['Injury', u'Bl\xe5sor,']]]],
  '_note': u' ?MSFU',
  '_pages': [9, 12],
+<<<<<<< HEAD
  u'_rank': 36,
+=======
+ u'_rank': 37,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

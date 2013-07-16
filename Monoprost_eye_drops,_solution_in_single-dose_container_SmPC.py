@@ -1,8 +1,12 @@
 {'_data': [['Very common',
             [['Eye',
+<<<<<<< HEAD
               u'\xd6kad irispigmentering, mild till m\xe5ttlig konjunktival hyperemi, \xf6gonirritation (br\xe4nnande grynighet, kl\xe5da, sveda och k\xe4nsla av fr\xe4mmande kropp), \xf6gonfrans- och vellush\xe5rf\xf6r\xe4ndringar (\xf6kad l\xe4ngd, tjocklek, pigmentering och antal) (majoriteten av rapporter har setts i japansk befolkning).'],
              ['Cardiac',
               u'F\xf6rs\xe4mring av angina pectoris hos patienter med preexisterande sjukdom.']]],
+=======
+              u'\xd6kad irispigmentering, mild till m\xe5ttlig konjunktival hyperemi, \xf6gonirritation (br\xe4nnande grynighet, kl\xe5da, sveda och k\xe4nsla av fr\xe4mmande kropp), \xf6gonfrans- och vellush\xe5rf\xf6r\xe4ndringar (\xf6kad l\xe4ngd, tjocklek, pigmentering och antal) (majoriteten av rapporter har setts i japansk befolkning).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Eye',
               u'\xd6verg\xe5ende punktuella epiteliala erosioner, oftast utan symtom, blefarit, \xf6gonsm\xe4rta.']]],
@@ -16,7 +20,14 @@
              ['Respiratory', u'Astma, f\xf6rv\xe4rrad astma och dyspn\xe9.'],
              ['Skin',
               u'Lokal hudreaktion p\xe5 \xf6gonlocken, m\xf6rk f\xe4rgning av huden p\xe5 \xf6gonlocken.']]],
+<<<<<<< HEAD
            ['Very rare', [['Musculoskeletal', u'Br\xf6stsm\xe4rta.']]],
+=======
+           ['Very rare',
+            [['Cardiac',
+              u'F\xf6rs\xe4mring av angina pectoris hos patienter med preexisterande sjukdom.'],
+             ['Musculoskeletal', u'Br\xf6stsm\xe4rta.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Infections', u'Herpetisk keratit.'],
              ['Eye', u'Iris cysta.'],

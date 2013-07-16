@@ -1,25 +1,45 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Psychiatric',
               u'Insomni (19 %) Depression* Yrsel (11 %), Somnolens (13 %), Huvudv\xe4rk (21 %)*'],
+=======
+            [['Psychiatric', u'Insomni (19 %)'],
+             ['Nervous system', u'Yrsel (11 %), Somnolens (13 %), Huvudv\xe4rk (21 %)*'],
+             ['Respiratory', u'G\xe4spningar*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Diarr\xe9 (18 %), Illam\xe5ende (24 %), Muntorrhet (14 %)'],
              ['Musculoskeletal', u'Myalgi'],
              ['Reproductive system', u'Ejakulationssvik t (14 %) Tr\xf6tthet %)* Sm\xe4rta'],
              ['Other',
+<<<<<<< HEAD
               u'placeboarmen. placebo (926 m\xe4n, Vid OCD, korttidsstudier, \xc4ldre Barn mycket vanliga vanliga : mindre vanliga : ingen k\xe4nd frekvens: Klasseffekt']]],
+=======
+              u'placeboarmen. placebo (926 m\xe4n, Vid OCD, korttidsstudier, \xc4ldre Barn mycket vanliga vanliga mindre vanliga Klasseffekt']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Infections', u'Faryngit'],
              ['Metabolism', u'Anorexi \xd6kad aptit*'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Depersonalisation Mardr\xf6mmar \xc5ngest* Agitation* Oro Minskad libido* Bruxism Parestesier* Tremor Hypertoni Dysgeusi Uppm\xe4rksamhets-st\xf6rning'],
+=======
+              u'Depression* -Depersonalisation Mardr\xf6mmar \xc5ngest* Agitation* Oro Minskad libido* Bruxism'],
+             ['Nervous system',
+              u'Parestesier* Tremor Hypertoni Dysgeusi Uppm\xe4rksamhets-st\xf6rning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Synst\xf6rning'],
              ['Ear', u'Tinnitus'],
              ['Cardiac', u'Palpitationer*'],
              ['Vascular', u'V\xe4rmevallningar* Hypertoni*'],
+<<<<<<< HEAD
              ['Respiratory', u'G\xe4spningar*'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Buksm\xe4rta* Kr\xe4kningar* F\xf6rstoppning* Dyspepsi V\xe4dersp\xe4nning'],
              ['Skin', u'Utslag* Hyperhidros'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Sexuella st\xf6rningar hos m\xe4n Erektil dysfunktion i -br\xf6stkorgen*'],
              ['Other',
               u'1 219 kvinnor) -endast 1-12 veckor. -: huvudv\xe4rk (22 %), insomni (21 %), diarr\xe9 (11 %) och illam\xe5ende (15 %). sm\xe4rta i br\xf6stkorgen, mani, feber, kr\xe4kningar, anorexi, labilitet, aggression, enures']]],
@@ -27,6 +47,16 @@
             [['Infections', u'\xd6vre luftv\xe4gsinfektion Rinit'],
              ['Psychiatric',
               u'Hallucinationer* Eufori* Apati Onormala tankar Konvulsioner* Ofrivilliga muskelkontrak-tio ner* Onormal koordination Hyperkinesi Amnesi Hypoestesi* Talst\xf6rning Postural yrsel Migr\xe4n*'],
+=======
+              u'Sexuella -st\xf6rningar hos m\xe4n Erektil dysfunktion i -br\xf6stkorgen*'],
+             ['Other',
+              u'1 219 kvinnor) -endast 1-12 veckor. -: huvudv\xe4rk (22 %), insomni (21 %), diarr\xe9 (11 %) och illam\xe5ende (15 %). : sm\xe4rta i br\xf6stkorgen, mani, feber, kr\xe4kningar, anorexi, labilitet, aggression, : F\xf6rl\xe4ngd EKG QT, suicidf\xf6rs\xf6k, konvulsioner, extrapyramidala']]],
+           ['Uncommon',
+            [['Infections', u'\xd6vre luftv\xe4gsinfektion Rinit'],
+             ['Psychiatric', u'Hallucinationer* Eufori* Apati Onormala tankar'],
+             ['Nervous system',
+              u'Konvulsioner* Ofrivilliga muskelkontrak-tioner* Onormal koordination Hyperkinesi Amnesi Hypoestesi* Talst\xf6rning Postural yrsel Migr\xe4n*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'\xd6ronv\xe4rk'],
              ['Cardiac', u'Takykardi*'],
              ['Vascular', u'Vallningar'],
@@ -35,6 +65,7 @@
               u'Esofagit Dysfagi Hemorrojder Onormalt h\xf6g salivavs\xf6ndring St\xf6rningar i tungan Rapningar'],
              ['Skin',
               u'Periorbitalt \xf6dem* Purpura* Alopeci* Kallsvettning Hudtorrhet Urtikaria*'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Osteoartrit Muskelsvaghet Ryggsm\xe4rta Muskel-ryckninga'],
              ['Renal', u'Nykturi Urinretention* Polyuri Pollakisuri Miktionsst\xf6rning'],
              ['Reproductive system',
@@ -42,13 +73,26 @@
              ['Investigations', u'Viktnedg\xe5ng* Viktuppg\xe5ng*'],
              ['Other',
               u'F\xf6rl\xe4ngd EKG QT, suicidf\xf6rs\xf6k, konvulsioner, extrapyramidala']]],
+=======
+             ['Musculoskeletal', u'Osteoartrit Muskelsvaghet Ryggsm\xe4rta Muskel-ryckningar'],
+             ['Renal', u'Nykturi Urinretention* Polyuri Pollakisuri Miktionsst\xf6rning'],
+             ['Reproductive system',
+              u'Vaginal bl\xf6dning Kvinnlig sexuell dysfunktion Sjukdomsk\xe4nsla* Frossa Pyrexi* Asteni* T\xf6rst'],
+             ['Investigations', u'Viktnedg\xe5ng* Viktuppg\xe5ng*']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Infections', u'Divertikulit Gastroenterit Otitis media'],
              ['Neoplasms', u'Neoplasm\u2020'],
              ['Blood', u'Lymfadenopati'],
              ['Metabolism', u'Hyper-kolesterolemi Hypoglykemi'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Konversions-st\xf6rning L\xe4kemedelsberoen de Psykisk st\xf6rning* Aggression* F\xf6rf\xf6ljelsemani Suicidalt beteende, suicidtankar*** S\xf6mng\xe5ng F\xf6r tidig utl\xf6sning Koma*, Koreoatetos Dyskinesi Hyperestesi Sensoriska t\xf6rningar'],
+=======
+              u'Konversions-st\xf6rning L\xe4kemedelsberoen de Psykisk st\xf6rning* Aggression* F\xf6rf\xf6ljelsemani Suicidtankar S\xf6mng\xe5ng F\xf6r tidig utl\xf6sning'],
+             ['Nervous system',
+              u'Koma*, Koreoatetos Dyskinesi Hyperestesi Sensoriska t\xf6rningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye',
               u'Glaukom St\xf6rning i t\xe5rfl\xf6det Skotom, Diplopi Fotofobi Hyphemi Mydriasis*'],
              ['Cardiac', u'Hj\xe4rtinfarkt Bradykardi St\xf6rningar i hj\xe4rtfunktionen'],
@@ -70,6 +114,7 @@
             [['Blood', u'Leukopeni Trombocytopeni'],
              ['Immune system', u'Anafylaktoid reaktion Allergisk reaktion Allergi'],
              ['Endocrine', u'Hyperprolaktine mi Hypotyreos Inadekvat ins\xf6ndring av ADH'],
+<<<<<<< HEAD
              ['Metabolism', u'Hyponatremi Diabetes mellitus Hyperglykemi'],
              ['Psychiatric',
               u'Paroniri R\xf6relsest\xf6rningar (inklusive extrapyramidala symtom s\xe5som hyperkinesi, hypertoni, dystoni, tandagnisslan eller onormal g\xe5ng), Synkope Tecken och symtom p\xe5 serotonergt syndrom eller malignt neuroleptikasyndro m har ocks\xe5 rapporterats, i vissa fall associerat med samtidig anv\xe4ndning av serotonerga l\xe4kemedel, s\xe5som agitation, f\xf6rvirring, diafores, diarr\xe9, feber, hypertoni, rigiditet och takykardi. Akatisi och psykomotorisk rastl\xf6shet (se avsnitt 4.4) Cerebrovaskul\xe4r spasm (inklusive reversibelt cerebralt vasokonstriktionss Flemings syndrom)'],
@@ -80,14 +125,33 @@
              ['GI', u'Pankreatit'],
              ['Hepato',
               u'Allvarliga lever-biverkninga r (inklusive hepatit, gulsot och leversvikt)'],
+=======
+             ['Metabolism', u'Hyponatremi'],
+             ['Psychiatric', u'Paroniri Suicidalt beteende, suicidtankar***'],
+             ['Nervous system',
+              u'R\xf6relsest\xf6rningar (inklusive extrapyramidala symtom s\xe5som hyperkinesi, hypertoni, tandagnisslan eller onormal g\xe5ng), Synkope Tecken och symtom p\xe5 serotonergt syndrom har ocks\xe5 rapporterats, i vissa fall associerat med samtidig anv\xe4ndning av serotonerga l\xe4kemedel, s\xe5som agitation, f\xf6rvirring, diafores, diarr\xe9, feber, hypertoni, rigiditet och takykardi. Akatisi och psykomotorisk rastl\xf6shet (se avsnitt 4.4)'],
+             ['Eye', u'Onormal syn'],
+             ['Vascular', u'Onormala bl\xf6dningar (s\xe5som n\xe4sblod,'],
+             ['GI', u'bl\xf6dning eller hematuri)'],
+             ['GI', u'Pankreatit'],
+             ['Hepato',
+              u'Allvarliga lever-biverkningar (inklusive hepatit, gulsot och leversvikt)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'S\xe4llsynta rapporter om sv\xe5ra hudreaktioner (SCAR), t.ex. Stevens-Johnsons syndrom och epidermal nekrolys Angio\xf6dem Ansikts\xf6dem Fotosensitivitet Hudreaktion Pruritus'],
              ['Musculoskeletal', u'Artralgi Muskelkramper'],
              ['Reproductive system',
               u'Gynekomasti Oregelbundna menstruationer Perifert \xf6dem'],
              ['Investigations',
+<<<<<<< HEAD
               u'Onormala kliniska laboratorie-result at F\xf6r\xe4ndrad trombocyt-funkti on \xd6kat serumkolesterol']]]],
  '_note': u' ANOMALI in Headers ?MSFU ANOMALI in Headers ANOMALI in Headers ANOMALI in Headers',
  '_pages': [8, 13],
  u'_rank': 62,
+=======
+              u'Onormala kliniska laboratorie-resultat F\xf6r\xe4ndrad trombocyt-funktion \xd6kat serumkolesterol']]]],
+ '_note': u' ?MSFU',
+ '_pages': [7, 12],
+ u'_rank': 65,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

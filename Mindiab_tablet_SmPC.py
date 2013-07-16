@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Metabolism', u'Hypoglykemi'],
              ['GI', u'Vanliga Illam\xe5ende , diarr\xe9 , magsm\xe4rta. Kr\xe4kningar'],
              ['Hepato', u'Leverenzymstegring']]],
@@ -19,4 +20,14 @@
               u'Utslag, urticaria, kl\xe5da, fotosensitivitesreaktion 1 Dessa \xe4r vanligen \xf6verg\xe5ende och kr\xe4ver inte att behandlingen avbryts. De kan dock \xe4ven vara symptom p\xe5 hypoglykemi. 2 Tycks vara dosrelaterade och f\xf6rsvinner vanligen n\xe4r dosen delas upp eller reduceras. 3 Avbryt behandlingen om kolestatisk ikterus uppst\xe5r.']]]],
  '_pages': [3, 3],
  u'_rank': 14,
+=======
+            [['GI',
+              u'Illam\xe5ende, kr\xe4kningar och diarr\xe9. F\xf6rstoppning och magsm\xe4rta.'],
+             ['Hepato', u'Enzymstegring']]],
+           ['Uncommon',
+            [['Metabolism', u'Hypoglykemi'], ['Skin', u'\xd6verg\xe5ende hudreaktioner.']]],
+           ['Rare', [['Blood', u'Trombocytopeni, leukopeni, agranulocytos, hemolytisk anemi.']]]],
+ '_pages': [3, 3],
+ u'_rank': 5,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

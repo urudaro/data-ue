@@ -13,7 +13,11 @@
              ['Musculoskeletal', u'Ryggsm\xe4rta'],
              ['General', u'Tr\xf6tthet']]],
            ['Rare',
+<<<<<<< HEAD
             [['Immune system', u'\xd6verk\xe4nslighetsreaktioner'],
+=======
+            [['Immune system', u'\xd6verk\xe4nslighetsreaktione'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Okul\xe4ra inflammationer*'],
              ['GI', u'Duodenit'],
              ['Skin', u'Angio\xf6dem, ansikts\xf6dem, urtikaria'],

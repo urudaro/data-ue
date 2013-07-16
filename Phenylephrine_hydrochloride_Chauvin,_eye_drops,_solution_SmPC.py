@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['Eye', u'Sveda vid instillation, dimsyn, ljus\xf6verk\xe4nslighet.']]],
+=======
+{'_data': [['Common',
+            [['Eye',
+              u'(>1/100, <1/10) Sveda vid instillation, dimsyn, ljus\xf6verk\xe4nslighet.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Cardiac', u'Mindre vanliga (>1/1 000, <1/100) Takykardi.'],
              ['Vascular', u'Mindre vanliga (>1/1 000, <1/100) Hypertension.']]],

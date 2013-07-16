@@ -1,7 +1,11 @@
 {'_data': [['Very common',
             [['Blood', u'Minskat hemoglobin'],
              ['Metabolism',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jd triglyceridhalt , f\xf6rh\xf6jt kolesterolv\xe4rde (\xf6verv\xe4gande LDL-kolesterol) , s\xe4nkt HDL-kolesterol , vikt\xf6kning'],
+=======
+              u'F\xf6rh\xf6jd triglyceridhalt , f\xf6rh\xf6jt kolesterolv\xe4rde (\xf6verv\xe4gande LDL- kolesterol) , s\xe4nkt HDL-kolesterol , vikt\xf6kning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Yrsel , somnolens , huvudv\xe4rk'],
              ['GI', u'Muntorrhet'],
              ['General', u'Uts\xe4ttningssymtom'],
@@ -50,6 +54,7 @@
            ['Very rare',
             [['Immune system', u'Anafylaktisk reaktion'],
              ['Endocrine', u'Inadekvat ADH-sekretion'],
+<<<<<<< HEAD
              ['Skin', u'Angio\xf6dem , Stevens-Johnsons syndrom'],
              ['Musculoskeletal', u'Rabdomyolys']]],
            ['Unknown',
@@ -58,4 +63,14 @@
              ['Pregnancy', u'Neonatalt uts\xe4ttningssyndrom (se avsnitt 4.6)']]]],
  '_pages': [9, 13],
  u'_rank': 44,
+=======
+             ['Skin',
+              u'Angio\xf6dem , Stevens-Johnsons syndrom Toxisk epidermal nekrolys, erythema multiforme'],
+             ['Musculoskeletal', u'Rabdomyolys']]],
+           ['Unknown',
+            [['Blood', u'Neutropeni'],
+             ['Pregnancy', u'Neonatalt uts\xe4ttningssyndrom (se avsnitt 4.6)']]]],
+ '_pages': [9, 13],
+ u'_rank': 43,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -30,7 +30,12 @@
            ['Uncommon',
             [['Infections',
               u'Sepsis, Urinv\xe4gsinfektion, Faryngit, Influensa, Gastroenterit, Svampinfektion, Infektion, Tandabscess'],
+<<<<<<< HEAD
              ['Neoplasms', u'Lipom Allvarliga och/eller medicinskt relevanta'],
+=======
+             ['Neoplasms',
+              u'Lipom Allvarliga och/eller livshotande (grad 3-4) medicinskt relevanta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood',
               u'Febril neutropeni, Pancytopeni, Granulocytopeni, Trombocytopeni, anemi, F\xf6rh\xf6jd INR (internationellt normaliserad kvot)/f\xf6rl\xe4ngd protrombintid'],
              ['Immune system', u'Hypersensitivitet'],
@@ -45,7 +50,11 @@
              ['Cardiac',
               u'Instabil angina, Angina pectoris, Myokardischemi, F\xf6rmaksflimmer, Arytmi, Takykardi, Sinus-takykardi, Hj\xe4rtklappning'],
              ['Vascular',
+<<<<<<< HEAD
               u'Djup ventrombos, Perifer k\xf6ldk\xe4nsla Allvarliga och/eller medicinskt relevanta'],
+=======
+              u'Djup ventrombos, Perifer k\xf6ldk\xe4nsla Allvarliga och/eller livshotande (grad 3-4) medicinskt relevanta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory',
               u'Lungemboli, Pneumotorax, Hemoptys, Astma, Anstr\xe4ngningsutl\xf6st dyspn\xe9'],
              ['GI',
@@ -58,7 +67,11 @@
              ['Renal',
               u'Hydronefros, Urininkontinens, Hematuri, Nokturi, F\xf6rh\xf6jt blodkreatinin'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Vaginal bl\xf6dning Allvarliga och/eller medicinskt relevanta'],
+=======
+              u'Vaginal bl\xf6dning Allvarliga och/eller livshotande (grad 3-4) medicinskt relevanta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General',
               u'\xd6dem, Frossbrytningar, Influensaliknande sjukdom, kroppstemperatur']]]],
  '_note': u' ?MSFU',

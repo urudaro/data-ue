@@ -34,7 +34,11 @@
              ['Eye', u'Synrubbmnin gar'],
              ['Cardiac', u'Perikardit, perikardiell utgjutning, perikardiell tamponad'],
              ['Vascular',
+<<<<<<< HEAD
               u'Hypotension, trombo-embo liska reaktioner (inkl, arteriell trombos, cerebral trombos, tromboflebite r, djup ventrombos, retinal ventrombos, lungemboli)'],
+=======
+              u'Hypotension, trombo-emboliska reaktioner (inkl, arteriell trombos, cerebral trombos, tromboflebite r, djup ventrombos, retinal ventrombos, lungemboli)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Faryngit, apn\xe9, bronkialastm a'],
              ['GI', u'Enterit, melena. Gingivit, malabsorptio n'],
              ['Hepato', u'Akut hepatit och levertoxicitet.'],

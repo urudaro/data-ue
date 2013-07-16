@@ -16,14 +16,22 @@
              ['Blood', u'Leukopeni, neutropeni'],
              ['Immune system', u'Angio\xf6dem,  \xf6verk\xe4nslighet'],
              ['Psychiatric', u'Nervositet'],
+<<<<<<< HEAD
              ['Nervous system', u'Hypoestesi,  somnolens, insomnia'],
+=======
+             ['Nervous system', u'Hypoestesi, somnolens,  insomnia'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'Nedsatt h\xf6rsel, tinnitus'],
              ['Cardiac', u'Palpitationer'],
              ['GI', u'Gastrit, f\xf6rstoppning'],
              ['Hepato',
               u'Hepatit, f\xf6rh\xf6jd  ASAT, f\xf6rh\xf6jd ALAT,  f\xf6rh\xf6jt bilirubin i blodet'],
              ['Skin',
+<<<<<<< HEAD
               u'Stevens-Johnsons  syndrom, fotosensitivitetsreaktio n, n\xe4sselutslag'],
+=======
+              u'Stevens-Johnsons  syndrom, fotosensitivitets- reaktion, n\xe4sselutslag'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'F\xf6rh\xf6jt blodurea'],
              ['General', u'Br\xf6stsm\xe4rta, \xf6dem,  sjukdomsk\xe4nsla, asteni'],
              ['Investigations', u'Avvikande m\xe4ngd  kalium i blodet']]],
@@ -38,7 +46,11 @@
              ['Immune system', u'Anafylaktisk reaktion  (se avsnitt 4.4)'],
              ['Psychiatric', u'Aggressivitet, \xe5ngest'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Synkope, konvulsioner,  psykomotorisk hyperaktivitet, anosmi, ageusi, parosmi, myasthenia gravis (se avsnitt 4.4)'],
+=======
+              u'Synkope, konvulsioner,   psykomotorisk hyperaktivitet, anosmi, ageusi, parosmi, myasthenia gravis (se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac',
               u'Torsades de pointes  (se avsnitt 4.4), arytmi (se avsnitt 4.4) inklusive kammartakykardi, f\xf6rl\xe4ngt QT-intervall i elektrokardiogram (se avsnitt 4.4)'],
              ['Vascular', u'Hypotension'],

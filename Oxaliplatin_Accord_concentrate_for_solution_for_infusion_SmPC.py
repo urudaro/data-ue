@@ -25,7 +25,11 @@
              ['Respiratory', u'Hicka -Lungembolism'],
              ['GI',
               u'Dyspepsi -Gastroesofagal reflux -Gastrointestinal bl\xf6dning -Rektal bl\xf6dning'],
+<<<<<<< HEAD
              ['Renal', u'Hematuri -Dysuri -Onormal bl\xe5st\xf6mnings-frekven s'],
+=======
+             ['Renal', u'Hematuri -Dysuri -Onormal bl\xe5st\xf6mnings-frekvens'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Hudavflagning (dvs hand-och fotsyndrom) -Erytemat\xf6sa utslag -Utslag -Hyperhidros -Nagelbesv\xe4r'],
              ['Musculoskeletal', u'Artralgi -Skelettsm\xe4rta'],
@@ -37,7 +41,11 @@
              ['Psychiatric', u'Depression -Insomni']]],
            ['Uncommon',
             [['Ear', u'Ototoxicitet'],
+<<<<<<< HEAD
              ['GI', u'Ileus Tarm-obstr uktion'],
+=======
+             ['GI', u'Ileus -Tarm-obstruktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Metabol acidos'],
              ['Psychiatric', u'Nervositet']]],
            ['Rare',

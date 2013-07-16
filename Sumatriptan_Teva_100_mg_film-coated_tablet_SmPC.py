@@ -24,7 +24,11 @@
              ['Eye',
               u'flimmer, dubbelseende, nedsatt syn, synbortfall inklusive rapporter om permanent synneds\xe4ttning. Synst\xf6rningar kan emellertid ocks\xe5 intr\xe4ffa under sj\xe4lva migr\xe4nattacken.'],
              ['Cardiac',
+<<<<<<< HEAD
               u'bradykardi, takykardi, palpitationer, hj\xe4rtarytmier, \xf6verg\xe5ende ischemiska EKG-f\xf6r\xe4ndringar, vasospasm i kransart\xe4rer, angina, myokardinfarkt (se avsnitt 4.3 och 4.4).'],
+=======
+              u'bradykardi, takykardi, palpitationer, hj\xe4rtarytmier, \xf6verg\xe5ende ischemiska EKG- f\xf6r\xe4ndringar, vasospasm i kransart\xe4rer, angina, myokardinfarkt (se avsnitt 4.3 och 4.4).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Hyperhidros'],
              ['Psychiatric', u'Oro']]]],
  '_pages': [4, 5],

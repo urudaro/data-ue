@@ -57,7 +57,11 @@
               u'Mindre vanliga Otitis media, tinnitus, D\xf6vhet, yrsel, \xf6ronv\xe4rk hyperakusi, \xf6ronv\xe4rk'],
              ['Cardiac', u'Palpitationer'],
              ['Vascular',
+<<<<<<< HEAD
               u'Cerebral bl\xf6dning, hypertension Lungemboli, \xf6dem, perifert \xf6dem'],
+=======
+              u'Mindre vanliga Cerebral bl\xf6dning, hypertension Lungemboli, \xf6dem, perifert \xf6dem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory',
               u'Mindre vanliga Pneumoni, \xf6vre Pneumoni, sinuit, \xf6re luftv\xe4gsinfektion, n\xe4st\xe4ppa luftv\xe4gsinfektion, bronkit'],
              ['GI',
@@ -71,7 +75,12 @@
               u'Mindre vanliga Impotens Vaginala bl\xf6dningar, menorragi, amenorr\xe9, vaginit, br\xf6stsm\xe4rta'],
              ['General',
               u'Mindre vanliga Asteni, vallningar, Asteni, ansikts\xf6dem, sm\xe4rta, blodvallningar, f\xf6rv\xe4rrat f\xf6rv\xe4rrat tillst\xe5nd, stelhet, tillst\xe5nd, stelhet, missf\xe4rgning tandbesv\xe4r, smakf\xf6r\xe4ndringar av tungan, parosmi, t\xf6rst'],
+<<<<<<< HEAD
              ['Investigations', u'F\xf6rh\xf6jda leverenzymer, \xf6kat gamma-GT, \xf6kat ASAT'],
+=======
+             ['Investigations',
+              u'F\xf6rh\xf6jda leverenzymer, \xf6kat gamma-GT, \xf6kat ASAT * en patient som randomiserades till armen med enbart str\xe5lbehandling, erh\xf6ll TMZ + str\xe5lbehandling Laboratorieresultat Myelosuppression (neutropeni och trombocytopeni) som \xe4r en k\xe4nd dosbegr\xe4nsande toxicitet f\xf6r de flesta cytotoxiska medel, inklusive TMZ, observerades. Sammanslagning av laboratorietestavvikelser och biverkningar i den samtidiga behandlingsfasen och monoterapifasen visade att grad 3- eller grad 4 avvikelser av neutrofila granulocyter inklusive neutropeni observerades hos 8% av patienterna. Grad 3 och grad 4-avvikelser av trombocyter, inklusive trombocytopeni observerades hos 14% av de patienter som TMZ. Recidiverande eller progressiva maligna gliom I kliniska studier var de mest frekventa biverkningarna gastrointestinala st\xf6rningar, speciellt illam\xe5ende (43%) och kr\xe4kningar (36%). Dessa biverkningar var vanligtvis grad 1 eller 2 (0-5 kr\xe4kningsepisoder inom 24 timmar) och var antingen sj\xe4lvbegr\xe4nsande eller v\xe4lkontrollerade med antiemetisk standardbehandling. F\xf6rekomsten av kraftigt illam\xe5ende och kr\xe4kningar var 4%. Tabell 5 inkluderar biverkningar rapporterade i kliniska studier vid recidiverande eller progressiva maligna gliom och efter marknadsintroduktion av TMZ. Tabell 5. Biverkningar hos patienter med recidiverande eller progressiva maligna gliom.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'Pancytopeni, anemi (grad 3-4), leukopeni']]],
            ['Rare', [['Infections', u'Opportunistiska infektioner inklusive PCP']]],
            ['Very rare',

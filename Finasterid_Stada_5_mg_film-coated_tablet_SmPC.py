@@ -7,12 +7,21 @@
             [['Immune system',
               u'\xd6verk\xe4nsli ghetsreakti oner inklusive svullnad av l\xe4ppar och ansikte.'],
              ['Skin', u'Pruritus, urtikaria.'],
+<<<<<<< HEAD
              ['Reproductive system', u'Testikel-s m\xe4rta.']]],
            ['Very rare', [['Reproductive system', u'Br\xf6st-sekret ion,']]],
            ['Unknown',
             [['Cardiac', u'Hj\xe4rtklap pning.'],
              ['Hepato', u'\xd6kade leverenz ymer.'],
              ['Reproductive system', u'Manlig br\xf6st-can']]]],
+=======
+             ['Reproductive system', u'Testikel-sm\xe4rta.']]],
+           ['Very rare', [['Reproductive system', u'Br\xf6st-sekretion,']]],
+           ['Unknown',
+            [['Cardiac', u'Hj\xe4rtklap pning.'],
+             ['Hepato', u'\xd6kade leverenzy mer.'],
+             ['Reproductive system', u'Manlig br\xf6st']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [4, 6],
  u'_rank': 11,

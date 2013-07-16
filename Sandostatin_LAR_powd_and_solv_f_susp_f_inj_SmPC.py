@@ -17,7 +17,12 @@
              ['Hepato',
               u'Kolecystit, gallbl\xe5seslam, hyperbilirubinemi, f\xf6rh\xf6jda transaminasniv\xe5er.'],
              ['Skin', u'Kl\xe5da, utslag, h\xe5ravfall.'],
+<<<<<<< HEAD
              ['General', u'Asteni, feber**']]],
+=======
+             ['General',
+              u'Asteni, feber** * hos patienter med avancerade, neuroendokrina tum\xf6rer ** hos patienter med neuroendokrina tum\xf6rer i mage, tarm och bukspottsk\xf6rtel']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon', [['Metabolism', u'Dehydrering.'], ['Cardiac', u'Takykardi.']]],
            ['Unknown',
             [['Immune system', u'Anafylaxi, allergi/\xf6verk\xe4nslighetsreaktioner.'],

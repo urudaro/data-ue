@@ -6,7 +6,11 @@
              ['General', u'tr\xf6tthet']]],
            ['Uncommon',
             [['Cardiac',
+<<<<<<< HEAD
               u'): kardiovaskul\xe4ra effekter (hj\xe4rtklappning, takykardi). Dessa effekter upptr\xe4der s\xe4rskilt i samband med intraven\xf6s administrering och p\xe5 patienter som uts\xe4tts f\xf6r fysisk belastning.'],
+=======
+              u'(>1/1 000, <1/100): kardiovaskul\xe4ra effekter (hj\xe4rtklappning, takykardi). Dessa effekter upptr\xe4der s\xe4rskilt i samband med intraven\xf6s administrering och p\xe5 patienter som uts\xe4tts f\xf6r fysisk belastning.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'kardiovaskul\xe4ra effekter (postural hypotension eller kardiovaskul\xe4r kollaps). Dessa effekter upptr\xe4der s\xe4rskilt i samband med intraven\xf6s administrering och p\xe5 patienter som uts\xe4tts f\xf6r fysisk belastning.'],
              ['GI',

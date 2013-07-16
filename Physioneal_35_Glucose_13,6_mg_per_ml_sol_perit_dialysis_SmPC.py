@@ -28,7 +28,12 @@
              ['General', u'Ansikts\xf6dem'],
              ['General', u'Br\xe5ck'],
              ['General', u'Sjukdomsk\xe4nsla'],
+<<<<<<< HEAD
              ['General', u'T\xf6rst']]],
+=======
+             ['General', u'T\xf6rst'],
+             ['Investigations', u'PCO \xf6kning']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood', u'Eosinofili'],
              ['GI', u'Inkapslande peritoneal  skleros'],
@@ -38,5 +43,9 @@
              ['Musculoskeletal', u'Muskuloskeletal sm\xe4rta'],
              ['General', u'Pyrexi']]]],
  '_pages': [5, 6],
+<<<<<<< HEAD
  u'_rank': 36,
+=======
+ u'_rank': 37,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

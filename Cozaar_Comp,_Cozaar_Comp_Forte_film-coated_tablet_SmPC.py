@@ -12,7 +12,11 @@
            ['Uncommon',
             [['Blood', u'anemi, Henoch-Sch\xf6nleins purpura, ekkymos,  hemolys'],
              ['Cardiac',
+<<<<<<< HEAD
               u'hypotoni, ortostatisk hypotoni, sternalgi,  angina pectoris, AV-block grad II, cerebrovaskul\xe4r h\xe4ndelse, hj\xe4rtinfarkt, palpitationer, arytmier (f\xf6rmaksflimmer, sinus-bradykardi, takykardi, kammartakykardi, ventrikelflimmer)'],
+=======
+              u'hypotoni, ortostatisk hypotoni, sternalgi,  angina pectoris, AV-block grad II, cerebrovaskul\xe4r h\xe4ndelse, hj\xe4rtinfarkt, palpitationer, arytmier (f\xf6rmaksflimmer, sinus- bradykardi, takykardi, kammartakykardi, ventrikelflimmer)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'vertigo, tinnitus'],
              ['Eye',
               u'dimsyn, br\xe4nnande/stickande k\xe4nsla i \xf6gat,  konjunktivit, minskad synsk\xe4rpa'],

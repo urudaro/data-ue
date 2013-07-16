@@ -14,7 +14,11 @@
             [['GI', u'> 1/10 000 till < 1/1000'],
              ['Eye', u'uveit, sklerit, episklerit'],
              ['GI',
+<<<<<<< HEAD
               u'Esofagusstriktur, s\xe5r i munh\xe5la/svalg, \xf6vre gastrointestinal PUB (perforationer, s\xe5r, bl\xf6dningar) (se avsnitt 4.4).'],
+=======
+              u'Esofagusstriktur, s\xe5r i munh\xe5la/svalg, \xf6vre gastrointestinal PUB (perforationer, s\xe5r, bl\xf6dningar) (se avsnitt 4.4). *se avsnitten 4.2 och 4.4.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'hudutslag med fotosensitivitet.'],
              ['Musculoskeletal',
               u'Osteonekros i k\xe4ken har rapporterats hos patienter som behandlats med bisfosfonater. Majoriteten av rapporterna r\xf6r cancerpatienter, men s\xe5dana fall har \xe4ven rapporterats hos patienter som behandlas f\xf6r osteoporos. Osteonekros i k\xe4ken f\xf6rknippas i allm\xe4nhet med tandutdragning och/eller lokal infektion (inklusive osteomyelit). Cancerdiagnos, kemoterapi, str\xe5lningsterapi, kortikosteroider och d\xe5lig munhygien bed\xf6ms ocks\xe5 vara riskfaktorer; sv\xe5r muskuloskeletal (skelett, muskel eller led) sm\xe4rta (se avsnitt 4.4). Efter marknadsf\xf6ring har f\xf6ljande biverkningar rapporterats (frekvens: s\xe4llsynt): Atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning).'],

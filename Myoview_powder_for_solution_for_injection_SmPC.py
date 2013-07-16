@@ -10,6 +10,10 @@
              ['General', u'V\xe4rmek\xe4nsla'],
              ['Investigations',
               u'\xd6kning av antalet vita blodkroppar Vissa reaktioner var f\xf6rdr\xf6jda med flera timmar efter administrering av 99m Tc-tetrofosmin.']]]],
+<<<<<<< HEAD
  '_pages': [4, 5],
+=======
+ '_pages': [4, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 8,
  u'_type': u'LSFU'}

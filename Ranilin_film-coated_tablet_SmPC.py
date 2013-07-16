@@ -22,7 +22,11 @@
               u'akuta \xf6verk\xe4nslighetsreaktioner (t.ex. eosinofili, urtikaria, feber, hypotension, angio\xf6dem, bronkospasm, sm\xe4rtor i br\xf6stet, anafylaktisk chock)'],
              ['Reproductive system', u'br\xf6stsymtom hos m\xe4n, erektil dysfunktion'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'reversibel psykisk f\xf6rvirring och rastl\xf6shet, hallucinationer, depression. Dessa']]]],
+=======
+              u'reversibel psykisk f\xf6rvirring och rastl\xf6shet, hallucinationer, depression. Dessa har framf\xf6rallt rapporterats hos allvarligt sjuka och \xe4ldre patienter.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [3, 4],
  u'_rank': 19,
  u'_type': u'LSFU'}

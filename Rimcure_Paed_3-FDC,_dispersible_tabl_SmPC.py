@@ -1,15 +1,22 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system',
               u'Tr\xf6tthet, d\xe5sighet, huvudv\xe4rk, berusningsk\xe4nsla,  yrsel'],
              ['GI', u'Anorexi, illam\xe5ende, buksm\xe4rtor, uppbl\xe5sthet'],
+=======
+            [['GI', u'Anorexi, illam\xe5ende, buksm\xe4rtor, uppbl\xe5sthet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Rodnad, kl\xe5da med eller utan hudutslag, urtikaria'],
              ['Hepato', u'F\xf6rh\xf6jda leverenzymv\xe4rden utan symptom'],
              ['Other',
               u'\xd6gonrodnad; r\xf6daktig missf\xe4rgning av  kroppsv\xe4tskor och sekret som t.ex. urin, sputum, t\xe5rv\xe4tska, faeces, saliv och svett. Det kan ge permanent missf\xe4rgning av mjuka kontaktlinser'],
              ['General',
               u'Allergiska och andra reaktioner som  l\xe4kemedelsexantem och feber'],
+<<<<<<< HEAD
              ['Nervous system',
               u'Perifer neuropati (dosberoende och vanligare hos  undern\xe4rda patienter, alkoholister och diabetiker),  vanligtvis f\xf6reg\xe5s detta tillst\xe5nd av parestesier i f\xf6tter och h\xe4nder'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende, kr\xe4kning, magbesv\xe4r'],
              ['Hepato',
               u'Leverfunktionsst\xf6rningar (vanligen liten och  \xf6verg\xe5ende f\xf6rh\xf6jning av transaminasv\xe4rdet i serum). De vanligaste prodromala symptomen \xe4r anorexi, illam\xe5ende, kr\xe4kning, tr\xf6tthet, olustk\xe4nsla och svaghet. Frekvensen progressiv leverskada \xf6kar med \xe5ldern. Denna biverkan \xe4r s\xe4llsynt hos personer under 20 \xe5r men f\xf6rekommer upp till 3% hos personer \xf6ver 50 \xe5r'],
@@ -49,5 +56,9 @@
               u'Allvarlig levertoxicitet som sannolikt \xe4r  dosrelaterad, hepatomegali, gulsot'],
              ['Reproductive system', u'Intestinal nefrit, dysuri']]]],
  '_pages': [6, 9],
+<<<<<<< HEAD
  u'_rank': 29,
+=======
+ u'_rank': 27,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

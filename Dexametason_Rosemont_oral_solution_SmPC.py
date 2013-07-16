@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [[u'Unknown',
             [['Infections', u'F\xf6rh\xf6jd k\xe4nslighet f\xf6r och sv\xe5righetsgrad hos'],
              ['Blood', u'Leukocystos'],
@@ -16,3 +17,23 @@
  '_pages': [11, 13],
  u'_rank': 14,
  u'_type': u'LFSU'}
+=======
+{'_data': [['Unknown',
+            [['Eye',
+              u'Bakre subkapsul\xe4r katarakt, f\xf6rh\xf6jt   intraokul\xe4rt tryck, glaukom, papill\xf6dem,  f\xf6rtunning av kornea eller sklera, f\xf6rs\xe4mring  av virus- eller svampinfektioner i \xf6gonen,  exoftalmos.'],
+             ['Cardiac', u'Hj\xe4rtisufficiens hos k\xe4nsliga patienter'],
+             ['Vascular', u'Tromboembolism, hypertoni'],
+             ['GI',
+              u'Dyspepsi, peptiska s\xe5r med perforation och   bl\xf6dning, akut pankreatit, candidiasis.  Bukdistension och kr\xe4kningar. Ulcerativ  esofagit. Perforation av tunntarmen och  tjocktarmen, s\xe4rskilt hos patienter med  inflammatoriska tarmsjukdomar. Illam\xe5ende,  hicka.'],
+             ['Skin',
+              u'H\xe4mmad s\xe5rl\xe4kning, tunn sk\xf6r hud, petekier   och ekkymoser, erytem, striae, telangiektasi,  akne, \xf6kad svettning, h\xe4mmad reaktion vid  hudtester, andra kutana reaktioner som  allergisk dermatit, urticaria, angioneurotiskt  \xf6dem, f\xf6rtunning av h\xe5ret p\xe5 huvudet.'],
+             ['Musculoskeletal',
+              u'Osteoporos, frakturer p\xe5 kotor och r\xf6rben,   avaskul\xe4r nekros, senruptur. Proximal  myopati. Muskelsvaghet, aseptisk nekros p\xe5  femorl- och humeralhuvuden, f\xf6rlust av  muskelmassa. Tillv\xe4xth\xe4mning hos barn och  ton\xe5ringar,H\xe4mmad l\xe4ngdtillv\xe4xt hos barn och  ton\xe5ringar.'],
+             ['General',
+              u'Sjukdomsk\xe4nsla, onormala fettdep\xe5er.   administreringsst\xe4llet'],
+             ['Investigations',
+              u'\xd6kad eller s\xe4nkt motilitet och antal spermier,   vikt\xf6kning.  Uts\xe4ttningssymptom och -tecken  Alltf\xf6r snabbt uts\xe4ttande av kortikosteroider efter en l\xe5ngvarig behandling kan leda till akut  binjureinsufficiens, hypotoni och d\xf6dsfall (se Varningar och f\xf6rsiktighet).  Ett \u201duts\xe4ttningssyndrom\u201d kan ocks\xe5 upptr\xe4da som innefattar feber, myalgi, artralgi, rinit,  konjunktivit, sm\xe4rtsamma kliande hudknutor och viktnedg\xe5ng.']]]],
+ '_pages': [11, 13],
+ u'_rank': 8,
+ u'_type': u'LFSUR'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

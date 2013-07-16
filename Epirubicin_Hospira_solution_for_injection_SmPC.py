@@ -8,6 +8,10 @@
              ['Metabolism', u'Anorexi, dehydrering'],
              ['Vascular', u'V\xe4rmevallningar'],
              ['GI', u'Mukosit, esofagit, stomatit,  kr\xe4kningar, diarr\xe9, illam\xe5ende'],
+<<<<<<< HEAD
+=======
+             ['General', u'Erythem vid infusionsst\xe4llet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Injury',
               u'Kemisk cystit, ibland bl\xf6dande, har  observerats under intravesikal  administrering (se avsnitt 4.4)']]],
            ['Uncommon', [['Blood', u'Trombocytopeni'], ['Vascular', u'Flebit, tromboflebit']]],
@@ -20,6 +24,10 @@
               u'Kronisk hj\xe4rtinsufficiens (dyspn\xe9,  \xf6dem, hepatomegali, ascites, pulmonell \xf6dem, pleuraeffusion, galloperande rytm), hj\xe4rttoxicitet (t ex onormalt EKG, arrytmier, kardiomyopati),ventrikul\xe4r takykardi, bradykardi, AV-block, grenblock'],
              ['Skin', u'Uticaria'],
              ['Reproductive system', u'Amenorr\xe9, azoospermi'],
+<<<<<<< HEAD
+=======
+             ['General', u'Sjukdomsk\xe4nsla, asteni, feber,  frossa'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'F\xf6r\xe4ndrade transaminasniv\xe5er']]],
            ['Unknown',
             [['Infections', u'Septisk chock, blodf\xf6rgiftning,  lunginflammation'],
@@ -30,5 +38,9 @@
               u'Lokal toxicitet, utslag, kl\xe5da,  hudf\xf6r\xe4ndringar, erytem, v\xe4rmevallningar, hyperpigmentering p\xe5 hud och naglar, fotosensitivitet, hypersensitivitet f\xf6r str\xe5lbehandlad hud (radiation-recall reaction)'],
              ['Investigations', u'Asymtomatiska fall i  v\xe4nsterkammarens ejektionsfraktion']]]],
  '_pages': [9, 10],
+<<<<<<< HEAD
  u'_rank': 24,
+=======
+ u'_rank': 26,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

@@ -1,14 +1,25 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['Nervous system', u'Huvud-v\xe4 rk']]],
            ['Common',
             [['Nervous system', u'Yrsel'],
              ['Eye', u'Synrubbnin-ga r, f\xf6r\xe4ndrin-gar i f\xe4rgseen-det'],
+=======
+{'_data': [['Very common', [['Nervous system', u'Huvud-v\xe4rk']]],
+           ['Common',
+            [['Nervous system', u'Yrsel'],
+             ['Eye', u'Synrubbnin-gar, f\xf6r\xe4ndrin-gar i f\xe4rgseen-det'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Rodnad'],
              ['Respiratory', u'N\xe4st\xe4ppa'],
              ['GI', u'Dyspepsi']]],
            ['Uncommon',
             [['Nervous system', u'Somnolens, hypestesi'],
              ['Eye',
+<<<<<<< HEAD
               u'Bindhinnest\xf6r-ning ar, \xf6gonst\xf6r-ningar, st\xf6rningar i t\xe5rfl\xf6det, andra \xf6gonst\xf6rningar'],
+=======
+              u'Bindhinnest\xf6r-ningar, \xf6gonst\xf6r-ningar, st\xf6rningar i t\xe5rfl\xf6det, andra \xf6gonst\xf6rningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'Vertigo, Tinnitus'],
              ['Cardiac', u'Hj\xe4rtklappning, takykardi'],
              ['GI', u'Kr\xe4kningar, illam\xe5ende, muntorrhet'],

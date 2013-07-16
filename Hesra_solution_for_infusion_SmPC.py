@@ -12,6 +12,10 @@
            ['Rare',
             [['Immune system',
               u'Anafylaktiska reaktioner av varierande grad. Se avsnittet \u201dAnafylaktiska reaktioner\u201d.']]]],
+<<<<<<< HEAD
  '_pages': [3, 4],
+=======
+ '_pages': [4, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 5,
  u'_type': u'LSFU'}

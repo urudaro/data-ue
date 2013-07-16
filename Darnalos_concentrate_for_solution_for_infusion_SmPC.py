@@ -12,7 +12,11 @@
              ['Skin', u'Hudp\xe5verkan, ekkymos'],
              ['Musculoskeletal', u'Artros, myalgi, artralgi, ledbesv\xe4r'],
              ['General',
+<<<<<<< HEAD
               u'Influensaliknan de sjukdom, perifert \xf6dem, asteni, \xf6verdriven t\xf6rst F\xf6rh\xf6jt']]],
+=======
+              u'Influensaliknan de sjukdom, perifert \xf6dem, asteni, 7 \xf6verdriven t\xf6rst F\xf6rh\xf6jt gamma-F\xf6rh\xf6jt alkaliskt']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Musculoskeletal', u'Myalgi'],
              ['General', u'Influenslikna nde sjukdom**, rigor'],
@@ -33,6 +37,7 @@
              ['Skin', u'Utslag, alopeci'],
              ['Renal', u'Urinretention, renal cysta'],
              ['Reproductive system', u'Sm\xe4rta i b\xe4ckenet'],
+<<<<<<< HEAD
              ['General', u'Hypotermi F\xf6rh\xf6jt alkaliskt']]],
            ['Rare',
             [['Skin', u'Angio\xf6dem'],
@@ -44,4 +49,17 @@
  '_note': u' ANOMALI in Headers ?MSFU',
  '_pages': [5, 8],
  u'_rank': 35,
+=======
+             ['General', u'Hypotermi']]],
+           ['Rare', [['Nervous system', u'Okul\xe4ra'], ['Eye', u'inflammationer\u2020* *']]],
+           ['Very rare',
+            [['Immune system', u'\xd6verk\xe4nslighet'],
+             ['Respiratory', u'Bronkospasm'],
+             ['Skin', u'Angio\xf6dem'],
+             ['Infections', u'L\xe4kemedelsverket 2011-12-09'],
+             ['Musculoskeletal', u'Osteonekros i k\xe4ken\u2020**']]]],
+ '_note': u' ANOMALI in Headers ?MSFU',
+ '_pages': [5, 8],
+ u'_rank': 37,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

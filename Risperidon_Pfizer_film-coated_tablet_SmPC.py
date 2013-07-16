@@ -68,16 +68,26 @@
              ['Immune system', u'L\xe4kemedels\xf6verk\xe4nslighet'],
              ['Hepato', u'Gulsot'],
              ['Psychiatric', u'Anorgasmi, k\xe4nslom\xe4ssig avtrubbning _']]],
+<<<<<<< HEAD
            ['Very rare', [['Metabolism', u'Diabetisk ketoacidos']]],
            ['Unknown',
             [['Blood', u'Agranulocytos,'],
              ['Metabolism', u'Vattenintoxikation'],
+=======
+           ['Very rare', [['Metabolism', u'Diabetisk ketoacidos  Vattenintoxikation']]],
+           ['Unknown',
+            [['Blood', u'Agranulocytos,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'Fall av ven\xf6s tromboemboli, inklusive fall av pulmonell embolism och fall av djup ventrombos, har rapporterats med antipsykotiska l\xe4kemedel'],
              ['Immune system', u'Anafylaktisk reaktion'],
              ['Reproductive system', u'Priapism'],
              ['Pregnancy',
+<<<<<<< HEAD
               u'Abstinenssyndrom hos nyf\xf6dda (se avsnitt 4.6) _______________________________________________________________________ \xaa Hyperprolaktinemi kan i vissa fall leda till gynekomasti, st\xf6rningar i menstruationen, amenorr\xe9, galaktorr\xe9. Extrapyramidal st\xf6rning kan f\xf6rekomma: Parkinsonism (hypersalivation, muskuloskeletal stelhet, parkinsonism, dregling, kugghjulsrigiditet, bradykinesi, hypokinesi, maskansikte, muskelstelhet, akinesi, nackstelhet, muskelrigiditet, parkinsonistisk g\xe5ng och onormal glabellarreflex), akatisi (akatisi, rastl\xf6shet, hyperkinesi och restless leg-syndrom), tremor, dyskinesi (dyskinesi, muskelryckningar, koreoatetos, atetos och myoklonus), dystoni. Dystoni innefattar dystoni, muskelspasmer, hypertoni, tortikollis, ofrivilliga muskelkontraktioner, muskelkontraktur, blefarospasm, okulogyration, tungf\xf6rlamning, spasm i ansiktet, laryngospasm, myotoni, opistotonus, orofaryngeal spasm, pleurototonus, tungspasm och trismus. Tremor innefattar: tremor och parkinsonistisk vilotremor. Det b\xf6r noteras att ett bredare spektrum av symtom \xe4r inkluderade, vilka inte n\xf6dv\xe4ndigtvis har extrapyramidalt ursprung. I placebokontrollerade studier rapporterades diabetes mellitus hos 0,18 % av risperidon-behandlade patienter j\xe4mf\xf6rt med en frekvens p\xe5 0,11 % i placebogruppen. Den totala incidensen fr\xe5n alla kliniska studier var 0,43 % f\xf6r alla risperidonbehandlade patienter.'],
+=======
+              u'Abstinenssyndrom hos nyf\xf6dda (se avsnitt 4.6) _______________________________________________________________________ \xaa Hyperprolaktinemi kan i vissa fall leda till gynekomasti, st\xf6rningar i menstruationen, amenorr\xe9, galaktorr\xe9. Extrapyramidal st\xf6rning kan f\xf6rekomma: Parkinsonism (hypersalivation, muskuloskeletal stelhet, parkinsonism, dregling, kugghjulsrigiditet, bradykinesi, hypokinesi, maskansikte, muskelstelhet, akinesi, nackstelhet, muskelrigiditet, parkinsonistisk g\xe5ng och onormal glabellarreflex), akatisi (akatisi, rastl\xf6shet, hyperkinesi och restless leg-syndrom), tremor, dyskinesi (dyskinesi, muskelryckningar, koreoatetos, atetos och myoklonus), dystoni. Dystoni innefattar dystoni, muskelspasmer, hypertoni, tortikollis, ofrivilliga muskelkontraktioner, muskelkontraktur, blefarospasm, okulogyration, tungf\xf6rlamning, spasm i ansiktet, laryngospasm, myotoni, opistotonus, orofaryngeal spasm, pleurototonus, tungspasm och trismus. Tremor innefattar: tremor och parkinsonistisk vilotremor. Det b\xf6r noteras att ett bredare spektrum av symtom \xe4r inkluderade, vilka inte n\xf6dv\xe4ndigtvis har extrapyramidalt ursprung. I placebokontrollerade studier rapporterades diabetes mellitus hos 0,18 % av risperidon behandlade patienter j\xe4mf\xf6rt med en frekvens p\xe5 0,11 % i placebogruppen. Den totala incidensen fr\xe5n alla kliniska studier var 0,43 % f\xf6r alla risperidonbehandlade patienter.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations',
               u'Viktminskning, f\xf6rh\xf6jt gammaglutamyltransferas, f\xf6rh\xf6jda leverenzymer'],
              ['Cardiac', u'Bradykardi'],
@@ -96,5 +106,9 @@
              ['Psychiatric',
               u'Depression Klasseffekter Liksom f\xf6r andra antipsykotiska l\xe4kemedel har mycket s\xe4llsynta fall av QT-f\xf6rl\xe4ngning rapporterats f\xf6r risperidon efter lansering. Till andra hj\xe4rteffekter relaterade till den aktuella l\xe4kemedelsklassen, som rapporterats f\xf6r antipsykotiska l\xe4kemedel som f\xf6rl\xe4nger QT-intervallet, h\xf6r ventrikelarytmi, ventrikelflimmer, ventrikeltakykardi, pl\xf6tslig d\xf6d, hj\xe4rtstopp och torsade de pointes. Viktuppg\xe5ng Data f\xf6r den andel Risperidon Pfizer och placebobehandlade vuxna patienter med schizofreni som uppfyllde ett kriterium p\xe5 viktuppg\xe5ng p\xe5 \u22657 % av kroppsvikten j\xe4mf\xf6rdes med poolade data fr\xe5n 6 till 8-veckors placebokontrollerade studier, vilket visade en statistiskt signifikant \xf6kad incidens av viktuppg\xe5ng f\xf6r Risperidon Pfizer (18 %) j\xe4mf\xf6rt med placebo (9 %). I en pool av placebokontrollerade 3-veckorsstudier p\xe5 vuxna patienter med akut manisk episod var incidensen av vikt\xf6kning p\xe5 \u22657 % vid studiens avslutning j\xe4mf\xf6rbar i Risperidon Pfizer (2,5 %) och placebogruppen (2,4 %) och n\xe5got h\xf6gre i den aktiva kontrollgruppen (3,5 %). I l\xe5ngtidsstudier avseende en population av barn och ungdomar med uppf\xf6randest\xf6rning och andra utagerande beteendest\xf6rningar fann man vikt\xf6kningar p\xe5 i genomsnitt 7,3 kg efter 12 m\xe5naders behandling. F\xf6rv\xe4ntad viktuppg\xe5ng f\xf6r normala barn mellan 5 och 12 \xe5r \xe4r 3 till 5 kg per \xe5r; i \xe5ldern 12 till 16 \xe5r bibeh\xe5lls en uppg\xe5ng i storleksordningen 3 till 5 kg per \xe5r f\xf6r flickor, medan pojkar g\xe5r upp ungef\xe4r 5 kg per \xe5r. Ytterligare information om s\xe4rskilda populationer Biverkningar som har rapporterats ha h\xf6gre incidens hos \xe4ldre patienter med demens eller hos barn j\xe4mf\xf6rt med hos vanliga vuxna populationer beskrivs nedan: \xc4ldre patienter med demens Transitorisk ischemisk attack och cerebrovaskul\xe4r h\xe4ndelse var biverkningar som rapporterades i kliniska pr\xf6vningar med en frekvens av 1,4 % respektive 1,5 % hos \xe4ldre patienter med demens. Dessutom rapporterades f\xf6ljande biverkningar med en frekvens av \u22655 % hos \xe4ldre patienter med demens och med minst dubbelt s\xe5 h\xf6g frekvens som man ser i andra vuxenpopulationer: urinv\xe4gsinfektion, perifert \xf6dem, letargi och hosta. Barn F\xf6ljande biverkningar rapporterades med en frekvens av \u22655 % hos barn (5 till 17 \xe5r) och med minst dubbelt s\xe5 h\xf6g frekvens som man ser i kliniska pr\xf6vningar p\xe5 vuxna: somnolens/sedering, tr\xf6tthet, huvudv\xe4rk, aptit\xf6kning, kr\xe4kningar, \xf6vre luftv\xe4gsinfektion, n\xe4st\xe4ppa, magsm\xe4rtor, yrsel, hosta, feber, tremor, diarr\xe9 och enures.']]]],
  '_pages': [9, 13],
+<<<<<<< HEAD
  u'_rank': 69,
+=======
+ u'_rank': 68,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

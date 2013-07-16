@@ -16,14 +16,22 @@
              ['GI', u'Oral hypoestesi'],
              ['Vascular', u'Hypotension'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Mardr\xf6mmar Mani Agitation Hallucina-tio ner Psyko-motori sk oro (inkl. akatisi, hyperkinesi)']]],
+=======
+              u'Mardr\xf6mmar Mani Agitation Hallucina-tioner Psyko-motorisk oro (inkl. akatisi, hyperkinesi)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Nervous system', u'Myoklonus'],
              ['Hepato', u'F\xf6rh\xf6jda trans-aminaser serum'],
              ['Psychiatric', u'Aggression']]],
            ['Unknown',
             [['Blood',
+<<<<<<< HEAD
               u'Benm\xe4rgs-depressi on (granulocytopeni, agranulocytos, aplastisk anemi, trombocytopeni) Eosinofili'],
+=======
+              u'Benm\xe4rgs-depression (granulocytopeni, agranulocytos, aplastisk anemi, trombocytopeni) Eosinofili'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Kramper (anfall) Serotoninsyndrom Oral parestesi Dysartri'],
              ['GI', u'\xd6dem i munnen \xd6kad salivuts\xf6ndring'],
              ['Skin',

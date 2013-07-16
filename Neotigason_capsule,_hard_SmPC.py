@@ -37,6 +37,10 @@
              ['Vascular', u'Rodnad Andningsv\xe4gar, br\xf6stkorg och mediastinum'],
              ['GI', u'Dysgeusi, rektal bl\xf6dning'],
              ['Skin', u'Pyogeniskt granulom Muskler, skelett och bindv\xe4v']]]],
+<<<<<<< HEAD
  '_pages': [6, 7],
+=======
+ '_pages': [5, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 25,
  u'_type': u'LSFU'}

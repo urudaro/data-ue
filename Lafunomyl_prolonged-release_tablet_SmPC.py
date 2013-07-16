@@ -1,5 +1,9 @@
 {'_data': [[u'Unknown',
+<<<<<<< HEAD
             [['Cardiac', u'om; f\xf6rv\xe4rrad'],
+=======
+            [['Cardiac', u'k\xe4rlsjukdom;'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Synst\xf6rningar   Floppy Iris'],
              ['General', u'Asteni,   \xd6dem,'],
              ['GI', u'illam\xe5ende, dyspepsi,   Diarr\xe9'],

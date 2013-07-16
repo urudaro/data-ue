@@ -40,6 +40,7 @@
            ['Very rare',
             [['Immune system',
               u'\xd6verk\xe4nslighetsreaktioner inklusive angio\xf6dem, anafylaktiska/anafylaktoida reaktioner inklusive chock.'],
+<<<<<<< HEAD
              ['Psychiatric', u'F\xf6rvirring, hallucinationer.'],
              ['Vascular', u'Hypertensiv kris.'],
              ['Respiratory', u'Bronkospasm.'],
@@ -57,4 +58,19 @@
              ['Skin', u'Fixt l\xe4kemedelsutslag.']]]],
  '_pages': [8, 10],
  u'_rank': 41,
+=======
+             ['Psychiatric', u'F\xf6rvirring, hallucinationer. : Rastl\xf6shet.'],
+             ['Vascular',
+              u'Hypertensiv kris. : Vaskulit. * I analyser av placebokontrollerade- och aktivt kontrollerade kliniska l\xe5ngtidsstudier har selektiva COX2 h\xe4mmare f\xf6rknippats med en \xf6kad risk f\xf6r allvarliga arteriella trombotiska h\xe4ndelser, inklusive hj\xe4rtinfarkt och stroke. Den absoluta risk\xf6kningen f\xf6r s\xe5dana h\xe4ndelser \xf6verstiger troligen inte 1% per \xe5r enligt tillg\xe4ngliga data (mindre vanlig).'],
+             ['Respiratory', u'Bronkospasm.'],
+             ['GI',
+              u'Ulcus inklusive gastrointestinal perforation och bl\xf6dning (fr\xe4mst hos \xe4ldre). : Pankreatit.'],
+             ['Hepato', u'Hepatit. : Gulsot, leversvikt.'],
+             ['Skin',
+              u'Urtikaria, Stevens-Johnsons syndrom, toxisk epidermal nekrolys. : Fixt l\xe4kemedelsutslag.'],
+             ['Renal', u'Njurinsufficiens inklusive njursvikt (se avsnitt 4.4).']]],
+           ['Unknown', [['Cardiac', u'Takykardi, arytmi.']]]],
+ '_pages': [7, 9],
+ u'_rank': 36,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

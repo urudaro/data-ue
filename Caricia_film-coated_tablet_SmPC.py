@@ -8,11 +8,19 @@
              ['Investigations', u'vikt\xf6kning']]],
            ['Uncommon',
             [['Infections', u'vaginal'],
+<<<<<<< HEAD
              ['Metabolism', u'v\xe4tske-retenti on'],
              ['Nervous system', u'migr\xe4n'],
              ['GI', u'kr\xe4kningar diarr\xe9'],
              ['Skin', u'alopeci'],
              ['Reproductive system', u'br\xf6stf\xf6r-stori ng dysmenorr\xe9, ovariecysta'],
+=======
+             ['Metabolism', u'v\xe4tske-retention'],
+             ['Nervous system', u'migr\xe4n'],
+             ['GI', u'kr\xe4kningar diarr\xe9'],
+             ['Skin', u'alopeci'],
+             ['Reproductive system', u'br\xf6stf\xf6r-storing dysmenorr\xe9, ovariecysta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'tr\xf6tthet'],
              ['Investigations', u'f\xf6rh\xf6jt blodtryck']]],
            ['Rare',
@@ -25,7 +33,11 @@
              ['Vascular', u'ven\xf6s emboli lungemboli'],
              ['Hepato', u'gulsot, kolelitiasis, onormal leverfunktion'],
              ['Skin',
+<<<<<<< HEAD
               u'utslag urtikaria erythema multiforme erythema nodusum kloasma kl\xe5da fotosensitivitets-reaktio n.'],
+=======
+              u'utslag urtikaria erythema multiforme erythema nodusum kloasma kl\xe5da fotosensitivitets-reaktion.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'br\xf6stsekretion vaginalflytning.'],
              ['Investigations', u'viktminskning, f\xf6rh\xf6jt blodsocker']]]],
  '_note': u' ?MSFU',

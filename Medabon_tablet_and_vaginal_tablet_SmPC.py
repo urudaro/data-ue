@@ -18,7 +18,11 @@
               u'Huvudv\xe4rk, sjukdomsk\xe4nsla, vagala symtom (blodvallningar, yrsel, frossa har rapporterats) och feber.']]],
            ['Very rare',
             [['Skin',
+<<<<<<< HEAD
               u'fall av d\xf6dlig toxisk chock orsakad av Clostridium sordellii-endometrit, med klinisk bild utan feber eller andra tydliga symtom p\xe5 infektion, har rapporterats. L\xe4kare ska vara medvetna om denna potentiellt d\xf6dliga komplikation (se avsnitt 4.4. Varningar och f\xf6rsiktighet).']]]],
+=======
+              u'fall av d\xf6dlig toxisk chock orsakad av Clostridium sordellii- endometrit, med klinisk bild utan feber eller andra tydliga symtom p\xe5 infektion, har rapporterats. L\xe4kare ska vara medvetna om denna potentiellt d\xf6dliga komplikation (se avsnitt 4.4. Varningar och f\xf6rsiktighet).']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [7, 8],
  u'_rank': 9,
  u'_type': u'LSFU'}

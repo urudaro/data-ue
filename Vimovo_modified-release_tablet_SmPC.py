@@ -7,8 +7,12 @@
              ['Skin', u'hudutslag'],
              ['Musculoskeletal', u'artralgi'],
              ['General', u'\xf6dem'],
+<<<<<<< HEAD
              ['Infections', u'divertikulit'],
              ['Blood', u'Vanliga'],
+=======
+             ['Infections', u'divertikulit Vanliga'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'depression, insomni'],
              ['Nervous system',
               u'yrsel, d\xe5sighet, huvudv\xe4rk, ortostatisk yrsel, vertigo'],
@@ -18,8 +22,13 @@
              ['Respiratory', u'dyspn\xe9'],
              ['GI',
               u'dyspepsi, buksm\xe4rtor, illam\xe5ende, kr\xe4kningar, diarr\xe9, f\xf6rstoppning, halsbr\xe4nna, peptiskt s\xe5r, stomatit'],
+<<<<<<< HEAD
              ['Skin', u'kl\xe5da, ekkymoser, purpura, hudutslag'],
              ['Musculoskeletal', u'Vanliga'],
+=======
+             ['Hepato', u'Vanliga'],
+             ['Skin', u'kl\xe5da, ekkymoser, purpura, hudutslag'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'tr\xf6tthet, \xf6dem, svettning, t\xf6rst'],
              ['Nervous system', u'huvudv\xe4rk'],
              ['GI',
@@ -37,10 +46,18 @@
              ['Musculoskeletal', u'myalgi'],
              ['General', u'asteni, tr\xf6tthet, feber'],
              ['Investigations',
+<<<<<<< HEAD
               u'onormala leverfunktionsv\xe4rde n, f\xf6rh\xf6jt serumkreatinin'],
              ['Infections', u'aseptisk meningit, infektion, sepsis'],
              ['Blood',
               u'agranulocytos, aplastisk anemi, eosinofili, granulocytopeni, hemolytisk anemi, leukopeni, lymfadenopati, pancytopeni, trombocytopeni Mindre vanliga/S\xe4llsynta'],
+=======
+              u'onormala leverfunktions-v\xe4rden, f\xf6rh\xf6jt serumkreatinin'],
+             ['Infections',
+              u'aseptisk meningit, infektion, sepsis Mindre vanliga/S\xe4llsynta'],
+             ['Blood',
+              u'agranulocytos, aplastisk anemi, eosinofili, granulocytopeni, hemolytisk anemi, leukopeni, lymfadenopati, pancytopeni, trombocytopeni'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'anafylaktiska reaktioner, anafylaktoida reaktioner, \xf6verk\xe4nslighetsreaktioner'],
              ['Metabolism',
@@ -57,10 +74,17 @@
               u'astma, bronkospasm, eosinofil pneumonit, pneumoni, lung\xf6dem, andningsdepression'],
              ['GI',
               u'muntorrhet, esofagit, ventrikels\xe5r, gastrit, glossit, rapningar, flatulens, ventrikel-/duodenals\xe5r, gastrointestinal bl\xf6dning och/eller perforation, melena, hematemes, pankreatit, kolit, exacerbation av inflammatorisk tarmsjukdom (ulcer\xf6s kolit, Crohns sjukdom), icke-peptisk gastrointestinal ulceration, rektal bl\xf6dning, ulcer\xf6s stomatit'],
+<<<<<<< HEAD
              ['Hepato', u'gallstas, hepatit, ikterus, leversvikt'],
              ['Skin',
               u'alopeci, exantem, urtikaria, bull\xf6sa reaktioner inklusive Stevens-Johnsons syndrom och toxisk epidermal nekrolys (TEN), erythema multiforme, erythema nodosum, fixed drug eruption, lichen planus, systemisk lupus erythematosus, fotosensitiv dermatit, fotosensitivitetsreaktioner, inklusive s\xe4llsynta fall som liknar porfyria cutanea tarda (pseudoporfyri), exfoliativ dermatit, angioneurotiskt \xf6dem, pustul\xf6sa reaktioner'],
              ['Musculoskeletal', u'muskelsvaghet, myalgi Mindre vanliga/S\xe4llsynta'],
+=======
+             ['Hepato', u'gallstas, hepatit, ikterus, leversvikt Mindre vanliga/S\xe4llsynta'],
+             ['Skin',
+              u'alopeci, exantem, urtikaria, bull\xf6sa reaktioner inklusive Stevens-Johnsons syndrom och toxisk epidermal nekrolys (TEN), erythema multiforme, erythema nodosum, fixed drug eruption, lichen planus, systemisk lupus erythematosus, fotosensitiv dermatit, fotosensitivitetsreaktioner, inklusive s\xe4llsynta fall som liknar porfyria cutanea tarda (pseudoporfyri), exfoliativ dermatit, angioneurotiskt \xf6dem, pustul\xf6sa reaktioner'],
+             ['Musculoskeletal', u'muskelsvaghet, myalgi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal',
               u'glomerul\xe4r nefrit, hematuri, interstitiell nefrit, nefrotiskt syndrom, oliguri/polyuri, proteinuri, njursvikt, njurpapillnekros, tubul\xe4r nekros'],
              ['Reproductive system', u'infertilitet, menstruationsrubbningar'],
@@ -78,7 +102,11 @@
            ['Rare',
             [['Infections', u'divertikulit'],
              ['Blood', u'eosinofili, leukopeni'],
+<<<<<<< HEAD
              ['Immune system', u'\xf6verk\xe4nslighetsreak tioner'],
+=======
+             ['Immune system', u'\xf6verk\xe4nslighets-reaktioner'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'v\xe4tskeretention, hyperkalemi, hyperurikemi'],
              ['Psychiatric', u'f\xf6rvirring, onormala dr\xf6mmar'],
              ['Nervous system', u'somnolens, tremor'],
@@ -86,7 +114,11 @@
              ['GI', u'glossit, hematemes, rektal bl\xf6dning'],
              ['Skin', u'alopeci, ekkymoser'],
              ['Renal', u'proteinuri, njursvikt'],
+<<<<<<< HEAD
              ['Reproductive system', u'menstruationsrubbn ingar'],
+=======
+             ['Reproductive system', u'menstruations-rubbningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'leukopeni, trombocytopeni'],
              ['Immune system',
               u'\xf6verk\xe4nslighet sreaktioner, t.ex. feber, angio\xf6dem och anafylaktisk reaktion/chock'],
@@ -105,12 +137,21 @@
              ['Hepato',
               u'leversvikt, leverencefalo pati hos patienter med befintlig leversjukdom'],
              ['Skin',
+<<<<<<< HEAD
               u'erythema multiforme, Stevens-Johns ons syndrom, toxisk epidermal nekrolys (TEN)'],
+=======
+              u'erythema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys (TEN)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'muskelsvaghe'],
              ['Renal', u'interstitiell nefrit'],
              ['Reproductive system', u'gynekomasti']]],
            ['Unknown', [['Metabolism', u'Hypomagnes emi']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [11, 15],
  u'_rank': 90,
+=======
+ '_pages': [11, 16],
+ u'_rank': 89,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

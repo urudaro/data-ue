@@ -24,7 +24,11 @@
               u'Angio\xf6dem, fotosensibilitet, erytema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys, urtikaria'],
              ['Renal', u'Interstitiell nefrit, akut njurinsuffciens'],
              ['General',
+<<<<<<< HEAD
               u'Anafylaxi, inklusive anafylaktisk chock och \xf6dem, smakf\xf6r\xe4ndringar, missf\xe4rgningar av tungan.']]],
+=======
+              u'Anafylaxi, inklusive anafylaktisk chock och \xf6dem, smakf\xf6r\xe4ndringar, missf\xe4rgningar av tungan. *Hj\xe4rtklappningar och arytmier inklusive ventrikul\xe4r takykardi (som setts vid behandling med andra makrolider) har rapporterats. S\xe4llsynta rapporter av QT f\xf6rl\xe4ngning och torsades de pointes har f\xf6rekommit. Ett orsakssamband mellan azitromycin och dessa effekter har inte kunnat uteslutas (se avsnitt 4.4 Varningar och f\xf6rsiktighet). H\xf6rselneds\xe4ttning inkluderande d\xf6vhet och/eller tinnitus har rapporterats vid l\xe5ngvarigt bruk med h\xf6ga doser i kliniska pr\xf6vningar. I de fall som varit m\xf6jliga att f\xf6lja upp har h\xf6rselneds\xe4ttningen i en majoritet av fallen varit reversibel. Enstaka fall av levernekros och leversvikt, som i s\xe4llsynta fall ledde till d\xf6d, har rapporterats. Ett orsakssamband har dock ej fastst\xe4llts. Laboratoriev\xe4rden: onormala leverv\xe4rden har rapporterats. En l\xe4tt, \xf6verg\xe5ende minskning av antalet neutrofila blodkroppar har setts hos ett f\xe5tal patienter, men sambandet med azitromycin \xe4r oklart. Svamp\xf6verv\xe4xt i munh\xe5la och underliv kan f\xf6rekomma.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown', [['Nervous system', u'Hypoestesi']]]],
  '_pages': [4, 6],
  u'_rank': 19,

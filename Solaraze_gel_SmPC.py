@@ -9,7 +9,11 @@
             [['Eye', u'\xd6gonsm\xe4rta, st\xf6rning av t\xe5rfl\xf6det'],
              ['GI', u'Buksm\xe4rta, diarr\xe9, illam\xe5ende'],
              ['Skin',
+<<<<<<< HEAD
               u'Alopeci, ansikts\xf6dem, makulopapu-l\xf6s a hudutslag, \xf6verk\xe4nslighet mot ljus, seborr\xe9'],
+=======
+              u'Alopeci, ansikts\xf6dem, makulopapu-l\xf6sa hudutslag, \xf6verk\xe4nslighet mot ljus, seborr\xe9'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Bl\xf6dning']]],
            ['Rare', []],
            ['Very rare',

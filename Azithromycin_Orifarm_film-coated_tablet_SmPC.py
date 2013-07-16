@@ -19,7 +19,11 @@
              ['Ear',
               u'Makrolidantibiotika har rapporterats ha orsakat h\xf6rselskador. Hos en del patienter som behandlats med azitromycin har h\xf6rselneds\xe4ttning, d\xf6vhet samt ringningar i \xf6ronen rapporterats. Flera av dessa fall f\xf6rekom vid experimentella studier d\xe4r azitromycin administrerades i h\xf6ga doser under l\xe4ngre perioder. Enligt de tillg\xe4ngliga uppf\xf6ljningsrapporterna har dock flertalet av dessa problem varit reversibla.'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Hj\xe4rtklappning, arytmi inklusive kammartakykardi. Potentiell risk f\xf6r QT-f\xf6rl\xe4ngning och torsade de pointes f\xf6religger, i synnerhet hos patienter med \xf6kad mottaglighet f\xf6r dessa tillst\xe5nd (se avsnitt 4.4).'],
+=======
+              u'Hj\xe4rtklappning, arytmi inklusive kammartakykardi. Potentiell risk f\xf6r QT- f\xf6rl\xe4ngning och torsade de pointes f\xf6religger, i synnerhet hos patienter med \xf6kad mottaglighet f\xf6r dessa tillst\xe5nd (se avsnitt 4.4).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypotoni.'],
              ['GI',
               u'F\xf6rstoppning, missf\xe4rgning av tungan, pankreatit, missf\xe4rgning av t\xe4nderna, pseudomembran\xf6s kolit.'],

@@ -12,7 +12,11 @@
              ['Nervous system', u'Tremor, yrsel'],
              ['Ear', u'Otosalpingit'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Palpitationer, f\xf6rl\xe4ngt  EKG-QTc-intervall, f\xf6r\xe4ndringar i EKG, takykardi, takyarytmi'],
+=======
+              u'Palpitationer, f\xf6rl\xe4ngt EKG-  QTc-intervall, f\xf6r\xe4ndringar i EKG, takykardi, takyarytmi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hyperemi, rodnande'],
              ['Respiratory', u'Hosta, produktiv hosta,  halsirritation, astmakris'],
              ['GI',

@@ -1,12 +1,19 @@
 {'_data': [['Common',
             [['Nervous system', u'svindel/yrsel, huvudv\xe4rk'],
+<<<<<<< HEAD
              ['GI', u'illam\xe5ende, buksm\xe4rtor'],
              ['General', u'asteni']]],
+=======
+             ['GI', u'illam\xe5ende, buksm\xe4rtor']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Nervous system', u'synkop\xe9*, vertigo'],
              ['Cardiac', u'takykardi'],
              ['Vascular', u'postural hypotension*,  v\xe4rmevallningar'],
+<<<<<<< HEAD
              ['Respiratory', u'rinit'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'dyspepsi, diarr\xe9'],
              ['Skin', u'hudutslag (urtikaria), exantem,  pruritus'],
              ['Renal', u'urininkontinens'],
@@ -22,5 +29,9 @@
              ['Hepato', u'hepatocellul\xe4r skada, kolestatisk  leversjukdom'],
              ['Reproductive system', u'priapism']]]],
  '_pages': [3, 3],
+<<<<<<< HEAD
  u'_rank': 19,
+=======
+ u'_rank': 17,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

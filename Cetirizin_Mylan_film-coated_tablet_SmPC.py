@@ -21,8 +21,12 @@
             [['Blood', u'Trombocytopeni'],
              ['Immune system', u'Anafylaktisk chock'],
              ['Psychiatric', u'Tics'],
+<<<<<<< HEAD
              ['Nervous system',
               u'Dysgeusi, dyskinesi, dystoni, synkope, tremor Inte k\xe4nd: Amnesi, minnesneds\xe4ttning'],
+=======
+             ['Nervous system', u'Dysgeusi, dyskinesi, dystoni, synkope, tremor'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Ackommodationsst\xf6rningar, dimsyn, okulogyr kris'],
              ['Skin', u'Angioneurotiskt \xf6dem, fixt l\xe4kemedelsutslag'],
              ['Renal', u'Dysuri, enures']]],
@@ -37,7 +41,14 @@
              ['GI', u'Diarr\xe9 1,0 % 0,6 %'],
              ['Psychiatric', u'S\xf6mnighet 1,8 % 1,4 %'],
              ['Respiratory',
+<<<<<<< HEAD
               u'Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet Tr\xf6tthet 1,0 % 0,3 % b) Erfarenhet efter marknadsf\xf6ringen Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har enstaka fall av f\xf6ljande biverkningar rapporterats efter marknadsf\xf6ringen. Biverkningarna \xe4r beskrivna enligt MedDRA-klassificieringen av organsystem och frekvens baserad p\xe5 erfarenhet efter marknadsf\xf6ringen. Frekvenserna definieras enligt f\xf6ljande: Mycket vanliga (>1/10), vanliga (>1/100, <1/10), mindre']]]],
  '_pages': [3, 5],
  u'_rank': 29,
+=======
+              u'Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet Tr\xf6tthet 1,0 % 0,3 % b) Erfarenhet efter marknadsf\xf6ringen Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har enstaka fall av f\xf6ljande biverkningar rapporterats efter marknadsf\xf6ringen. Biverkningarna \xe4r beskrivna enligt MedDRA-klassificieringen av organsystem och frekvens baserad p\xe5 erfarenhet efter marknadsf\xf6ringen. Frekvenserna definieras enligt f\xf6ljande: Mycket vanliga (>1/10), vanliga (>1/100, <1/10), mindre'],
+             ['Nervous system', u'Amnesi, minnesneds\xe4ttning']]]],
+ '_pages': [3, 5],
+ u'_rank': 30,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

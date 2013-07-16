@@ -4,7 +4,12 @@
              ['Cardiac', u'Palpitationer'],
              ['Vascular', u'Ansiktsrodnad'],
              ['GI', u'Magsm\xe4rtor, illam\xe5ende'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Ankelsvullnad']]],
+=======
+             ['Musculoskeletal', u'Ankelsvullnad'],
+             ['General', u'\xd6dem, fatigue']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric',
               u'S\xf6mnst\xf6rningar, hum\xf6rsv\xe4ngningar  (inklusive \xe5ngest), depression'],
@@ -20,6 +25,10 @@
              ['Musculoskeletal', u'Artralgi, myalgi, muskelkramper,  ryggv\xe4rk'],
              ['Renal', u'Miktionsst\xf6rningar, nykturi, \xf6kad  mikturationsfrekvens'],
              ['Reproductive system', u'Impotens, gynekomasti'],
+<<<<<<< HEAD
+=======
+             ['General', u'Br\xf6stsm\xe4rtor, asteni, sm\xe4rta, malaise'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'\xd6kning eller minskning i vikt']]],
            ['Rare', [['Psychiatric', u'F\xf6rvirring']]],
            ['Very rare',
@@ -28,6 +37,7 @@
              ['Metabolism', u'Hyperglykemi'],
              ['Nervous system', u'Hypertoni, perifer neuropati'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Myokardiell infarkt, arytmier  (inklusive extrasystole, takykardi och atriell arrytmi)'],
              ['Vascular', u'Vaskulit'],
              ['Respiratory', u'Hosta'],
@@ -37,4 +47,15 @@
               u'Angio\xf6dem, erytema multiforme,  urtikaria, exfolativ dermatit, Stevens-Johnson syndrom, Quincks \xf6dem, ljusk\xe4nslighet']]]],
  '_pages': [4, 6],
  u'_rank': 28,
+=======
+              u'Myokardiell infarkt, arytmier (inklusive  extrasystole, takykardi och atriell arrytmi)'],
+             ['Vascular', u'Vaskulit'],
+             ['Respiratory', u'Hosta'],
+             ['GI', u'Pankreatit, gastrit, gingivahyperplasi'],
+             ['Hepato', u'Hepatit, gulsot, f\xf6rh\xf6jda leverenzymer*'],
+             ['Skin',
+              u'Angio\xf6dem, erytema multiforme,  urtikaria, exfolativ dermatit, Stevens- Johnson syndrom, Quincks \xf6dem, ljusk\xe4nslighet']]]],
+ '_pages': [4, 7],
+ u'_rank': 30,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

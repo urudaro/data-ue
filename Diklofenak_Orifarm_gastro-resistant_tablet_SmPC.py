@@ -32,7 +32,11 @@
               u'Kolit (inklusive hemorragisk kolit, exacerbationer av ulcer\xf6s kolit eller Crohns sjukdom), obstipation. Stomatit (inklusive ulcer\xf6s stomatit), glossit, esofagusst\xf6rningar, diafragmaliknande tarmstrikturer, pankreatit.'],
              ['Hepato', u'fulminant hepatit, levernekros, leversvikt.'],
              ['Skin',
+<<<<<<< HEAD
               u'bull\xf6s dermatit, eksem, erytema multiforma, erytem (hudrodnad), Stevens-Johnson syndrom, Lyell\u2019s syndrom (akut toxisk epidermolys), exfoliativ dermatit, h\xe5ravfall, ljus\xf6verk\xe4nslighetsreaktioner, purpura inklusive allergisk purpura, kl\xe5da.'],
+=======
+              u'bull\xf6s dermatit, eksem, erytema multiforma, erytem (hudrodnad), Stevens- Johnson syndrom, Lyell\u2019s syndrom (akut toxisk epidermolys), exfoliativ dermatit, h\xe5ravfall, ljus\xf6verk\xe4nslighetsreaktioner, purpura inklusive allergisk purpura, kl\xe5da.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal',
               u'akut njurinsuffiens, urinv\xe4gsst\xf6rningar som t.ex. hematuri, proteinuri, interstitiell nefrit, nefrotiskt syndrom och papillarnekros.'],
              ['Reproductive system',

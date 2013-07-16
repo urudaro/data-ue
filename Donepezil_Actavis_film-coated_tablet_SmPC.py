@@ -2,7 +2,11 @@
            ['Common',
             [['Infections', u'Vanlig f\xf6rkylning'],
              ['Metabolism', u'Anorexi'],
+<<<<<<< HEAD
              ['Psychiatric', u'Hallucinationer* * Agitation** Aggressivt beteende**'],
+=======
+             ['Psychiatric', u'Hallucinationer** Agitation** Aggressivt beteende**'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Synkope* Yrsel Insomni'],
              ['GI', u'Kr\xe4kning Magbesv\xe4r'],
              ['Skin', u'Hudutslag Pruritus'],
@@ -13,6 +17,7 @@
            ['Uncommon',
             [['Nervous system', u'Krampanfall*'],
              ['Cardiac', u'Bradykardi'],
+<<<<<<< HEAD
              ['GI', u'Magtarmbl\xf6dnin g Ventrikel-och duodenals\xe5r'],
              ['Investigations',
               u'Mindre \xf6kning av serumkoncentrati onen av muskul\xe4rt kreatinkinas']]],
@@ -24,4 +29,16 @@
  '_note': u' ANOMALI in Headers ?MSFU',
  '_pages': [4, 5],
  u'_rank': 20,
+=======
+             ['GI', u'Magtarmbl\xf6dning Ventrikel-och duodenals\xe5r'],
+             ['Investigations',
+              u'Mindre \xf6kning av serumkoncentrationen av muskul\xe4rt kreatinkinas']]],
+           ['Rare',
+            [['Nervous system', u'Extrapyramidala symtom'],
+             ['Cardiac', u'Sinoatriellt block Atrioventrikul\xe4rt block'],
+             ['Hepato', u'Leverdysfunktion, inklusive hepatit***']]]],
+ '_note': u' ANOMALI in Headers ?MSFU',
+ '_pages': [4, 4],
+ u'_rank': 19,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

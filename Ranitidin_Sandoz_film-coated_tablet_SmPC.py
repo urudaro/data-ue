@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['General', u'Tr\xf6tthet.']]],
            ['Uncommon',
             [['GI',
@@ -5,6 +6,12 @@
            ['Rare',
             [['Immune system',
               u'): \xd6verk\xe4nslighetsreaktioner s\xe5som urtikaria, angioneurotiskt \xf6dem, feber, bronkospasm, hypotension och br\xf6stsm\xe4rta.'],
+=======
+{'_data': [['Common', [['General', u'(>1/100, <1/10): Tr\xf6tthet.']]],
+           ['Rare',
+            [['Immune system',
+              u'(>1/10 000, <1/1 000): \xd6verk\xe4nslighetsreaktioner s\xe5som urtikaria, angioneurotiskt \xf6dem, feber, bronkospasm, hypotension och br\xf6stsm\xe4rta.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'\xd6verg\xe5ende f\xf6r\xe4ndringar i leverfunktionstest.'],
              ['Skin', u'Hudutslag.'],
              ['Renal',
@@ -29,7 +36,14 @@
              ['Musculoskeletal', u'Artralgi. Myalgi.'],
              ['Renal', u'Akut interstitiell nefrit.'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Reversibel impotens, br\xf6stsymtom och p\xe5verkan p\xe5 br\xf6sten (t.ex. gynekomasti och galaktorr\xe9)']]]],
+=======
+              u'Reversibel impotens, br\xf6stsymtom och p\xe5verkan p\xe5 br\xf6sten (t.ex. gynekomasti och galaktorr\xe9)']]],
+           ['Unknown',
+            [['GI',
+              u'Diarr\xe9, buksm\xe4rta, konstipation, illam\xe5ende (dessa symtom f\xf6rb\xe4ttrades i de flesta fall d\xe5 behandlingen fortsatte).']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 5],
  u'_rank': 19,
  u'_type': u'LSFU'}

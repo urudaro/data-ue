@@ -1,7 +1,11 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['GI', u'); vanliga (>1/100, <1/10), Mindre vanliga (>1/1,000 till <1/100),'],
              ['Musculoskeletal',
               u'Muskuloskeletal sm\xe4rta (ben, muskel eller led) som ibland kan vara \u2020\xa7 sv\xe5r']]],
+=======
+            [['GI', u'); vanliga (>1/100, <1/10), Mindre vanliga (>1/1,000 till <1/100),']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Nervous system', u'Huvudv\xe4rk, yrsel'],
              ['Ear', u'Vertigo'],
@@ -17,10 +21,17 @@
               u'Illam\xe5ende, kr\xe4kningar, gastrit, esofagit*, esofaguserosioner*, melena'],
              ['Skin', u'Utslag, erytem'],
              ['Musculoskeletal',
+<<<<<<< HEAD
               u'\xd6verg\xe5ende symtom som vid en akutfasreaktion (myalgi, allm\xe4n sjukdomsk\xe4nsla och i s\xe4llsynta fall feber) vanligtvis i samband med behandlingsstart . Se avsnitt 4.4 Frekvensen i kliniska studier var likv\xe4rdig i den aktiva kontrollgruppen respektive placebogruppen.']]],
            ['Rare',
             [['GI',
               u'(>1/10,000 till <1/1,000); mycket s\xe4llsynta (<1/10 000), ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
+=======
+              u'\xd6verg\xe5ende symtom som vid en akutfasreaktion (myalgi, allm\xe4n sjukdomsk\xe4nsla och i s\xe4llsynta fall feber) vanligtvis i samband med behandlingsstart . Se avsnitt 4.4 Frekvensen i kliniska studier var likv\xe4rdig i den aktiva kontrollgruppen respektive placebogruppen. * Se avsnitt 4.2 och 4.4 Denna biverkning uppt\xe4cktes efter godk\xe4nnande f\xf6r f\xf6rs\xe4ljning. Frekvensen s\xe4llsynt baseras p\xe5 data fr\xe5n kliniska pr\xf6vningar. \u2534 Rapporterade efter marknadsf\xf6ring.']]],
+           ['Rare',
+            [['GI',
+              u'); mycket s\xe4llsynta (<1/10 000), ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'\xd6verk\xe4nsli ghetsreaktioner inklusive urtikaria och angio\xf6dem'],
              ['Metabolism',
@@ -28,9 +39,18 @@
              ['GI',
               u'Esofagusstriktur*, s\xe5r i munh\xe5la/svalg*, \xf6vre gastrointestinala PUB (perforationer, s\xe5r, bl\xf6dningar)'],
              ['Skin',
+<<<<<<< HEAD
               u'Hudutslag med fotosensitivitet, allvarliga hudreaktioner inkluderande Stevens-Johnsons syndrom och toxisk epidermal nekrolys'],
              ['Musculoskeletal',
               u'Osteonekros i k\xe4ken \u2021\xa7 , atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning) \u2534 Allm\xe4nna symtom och reaktioner vid administ reringsst\xe4llet']]],
+=======
+              u'Hudutslag med fotosensitivitet, allvarliga hudreaktioner inkluderande Stevens- Johnsons syndrom och toxisk epidermal nekrolys'],
+             ['Musculoskeletal',
+              u'Osteonekros i k\xe4ken \u2021\xa7 , atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning) \u2534 Allm\xe4nna symtom och reaktioner vid administ reringsst\xe4llet']]],
+           ['Very rare',
+            [['Musculoskeletal',
+              u'Muskuloskeletal sm\xe4rta (ben, muskel eller led) som ibland kan vara \u2020\xa7 sv\xe5r']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['GI',
               u'Ett\xe5rsstudien Tre\xe5rsstud iern a Alendronat Alendronat Alendronat Placebo Veckotablett 10 mg/dag 10 mg/dag (n=397) 70 mg (n=370) (n=196) % (n=519) % % % Buksm\xe4rta 3,7 3,0 6,6 4,8 Dyspepsi 2,7 2,2 3,6 3,5 Sura uppst\xf6tningar 1,9 2,4 2,0 4,3 Illam\xe5ende 1,9 2,4 3,6 4,0 Buksp\xe4nning 1,0 1,4 1,0 0,8 F\xf6rstoppning 0,8 1,6 3,1 1,8 Diarr\xe9 0,6 0,5 3,1 1,8 Dysfagi 0,4 0,5 1,0 0,0 Flatulens 0,4 1,6 2,6 0,5 Gastrit 0,2 1,1 0,5 1,3 Mags\xe5r 0,0 1,1 0,0 0,0 Oesofaguss\xe5r 0,0 0,0 1,5 0,0 Muskuloskeletala Muskuloskeletal sm\xe4rta 2,9 3,2 4,1 2,5 (ben, muskel eller led) Muskelkramp 0,2 1,1 0,0 1,0 Neurologiska Huvudv\xe4rk 0,4 0,3 2,6 1,5 F\xf6ljande biverkningar har ocks\xe5 rapporterats i kliniska studier och/eller efter godk\xe4nnande: I detta avsnitt \xe4r biverkningsfrekensen definierad enligt f\xf6ljande']]]],

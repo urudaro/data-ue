@@ -10,8 +10,13 @@
              ['Nervous system',
               u' Polyneurit, encefalit, perifer neuropati, Guillain-Barr\xe9s syndrom och encefalopati.'],
              ['Respiratory', u' Pneumoni, lungfibros.'],
+<<<<<<< HEAD
              ['GI', u'Kolit.'],
              ['Skin', u'Exfoliativ dermatit, alopeci.'],
+=======
+             ['GI', u' Kolit.'],
+             ['Skin', u' Exfoliativ dermatit, alopeci.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u' Leverskada.']]]],
  '_pages': [2, 3],
  u'_rank': 12,

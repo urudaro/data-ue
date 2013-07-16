@@ -1,6 +1,10 @@
 {'_data': [['Common',
             [['Psychiatric',
+<<<<<<< HEAD
               u'00), s\xe4llsynta (>1/10 000 till <1/1000), mycket s\xe4llsynta(<1/10 000), ingen']]],
+=======
+              u'(>1/1000 till <1/100), s\xe4llsynta (>1/10 000 till <1/1000), mycket s\xe4llsynta(<1/10 000), ingen']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric', u'Agitation.'],
              ['Nervous system', u'Parestesier.'],
@@ -26,7 +30,12 @@
              ['Skin', u'Angioneurotiskt \xf6dem, fixt l\xe4kemedelsutslag.'],
              ['Renal', u'Dysuri, enures.']]],
            ['Unknown',
+<<<<<<< HEAD
             [['General', u'Tr\xf6tthet 1,63 % 0,95 %'],
+=======
+            [['Nervous system',
+              u'rapporterats. \xc4ven om cetirizin \xe4r en selektiv antagonist till perifera H -receptorer och \xe4r relativt fritt fr\xe5n antikolinerg aktivitet, har enstaka fall av urineringssv\xe5righeter, ackommodationsst\xf6rningar i \xf6gonen och muntorrhet rapporterats. Tillf\xe4llen med onormal leverfunktion med f\xf6rh\xf6jda leverenzymer f\xf6ljt av f\xf6rh\xf6jt bilirubin har rapporterats. Oftast normaliseras detta d\xe5 behandling med l\xe4kemedlet avbryts. a) Kliniska pr\xf6vningar Dubbelblinda kontrollerade kliniska studier j\xe4mf\xf6rande cetirizin med placebo eller andra antihistaminer, vid rekommenderad dos (10 mg dagligen f\xf6r cetirizin), f\xf6r vilka kvantifierade s\xe4kerhetsdata finns tillg\xe4ngliga, inkluderade mer \xe4n 3200 cetirizin-exponerade personer. Fr\xe5n dessa poolade data rapporterades f\xf6ljande biverkningar f\xf6r cetirizin 10 mg, i de placebokontrollerade studierna, med en frekvens p\xe5 1,0 % eller mer: Biverkning (WHO-ART) Cetirizin 10 mg Placebo (n = 3260) (n = 3061) Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet Tr\xf6tthet 1,63 % 0,95 %'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Yrsel 1,10 % 0,98 % Huvudv\xe4rk 7,42 % 8,07 %'],
              ['GI',
               u'Buksm\xe4rta 0,98 % 1,08 % Muntorrhet 2,09 % 0,82 % Illam\xe5ende 1,07 % 1,14 %'],

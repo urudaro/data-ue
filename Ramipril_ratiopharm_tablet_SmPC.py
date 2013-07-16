@@ -5,10 +5,16 @@
               u'Gastrointestinal inflammation, matsm\xe4ltnings-besv\xe4r, bukobehag, dyspepsi, diarr\xe9, illam\xe5ende, kr\xe4kningar'],
              ['Skin', u'Hudutslag, s\xe4rskilt makulopapul\xe4ra'],
              ['Musculoskeletal', u'Muskelspasmer, myalgi'],
+<<<<<<< HEAD
              ['Metabolism', u'\xd6kat blodkalium'],
              ['Vascular', u'Hypotension, ortostatiskt blodtrycksfall, synkope'],
              ['General', u'Br\xf6stsm\xe4rta, tr\xf6tthet st '],
              ['Reproductive system', u'or ']]],
+=======
+             ['Metabolism', u'\xd6kat blodkalium Anorexi, minskad'],
+             ['Vascular', u'Hypotension, ortostatiskt blodtrycksfall, synkope'],
+             ['General', u'Br\xf6stsm\xe4rta, tr\xf6tthet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Cardiac',
               u'Myokardisk ischemi inklusive angina pectoris eller myokardinfarkt, takykardi, arytmi, palpitationer, perifert \xf6dem'],
@@ -23,7 +29,11 @@
              ['Skin',
               u'Angio\xf6dem; i mycket s\xe4llsynta fall kan obstruktion i luftv\xe4garna pga angio\xf6dem f\xe5 en d\xf6dlig utg\xe5ng, pruritus, hyperhidros'],
              ['Musculoskeletal', u'Artralgi'],
+<<<<<<< HEAD
              ['Metabolism', u'Anorexi, minskad aptit'],
+=======
+             ['Metabolism', u'aptit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Blodvallningar'],
              ['General', u'Pyrexi'],
              ['Hepato', u'\xd6kning av leverenzymer och/eller konjugerat bilirubin'],
@@ -42,9 +52,15 @@
              ['General', u'Asteni'],
              ['Hepato', u'Kolestatisk gulsot, hepato-cellul\xe4r skada'],
              ['Psychiatric', u'F\xf6rvirring']]],
+<<<<<<< HEAD
            ['Very rare', [['Skin', u'Ljusk\xe4nslig -hetsreaktio n']]],
            ['Unknown',
             [['Blood', u'Benm\xe4rgsdep-res sion, pancytopeni, hemolytisk anemi'],
+=======
+           ['Very rare', [['Skin', u'Ljusk\xe4nslig-hetsreaktion']]],
+           ['Unknown',
+            [['Blood', u'Benm\xe4rgsdep-ression, pancytopeni, hemolytisk anemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Cerebral ischemi inklusive ischemisk stroke och transitorisk ischemisk attack, f\xf6rs\xe4mring av psykomotorisk f\xf6rm\xe5ga, br\xe4nnande k\xe4nsla, parosmi'],
              ['GI', u'Aft\xf6s stomatit'],
@@ -57,8 +73,15 @@
              ['Hepato',
               u'Akut leversvikt, kolestatisk eller cytolytisk hepatit (fatal utg\xe5ng har varit mycket s\xe4llsynt)'],
              ['Reproductive system', u'Gynekomasti'],
+<<<<<<< HEAD
              ['Psychiatric', u'Uppm\xe4rksamhet sst\xf6rning']]]],
  '_note': u' ?MSFU',
  '_pages': [8, 10],
  u'_rank': 45,
+=======
+             ['Psychiatric', u'Uppm\xe4rksamhets-st\xf6rning']]]],
+ '_note': u' ?MSFU',
+ '_pages': [8, 10],
+ u'_rank': 44,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

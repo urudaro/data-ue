@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [[u'Unknown',
             [['Immune system', u'Angioneurotiska'],
              ['Psychiatric',
@@ -13,3 +14,21 @@
  '_pages': [5, 7],
  u'_rank': 9,
  u'_type': u'LFSU'}
+=======
+{'_data': [['Common',
+            [['Immune system',
+              u'Angioneurotiska   st\xf6rningar  Psykiska  Hallucinationer,  Irritabilitet  Minskad  Rastl\xf6shet,   st\xf6rningar  agitation,  libido  aggressivitet,   mardr\xf6mmar,  vanf\xf6rest\xe4llningar,   k\xe4nslom\xe4ssig  raserianfall,   avtrubbning,  psykoser, onormalt   f\xf6rvirring  beteende, s\xf6mng\xe5ng   (se avsnitt 4.4),  beroende  (uts\xe4ttningssymptom  eller re-  boundeffekter kan  uppst\xe5 vid  behandlingsavslut),  depression  Centrala och  Somnolens,  Ataxi  S\xe4nkt   perifera  huvudv\xe4rk,  medvetandegrad'],
+             ['Nervous system',
+              u'yrsel, \xf6kad   s\xf6mnl\xf6shet,  anterograd  amnesi  (amnestiska  effekter kan  associeras med  inadekvat  beteende),  d\xe5sighet  n\xe4stf\xf6ljande  dag, nedsatt  reaktions-  f\xf6rm\xe5ga,'],
+             ['Eye', u'Dubbelseende'],
+             ['Ear', u'Svindel   balansorgan'],
+             ['GI', u'Diarr\xe9,   illam\xe5ende,  kr\xe4kningar,  buksm\xe4rta'],
+             ['Hepato', u'F\xf6rh\xf6jda   gallv\xe4gar  leverenzymniv\xe5er'],
+             ['Skin',
+              u'v\xe4vnad  urtikaria,   hyperhidros  Muskuloskeletala  Muskelsvaghet   systemet och  bindv\xe4v'],
+             ['General',
+              u'reaktioner  drogtolerans,   fallolyckor (fr\xe4mst  hos \xe4ldre patienter  och n\xe4r zolpidem  inte tas enligt  f\xf6reskriven  rekommendation)']]]],
+ '_pages': [5, 7],
+ u'_rank': 8,
+ u'_type': u'LFSUR'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

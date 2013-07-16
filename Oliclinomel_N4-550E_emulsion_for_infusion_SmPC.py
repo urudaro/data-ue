@@ -1,5 +1,6 @@
 {'_data': [['Common',
             [['Immune system', u'\xd6verk\xe4nslighet'],
+<<<<<<< HEAD
              ['Nervous system', u'Huvudv\xe4rk'],
              ['GI', u'Diarr\xe9'],
              ['Renal', u'Azotemi'],
@@ -8,6 +9,12 @@
              ['General', u'Extravasation vid infusionsst\xe4llet'],
              ['General', u''],
              ['General', u'Sm\xe4rta vid infusionsst\xe4llet'],
+=======
+             ['GI', u'Diarr\xe9'],
+             ['Renal', u'Azotemi'],
+             ['Skin', u''],
+             ['Skin', u'Sm\xe4rta vid infusionsst\xe4llet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'\xd6kning av leverenzym'],
              ['Investigations', u''],
              ['Investigations', u'\xd6kning av gammaglutamyltransferas'],
@@ -22,6 +29,7 @@
              ['Hepato', u'Gulsot'],
              ['Skin', u'Erytem'],
              ['Skin', u'Hyperhidros'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Muskulosketala sm\xe4rtor'],
              ['Musculoskeletal', u'Ryggsm\xe4rtor'],
              ['Musculoskeletal', u'Br\xf6stsm\xe4rtor'],
@@ -36,10 +44,29 @@
              ['General', u'Pyrexi'],
              ['General', u'V\xe4rmek\xe4nsla'],
              ['General', u'Hypertermi'],
+=======
+             ['Skin', u'Ryggsm\xe4rtor'],
+             ['Skin', u'Br\xf6stsm\xe4rtor'],
+             ['Skin', u'Sm\xe4rtor i extremiteter'],
+             ['Skin', u'Muskelspasmer'],
+             ['Skin', u'Svullnad vid infusionsst\xe4llet'],
+             ['Skin', u'Vesiklar vid infusionsst\xe4llet'],
+             ['Skin', u'Flebit runt katetern'],
+             ['Skin', u'\xd6dem vid injektionsst\xe4llet'],
+             ['Skin', u'Lokaliserat \xf6dem'],
+             ['Skin', u'Perifert \xf6dem'],
+             ['Skin', u'Pyrexi'],
+             ['Skin', u'V\xe4rmek\xe4nsla'],
+             ['Skin', u'Hypertermi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'\xd6kning av bilirubin i blodet'],
              ['Investigations', u'\xd6kning av triglycerider i blodet'],
              ['Investigations',
               u'\xd6kning av alkalinfosfatas i blodet  \xd6kning av blodglukos Hyperglykemi']]]],
  '_pages': [7, 10],
+<<<<<<< HEAD
  u'_rank': 33,
+=======
+ u'_rank': 29,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

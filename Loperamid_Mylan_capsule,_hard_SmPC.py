@@ -2,7 +2,11 @@
            ['Unknown',
             [['Immune system', u'anafylaktoida reaktioner Centrala och perifera'],
              ['GI',
+<<<<<<< HEAD
               u'F\xf6rstoppning, illam\xe5ende, Vanliga Vanliga Vanliga Organsystem Indikation Akut diarr\xe9 Kronisk diarr\xe9 Akut diarr\xe9 + kronisk (N=2755) (N=321) diarr\xe9 och efter marknadsf\xf6ring flatulens Magsm\xe4rtor, magbesv\xe4r, Mindre vanliga Mindre vanliga Mindre vanliga munntorrhet Sm\xe4rta i \xf6vre delen av magen, kr\xe4kningar Mindre vanliga Mindre vanliga Dyspepsi Mindre vanliga Mindre vanliga Ileus (inklusive paralytisk ileus), megakolon (inklusive S\xe4llsynta toxisk megakolon Utsp\xe4nd buk S\xe4llsynta S\xe4llsynta'],
+=======
+              u'Indikation Organsystem Akut diarr\xe9 Kronisk diarr\xe9 Akut diarr\xe9 + kronisk (N=2755) (N=321) diarr\xe9 och efter marknadsf\xf6ring F\xf6rstoppning, illam\xe5ende, flatulens Vanliga Vanliga Vanliga Magsm\xe4rtor, magbesv\xe4r, Mindre vanliga Mindre vanliga Mindre vanliga munntorrhet Sm\xe4rta i \xf6vre delen av magen, kr\xe4kningar Mindre vanliga Mindre vanliga Dyspepsi Mindre vanliga Mindre vanliga Ileus (inklusive paralytisk ileus), megakolon (inklusive S\xe4llsynta toxisk megakolon Utsp\xe4nd buk S\xe4llsynta S\xe4llsynta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Utslag Mindre vanliga Mindre vanliga Bull\xf6s eruption (inklusive Stevens-Johnson syndrom, toxsisk epidermal nekrolys och S\xe4llsynta erythema multiforme), angio\xf6dem , urtikaria , pruritus'],
              ['General',

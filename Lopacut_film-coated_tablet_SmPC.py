@@ -15,7 +15,11 @@
              ['GI',
               u'ileus (inkl. paralytisk ileus), utsp\xe4nd buk, megakolon (inkl. toxisk megakolon Hud o c h subkut a n v \xe4 vn a d'],
              ['GI',
+<<<<<<< HEAD
               u'urtikaria , pruritus , angio\xf6dem , bull\xf6sa eruptioner inklusive Stevens-Johnsons syndrom, erythema multiformae och toxisk epidermal nekrolys Njur c h urinv \xe4 g a r'],
+=======
+              u'urtikaria , pruritus , angio\xf6dem , bull\xf6sa eruptioner inklusive Stevens- Johnsons syndrom, erythema multiformae och toxisk epidermal nekrolys Njur c h urinv \xe4 g a r'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'urinretention'],
              ['General',
               u'tr\xf6tthet a: Inf\xf6randet av detta begrepp \xe4r baserad p\xe5 rapporter av loperamid HCl efter marknadsf\xf6ring. Eftersom processen f\xf6r att best\xe4mma biverkningar efter marknadsf\xf6ringen inte skilja mellan kronisk och akut indikationer eller vuxna och barn, \xe4r frekvenser uppskattas fr\xe5n alla kliniska studier kombineras med loperamid HCl, inklusive studier p\xe5 barn \u2264 12 \xe5r (N = 3683). b: Se avsnitt 4.4 Varningar och f\xf6rsiktighet.']]],

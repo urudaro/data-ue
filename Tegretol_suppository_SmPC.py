@@ -44,12 +44,17 @@
              ['Reproductive system', u'Sexuell funktionsneds\xe4ttning'],
              ['Reproductive system', u'Feber']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Blood', u'R\xf6d blodkroppsaplasi'],
+=======
+            [['Blood', u'R\xf6d blodkroppsaplasi Anemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Endocrine',
               u'\xd6kning av prolaktin i blodet med eller utan kliniska manifestationer, f\xf6rh\xf6jda niv\xe5er av kolesterol i blodet, inkluderande HDL-kolesterol samt triglycerider'],
              ['Nervous system', u'Malignt neuroleptikasyndrom'],
              ['Ear', u'Hypoakusi, f\xf6r\xe4ndrad tonuppfattning'],
              ['GI', u'Pankreatit'],
+<<<<<<< HEAD
              ['Hepato', u'Leversvikt'],
              ['Skin',
               u'Angioneurotiskt \xf6dem, allvarliga hudreaktioner (severe cutaneous adverse reactions, SCARs), Stevens-Johnsons syndrom*, toxisk epidermal nekrolys (TEN) (se 4.4) Muskuloskeletala systemet och bindv\xe4v'],
@@ -61,11 +66,27 @@
               u'Osteoporos efter l\xe5ngvarig behandling beroende p\xe5 \xf6kad nedbrytning av vitamin D genom enzyminduktion'],
              ['Eye', u'\xd6kat intraokul\xe4rt tryck'],
              ['Hepato', u'Porfyria variegata, porfyria cutanea tarda'],
+=======
+             ['Hepato', u'Leversvikt Porfyria variegata, porfyria cutanea tarda'],
+             ['Skin',
+              u'Angioneurotiskt \xf6dem, allvarliga hudreaktioner (severe cutaneous adverse reactions, SCARs), Stevens-Johnsons syndrom*, toxisk epidermal nekrolys (TEN) (se 4.4) Muskuloskeletala systemet och bindv\xe4v'],
+             ['Reproductive system',
+              u'Anafylaktisk reaktion * \xc4ven rapporterat som s\xe4llsynt i vissa asiatiska l\xe4nder. Se \xe4ven avsnitt 4.4 Varningar och f\xf6rsiktighet. M\xe5ttlig minskning av antalet leukocyter eller trombocyter \xe4r vanligt f\xf6rekommande men oftast \xf6verg\xe5ende, och beror mestadels inte p\xe5 n\xe5gon allvarlig benm\xe4rgsp\xe5verkan. Det har kommit rapporter om s\xe4nkning av benmineraldensitet, osteopeni, osteoporos och frakturer hos patienter som st\xe5r p\xe5 l\xe5ngtidsbehandling med Tegretol. Mekanismen, genom vilken Tegretol p\xe5verkar benmetabolismen, har inte identifierats. Biverkningar fr\xe5n spontana rapporter och fall beskrivna i litteraturen (ingen k\xe4nd frekvens) F\xf6ljande biverkningar har inkommit efter lansering av Tegretol via spontana fallrapporter och litteraturfall. Eftersom dessa biverkningar har rapporteras frivilligt fr\xe5n en population av ok\xe4nd storlek \xe4r det inte m\xf6jligt att ber\xe4kna frekvensen p\xe5 ett tillf\xf6rlitligt s\xe4tt varf\xf6r den klassificeras som ingen k\xe4nd frekvens. Biverkningarna anges utifr\xe5n organsystemklass och frekvenskategori enligt MedDRA. Inom varje organsystemklass presenteras biverkningarna i fallande allvarlighetsgrad.']]],
+           ['Unknown',
+            [['Immune system', u'Hypogammaglobulinemi'],
+             ['Endocrine',
+              u'Osteoporos efter l\xe5ngvarig behandling beroende p\xe5 \xf6kad nedbrytning av vitamin D genom enzyminduktion'],
+             ['Eye', u'\xd6kat intraokul\xe4rt tryck'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system',
               u'St\xf6rning av spermatogenesen (med minskat antal spermier och/eller minskad spermier\xf6rlighet) Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
              ['Immune system',
               u'L\xe4kemedelsrelaterade utslag med eosinofili och systemiska symptom (DRESS)'],
              ['Skin', u'Akut generaliserad exantemat\xf6s pustulos (AGEP)']]]],
  '_pages': [9, 12],
+<<<<<<< HEAD
  u'_rank': 45,
+=======
+ u'_rank': 43,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

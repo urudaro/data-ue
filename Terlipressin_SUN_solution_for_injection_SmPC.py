@@ -21,7 +21,11 @@
               u'lokal kutan nekros Vid kliniska f\xf6rs\xf6k och eftermarknadserfarenheter har flera fall av f\xf6rl\xe4ngt QT-intervall och ventrikelarytmier, inklusive \u201dTorsade de pointes\u201d, rapporterats (se avsnitt 4.4 och 4.5). Vid eftermarknadserfarenheterna har flera fall av kutan ischemi och nekros utan relation till injektionsst\xe4llet rapporterats (se avsnitt 4.4).']]],
            ['Rare', [['Respiratory', u'dyspn\xe9']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Metabolism', u'hyperglykemi D210'],
+=======
+            [['Metabolism', u'hyperglykemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'stroke'],
              ['Cardiac', u'hj\xe4rtischemi']]],
            ['Unknown',

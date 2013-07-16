@@ -16,6 +16,10 @@
               u'- Diarr\xe9 (mindre vanliga) F\xf6rstoppning (mindre vanliga) Hernia (mycket vanliga) Utvidgad buk och k\xe4nsla av uppk\xf6rdhet (vanliga)'],
              ['Injury',
               u'- Rubbningar i dialysv\xe4tskans in- och utfl\xf6de (vanliga) Sm\xe4rta i skuldrorna (vanliga)']]]],
+<<<<<<< HEAD
  '_pages': [5, 7],
+=======
+ '_pages': [6, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 9,
  u'_type': u'LSFU'}

@@ -19,7 +19,11 @@
              ['Skin', u'Tr\xf6tthet och asteni'],
              ['Skin', u'Olustk\xe4nsla'],
              ['Investigations',
+<<<<<<< HEAD
               u'Viktminskning F\xf6ljande ytterligare biverkningar har observerats med depotpl\xe5ster som inneh\xe5ller rivastigmin: delirium, pyrexi (vanliga).'],
+=======
+              u'Viktminskning F\xf6ljande ytterligare biverkningar har observerats med depotpl\xe5ster som inneh\xe5ller rivastigmin: delirium, pyrexi (vanliga). Tabell 2 visar biverkningar fr\xe5n Parkinson-patienter med demens som behandlats med rivastigmin. Tabell 2'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Anorexi'],
              ['Metabolism', u'Dehydrering'],
              ['Psychiatric', u'S\xf6mnl\xf6shet'],
@@ -38,7 +42,12 @@
              ['Skin', u'Hyperhidros Muskuloskeletala systemet och bindv\xe4v'],
              ['Skin', u'Muskelstelhet Allm\xe4nna symtom och/eller'],
              ['Skin', u'Tr\xf6tthet och asteni'],
+<<<<<<< HEAD
              ['Skin', u'G\xe5ngrubbning']]],
+=======
+             ['Skin',
+              u'G\xe5ngrubbning Tabell 3 visar patientantal och procent fr\xe5n en speciell 24 veckors klinisk pr\xf6vning som utf\xf6rts med rivastigmin hos patienter med demens vid Parkinsons sjukdom med biverkningar vilka kan t\xe4nkas reflektera f\xf6rs\xe4mring av parkinsonsymtom. Tabell 3 Biverkningar som kan reflektera f\xf6rs\xe4mring av Rivastigmin Placebo parkinsonsymtom hos patienter med demens vid Parkinsons n (%) n (%) sjukdom Totala antalet patienter studerade 362 (100) 179 (100) Totala antalet patienter med biverkningar 99 (27,3) 28 (15,6) Tremor 37 (10,2) 7 (3,9) Fall 21 (5,8) 11 (6,1) Parkinsons sjukdom (f\xf6rs\xe4mring) 12 (3,3) 2 (1,1) Saliv hypersekretion 5 (1,4) 0 Dyskinesia 5 (1,4) 1 (0,6) Parkinsonism 8 (2,2) 1 (0,6) Hypokinesi 1 (0,3) 0 R\xf6relserubbning 1 (0,3) 0 Bradykinesi 9 (2,5) 3 (1,7) Dystoni 3 (0,8) 1 (0,6) G\xe5ngrubbning 5 (1,4) 0 Muskelstelhet 1 (0,3) 0 Balanssv\xe5righeter 3 (0,8) 2 (1,1) Muskuloskeletal stelhet 3 (0,8) 0 Stelhet 1 (0,3) 0 Motorisk dysfunktion 1 (0,3) 0']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Psychiatric', u'S\xf6mnl\xf6shet'],
              ['Psychiatric', u'Depression'],
@@ -55,13 +64,18 @@
              ['Skin', u'Hudutslag']]],
            ['Very rare',
             [['Infections', u'Urinv\xe4gsinfektion'],
+<<<<<<< HEAD
              ['Psychiatric', u'Hallucinationer'],
+=======
+             ['Psychiatric', u'Hallucinationer Aggression, rastl\xf6shet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Extrapyramidala symtom (inklusive f\xf6rs\xe4mring av Parkinsons sjukdom)'],
              ['Cardiac',
               u'Hj\xe4rtarytmier (t ex bradykardi, atrioventrikul\xe4rblock, f\xf6rmaksflimmer and takykardi)'],
              ['Vascular', u'H\xf6gt blodtryck'],
              ['GI', u'Gastrointestinala bl\xf6dningar'],
+<<<<<<< HEAD
              ['GI', u'Pankreatit']]],
            ['Unknown',
             [['Metabolism', u'Dehydrering'],
@@ -69,6 +83,13 @@
              ['Cardiac', u'Sjuk sinusknuta (sick sinus syndrome)'],
              ['GI',
               u'Vissa fall med kraftig kr\xe4kning var f\xf6renade med esofagusruptur (se avsnitt 4.4).'],
+=======
+             ['GI',
+              u'Pankreatit Vissa fall med kraftig kr\xe4kning var f\xf6renade med esofagusruptur (se avsnitt 4.4).']]],
+           ['Unknown',
+            [['Metabolism', u'Dehydrering'],
+             ['Cardiac', u'Sjuk sinusknuta (sick sinus syndrome)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Hepatit'],
              ['Skin',
               u'Pruritus Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
@@ -76,5 +97,9 @@
              ['Cardiac', u'Sjuk sinusknuta (sick sinus syndrome)'],
              ['Hepato', u'Hepatit']]]],
  '_pages': [4, 7],
+<<<<<<< HEAD
  u'_rank': 66,
+=======
+ u'_rank': 64,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

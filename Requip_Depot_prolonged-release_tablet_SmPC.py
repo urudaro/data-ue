@@ -1,6 +1,10 @@
 {'_data': [['Very common',
             [['Nervous system',
+<<<<<<< HEAD
               u'S\xf6mnighet Dykinesi Hos patient e r med avanc e r a d Parkinsons sjukdo m kan dyskine si upptr\xe4 d a under den initiala titreringe n av ropinirol. Kliniska studier har visat att en minskning av levodop a d o s e n kan f\xf6rb\xe4ttr a symt o m e n av dyskine si (se avsnitt 4.2)'],
+=======
+              u'S\xf6mnighet Dykinesi Hos patient e r me d avanc er a d Parkinsons sjukdo m kan dyskine si upptr\xe4 d a under den initiala titreringe n av ropinirol. Kliniska studier har visat att en minskning av levodop a d o s e n kan f\xf6rb\xe4ttr a symt o m e n av dyskine si (se avsnitt 4.2)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende'],
              ['Nervous system', u'Mycket vanliga Synkope S\xf6mnighet'],
              ['GI', u'Illam\xe5ende']]],
@@ -20,7 +24,11 @@
            ['Uncommon',
             [['Vascular', u'Postural hypotension, hypotension'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Mindre vanliga Psykotiska reaktioner (andra Psykotiska reaktioner (andra \xe4n hallucinationer) \xe4n hallucinationer) innefattande delirium, innefattande delirium, vanf\xf6rest\xe4llning, paranoia. vanf\xf6rest\xe4llning, paranoia.'],
+=======
+              u'Mindre vanliga Psykotiska reaktioner (andra Psykotiska reaktioner (andra \xe4n hallucinationer) innefattande \xe4n hallucinationer) delirium, vanf\xf6rest\xe4llning, innefattande delirium, paranoia. vanf\xf6rest\xe4llning, paranoia.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Mindre vanliga Pl\xf6tsliga s\xf6mnattacker, uttalad Pl\xf6tsliga s\xf6mnattacker, s\xf6mnighet dagtid. uttalad s\xf6mnighet dagtid. Ropinirol har satts i samband med s\xf6mnighet och har i mindre'],
              ['Vascular', u'Postural hypotension eller hypotension \xe4r s\xe4llan allvarlig.']]],

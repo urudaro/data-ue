@@ -17,7 +17,10 @@
               u'Depression, emotionell instabilitet  (L\xe5ngtidsbehandling), insomnia, \xf6kad libido'],
              ['Nervous system', u'Parestesi'],
              ['Vascular', u'Hypertoni, hypotoni'],
+<<<<<<< HEAD
              ['Skin', u'Irritation i n\xe4sslemhinnan'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Hirsutism'],
              ['Reproductive system',
               u'Minskad br\xf6stk\xf6rtelstorlek, inducerad  menopaus, bl\xf6dning fr\xe5n uterus'],
@@ -29,5 +32,9 @@
              ['Reproductive system', u'Br\xf6stf\xf6rstoring, ovarialcysta']]],
            ['Rare', [['Eye', u'Synp\xe5verkan'], ['Musculoskeletal', u'Artrit']]]],
  '_pages': [3, 4],
+<<<<<<< HEAD
  u'_rank': 25,
+=======
+ u'_rank': 24,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

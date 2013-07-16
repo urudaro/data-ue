@@ -29,6 +29,10 @@
              ['Musculoskeletal', u'Nackstelhet. Artralgi'],
              ['Psychiatric', u'\xc5ngest'],
              ['Skin', u'Hyperhidros']]]],
+<<<<<<< HEAD
  '_pages': [5, 6],
+=======
+ '_pages': [4, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 17,
  u'_type': u'LSFU'}

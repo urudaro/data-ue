@@ -1,5 +1,9 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Cardiac', u'Arytmi.'],
+=======
+            [['Cardiac', u'(>1/100, <1/10) Arytmi.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Magknip, illam\xe5ende, diarr\xe9.'],
              ['Skin', u'Utslag.'],
              ['Skin', u'Flebit och sm\xe4rta vid infusionsst\xe4llet.']]],
@@ -17,7 +21,11 @@
              ['GI',
               u'Obehag i \xf6vre delen av buken, kr\xe4kningar, pankreatit, anorexi, infantil hypertrofisk pylorusstenos, pseudomembran\xf6s kolit (se avsnitt 4.4).'],
              ['Skin',
+<<<<<<< HEAD
               u'Kl\xe5da, exantem, angio\xf6dem, Stevens-Johnsons syndrom, toxisk epidermal nekrolys, erytema multiforme. Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+=======
+              u'Kl\xe5da, exantem, angio\xf6dem, Stevens- Johnsons syndrom, toxisk epidermal nekrolys, erytema multiforme. Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'Allergiska reaktioner'],
              ['Hepato',
               u'Kolestatisk hepatit, gulsot, leverdysfunktion, hepatomegali, leversvikt, hepatocellul\xe4r hepatit (se avsnitt 4.4).'],

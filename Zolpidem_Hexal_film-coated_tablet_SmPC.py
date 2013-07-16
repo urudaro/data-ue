@@ -18,6 +18,10 @@
              ['Skin', u'Muskelsvaghet'],
              ['General',
               u'G\xe5ngrubbningar, l\xe4kemedelstolerans, fall (fr\xe4mst hos \xe4ldre patienter och n\xe4r zolpidemtartrat inte togs i enlighet med f\xf6rskrivningsrekommendationerna).']]]],
+<<<<<<< HEAD
  '_pages': [5, 6],
+=======
+ '_pages': [5, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 13,
  u'_type': u'LSFU'}

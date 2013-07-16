@@ -1,5 +1,9 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Reproductive system', u'Vaginalbl\xf6 dning'],
+=======
+            [['Reproductive system', u'Vaginal-bl\xf6dning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'Allm\xe4nna\xf6verk\xe4nslighetsreaktioner (t ex anafylaktisk reaktion/chock) '],
              ['Psychiatric', u'S\xf6mnl\xf6shet, \xe5ngest, s\xe4nkt eller \xf6kad libido '],

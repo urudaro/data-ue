@@ -1,18 +1,31 @@
 {'_data': [['Very common',
             [['Nervous system', u'Somnolens, yrsel, huvudv\xe4rk'],
+<<<<<<< HEAD
              ['GI', u'illam\xe5ende, kr\xe4kningar, f\xf6rstopp-nin g']]],
+=======
+             ['GI', u'illam\xe5ende, kr\xe4kningar, f\xf6rstopp-ning'],
+             ['Pregnancy', u'(seavsnitt 4.6). ']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Immune system', u'\xf6verk\xe4nslig-het'],
              ['Metabolism', u'anorexi'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'insomni, depression, \xe5ngest, f\xf6rvirrat tillst\xe5nd, hallucina-ti oner'],
              ['Nervous system', u'tremor, parestesi'],
              ['Ear', u'vertigo'],
              ['Cardiac', u'palpita-tion er, takykardi'],
+=======
+              u'insomni, depression, \xe5ngest, f\xf6rvirrat tillst\xe5nd, hallucina-tioner'],
+             ['Nervous system', u'tremor, parestesi'],
+             ['Ear', u'vertigo'],
+             ['Cardiac', u'palpita-tioner, takykardi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'hypertoni'],
              ['Respiratory', u'dyspn\xe9'],
              ['GI',
               u'diarr\xe9, muntorrhet, buksm\xe4rta, sm\xe4rta i \xf6vre delen av buken, dyspepsi'],
+<<<<<<< HEAD
              ['Skin', u'hyperhidros , kl\xe5da, utslag, erytem'],
              ['Musculoskeletal', u'muskel-spas mer'],
              ['Renal', u'urinretentio n'],
@@ -20,10 +33,20 @@
               u'tr\xf6tthet, perifert \xf6dem, asteni, sjukdoms-k \xe4nsla, k\xe4nsla av kyla']]],
            ['Uncommon',
             [['Psychiatric', u'agitation, desorien-ter ing, eufori, amnesi'],
+=======
+             ['Skin', u'hyperhidros, kl\xe5da, utslag, erytem'],
+             ['Musculoskeletal', u'muskel-spasmer'],
+             ['Renal', u'urinretentio n'],
+             ['General',
+              u'tr\xf6tthet, perifert \xf6dem, asteni, sjukdoms-k\xe4nsla, k\xe4nsla av kyla']]],
+           ['Uncommon',
+            [['Psychiatric', u'agitation, desorien-tering, eufori, amnesi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'hypestesi, krampanfall (inkl. kloniska kramper och grand mal-anfall), amnesi'],
              ['Cardiac', u'bradykardi, cyanos'],
              ['Vascular', u'hypotoni'],
+<<<<<<< HEAD
              ['Respiratory', u'Andnings-d epression, andnings-str ess'],
              ['GI', u'ileus'],
              ['Skin',
@@ -35,6 +58,18 @@
            ['Rare',
             [['Eye', u'mios'],
              ['Respiratory', u'apn\xe9, hypo-ventil ering'],
+=======
+             ['Respiratory', u'Andnings-depression,'],
+             ['GI', u'ileus'],
+             ['Skin', u'eksem, allergisk dermatit, hud-st\xf6rningar, dermatit, kontakt-eksem'],
+             ['Musculoskeletal', u'muskel-ryckningar'],
+             ['Reproductive system', u'erektil dysfunktion, sexuell dysfunktion'],
+             ['General',
+              u'reaktioner vid applicerings -st\xe4llet, influensa-liknande symtom, k\xe4nsla av f\xf6r\xe4ndrad kroppstem-peratur, \xf6verk\xe4nslig-het vid applicerings -st\xe4llet, abstinens-symtom']]],
+           ['Rare',
+            [['Eye', u'mios'],
+             ['Respiratory', u'apn\xe9, hypo-ventilering'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'subileus, hicka'],
              ['General',
               u'dermatit vid applicerings -st\xe4llet, eksem vid applicerings -st\xe4llet']]],
@@ -47,5 +82,9 @@
              ['Respiratory', u'bradypn\xe9']]]],
  '_note': u' ?MSFU',
  '_pages': [8, 10],
+<<<<<<< HEAD
  u'_rank': 33,
+=======
+ u'_rank': 34,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

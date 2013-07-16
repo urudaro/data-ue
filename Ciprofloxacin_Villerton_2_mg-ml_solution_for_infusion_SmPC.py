@@ -1,6 +1,10 @@
 {'_data': [['Common',
             [['GI', u'illam\xe5ende diarr\xe9'],
+<<<<<<< HEAD
              ['General', u'reaktioner vid injektions-och infusionsst\xe4ll']]],
+=======
+             ['General', u'reaktioner vid injektions-och infusions']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'mykotiska superinfektion er'],
              ['Blood', u'eosinofili'],
@@ -17,7 +21,11 @@
              ['Investigations', u'f\xf6rh\xf6jning av alkaliska fosfatv\xe4rden i blodet']]],
            ['Rare',
             [['Infections',
+<<<<<<< HEAD
               u'antibiotika-associer ad kolit (i mycket s\xe4llsynta fall med m\xf6jlig d\xf6dlig utg\xe5ng) (se avsnitt 4.4)'],
+=======
+              u'antibiotika-associerad kolit (i mycket s\xe4llsynta fall med m\xf6jlig d\xf6dlig utg\xe5ng) (se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'leukopeni anemi neutropeni leukocytos trombocytopeni trombocytemi'],
              ['Immune system', u'allergisk reaktion allergiskt \xf6dem/angio\xf6dem'],
              ['Metabolism', u'hyperglykemi'],
@@ -54,10 +62,17 @@
            ['Unknown',
             [['Nervous system', u'perifer neuropati (se avsnitt 4.4)'],
              ['Cardiac',
+<<<<<<< HEAD
               u'ventrikul\xe4r arytmi och torsades de pointes (rapporterat fr\xe4mst hos patienter med risk f\xf6r QT-f\xf6rl\xe4ngnin g), EKG QT f\xf6rl\xe4ngt (se avsnitt 4.4 och 4.9)'],
              ['Skin', u'akut generaliserad exantemat\xf6s pustulos (AGEP)'],
              ['Investigations',
               u'f\xf6rh\xf6jt INR (international normalized ratio) (hos patienter som behandlas med vitamin K-antagonister']]]],
+=======
+              u'ventrikul\xe4r arytmi och torsades de pointes (rapporterat fr\xe4mst hos patienter med risk f\xf6r QT-f\xf6rl\xe4ngning), EKG QT f\xf6rl\xe4ngt (se avsnitt 4.4 och 4.9)'],
+             ['Skin', u'akut generaliserad exantemat\xf6s pustulos (AGEP)'],
+             ['Investigations',
+              u'f\xf6rh\xf6jt INR (international normalized ratio) (hos patienter som behandlas med vitamin K-antagonister)']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [10, 13],
  u'_rank': 42,

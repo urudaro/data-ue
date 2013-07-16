@@ -19,8 +19,14 @@
              ['Skin',
               u'\u2212Kl\xe5da \xd6verk\xe4nslighet p\xe5 bestr\xe5lad hud (\u2019radiation recall reaction\u2019)']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Infections', u'\u2212Sepsis, blodf\xf6rgiftning'],
              ['Neoplasms',
+=======
+            [['Infections',
+              u'\u2212Sepsis, blodf\xf6rgiftning Neoplasier benigna, maligna och ospecificerade (samt cystor och polyper)'],
+             ['Infections',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'\u2212Sekund\xe4r leukemi (akut myeloisk leukemi och myelodysplastiskt syndrom)'],
              ['Metabolism', u'\u2212Tum\xf6r Lys Syndrom \u2212Hyperurikemi \u2212Dehydrering'],
              ['Cardiac',

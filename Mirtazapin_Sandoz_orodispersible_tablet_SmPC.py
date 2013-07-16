@@ -19,7 +19,11 @@
            ['Rare',
             [['Psychiatric', u'Aggression'],
              ['Nervous system', u'Myoklonus'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jda transaminaser i serum']]],
+=======
+             ['Hepato', u'F\xf6rh\xf6jda transaminase r i serum']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood',
               u'Benm\xe4rgsdepression (granulocytopeni, agranulocytos, aplastisk anemi trombocytopeni) Eosinofili'],
@@ -29,7 +33,11 @@
              ['Nervous system', u'Kramper (anfall) Serotoninsyndrom Oral parestesi Dysartri'],
              ['GI', u'\xd6dem i munnen \xd6kad salivering'],
              ['Skin',
+<<<<<<< HEAD
               u'Stevens-Johnson-syn drom Bull\xf6s dermatit Erythema multiforme Toxisk epidermal nekrolys'],
+=======
+              u'Stevens-Johnson-syndrom Bull\xf6s dermatit Erythema multiforme Toxisk epidermal nekrolys'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Somnambulism']]]],
  '_note': u' ?MSFU',
  '_pages': [5, 7],

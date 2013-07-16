@@ -1,5 +1,9 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Nervous system', u'F\xf6rs\xe4mrad koncentrationsf\xf6rm\xe5ga'],
+=======
+            [['Nervous system', u'; F\xf6rs\xe4mrad koncentrationsf\xf6rm\xe5ga'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende.'],
              ['Reproductive system', u'Sexuell funktionsst\xf6rning.']]],
            ['Common',
@@ -35,6 +39,11 @@
              ['Nervous system', u'Krampanfall, restless legs syndrom (RLS).'],
              ['Cardiac', u'Bradykardi.'],
              ['Hepato', u'F\xf6rh\xf6jning av leverenzymer.'],
+<<<<<<< HEAD
+=======
+             ['Hepato',
+              u'. Avbrytande av paroxetin b\xf6r \xf6verv\xe4gas vid kvarst\xe5ende f\xf6rh\xf6jning av leverfunktionsv\xe4rden.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'Hyperprolaktinemi/galaktorr\xe9.'],
              ['Musculoskeletal',
               u'Ledsm\xe4rta, muskelsm\xe4rta Epidemiologiska studier som fr\xe4mst har utf\xf6rts p\xe5 patienter 50 \xe5r och \xe4ldre, visar en \xf6kad risk f\xf6r benfraktur hos patienter som behandlas med SSRI och TCA. Mekanismen \xe4r ok\xe4nd.']]],
@@ -48,7 +57,11 @@
              ['Eye', u'Akut glaukom.'],
              ['GI', u'Gastrointestinal bl\xf6dning.'],
              ['Hepato',
+<<<<<<< HEAD
               u'Leverp\xe5verkan (s\xe5som hepatit, ibland f\xf6renad med ikterus och/eller leversvikt). F\xf6rh\xf6jda leverenzym har rapporterats. Rapporter efter lansering om leverp\xe5verkan (s\xe5som hepatit, ibland f\xf6renad med ikterus och/eller leversvikt) har ocks\xe5 mottagits mycket s\xe4llsynt. Avbrytande av paroxetin b\xf6r \xf6verv\xe4gas vid kvarst\xe5ende f\xf6rh\xf6jning av leverfunktionsv\xe4rden.'],
+=======
+              u'Leverp\xe5verkan (s\xe5som hepatit, ibland f\xf6renad med ikterus och/eller leversvikt). F\xf6rh\xf6jda leverenzym har rapporterats. Rapporter efter lansering om leverp\xe5verkan (s\xe5som hepatit, ibland f\xf6renad med ikterus och/eller leversvikt) har ocks\xe5 mottagits mycket'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Allvarliga hudbiverkningar (inklusive erythema multiforme, Stevens-Johnson syndrom och toxisk epidermal nekrolys), fotosensitivitetsreaktioner.'],
              ['Reproductive system', u'Priapism.'],
@@ -58,6 +71,11 @@
             [['Psychiatric',
               u'Suicidalt beteende, suidictankar. Fall av suicidtankar och suicidalt beteende har rapporterats under behandling med paroxetin eller direkt efter avslutad behandling (se avsnitt 4.4).'],
              ['Ear', u'Tinnitus.']]]],
+<<<<<<< HEAD
  '_pages': [8, 11],
  u'_rank': 40,
+=======
+ '_pages': [9, 11],
+ u'_rank': 41,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

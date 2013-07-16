@@ -1,7 +1,11 @@
 {'_data': [['Very common',
             [['Psychiatric',
               u'S\xf6mnl\xf6shet, nervositet aggression*, agitation*, \xe5ngest*, depression*, irritabilitet, onormalt beteende'],
+<<<<<<< HEAD
              ['Nervous system', u'Huvudv\xe4rk dyskinesi, psykomoto-ris']]],
+=======
+             ['Nervous system', u'Huvudv\xe4rk dyskinesi, psykomoto-aktivitet, somnolens']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Infections', u'Nasofaryngit'],
              ['Metabolism', u'Anorexi, minskad aptit,'],
@@ -11,6 +15,7 @@
              ['Vascular', u'Hypertoni'],
              ['Respiratory', u'Hosta, sm\xe4rta i svalg/strupe'],
              ['GI',
+<<<<<<< HEAD
               u'Buksm\xe4rta, diarr\xe9, illam\xe5ende, magbesv\xe4r och kr\xe4kningar. \u201dDessa upptr\xe4der vanligen i b\xf6rjan av behandlingen och kan lindras av samtidigt f\xf6dointag\u201d. Muntorrhet.'],
              ['Skin', u'Alopeci, kl\xe5da, utslag, urtikaria'],
              ['Musculoskeletal', u'Artralgi'],
@@ -18,11 +23,24 @@
              ['General', u'l\xe5ngvarig anv\xe4ndning hos barn*'],
              ['Investigations',
               u'F\xf6r\xe4ndringar i blodtryck och hj\xe4rtfrekvens (vanligtvis \xf6kning)*, viktminskning *']]],
+=======
+              u'Buksm\xe4rta, diarr\xe9, illam\xe5ende, magbesv\xe4r och kr\xe4kningar. \u201dDessa upptr\xe4der vanligen i b\xf6rjan av behandlingen och kan lindras av samtidigt'],
+             ['Skin', u'Alopeci, kl\xe5da, utslag, urtikaria'],
+             ['Musculoskeletal', u'Artralgi'],
+             ['General', u'Pyrexi, tillv\xe4xt-f\xf6rdr\xf6jning'],
+             ['General', u'anv\xe4ndning hos barn*'],
+             ['Investigations',
+              u'F\xf6r\xe4ndringar i blodtryck och hj\xe4rtfrekvens (vanligtvis \xf6kning)*, viktminskning*']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Immune system',
               u'\xd6verk\xe4nslighets-reaktioner som angioneurotiskt \xf6dem, anafylaktiska reaktioner, \xf6ronsvullnad, vesikul\xf6sa tillst\xe5nd, exfoliativa tillst\xe5nd, urtikaria, pruritus och utslag'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Psykotiska tillst\xe5nd*, h\xf6rsel-, syn-och k\xe4nselhallucina-ti oner*, ilska, sj\xe4lvmords-tankar *, hum\xf6rf\xf6r\xe4ndring, hum\xf6rsv\xe4ng-ning ar, rastl\xf6shet, gr\xe5tmildhet, tics*, f\xf6rv\xe4rrande av befintliga tics eller Tourettes syndrom*, sp\xe4nd vaksamhet, s\xf6mnst\xf6rningar'],
+=======
+              u'Psykotiska tillst\xe5nd*, h\xf6rsel-, syn-och k\xe4nselhallucina-tioner*, ilska, sj\xe4lvmords-tankar*, hum\xf6rf\xf6r\xe4ndring, hum\xf6rsv\xe4ng-ningar, rastl\xf6shet, gr\xe5tmildhet, tics*, f\xf6rv\xe4rrande av befintliga tics eller Tourettes syndrom*, sp\xe4nd vaksamhet, s\xf6mnst\xf6rningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Sedation, tremor'],
              ['Eye', u'Diplopi, dimsyn'],
              ['Cardiac', u'Br\xf6stsm\xe4rta'],
@@ -36,6 +54,7 @@
              ['General', u'Br\xf6stsm\xe4rta, tr\xf6tthet'],
              ['Investigations', u'Bl\xe5sljud p\xe5 hj\xe4rtat*, \xf6kning av leverenzymer']]],
            ['Rare',
+<<<<<<< HEAD
             [['Psychiatric', u'Mani*, desorien-ter ing, libido-st\xf6rni ngar'],
              ['Eye', u'Sv\xe5righeter att ackommo-d era, mydriasis, synst\xf6r-nin gar'],
              ['Cardiac', u'Angina pectoris'],
@@ -52,12 +71,32 @@
              ['Hepato', u'Onormal leverfunktion'],
              ['Skin', u'Erythema multiforme, exfoliativ dermatit, fixt l\xe4kemedels-uts lag'],
              ['Musculoskeletal', u'Muskelkram-p er'],
+=======
+            [['Psychiatric', u'Mani*, desorien-tering, libido-st\xf6rningar'],
+             ['Eye', u'Sv\xe5righeter att ackommo-dera, mydriasis, synst\xf6r-ningar'],
+             ['Cardiac', u'Angina pectoris'],
+             ['Skin', u'Hyperhid-ros, makul\xe4ra utslag, erytem'],
+             ['Reproductive system', u'Gyneko-masti']]],
+           ['Very rare',
+            [['Blood', u'Anemi, leukopeni, trombocyto-peni, trombocyto-penisk purpura'],
+             ['Psychiatric',
+              u'Sj\xe4lvmords-f\xf6rs\xf6k (inklusive fullbordat sj\xe4lvmord)*, \xf6verg\xe5ende depressiv sinnesst\xe4m-ning*, onormala tankar, apati, repetitiva beteenden, \xf6verfokuse-ring'],
+             ['Nervous system',
+              u'Konvulsioner, koreoatetoida r\xf6relser, ischemiska bortfalls-symtom, malignt neuroleptika-syndrom (NMS; rapporterna var'],
+             ['Cardiac', u'Hj\xe4rtstillest\xe5nd, hj\xe4rtinfarkt'],
+             ['Vascular',
+              u'Cerebral arterit och/eller ocklusion, perifer kyla, Raynauds fenomen'],
+             ['Hepato', u'Onormal leverfunktion inklusive leverkoma'],
+             ['Skin', u'Erythema multiforme, exfoliativ dermatit, fixt l\xe4kemedels-utslag'],
+             ['Musculoskeletal', u'Muskelkram-per'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Pl\xf6tslig kardiell d\xf6d*'],
              ['Investigations',
               u'\xd6kning av alkaliska fosfater och bilirubin i blodet, minskat antal trombocyter, onormalt antal leukocyter']]],
            ['Unknown',
             [['Blood', u'Pancytopeni'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Vanf\xf6rest\xe4ll-ni ngar*, tankest\xf6r-ning ar*, f\xf6rvirrings-tills t\xe5nd, fall av missbruk och beroende har beskrivits, oftare med formuleringar med omedelbar fris\xe4ttning'],
              ['Nervous system', u'Cerebrovas-kul \xe4ra st\xf6rningar* (inklusive'],
              ['Cardiac',
@@ -67,4 +106,15 @@
  '_note': u' ?MSFU',
  '_pages': [10, 13],
  u'_rank': 49,
+=======
+              u'Vanf\xf6rest\xe4ll-ningar*, tankest\xf6r-ningar*, f\xf6rvirrings-tillst\xe5nd, fall av missbruk och beroende har beskrivits, oftare med formuleringar med omedelbar fris\xe4ttning'],
+             ['Nervous system',
+              u'Cerebrovas-kul\xe4ra st\xf6rningar* vaskulit, cerebral bl\xf6dning, cerebrovas-kul\xe4ra h\xe4ndelser, cerebral artrit, cerebral'],
+             ['Cardiac',
+              u'Supraventri-kul\xe4r takykardi, bradykardi, ventrikul\xe4ra extrasystolier, extrasystolier'],
+             ['General', u'Obehagsk\xe4nsla i br\xf6stet,']]]],
+ '_note': u' ?MSFU',
+ '_pages': [10, 13],
+ u'_rank': 48,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

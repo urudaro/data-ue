@@ -5,7 +5,11 @@
               u'Reaktioner p\xe5 injektionsst\xe4llet: Lokal lipoatrofi som kan undvikas genom att variera injektionsst\xe4llet']]],
            ['Uncommon',
             [['Nervous system',
+<<<<<<< HEAD
               u'Idiopatisk intrakraniell hypertension (benignintrakraniell hypertension) Karpaltunnel-syndr om'],
+=======
+              u'Idiopatisk intrakraniell hypertension (benignintrakraniell hypertension) Karpaltunnel-syndrom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism',
               u'Hos barn: V\xe4tskeretention: perifiert \xf6dem, stelhet, ledsm\xe4rtor, muskelsm\xe4rtor, parestesi']]],
            ['Very rare',

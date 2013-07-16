@@ -1,6 +1,7 @@
 {'_data': [['Very common',
             [['Metabolism', u'viktuppg\xe5ng Centrala och perifera somnolens'],
              ['Investigations',
+<<<<<<< HEAD
               u'f\xf6rh\xf6jd plasmaprolaktinniv\xe5 var mycket vanligt. syndrom. rapporterats vid abrupt vanliga L\xe5ngtidsbehandling (minst Barn och ungdomar ungdomar med data fr\xe5n studier Frekvensgrupperna definieras mycket vanliga %) vanliga'],
              ['Metabolism', u'Mycket vanliga: viktuppg\xe5ng vanliga:'],
              ['Nervous system', u'mycket vanliga:'],
@@ -11,6 +12,18 @@
             [['Blood', u'eosinofili'],
              ['Metabolism',
               u'f\xf6rh\xf6jd kolesterolniv\xe5 f\xf6rh\xf6jd glukosniv\xe5 f\xf6rh\xf6jd triglyceridniv\xe5 glykosuri \xf6kad aptit nervsy s t e m e t -yrsel akatisi parkinsonism dyskinesi'],
+=======
+              u'f\xf6rh\xf6jd plasmaprolaktinniv\xe5 var mycket vanligt. syndrom. rapporterats vid abrupt L\xe5ngtidsbehandling (minst Barn och ungdomar ungdomar med data fr\xe5n studier Frekvensgrupperna definieras mycket vanliga %) vanliga'],
+             ['Metabolism', u'Mycket vanliga: viktuppg\xe5ng vanliga'],
+             ['Nervous system', u'mycket vanliga'],
+             ['GI', u'vanliga : muntorrhet.'],
+             ['Hepato', u'mycket vanliga'],
+             ['Investigations', u'om >25 % av kroppsvikten studiens b\xf6rjan till h\xf6ga']]],
+           ['Common',
+            [['Blood', u'eosinofili'],
+             ['Metabolism',
+              u'f\xf6rh\xf6jd kolesterolniv\xe5 f\xf6rh\xf6jd glukosniv\xe5 f\xf6rh\xf6jd triglyceridniv\xe5 glykosuri \xf6kad aptit nervs y s t e m e t -yrsel akatisi parkinsonism dyskinesi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'ortostatisk hypotoni'],
              ['GI',
               u'milda, \xf6verg\xe5ende antikolinerga effekter, inklusive f\xf6rstoppning och muntorrhet'],
@@ -19,6 +32,7 @@
              ['Skin', u'utslag'],
              ['Reproductive system', u'asteni tr\xf6tthet \xf6dem'],
              ['Investigations',
+<<<<<<< HEAD
               u'uts\xe4ttande av olanzapin. -hos olanzapinbehandlade patienter. Potentiellt associerade sexuella funktionsrelaterade 48 veckor) -p\xe5 vuxna. -enligt f\xf6ljande: -(> 1 % men < 10 %).'],
              ['Metabolism',
               u', f\xf6rh\xf6jd triglyceridniv\xe5 f\xf6rh\xf6jd kolesterolniv\xe5'],
@@ -26,6 +40,15 @@
              ['Hepato',
               u'f\xf6rh\xf6jda niv\xe5er av levertransaminaser (ALAT/ASAT, se avsnitt 4.4).'],
              ['Investigations', u'(>1,467 mmol/l). ']]],
+=======
+              u'uts\xe4ttande av olanzapin. -48 veckor) -p\xe5 vuxna. -enligt f\xf6ljande: -(> 1 % men < 10 %).'],
+             ['Metabolism',
+              u', f\xf6rh\xf6jd triglyceridniv\xe5 : f\xf6rh\xf6jd kolesterolniv\xe5'],
+             ['Nervous system', u': sedering (inklusive hypersomni, letargi, somnolens).'],
+             ['Hepato',
+              u': f\xf6rh\xf6jda niv\xe5er av levertransaminaser (ALAT/ASAT, se avsnitt 4.4).'],
+             ['Investigations', u'fr\xe5n studiens b\xf6rjan. -(>1,467 mmol/l). ']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Blood', u'leukopeni neutropeni'],
              ['Cardiac', u'bradykardi QTc-f\xf6rl\xe4ngning (se avsnitt 4.4)'],
@@ -39,7 +62,11 @@
             [['Blood', u'trombocytopeni'],
              ['Immune system', u'allergisk reaktion'],
              ['Metabolism',
+<<<<<<< HEAD
               u'Utveckling eller f\xf6rs\xe4mring av diabetessjukdom, ibland associerat med ketoacidos eller koma, inklusive n\xe5gra fall med d\xf6dlig utg\xe5ng (se avsnitt 4.4). hypotermi Kramper, d\xe4r det i de flesta fall finns kramper eller riskfaktorer f\xf6r kramper i anamnesen. Malignt neuroleptika-syndr om (se avsnitt 4.4). Dystoni (inklusive okulogyration). tardiv dyskinesi uts\xe4ttningssymtom'],
+=======
+              u'Utveckling eller f\xf6rs\xe4mring av diabetessjukdom, ibland associerat med ketoacidos eller koma, inklusive n\xe5gra fall med d\xf6dlig utg\xe5ng (se avsnitt 4.4). hypotermi Kramper, d\xe4r det i de flesta fall finns kramper eller riskfaktorer f\xf6r kramper i anamnesen. Malignt neuroleptika-syndrom (se avsnitt 4.4). Dystoni (inklusive okulogyration). tardiv dyskinesi uts\xe4ttningssymtom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac',
               u'ventrikul\xe4r takykardi/flimmer, pl\xf6tsligt d\xf6dsfall (se avsnitt 4.4).'],
              ['GI', u'pankreatit'],

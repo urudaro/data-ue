@@ -12,14 +12,38 @@
              ['Skin',
               u'Urticaria (kontakt).  Allergisk dermatit. Erytem. Hudreaktion (t.ex. utslag, bl\xe5sor, pruritus, eksem).'],
              ['General', u'Nekros (lokalt).  Induration (lokalt). Svullnad (lokalt).'],
+<<<<<<< HEAD
              ['Injury', u'Nervskada (lokalt).'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Lokal bl\xf6dning.  Lokal nekros.'],
              ['GI', u'Storleks\xf6kning av befintligt  ulcera.'],
              ['GI', u'Postskleroseringsbl\xf6dning.  Varixbl\xf6dning. Esofagusperforation']]],
            ['Rare',
             [['Vascular',
               u'Djup ventrombos  (m\xf6jligen relaterad till underliggande sjukdom).'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Sm\xe4rta i extremitet.']]]],
  '_pages': [3, 5],
  u'_rank': 16,
+=======
+             ['Musculoskeletal', u'Sm\xe4rta i extremitet.']]],
+           ['Very rare',
+            [['Immune system',
+              u'Anafylaktisk reaktion/chock.  Angio\xf6dem.  Astma (astmatisk attack). Urticaria (generell).'],
+             ['Nervous system',
+              u'Huvudv\xe4rk.  Migr\xe4n (\u201ds\xe4llsynt\u201d vid  skumskleroterapi). Konfusion. Parestesier (lokalt). Medvetandef\xf6rlust. Yrsel.'],
+             ['Eye',
+              u'Synp\xe5verkan (kortvarig;  \u201ds\xe4llsynt\u201d vid  skumskleroterapi).'],
+             ['Cardiac', u'Palpitationer.'],
+             ['Vascular',
+              u'Lungemboli (orsakssamband  har ej kunnat fastst\xe4llas).  Synkope (vasovagal). Vaskulit.'],
+             ['Respiratory', u'Dyspn\xe9.  Obehag fr\xe5n br\xf6stkorg.'],
+             ['GI', u'Dysgeusi.  Nausea.'],
+             ['Skin', u'Hypertrikos (lokalt).'],
+             ['General', u'Feber.  Rodnad.  Asteni. Obehagsk\xe4nsla.'],
+             ['Investigations', u'Blodtryck onormalt.']]]],
+ '_pages': [3, 5],
+ u'_rank': 25,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

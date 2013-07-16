@@ -2,7 +2,11 @@
             [['Nervous system', u'Huvudv\xe4rk'],
              ['GI', u'Illam\xe5ende'],
              ['Skin', u'Utslag'],
+<<<<<<< HEAD
              ['General', u'Reaktion vid administreringsst \xe4llet  , tr\xf6tthet,']]],
+=======
+             ['General', u'Reaktion vid administrerings-st\xe4llet  , tr\xf6tthet,']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Infections', u'Infektioner, septisk chock'],
              ['Immune system', u'\xd6verk\xe4nslighet'],

@@ -12,11 +12,16 @@
            ['Uncommon', [['Blood', u'Trombocytopeni'], ['Vascular', u'Flebit, tromboflebit']]],
            ['Rare',
             [['Neoplasms',
+<<<<<<< HEAD
               u'Akut lymfatisk leukemi,  akut myeloid leukemi med  eller utan preleukemisk fas  hos patienter behandlade  med epirubicin i kombination med DNA-skadande cytostatika. Dessa leukemier har kort (1--3 \xe5r) latens'],
+=======
+              u'Akut lymfatisk leukemi,  akut myeloid leukemi med  eller utan preleukemisk fas  hos patienter behandlade  med epirubicin i kombination med DNA-'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'Anafylaxi  (anafylaktiska/anafylaktoida reaktioner  med  eller  utan'],
              ['Metabolism', u'Hyperurikemi  (se  avsnitt  .4).'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Hj\xe4rtsvikt (se avsnitt 4.4),  (dyspn\xe9, \xf6dem, leverf\xf6rstoring, ascites, lung\xf6dem, pleurautgjutning, hj\xe4rtklappning) kardiotoxicitet (t.ex. EKG-f\xf6r\xe4ndringar, arytmi, kardiomyopati), ventrikul\xe4r takykardi, bradykardi, AV-block, grenblock'],
              ['Skin', u'Urtikaria,  pruritus,  lokala'],
              ['Reproductive system', u'Amenorr\xe9, asoospermi'],
@@ -25,6 +30,15 @@
             [['Neoplasms',
               u'Septisk chock (kan upptr\xe4da  till f\xf6ljd av myelosuppression), sepsis, pneumoni'],
              ['Blood', u'Bl\xf6dning och  v\xe4vnadshypoxi orsakad av myelosuppression'],
+=======
+              u'Hj\xe4rtsvikt (se avsnitt 4.4),  (dyspn\xe9, \xf6dem, leverf\xf6rstoring, ascites, lung\xf6dem, pleurautgjutning, hj\xe4rtklappning) kardiotoxicitet (t.ex. EKG- f\xf6r\xe4ndringar, arytmi, kardiomyopati), ventrikul\xe4r takykardi, bradykardi, AV- block, grenblock'],
+             ['Skin', u'Urtikaria,  pruritus,  lokala'],
+             ['Reproductive system', u'Amenorr\xe9, asoospermi'],
+             ['General', u'Sjukdomsk\xe4nsla,  asteni,  feber, frossa, hyperpyrexi'],
+             ['Investigations', u'F\xf6r\xe4ndrade  transaminasniv\xe5er']]],
+           ['Unknown',
+            [['Blood', u'Bl\xf6dning och  v\xe4vnadshypoxi orsakad av myelosuppression'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Perifer neuropati (med h\xf6ga  doser), huvudv\xe4rk'],
              ['Eye', u'Konjuktivit, keratit'],
              ['Vascular',

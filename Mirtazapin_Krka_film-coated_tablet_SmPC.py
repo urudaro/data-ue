@@ -1,5 +1,6 @@
 {'_data': [['Very common',
             [['Investigations', u'Vikt\xf6kning'],
+<<<<<<< HEAD
              ['Nervous system', u'1, 4 P Tr\xf6tthet Sedering Huvudv\xe4rk'],
              ['GI', u'Muntorrhet'],
              ['Metabolism', u'\xd6kad aptit'],
@@ -16,13 +17,36 @@
             [['Nervous system', u'Paraestesi Restless legs Synkope'],
              ['GI', u'Oral hypestesi'],
              ['Skin', u'to <'],
+=======
+             ['Nervous system', u'Tr\xf6tthet Sedering Huvudv\xe4rk'],
+             ['GI', u'Muntorrhet'],
+             ['Metabolism', u'\xd6kad aptit'],
+             ['General', u'och/ellersymtom vid ']]],
+           ['Common',
+            [['Nervous system', u'Letargi Yrsel Tremor'],
+             ['GI', u'Illam\xe5ende Diarre to < Kr\xe4kningar'],
+             ['Skin', u'Exantem'],
+             ['Musculoskeletal', u'Artralgi Myalgi Ryggont'],
+             ['Vascular', u'Ortostatisk hypotension'],
+             ['General', u'Perifera'],
+             ['General', u'\xf6dem Utmattning'],
+             ['Psychiatric', u'Livliga dr\xf6mmar F\xf6rvirring \xc5ngest Insomnia']]],
+           ['Uncommon',
+            [['Nervous system', u'Paraestesi Restless legs Synkope'],
+             ['GI', u'Oral hypestesi to <'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypotension'],
              ['Psychiatric',
               u'Mardr\xf6mmar Mani Agitation Hallucinationer Psykomotorisk oro (inkl. akatisi, hyperkinesi)']]],
            ['Rare',
             [['Nervous system', u'Myoklonus'],
+<<<<<<< HEAD
              ['Skin', u'to <'],
              ['General', u'F\xf6rh\xf6jda']]],
+=======
+             ['GI', u'to <'],
+             ['Hepato', u'F\xf6rh\xf6jda transaminaser i serum']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood',
               u'Benm\xe4rgsdepression (granulocytopeni, agranulocytos, aplastisk anemi trombocytopeni) Eosinofili'],

@@ -25,6 +25,10 @@
            ['Very rare',
             [['Eye',
               u'\xd6verg\xe5ende blindhet, huvudsakligen vid intraven\xf6s tillf\xf6rsel. Hos de flesta av de rapporterade fallen f\xf6rsvann blindheten inom 20 minuter. De flesta av dessa patienter hade behandlats med kemoterapi med cisplatin. Vissa fall av \xf6verg\xe5ende blindhet rapporterades vara av kortikalt ursprung.']]]],
+<<<<<<< HEAD
  '_pages': [5, 6],
+=======
+ '_pages': [5, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 14,
  u'_type': u'LSFU'}

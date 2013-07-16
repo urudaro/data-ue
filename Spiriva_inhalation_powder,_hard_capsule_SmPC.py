@@ -11,9 +11,13 @@
              ['GI', u'Gastroesofagal refluxsjukdom  '],
              ['GI', u'F\xf6rstoppning  '],
              ['GI', u'Oral candidainfektion  '],
+<<<<<<< HEAD
              ['Skin', u'Hudutslag  '],
              ['Renal', u'Sv\xe5righet att t\xf6mma urinbl\xe5san  '],
              ['Renal', u'Urinretention  ']]],
+=======
+             ['Skin', u'Hudutslag  ']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Nervous system', u'S\xf6mnl\xf6shet  '],
              ['Eye', u'\xd6kat intraokul\xe4rt tryck  '],
@@ -34,16 +38,29 @@
              ['Skin', u'Urtikaria  '],
              ['Skin', u'Kl\xe5da  '],
              ['Skin', u'\xd6verk\xe4nslighet (inkl. omedelbara reaktioner)  '],
+<<<<<<< HEAD
              ['Skin', u'Angio\xf6dem  '],
              ['Renal', u'Urinv\xe4gsinfektion  ']]],
+=======
+             ['Skin', u'Angio\xf6dem  ']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Metabolism', u'*'],
              ['GI', u'Dental karies  '],
              ['Skin', u'Hudinfektion, hudulcerationer  '],
              ['Skin', u'Torr hy  '],
              ['Musculoskeletal', u'Ledsvullnad  '],
+<<<<<<< HEAD
              ['Other',
               u'En \xf6kad antikolinergisk effekt kan f\xf6rekomma med \xf6kande \xe5lder.']]]],
  '_pages': [6, 7],
  u'_rank': 42,
+=======
+             ['Renal',
+              u'*Frekvensen \xe4r inte k\xe4nd. Bland 9647 patienter observerades inga biverkningar. Beskrivning av vissa biverkningar I kontrollerade kliniska studier var de vanligaste biverkningarna antikolinerga biverkningar som muntorrhet, som f\xf6rekom hos ca 4% av patienterna. I de 28 kliniska studierna medf\xf6rde muntorrhet att behandlingen avbr\xf6ts hos 18 av de 9 647 patienter som behandlades med tiotropium (0,2%).'],
+             ['Other',
+              u'En \xf6kad antikolinergisk effekt kan f\xf6rekomma med \xf6kande \xe5lder.']]]],
+ '_pages': [5, 7],
+ u'_rank': 40,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

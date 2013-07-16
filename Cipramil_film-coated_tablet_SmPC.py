@@ -18,7 +18,11 @@
             [['Metabolism', u'\xd6kad aptit, vikt\xf6kning'],
              ['Psychiatric', u'Aggression, depersonalisation,  hallucinationer, mani'],
              ['Nervous system', u'Synkope'],
+<<<<<<< HEAD
              ['Nervous system', u'Mydriasis'],
+=======
+             ['Eye', u'Mydriasis'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Bradykardi, takykardi  Elektrokardiogram f\xf6rl\xe4ngd'],
              ['Skin', u'Urtikaria, alopeci, rash,  purpura, fotosensitivitet'],
              ['Renal', u'Urinretention'],
@@ -38,7 +42,11 @@
               u'Panikattacker, bruxism,  rastl\xf6shet, suicidtankar, suicidalt beteende'],
              ['Nervous system',
               u'Kramper, serotonergt  syndrom, extrapyramidala st\xf6rningar, akatisi, r\xf6relsest\xf6rningar'],
+<<<<<<< HEAD
              ['Nervous system', u'Synst\xf6rningar'],
+=======
+             ['Eye', u'Synst\xf6rningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'QT, ventrikul\xe4r arytmi inklusive  Torsade de Pointes'],
              ['Vascular', u'Ortostatisk hypotension'],
              ['Respiratory', u'Epistaxis'],

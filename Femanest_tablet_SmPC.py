@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Metabolism', u'Vikt\xf6kning eller Viktminskning'],
              ['Nervous system', u'Huvudv\xe4rk'],
              ['GI', u'Magsm\xe4rtor, Illam\xe5ende'],
@@ -29,4 +30,18 @@
  '_note': u' ?MSFU',
  '_pages': [6, 9],
  u'_rank': 23,
+=======
+            [['GI', u'Illam\xe5ende'],
+             ['Reproductive system', u'Br\xf6stsp\xe4nningar Olaga vaginalbl\xf6dning'],
+             ['Nervous system', u'Huvudv\xe4rk']]],
+           ['Uncommon',
+            [['Immune system', u'\xd6verk\xe4nslighet'], ['General', u'V\xe4tskeretention']]],
+           ['Rare',
+            [['Vascular', u'Ven\xf6s tromboembolism'],
+             ['GI', u'Svullnadsk\xe4nsla ibland med sm\xe4rta i mellang\xe4rdet'],
+             ['Skin', u'Alopeci']]]],
+ '_note': u' ?MSFU',
+ '_pages': [6, 9],
+ u'_rank': 8,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

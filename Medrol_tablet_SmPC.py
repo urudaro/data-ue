@@ -22,7 +22,11 @@
               u'L\xe4kemedelsreaktion (inkluderande anafylatisk chock), nedsatt reaktion p\xe5 hudtest'],
              ['Metabolism', u'Hypokalemiskt alkalos,'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Beteendest\xf6rningar, k\xe4nslom\xe4ssiga symtom (inklusive affektlabilitet, nedst\xe4mdhet, eufori, psykiskt beroende, sj\xe4lvmordstankar), oro, f\xf6rvirring, kognitiv dysfunktion, amnesi, Systemorganklass Biverkningar s\xf6mnst\xf6rningar, irritabilitet, hum\xf6rsv\xe4ngningar, personlighetsf\xf6r\xe4ndring, psykotisk st\xf6rning, (inklusive mani, vanf\xf6rest\xe4llningar, hallucination och f\xf6rv\xe4rrad schizofreni)'],
+=======
+              u'Beteendest\xf6rningar, k\xe4nslom\xe4ssiga symtom Systemorganklass Biverkningar (inklusive affektlabilitet, nedst\xe4mdhet, eufori, psykiskt beroende, sj\xe4lvmordstankar), oro, f\xf6rvirring, kognitiv dysfunktion, amnesi, s\xf6mnst\xf6rningar, irritabilitet, hum\xf6rsv\xe4ngningar, personlighetsf\xf6r\xe4ndring, psykotisk st\xf6rning, (inklusive mani, vanf\xf6rest\xe4llningar, hallucination och f\xf6rv\xe4rrad schizofreni)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Kramp, yrsel, huvudv\xe4rk'],
              ['Eye', u'Exoftalmus'],
              ['Cardiac', u'Hj\xe4rtsvikt (k\xe4nsliga patienter)'],
@@ -37,6 +41,10 @@
               u'Oregelbunden menstruation Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
              ['Investigations',
               u'\xd6kning av kalcium i urinen Abstinens symtom kan uppkomma vid abrupt uts\xe4ttande av glukokortikoider utan relation till binjurebarkssvikt. Symtom s\xe5 som anorexi, illam\xe5ende, kr\xe4kning, letargi, huvudv\xe4rk, feber, ledsm\xe4rta, fj\xe4llning av huden, myalgi, viktminskning, och/eller hypotension kan uppkomma. Dessa effekter anses vara beroende av pl\xf6tslig f\xf6r\xe4ndring i glukokortikoidkoncentration snarare \xe4n av l\xe5ga kortikosteroid niv\xe5er.']]]],
+<<<<<<< HEAD
  '_pages': [5, 6],
+=======
+ '_pages': [5, 7],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 25,
  u'_type': u'LSFU'}

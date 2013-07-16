@@ -23,7 +23,11 @@
              ['Hepato', u'Transaminas- och ALP-stegring'],
              ['Psychiatric',
               u'Eufori, exaltering, depression, hallucinationer (speciellt hos \xe4ldre) Hos patienter med anamnes p\xe5 psykiatrisk sjukdom eller kardiovaskul\xe4r sjukdom (t ex stroke) liksom hos \xe4ldre patienter kan man f\xf6rmoda en allvarligare form av biverkan. Det \xe4r ofta sv\xe5rt att skilja de neuropsykiatriska besv\xe4ren fr\xe5n sjukdomen som behandlas.']]],
+<<<<<<< HEAD
            ['Very rare', [['Skin', u'Hypotermi']]],
+=======
+           ['Very rare', [['Skin', u'Hypotermi Abstinenssyndrom']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Cardiac', u'Bradykardi'],
              ['Skin',

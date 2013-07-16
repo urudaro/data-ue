@@ -1,21 +1,35 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Nervous system', u'Somnole n s  Insomni  Huvudv\xe4rk'],
              ['Cardiac', u'Palpitation er'],
              ['GI', u'Muntorrhe t  Illam\xe5 e n d e'],
              ['Skin', u'\xd6kad svettning'],
+=======
+            [['Nervous system', u'Somnole ns  Insomni  Huvudv\xe4rk'],
+             ['Cardiac', u'Palpitatione r'],
+             ['GI', u'Muntorrhe t  Illam\xe5 e n d e'],
+             ['Skin', u'\xd6kad svett ning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Asteni']]],
            ['Common',
             [['Psychiatric', u'Agitation'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Tremor  Parest e si Yrsel Uppm\xe4rks a m h e t s s t \xf6r ning ar Migr\xe4n Amnesi'],
              ['Ear', u'Tinnitus'],
              ['GI', u'Diarr\xe9  Kr\xe4kningar F\xf6rstoppning Buksm\xe4 r t a Gasbildning'],
+=======
+              u'Tremor  Parest e si Yrsel Uppm\xe4 r ks a m h e t s s t \xf6r ning ar Migr\xe4n Amnesi'],
+             ['Ear', u'Tinnitus'],
+             ['GI', u'Diarr\xe9  Kr\xe4kningar F\xf6rstopp ning Buksm\xe4 r t a Gasbildning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Kl\xe5da'],
              ['Renal', u'Urineringsst \xf6r ning a r  Polyuri'],
              ['Reproductive system', u'Impot e n s  Ejakulationsst \xf6r ning a r']]],
            ['Uncommon',
             [['Metabolism', u'Minskad aptit  Viktnedg \xe5 n g'],
              ['Metabolism', u'\xd6kad aptit  Viktuppg \xe5 n g'],
+<<<<<<< HEAD
              ['Psychiatric', u'Aggression  Deperson alisation Hallucination er Mani'],
              ['Nervous system', u'Synkop e'],
              ['Eye', u'Pupillutvidgning'],
@@ -28,6 +42,20 @@
            ['Rare',
             [['Metabolism', u'Hypona tr e mi'],
              ['Nervous system', u'Grand mal- anfall  Dyskine si Smakst\xf6rning a r'],
+=======
+             ['Psychiatric', u'Aggression  Deperson alisa tion Hallucinatione r Mani'],
+             ['Nervous system', u'Synkope'],
+             ['Eye', u'Pupillutvidgning'],
+             ['Cardiac', u'Bradykar di  Takykardi'],
+             ['GI', u'Hosta'],
+             ['Skin',
+              u'Urtikaria  H\xe5ravfall Utslag Purpura Ljusk\xe4nslighe t sr e a k tion e r'],
+             ['Renal', u'Urinret e ntion'],
+             ['Reproductive system', u'Kvinnor: Menorragi']]],
+           ['Rare',
+            [['Metabolism', u'Hypona tr e mi'],
+             ['Nervous system', u'Grand mal- anfall  Dyskine si Smakst \xf6r ning a r'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Bl\xf6dningar'],
              ['Hepato', u'Hepatit']]],
            ['Unknown',
@@ -36,6 +64,7 @@
               u'\xd6verk\xe4nslighet  Anafylaktiska reaktioner Anafylaktoida reaktioner'],
              ['Endocrine', u'inadekvat ins\xf6ndring av  antidiuretiskt hormon'],
              ['Metabolism', u'Hypokale mi'],
+<<<<<<< HEAD
              ['Psychiatric', u'Panikatt a ck e r  Bruxism Rastl\xf6sh e t Suicidtank a r'],
              ['Nervous system', u'Konvulsioner'],
              ['Eye', u'Synst\xf6rning ar'],
@@ -46,6 +75,18 @@
              ['Hepato', u'Onor mal a  leverfunktionst e s t e r'],
              ['Skin', u'Blodutgjut ning  Angio\xf6de m'],
              ['Reproductive system', u'Kvinnor: Metrorra gi  M\xe4n: Priapism, galaktorre']]]],
+=======
+             ['Psychiatric', u'Panikatt a c k e r  Bruxism Rastl\xf6she t Suicidta nk a r'],
+             ['Nervous system', u'Konvulsioner'],
+             ['Eye', u'Synst\xf6rning a r'],
+             ['Cardiac', u'QT-f\xf6rl\xe4ngning'],
+             ['Vascular', u'Ortost a tisk hypotoni  Hypotoni Hypertoni'],
+             ['GI', u'N\xe4sbl\xf6dning a r'],
+             ['GI', u'Gastroint e stinal bl\xf6dning'],
+             ['Hepato', u'Onor mal a  leverfunktionst e s t e r'],
+             ['Skin', u'Blodutgjut ning  Angio\xf6de m'],
+             ['Reproductive system', u'Kvinnor: Metrorragi  M\xe4n: Priapis m, galaktorr e']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [10, 13],
  u'_rank': 40,
  u'_type': u'TSFU'}

@@ -16,12 +16,20 @@
              ['Investigations', u'F\xf6rh\xf6jning av alkaliska fosfatv\xe4rdet']]],
            ['Rare',
             [['Infections',
+<<<<<<< HEAD
               u'associerad kolit (i mycket s\xe4llsynta fall m\xf6jligen med d\xf6dlig utg\xe5ng)'],
+=======
+              u'Antibiotika associerad kolit (i mycket s\xe4llsynta fall m\xf6jligen med d\xf6dlig utg\xe5ng)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'Leukopeni Anemi Neutropeni Leukocytos Trombocytopenia Trombocytemi'],
              ['Immune system', u'Allergisk reaktion Allergiskt \xf6dem / angio\xf6dem'],
              ['Metabolism', u'Hyperglykemi'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'F\xf6rvirring och desorientering Oro Onormala dr\xf6mmar Depression (som kan kulminera i sj\xe4lvmords-beteend e/tankar eller sj\xe4lvmordsf\xf6rs\xf6k och fullbordat sj\xe4lvmord, se avsnitt 4.4) Hallucinationer'],
+=======
+              u'F\xf6rvirring och desorientering Oro Onormala dr\xf6mmar Depression (som kan kulminera i sj\xe4lvmords-beteende/tankar eller sj\xe4lvmordsf\xf6rs\xf6k och fullbordat sj\xe4lvmord, se avsnitt 4.4) Hallucinationer'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Par-och dysestesi Hypoestesi'],
              ['Nervous system',
               u'Tremor Kramper (inklusive status epilepticus, se avsnitt 4.4) Yrsel'],
@@ -43,10 +51,17 @@
              ['Immune system',
               u'Anafylaktisk reaktion Anafylaktisk chock (livshotande) (se avsnitt 4.4) Reaktion liknande serumsjuka'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Psykotiska reaktioner (som kan kulminera i sj\xe4lvmords-beteen de/tankar eller sj\xe4lvmordsf\xf6rs\xf6k och fullbordat sj\xe4lvmord, se avsnitt 4.4)'],
              ['Nervous system', u'Migr\xe4n F\xf6rs\xe4mrad'],
              ['Nervous system',
               u'koordinations-f\xf6r m\xe5ga G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension'],
+=======
+              u'Psykotiska reaktioner (som kan kulminera i sj\xe4lvmords-beteende/tankar eller sj\xe4lvmordsf\xf6rs\xf6k och fullbordat sj\xe4lvmord, se avsnitt 4.4)'],
+             ['Nervous system', u'Migr\xe4n F\xf6rs\xe4mrad'],
+             ['Nervous system',
+              u'koordinations-f\xf6rm\xe5ga G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'F\xf6rvr\xe4ngt f\xe4rgseende'],
              ['Vascular', u'Vaskulit'],
              ['GI', u'Pankreatit'],
@@ -57,6 +72,7 @@
              ['Musculoskeletal',
               u'Muskelsvaghet Tendinit Senruptur (fr\xe4mst h\xe4lsenan) (se avsnitt 4.4) Exacerbation av symtomen av myasthenia gravis (se avsnitt 4.4)']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Nervous system',
               u'Perifer neuropati (se (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data)'],
              ['Nervous system', u'avsnitt 4.4)'],
@@ -66,6 +82,15 @@
               u'Akut generaliserad exantemat\xf6s (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data) pustulos (AGEP)'],
              ['Investigations',
               u'F\xf6rh\xf6jt INR-v\xe4rde (hos patienter som behandlas med vitamin K-antagonister']]]],
+=======
+            [['Nervous system', u'Perifer neuropati (se'],
+             ['Nervous system', u'avsnitt 4.4)'],
+             ['Cardiac',
+              u'Ventrikul\xe4r arytmi och torsades-de-Pointes(har rapporterats \xf6verv\xe4gande f\xf6r patienter med riskfaktorer f\xf6r QT-f\xf6rl\xe4ngning), EKG QT-f\xf6rl\xe4ngning (se avsnitt 4.4 och 4.9)'],
+             ['Skin', u'Akut generaliserad exantemat\xf6s pustulos (AGEP)'],
+             ['Investigations',
+              u'F\xf6rh\xf6jt INR-v\xe4rde (hos patienter som behandlas med vitamin K-antagonister)']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [14, 16],
  u'_rank': 48,

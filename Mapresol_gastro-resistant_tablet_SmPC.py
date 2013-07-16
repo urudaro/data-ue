@@ -13,7 +13,11 @@
            ['Rare',
             [['Blood', u'Leukopeni, Trombocytopeni'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslighets-re aktioner s\xe5som feber, angio\xf6dem och anafylaktisk reaktion/'],
+=======
+              u'\xd6verk\xe4nslighets-reaktioner s\xe5som feber, angio\xf6dem och anafylaktisk'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Hyponatremi'],
              ['Psychiatric', u'Agitation, f\xf6rvirring, depression'],
              ['Nervous system', u'Smakf\xf6r\xe4ndringar'],

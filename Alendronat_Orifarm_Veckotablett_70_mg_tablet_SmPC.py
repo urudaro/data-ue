@@ -14,7 +14,11 @@
               u'Symtomatisk hypokalcemi, i allm\xe4nhet i samband med predisponerande f\xf6rh\xe5llanden (se 4.4 Varningar och f\xf6rsiktighet).'],
              ['Eye', u'Uveit, sklerit, episklerit.'],
              ['GI',
+<<<<<<< HEAD
               u'Esofagusstriktur*, s\xe5r i munh\xe5la/svalg*, \xf6vre gastrointestinala PUB (perforationer, s\xe5r, bl\xf6dningar) (se avsnitt 4.4 Varningar och f\xf6rsiktighet).'],
+=======
+              u'Esofagusstriktur*, s\xe5r i munh\xe5la/svalg*, \xf6vre gastrointestinala PUB (perforationer, s\xe5r, bl\xf6dningar) (se avsnitt 4.4 Varningar och f\xf6rsiktighet). * Se 4.2 Dosering och administreringss\xe4tt och 4.4 Varningar och f\xf6rsiktighet.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Hudutslag med fotosensitivitet.'],
              ['General',
               u'\xd6verg\xe5ende symtom som vid en akutfasreaktion (myalgi, allm\xe4n sjukdomsk\xe4nsla och i s\xe4llsynta fall feber) vanligtvis i samband med behandlingsstart. Laboratoriev\xe4rden: I kliniska studier s\xe5gs asymtomatiska, l\xe4tta och \xf6verg\xe5ende s\xe4nkningar av S-kalcium och S-fosfat hos cirka 18 respektive 10% av patienterna som tog alendronat 10 mg/dag j\xe4mf\xf6rt med 12 respektive 3% av de som tog placebo. Dock var incidensen av minskningar i S-kalcium till <2,0 mmol/l och S-fosfat till <0,65 mmol/l j\xe4mf\xf6rbar i de b\xe5da grupperna.']]],

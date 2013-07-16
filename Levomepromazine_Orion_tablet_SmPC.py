@@ -1,8 +1,14 @@
 {'_data': [['Very common',
             [['Eye',
+<<<<<<< HEAD
               u'ons-sv\xe5righete  kammarvinkel-glau   rkom, grumling av   lins och hornhinnan  (h\xf6g dos/  l\xe5ngtidsbehandling)'],
              ['Cardiac',
               u'doser), f\xf6rl\xe4ngt  QT-intervall,  of\xf6rklarlig pl\xf6tslig  d\xf6d, hj\xe4rtstillest\xe5nd,  Torsades de pointes  takykardi,  ventrikul\xe4r arytmi  (VF, VT)'],
+=======
+              u'tions-  kammarvinkel-   sv\xe5righeter  glaukom, grumling   av lins och  hornhinnan (h\xf6g  dos/  l\xe5ngtidsbehandling)'],
+             ['Cardiac',
+              u'doser), f\xf6rl\xe4ngt QT-  intervall, of\xf6rklarlig  pl\xf6tslig d\xf6d,  hj\xe4rtstillest\xe5nd,  Torsades de pointes  takykardi,  ventrikul\xe4r arytmi  (VF, VT)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hypotoni, ortostatisk   hypotoni'],
              ['GI', u''],
              ['Hepato', u'Hepatit med   tillh\xf6rande gallstas'],

@@ -1,27 +1,45 @@
 {'_data': [['Very common', [['GI', u'Illam\xe5ende, kr\xe4kning']]],
            ['Common',
+<<<<<<< HEAD
             [['Psychiatric', u'Euforisk sinnes-st\xe4m ning'],
              ['Nervous system', u'R\xf6relse-st\xf6r ning, yrsel, sedation, dyskinesi'],
+=======
+            [['Psychiatric', u'Euforisk sinnes-st\xe4mning'],
+             ['Nervous system', u'R\xf6relse-st\xf6rning, yrsel, sedation, dyskinesi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Synst\xf6rning'],
              ['Cardiac', u'Bradykardi, takykardi'],
              ['Vascular', u'Hypotoni, hypertoni, s\xe4nkt blodtryck, h\xf6jt blodtryck'],
              ['Respiratory', u'Apn\xe9'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Muskel-rigi dtet'],
              ['General', u'Frossa, sm\xe4rta vid injektions-st \xe4llet, tr\xf6tthet'],
+=======
+             ['Musculoskeletal', u'Muskel-rigidtet'],
+             ['General', u'Frossa, sm\xe4rta vid injektions-st\xe4llet, tr\xf6tthet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Injury', u'Sm\xe4rta vid behandling']]],
            ['Uncommon',
             [['Nervous system', u'Huvudv\xe4rk, somnolens, avsaknad av reaktion p\xe5 stimuli'],
              ['Cardiac', u'Arytmi, minskad hj\xe4rtfrekvens'],
+<<<<<<< HEAD
              ['Respiratory',
               u'Hicka, hyperkapni, laryngospasm, andnings-depr ession (\xe4ven med d\xf6dsfall)'],
              ['Skin', u'Allergisk dermatit, hyperhidros'],
              ['General', u'Sm\xe4rta'],
              ['Injury', u'Postoperativ agitation, luftv\xe4gs-kompl ikationer vid anestesi,']]],
+=======
+             ['Respiratory', u'Hicka, hyperkapni,'],
+             ['Skin', u'Allergisk dermatit, hyperhidros'],
+             ['General', u'Sm\xe4rta'],
+             ['Injury', u'Postoperativ agitation, luftv\xe4gs-komplikationer vid anestesi,']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Psychiatric', u'Agitation, gr\xe5t'],
              ['Vascular', u'Vensm\xe4rta'],
              ['Respiratory', u'Bronkospasm, n\xe4sbl\xf6dning'],
              ['Skin', u'Pruritus'],
+<<<<<<< HEAD
              ['Injury', u'Neurologisak komplika-tion er vid anestesi, komplika-tion']]],
            ['Unknown',
             [['Immune system',
@@ -36,5 +54,21 @@
              ['General', u'Pyrexi']]]],
  '_note': u' ?MSFU',
  '_pages': [4, 6],
+=======
+             ['Injury', u'Neurologisak komplika-tioner vid anestesi, komplika']]],
+           ['Unknown',
+            [['Immune system',
+              u'Hyper-sensitivitet, (inklusive anafylaktisk reaktion, anafylaktoid reaktion, urtikaria)'],
+             ['Psychiatric', u'Desorientering'],
+             ['Nervous system',
+              u'Medvetande-f\xf6rlust (postoperativ period), krampanfall, myokloni'],
+             ['Eye', u'Mios'],
+             ['Cardiac', u'Hj\xe4rt-stillest\xe5nd'],
+             ['Respiratory', u'Andnings-stillest\xe5nd,'],
+             ['Skin', u'Erytem, hudutslag'],
+             ['General', u'Pyrexi']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 5],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 29,
  u'_type': u'MSFU'}

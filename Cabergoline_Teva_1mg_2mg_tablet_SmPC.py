@@ -1,5 +1,6 @@
 {'_data': [['Very common',
             [['GI', u'Illam\xe5ende'],
+<<<<<<< HEAD
              ['General', u'Perifera \xf6dem'],
              ['GI', u'Illam\xe5ende'],
              ['Cardiac', u'Hj\xe4rtklaffp\xe5verkan (including klaffl\xe4ckage)'],
@@ -31,20 +32,53 @@
             [['Nervous system', u'Hyperkinesi'],
              ['Cardiac', u'Erythromelalgi'],
              ['Respiratory', u'Pleurautgjutning, lungfibros'],
+=======
+             ['GI', u'Illam\xe5ende'],
+             ['Cardiac', u'Hj\xe4rtklaffp\xe5verkan (including klaffl\xe4ckage)']]],
+           ['Common',
+            [['Psychiatric', u'Hallucinationer, s\xf6mnst\xf6rningar'],
+             ['Vascular', u'Postural hypotension'],
+             ['GI', u''],
+             ['GI', u'F\xf6rstoppning, dyspepsi, gastrit, kr\xe4kning'],
+             ['Psychiatric', u'F\xf6rvirring, hallucinationer'],
+             ['Cardiac', u'Angina'],
+             ['Vascular', u'Postural hypotension'],
+             ['GI', u''],
+             ['GI', u'Dyspepsi, gastrit, kr\xe4kning'],
+             ['Investigations',
+              u'Minskade v\xe4rden f\xf6r hemoglobin, hematokrit  och/eller r\xf6dablodkroppar (>15% vs baseline)'],
+             ['Psychiatric', u'\xd6kat libido'],
+             ['Cardiac',
+              u'relaterade f\xf6r\xe4ndringar (perikardit, perikardiell  utgjutning)'],
+             ['Investigations', u'Onormala leverv\xe4rden']]],
+           ['Uncommon',
+            [['Nervous system', u'Hyperkinesi'],
+             ['Vascular', u'Erythromelalgi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'\xd6verk\xe4nslighetsreaktion'],
              ['Psychiatric', u'Vanf\xf6rest\xe4llningar, psykotisk sjukdom'],
              ['Hepato', u'Onormal leverfunktion'],
              ['Skin', u'Utslag'],
              ['General', u'\xd6dem, utmattning']]],
+<<<<<<< HEAD
            ['Rare', [['Respiratory', u'']]],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Psychiatric', u'Aggression, hypersexualitet, spelmani'],
              ['Nervous system', u'Pl\xf6tsliga s\xf6mnattacker, synkope'],
              ['Vascular', u'Vasospasm i fingrar och t\xe5r'],
+<<<<<<< HEAD
              ['Respiratory', u'Andningsbesv\xe4r, andningssvikt'],
              ['Skin', u'Alopeci'],
              ['Musculoskeletal', u'Benkramper'],
              ['General', u'\xd6kat v\xe4rde f\xf6r blodkreatininfosfokinas']]]],
  '_pages': [5, 7],
  u'_rank': 37,
+=======
+             ['Skin', u'Alopeci'],
+             ['Investigations', u'\xd6kat v\xe4rde f\xf6r blodkreatininfosfokinas']]]],
+ '_pages': [5, 7],
+ u'_rank': 26,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

@@ -1,6 +1,10 @@
 {'_data': [['Very common',
             [['Eye', u'br\xe4nnande och stickande k\xe4nsla'],
+<<<<<<< HEAD
              ['GI', u'smakrubbningar \xd6gondroppar med dorzolamidhydroklorid']]],
+=======
+             ['GI', u'\xe4ndrad smak \xd6gondroppar med dorzolamidhydroklorid']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Nervous system', u'huvudv\xe4rk*'],
              ['Nervous system', u'huvudv\xe4rk*'],
@@ -8,7 +12,11 @@
               u'konjunktival injektion, dimsyn, hornhinneerosion, \xf6gonkl\xe5da, t\xe5ravs\xf6ndring \xd6gondroppar med dorzolamidhydroklorid'],
              ['Eye', u'inflammerade \xf6gonlock*, irriterade \xf6gonlock*'],
              ['Eye',
+<<<<<<< HEAD
               u'tecken och symtom p\xe5 \xf6gonirritation (t.ex. br\xe4nnande och stickande k\xe4nsla, rinnande \xf6gon, rodnad) inklusive blefarit*, keratit*, nedsatt hornhinnek\xe4nslighet och torra \xf6gon*'],
+=======
+              u'symtom och fynd vid \xf6gonirritation inklusive blefarit*, keratit*, nedsatt hornhinnek\xe4nslighet och torra \xf6gon*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'sinuit'],
              ['GI', u'illam\xe5ende*'],
              ['General', u'asteni/utmattning* \xd6gondroppar med timololmaleat']]],
@@ -24,18 +32,30 @@
              ['Respiratory', u'dyspn\xe9*'],
              ['GI', u'illam\xe5ende*, dyspepsi*'],
              ['Renal', u'njursten'],
+<<<<<<< HEAD
              ['General', u'asteni/utmattning*']]],
+=======
+             ['General',
+              u'asteni/utmattning* *Dessa biverkningar konstaterades ocks\xe5 erfarenhetsm\xe4ssigt med den fasta kombinationen av dorzolamid och timolol sedan l\xe4kemedlet kommit ut p\xe5 marknaden Laboratorieunders\xf6kningar']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Musculoskeletal', u'systemisk lupus erythematosus'],
              ['Nervous system', u'yrsel*, parestesier* \xd6gondroppar med timololmaleat'],
              ['Nervous system',
               u's\xf6mnl\xf6shet*, minnesf\xf6rlust, parestesier*, f\xf6rsv\xe5rade symtom och fynd vid myastenia gravis, cerebrovaskul\xe4r sjukdom*'],
              ['Psychiatric', u'mardr\xf6mmar*, nedsatt libido*'],
+<<<<<<< HEAD
              ['Eye',
               u'ptos, diplopi, \xe5derhinneavlossning efter filtrationskirurgi* (se 4.4 Varningar och f\xf6rsiktighet).'],
              ['Ear', u'tinnitus*'],
              ['Cardiac',
               u'palpitationer*, \xf6dem*, arytmi*, hj\xe4rtblock*, hj\xe4rtstillest\xe5nd*'],
+=======
+             ['Eye', u'ptos, diplopi, \xe5derhinneavlossning (efter filtrationskirurgi)*'],
+             ['Ear', u'tinnitus*'],
+             ['Cardiac',
+              u'palpitationer*, \xf6dem*, arytmi*, \xf6verledningsblock*, hj\xe4rtstillest\xe5nd*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'hypotension*, br\xf6stsm\xe4rta*, kongestiv hj\xe4rtsvikt*, cerebral ischemi, klaudikation, Raynauds fenomen*, kalla h\xe4nder och f\xf6tter*'],
              ['Respiratory',
@@ -51,13 +71,20 @@
               u'alopeci*, utslag p\xe5minnande om psoriasis eller f\xf6rsv\xe5rad psoriasis*'],
              ['Reproductive system', u'Peyronies sjukdom*'],
              ['General',
+<<<<<<< HEAD
               u'symtom och fynd vid systemiska allergiska reaktioner, inklusive angio\xf6dem, n\xe4sselutslag, kl\xe5da, hudutslag, anafylaxi, s\xe4llan bronkospasm \xd6gondroppar med dorzolamidhydroklorid']]],
+=======
+              u'symtom och fynd vid systemiska allergiska reaktioner, inklusive angio\xf6dem, n\xe4sselutslag, kl\xe5da, utslag, anafylax, s\xe4llan bronkospasm \xd6gondroppar med dorzolamidhydroklorid'],
+             ['General',
+              u'Den fasta kombinationen av dorzolamid och timolol har inte associerats med kliniskt betydelsefulla st\xf6rningar i elektrolytbalansen inom ramen f\xf6r kliniska studier.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Musculoskeletal', u'\xd6gondroppar med timololmaleat'],
              ['Nervous system', u'\xd6gondroppar med dorzolamidhydroklorid'],
              ['Psychiatric', u'\xd6gondroppar med timololmaleat'],
              ['Ear', u'\xd6gondroppar med timololmaleat'],
              ['Cardiac', u'\xd6gondroppar med timololmaleat'],
+<<<<<<< HEAD
              ['Reproductive system', u'\xd6gondroppar med timololmaleat'],
              ['Metabolism', u'Hypoglykemi'],
              ['Cardiac', u'Atrioventrikul\xe4rt block, hj\xe4rtsvikt'],
@@ -67,4 +94,9 @@
              ['Reproductive system', u'Sexuell dysfunktion']]]],
  '_pages': [5, 7],
  u'_rank': 50,
+=======
+             ['Reproductive system', u'\xd6gondroppar med timololmaleat']]]],
+ '_pages': [4, 6],
+ u'_rank': 45,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

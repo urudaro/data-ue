@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Unknown',
             [['Metabolism',
               u'V\xe4tskeretention  Hypervolemi  Hypovolemi Hypokalemi Hyponatremi Dehydrering Hypokloremi'],
@@ -13,3 +14,17 @@
  '_pages': [4, 5],
  u'_rank': 7,
  u'_type': u'TSFU'}
+=======
+{'_data': [[u'Unknown',
+            [['Metabolism', u'V\xe4tskeretention   Ingen k\xe4nd frekvens   Hypervolemi'],
+             ['Vascular', u'Hypertension   Ingen k\xe4nd frekvens'],
+             ['Respiratory', u'Dyspn\xe9   Ingen k\xe4nd frekvens'],
+             ['GI', u'Skleroserande inkapslande   Ingen k\xe4nd frekvens'],
+             ['Skin', u'Stevens-Johnsons syndrom   Ingen k\xe4nd frekvens   Urtikaria'],
+             ['Musculoskeletal',
+              u'Myalgi   Ingen k\xe4nd frekvens   Muskelspasmer   V\xe4rk i muskler och skelett'],
+             ['General', u'Generaliserat \xf6dem   Ingen k\xe4nd frekvens']]]],
+ '_pages': [4, 5],
+ u'_rank': 7,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

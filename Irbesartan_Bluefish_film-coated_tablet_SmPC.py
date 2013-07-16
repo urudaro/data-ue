@@ -18,7 +18,11 @@
              ['Reproductive system', u'sexuell dysfunction'],
              ['General', u'br\xf6stsm\xe4rta']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Metabolism', u'd frekve ns: hyperkalemi'],
+=======
+            [['Metabolism', u's ns: hyperkalemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'vertigo, huvudv\xe4rk'],
              ['Ear', u'tinnitus'],
              ['GI', u'dysgeusi'],

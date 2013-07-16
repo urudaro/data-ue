@@ -3,8 +3,12 @@
              ['Immune system', u'Anafylaktisk   Manifestation'],
              ['Metabolism', u'Aptitl\xf6shet'],
              ['Psychiatric', u'\xc5ngest'],
+<<<<<<< HEAD
              ['Nervous system',
               u'Huvudv\xe4rk   Ageusi   Svindel   Dysgeusi   Hypestesi   Parestesi'],
+=======
+             ['Nervous system', u'Huvudv\xe4rk   Ageusi   Svindel   Dysgeusi   Hypestesi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Buksp\xe4nning'],
              ['Hepato', u'Kolestas *   Allvarlig leversjukdom'],
              ['Skin',

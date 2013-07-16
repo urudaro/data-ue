@@ -1,11 +1,16 @@
 {'_data': [['Very common', [['GI', u'illam\xe5ende; kr\xe4kningar']]],
            ['Common',
             [['Metabolism', u'minskad aptit; anorexi'],
+<<<<<<< HEAD
              ['Psychiatric', u'halluci-nation er; depression'],
+=======
+             ['Psychiatric', u'halluci-nationer; depression'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'synkope; yrsel; tremor; huvudv\xe4rk; d\xe5sighet; letargi'],
              ['Cardiac', u'bradykardi'],
              ['Vascular', u'hypertension'],
              ['GI',
+<<<<<<< HEAD
               u'buksm\xe4rtor; buksm\xe4rtor i \xf6vre magtarm-kan alen; diarr\xe9; dyspepsi; obehags-k\xe4ns la i magen; obehagsk\xe4nsl a i buken'],
              ['Skin', u'hyperhidros'],
              ['Musculoskeletal', u'muskel-spas mer'],
@@ -15,15 +20,34 @@
            ['Uncommon',
             [['Metabolism', u'uttorkning'],
              ['Psychiatric', u'synhalluci-nati oner; h\xf6rselhalluci-n ationer'],
+=======
+              u'buksm\xe4rtor; buksm\xe4rtor i \xf6vre magtarm-kanalen; diarr\xe9; dyspepsi; obehags-k\xe4nsla i magen; obehagsk\xe4nsl a i buken'],
+             ['Skin', u'hyperhidros'],
+             ['Musculoskeletal', u'muskel-spasmer'],
+             ['General', u'tr\xf6tthet; asteni; sjukdoms-k\xe4nsla'],
+             ['Investigations', u'vikt-minskning'],
+             ['Injury', u'fall']]],
+           ['Uncommon',
+            [['Metabolism', u'uttorkning'],
+             ['Psychiatric', u'synhalluci-nationer; h\xf6rselhalluci-nationer'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'parestesi; dysgeusi; hypersomni'],
              ['Eye', u'dimsyn'],
              ['Ear', u'tinnitus'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Supraventriku-l \xe4r extrasystole; atrioventrikul\xe4r block grad 1; sinus-bradykar di; palpitationer'],
              ['Vascular', u'hypotension; flushing'],
              ['GI', u'hulkningar'],
              ['Musculoskeletal', u'muskelsvaghet'],
              ['Investigations', u'f\xf6rh\xf6jda leverenzym-v\xe4r den']]],
+=======
+              u'Supraventriku-l\xe4r extrasystole; atrioventrikul\xe4r block grad 1; sinus-bradykardi; palpitationer'],
+             ['Vascular', u'hypotension; flushing'],
+             ['GI', u'hulkningar'],
+             ['Musculoskeletal', u'muskelsvaghet'],
+             ['Investigations', u'f\xf6rh\xf6jda leverenzym-v\xe4rden']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare', [['Hepato', u'hepatit']]],
            ['Very rare', []]],
  '_note': u' ?MSFU',

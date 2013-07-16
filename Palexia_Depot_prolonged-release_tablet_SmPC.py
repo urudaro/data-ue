@@ -1,6 +1,10 @@
 {'_data': [['Very common',
             [['Nervous system', u'Yrsel, s\xf6mnighet, huvudv\xe4rk'],
+<<<<<<< HEAD
              ['GI', u'Illam\xe5ende, f\xf6rstopp-nin g']]],
+=======
+             ['GI', u'Illam\xe5ende, f\xf6rstopp-ning']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Metabolism', u'Minskad aptit'],
              ['Psychiatric', u'Oro, depression, s\xf6mnrubbningar, nervositet, rastl\xf6shet'],
@@ -30,9 +34,15 @@
              ['General',
               u'Uts\xe4ttningssymtom av l\xe4kemedel, onormal k\xe4nsla, irritabilitet']]],
            ['Rare',
+<<<<<<< HEAD
             [['Psychiatric', u'L\xe4kemedels-b eroende, onormala tankar'],
              ['Nervous system', u'Kramper, presynkope, onormal koordination'],
              ['Respiratory', u'Andnings-dep ression'],
+=======
+            [['Psychiatric', u'L\xe4kemedels-beroende, onormala tankar'],
+             ['Nervous system', u'Kramper, presynkope, onormal koordination'],
+             ['Respiratory', u'Andnings-depression'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'F\xf6rs\xe4mrad t\xf6mning av mags\xe4cken'],
              ['General', u'K\xe4nsla av berusning, k\xe4nsla av avsp\xe4ndhet']]]],
  '_note': u' ?MSFU',

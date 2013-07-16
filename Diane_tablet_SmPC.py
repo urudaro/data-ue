@@ -19,6 +19,10 @@
              ['Reproductive system', u'sekretion fr\xe5n vagina, sekretion fr\xe5n br\xf6st'],
              ['Skin', u'Erythema nodosum, erythema multiforme']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [8, 9],
+=======
+ '_pages': [7, 8],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 17,
  u'_type': u'MSFU'}

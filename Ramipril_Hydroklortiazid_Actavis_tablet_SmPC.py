@@ -1,9 +1,17 @@
 {'_data': [['Common',
             [['Nervous system', u'och perifera Huvudv\xe4rk, yrsel'],
+<<<<<<< HEAD
              ['Respiratory', u'Rethosta, bronkit'],
              ['Skin', u'och subkutan '],
              ['General', u'Tr\xf6tthet, orkesl\xf6shetBr\xf6stsm\xe4rta, pyrexi'],
              ['Hepato', u'ochgallv\xe4gar']]],
+=======
+             ['Ear', u'och'],
+             ['Respiratory', u'Rethosta, bronkit'],
+             ['Skin', u'och subkutan '],
+             ['General', u'Tr\xf6tthet, orkesl\xf6shetBr\xf6stsm\xe4rta, pyrexi vid'],
+             ['Hepato', u'och gallv\xe4gar ']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Cardiac',
               u'Myokardisk ischemi inklusive angina pectoris, takykardi, arytmi, palpitationer, perifert \xf6dem'],
@@ -19,7 +27,11 @@
              ['Skin', u'Angio\xf6dem; i mycket'],
              ['Vascular', u'Hypotension, ortostatiskt blodtrycksfall, synkope, blodvallningar'],
              ['Hepato',
+<<<<<<< HEAD
               u'Kolestatisk eller cytolytisk hepatit (fatal utg\xe5ng har varit mycket s\xe4llsynt ), \xf6kning av leverenzymer och/eller konjugerat bilirubin Kolecystit med gallstenp.g.a. hydroklortiazid'],
+=======
+              u'Kolestatisk eller cytolytisk hepatit (fatal utg\xe5ng har varit mycket leverenzymer och/eller konjugerat bilirubin Kolecystit med gallstenp.g.a. hydroklortiazid'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'\xd6verg\xe5ende erektil impotens'],
              ['Psychiatric',
               u'Nedst\xe4mdhet, apati, oro, nervositet, s\xf6mnst\xf6rningar inklusive somnolens']]],
@@ -48,5 +60,9 @@
              ['Psychiatric', u'F\xf6rvirring, rastl\xf6shet, uppm\xe4rksamhetsst\xf6rning']]]],
  '_note': u' ?MSFU',
  '_pages': [7, 10],
+<<<<<<< HEAD
  u'_rank': 31,
+=======
+ u'_rank': 32,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

@@ -8,7 +8,11 @@
            ['Common',
             [['Blood', u'Minskning lymfocyter \xd6kning av eosinofila'],
              ['Nervous system', u'Yrsel Parestesi Dysgeusi'],
+<<<<<<< HEAD
              ['Eye', u'Synneds\xe4ttni ng'],
+=======
+             ['Eye', u'Synned-s\xe4ttning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Kr\xe4kningar Dyspepsi'],
              ['Skin', u'Kl\xe5da'],
              ['Musculoskeletal', u'Artralgi'],
@@ -34,8 +38,13 @@
            ['Rare',
             [['Psychiatric', u'Agitation Depersonal isation'],
              ['Ear', u'Yrsel'],
+<<<<<<< HEAD
              ['Hepato', u'Onormal leverfunkti on'],
              ['Skin', u'Allergiska reaktioner inklusive angioneurot iskt \xf6dem'],
+=======
+             ['Hepato', u'Onormal lever-funktion'],
+             ['Skin', u'Allergiska reaktioner inklusive angio-neurotiskt \xf6dem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Akut njursvikt Interstitiell nefrit']]],
            ['Very rare', []],
            ['Unknown',

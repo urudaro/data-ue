@@ -17,10 +17,18 @@
              ['Immune system',
               u'ryggsm\xe4rtor Njur- och urinv\xe4gar Mindre Miktionst\xf6rningar, nokturi, \xf6kad'],
              ['Immune system',
+<<<<<<< HEAD
               u'urineringsfrekvens Reproduktionsorgan och Mindre Impotens, gynekomasti br\xf6stk\xf6rtel vanliga Allm\xe4nna symtom och/eller Vanliga \xd6dem, tr\xf6tthet symtom vid Mindre Br\xf6stsm\xe4rta, asteni, v\xe4rk,'],
              ['Immune system',
               u'sjukdomsk\xe4nsla Unders\xf6kningar Mindre Vikt\xf6kning, viktminskning'],
              ['Immune system', u'vanliga']]],
+=======
+              u'urineringsfrekvens Reproduktionsorgan och Mindre Impotens, gynekomasti br\xf6stk\xf6rtel vanliga Allm\xe4nna symtom och/eller Vanliga \xd6dem, tr\xf6tthet symtom vid administreringsst\xe4llet Mindre Br\xf6stsm\xe4rta, asteni, v\xe4rk,'],
+             ['Immune system',
+              u'sjukdomsk\xe4nsla Unders\xf6kningar Mindre Vikt\xf6kning, viktminskning'],
+             ['Immune system',
+              u'vanliga *oftast i samband med kolestas Exeptionella fall av extrapyramidalt syndrom har rapporterats']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Immune system', u'Metabolism och nutrition Mycket Hyperglukemi'],
              ['Immune system',

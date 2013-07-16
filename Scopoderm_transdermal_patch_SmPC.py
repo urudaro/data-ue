@@ -10,7 +10,14 @@
               u'f\xf6rs\xe4mrat minne, p\xe5verkad uppm\xe4rksamhet, rastl\xf6shet.'],
              ['Renal',
               u'urinretention. Efter uts\xe4ttande av behandlingen med Scopoderm har i s\xe4llsynta fall \u2013 oftast efter flera dagars anv\xe4ndning - \xf6verg\xe5ende symtom s\xe5som yrsel, illam\xe5ende, kr\xe4kningar, huvudv\xe4rk och balanssv\xe5righeter rapporterats.']]],
+<<<<<<< HEAD
            ['Very rare', [['Eye', u'tr\xe5ngvinkelglaukom.'], ['Skin', u'generella utslag']]]],
  '_pages': [3, 4],
  u'_rank': 10,
+=======
+           ['Very rare', [['Eye', u'tr\xe5ngvinkelglaukom.'], ['Skin', u'generella utslag']]],
+           ['Unknown', [['General', u'br\xe4nnande k\xe4nsla vid administreringsst\xe4llet']]]],
+ '_pages': [3, 4],
+ u'_rank': 11,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

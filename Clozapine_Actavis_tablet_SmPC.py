@@ -1,16 +1,29 @@
 {'_data': [['Very common',
             [['Nervous system',
               u'd\xe5sighet/sedering och yrsel. Clozapine Actavis kan orsaka EEG-f\xf6r\xe4ndringar som kan anta \u201dspike and wave\u201d utseende. En dosberoende s\xe4nkning av kramptr\xf6skeln kan framkalla myokloniska ryck eller generell kramp. Dessa symptom \xe4r vanligare vid snabb dos\xf6kning och hos patienter med epilepsi. I dessa fall skall dosen reduceras och vid behov skall antiepileptika ins\xe4ttas. Karbamazepin skall undvikas p\xe5 grund av risk f\xf6r benm\xe4rgssuppression. F\xf6r andra antiepileptika b\xf6r man beakta risken f\xf6r farmakokinetiska interaktioner. I s\xe4llsynta fall kan patienter som behandlas med Clozapine Actavis f\xe5 delirium. Tardiv dyskinesi har rapporterats mycket s\xe4llsynt hos patienter som tar Clozapine Actavis och som tidigare har behandlats med andra neuroleptika. Patienter som utvecklat tardiv dyskinesi med andra neuroleptika har f\xf6rb\xe4ttrats med Clozapine Actavis-behandling.'],
+<<<<<<< HEAD
              ['GI', u'f\xf6rstoppning och hypersalivation. Illam\xe5ende och kr\xe4kningar'],
+=======
+             ['GI',
+              u'f\xf6rstoppning och hypersalivation. Illam\xe5ende och kr\xe4kningar \xe4r'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'D\xe5sighet/sedering, yrsel'],
              ['Cardiac', u'Takykardi'],
              ['GI', u'F\xf6rstoppning, hypersalivation']]],
            ['Common',
             [['GI',
               u'. Ileus har observerats i mycket s\xe4llsynta fall (se avsnitt 4.4 Varningar och f\xf6rsiktighetsm\xe5tt). S\xe4llsynta fall av dysfagi har observerats vid behandling med Clozapine Actavis. Aspiration av intagen f\xf6da kan intr\xe4ffa hos patienter med dysfagi eller som en f\xf6ljd av akut \xf6verdosering.'],
+<<<<<<< HEAD
              ['Blood',
               u'Leukopeni, minskat antal vita blodkroppar/neutropeni, eosinofili, leukocytos'],
              ['Blood', u'Vikt\xf6kning'],
+=======
+             ['General',
+              u'vanlig (>1/100, <1/10), mindre vanlig (>1/1000, <1/100), s\xe4llsynt (>1/10000, <1/1000),'],
+             ['General',
+              u'Leukopeni, minskat antal vita blodkroppar/neutropeni, eosinofili, leukocytos'],
+             ['General', u'Vikt\xf6kning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Dimsyn, huvudv\xe4rk, tremor, rigiditet, agitation, akatisi, extrapyramidala symptom, kramper/muskelryckningar/myokloniska ryck'],
              ['Cardiac', u'EKG-f\xf6r\xe4ndringar'],
@@ -21,6 +34,7 @@
              ['General',
               u'Tr\xf6tthet, feber, benign hypertermi, st\xf6rningar i svettnings-/temperatur-regleringen']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Blood', u'Agranulocytos'], ['General', u'Malignt neuroleptikasyndrom']]],
            ['Rare',
             [['Metabolism',
@@ -32,6 +46,19 @@
              ['Nervous system', u'F\xf6rvirring, delirium'],
              ['Cardiac',
               u'Cirkulationskollaps, ventrikul\xe4ra arytmier, ventrikelflimmer, ventrikeltakykardi, myokardit, perikardit/perikardutgjutning, QT-f\xf6rl\xe4ngning, Torsade de Pointes, hj\xe4rtstillest\xe5nd.'],
+=======
+            [['General', u'Agranulocytos'], ['General', u'Malignt neuroleptikasyndrom']]],
+           ['Rare',
+            [['Metabolism',
+              u'fall rapporterats under behandling med klozapin. Allvarlig hyperglykemi, som ibland har gett upphov till ketoacidos/hyperosmol\xe4r koma, har i mycket s\xe4llsynta fall rapporterats f\xf6r patienter, som tidigare inte haft hyperglykemi. Glukosniv\xe5erna normaliserades hos de flesta patienter efter det att Clozapine Actavis-behandlingen avbrutits och i n\xe5gra fall \xe5terkom hyperglykemin n\xe4r behandlingen \xe5ter insattes. De flesta patienterna hade riskfaktorer f\xf6r icke insulinberoende diabetes mellitus, men hyperglykemi har ocks\xe5 dokumenterats f\xf6r patienter med icke k\xe4nda riskfaktorer (se avsnitt 4.4 Varningar och f\xf6rsiktighetsm\xe5tt).'],
+             ['Vascular',
+              u'fall av tromboembolism har rapporterats. Sjukdomar i andningsorganen Andningsdepression eller andningsstillest\xe5nd, med eller utan cirkulationskollaps, har intr\xe4ffat i'],
+             ['General', u'Nedsatt glukostolerans och diabetes mellitus.'],
+             ['Psychiatric', u'Rastl\xf6shet, agitation'],
+             ['Nervous system', u'F\xf6rvirring, delirium'],
+             ['Cardiac',
+              u'Cirkulationskollaps, ventrikul\xe4ra arytmier, ventrikelflimmer, ventrikeltakykardi, myokardit, perikardit/perikardutgjutning, QT f\xf6rl\xe4ngning, Torsade de Pointes, hj\xe4rtstillest\xe5nd.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Ven\xf6s trombo-embolisk sjukdom Sjukdomar i andningsorganen'],
              ['Vascular', u'Aspiration av intagen f\xf6da'],
              ['GI', u'Dysfagi'],
@@ -41,9 +68,16 @@
             [['Vascular',
               u'fall (se avsnitt 4.4 Varningar och f\xf6rsiktighetsm\xe5tt och 4.5 Interaktioner med andra l\xe4kemedel och \xf6vriga interaktioner).'],
              ['Reproductive system', u'fall av priapism har rapporterats.'],
+<<<<<<< HEAD
              ['Blood',
               u'Trombocytopeni, trombocytemi Nutritionsrubbningar och \xe4mnesoms\xe4ttningssjukdomar'],
              ['Blood',
+=======
+             ['General', u'. Sjukdomstillst\xe5nd i blodet och det lymfatiska systemet'],
+             ['General',
+              u'Trombocytopeni, trombocytemi Nutritionsrubbningar och \xe4mnesoms\xe4ttningssjukdomar'],
+             ['General',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Ketoacidos, hyperosmol\xe4r koma, allvarlig hyperglykemi, hypertriglyceridemi och hyperkolesterolemi.'],
              ['Nervous system', u'Tardiv dyskinesi'],
              ['Cardiac', u'Kardiomyopati'],
@@ -57,7 +91,11 @@
              ['General', u'Pl\xf6tslig, of\xf6rklarlig d\xf6d']]],
            ['Unknown',
             [['Blood',
+<<<<<<< HEAD
               u'Utveckling av granulocytopeni och agranulocytos \xe4r en risk som f\xf6religger vid anv\xe4ndning av Clozapine Actavis. Agranulocytos \xe4r vanligen reversibel vid uts\xe4ttning men kan orsaka sepsis och kan vara fatal. Eftersom omedelbart uts\xe4ttande av l\xe4kemedlet \xe4r n\xf6dv\xe4ndigt f\xf6r att f\xf6rhindra utveckling av livshotande agranulocytos \xe4r kontroll av antalet vita blodkroppar obligatorisk (se avsnitt 4.4 Varningar och f\xf6rsiktighetsm\xe5tt). Tabell 2 nedan sammanfattar den uppskattade incidensen av agranulocytos under olika perioder av Clozapine Actavis-behandlingen.'],
+=======
+              u'Utveckling av granulocytopeni och agranulocytos \xe4r en risk som f\xf6religger vid anv\xe4ndning av Clozapine Actavis. Agranulocytos \xe4r vanligen reversibel vid uts\xe4ttning men kan orsaka sepsis och kan vara fatal. Eftersom omedelbart uts\xe4ttande av l\xe4kemedlet \xe4r n\xf6dv\xe4ndigt f\xf6r att f\xf6rhindra utveckling av livshotande agranulocytos \xe4r kontroll av antalet vita blodkroppar obligatorisk (se avsnitt 4.4 Varningar och f\xf6rsiktighetsm\xe5tt). Tabell 2 nedan sammanfattar den uppskattade incidensen av agranulocytos under olika perioder av Clozapine Actavis behandlingen. Tabell 2: Uppskattad incidens av agranulocytos Behandlingsperiod Incidens av agranulocytos per 100 000 observerade personveckor Vecka 0-18 32,0 Vecka 19-52 2,3 Vecka 53+ och upp\xe5t 1,8 Resultat fr\xe5n UK Clozaril Patient Monitoring Service livstidsregisterstudie mellan 1989 och 2001. Person-tid \xe4r summan av enskilda tidsenheter som patienterna i registret har exponerats f\xf6r Clozapine Actavis innan agranulocytos p\xe5visades. Till exempel, 100 000 personveckor kan ha observerats f\xf6r 1 000 patienter som var i registret i 100 veckor (100*1 000 = 100 000)), eller f\xf6r 200 patienter som var i registret i 500 veckor (200*500 = 100 000) innan agranulocytos p\xe5visades. Den kumulativa incidensen av agranulocytos i UK Clozaril Patient Monitoring Scheme livstidsregister (0 - 11,6 \xe5r mellan 1989 och 2001) \xe4r 0,78 %. Majoriteten av fallen (ungef\xe4r 70 %) intr\xe4ffar inom de f\xf6rsta 18 behandlingsveckorna.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism',
               u'Nedsatt glukostolerans och/eller utveckling eller exacerbation av diabetes mellitus har i'],
              ['Cardiac',
@@ -67,9 +105,17 @@
              ['Pregnancy',
               u'Neonatalt uts\xe4ttningssyndrom har rapporterats (se avsnitt 4.6 Graviditet och amning).'],
              ['General',
+<<<<<<< HEAD
               u'Fall av malignt neuroleptika-syndrom (NMS) har observerats hos patienter som f\xe5tt Clozapine Actavis enbart eller tillsammans med litium eller andra CNS-aktiva l\xe4kemedel. Akuta uts\xe4ttningsreaktioner har rapporterats (se avsnitt 4.4 Varningar och s\xe4rskilda f\xf6rsiktighetsm\xe5tt).'],
              ['Renal',
               u'Neonatalt uts\xe4ttningssyndrom (se avsnitt 4.6 Graviditet och amning) Sjukdomar i reproduktionsorganen']]]],
  '_pages': [12, 16],
  u'_rank': 48,
+=======
+              u'Fall av malignt neuroleptika-syndrom (NMS) har observerats hos patienter som f\xe5tt Clozapine Actavis enbart eller tillsammans med litium eller andra CNS-aktiva l\xe4kemedel. Akuta uts\xe4ttningsreaktioner har rapporterats (se avsnitt 4.4 Varningar och s\xe4rskilda f\xf6rsiktighetsm\xe5tt). Tabellen nedan (Tabell 3) sammanfattar de ackumulerade biverkningarna som rapporterats spontant eller i de kliniska studierna. Tabell 3: Frekvens biverkningar under behandling med Clozapine Actavis, uppskattad fr\xe5n spontanrapporter eller fr\xe5n kliniska studier Biverkningarna grupperas under frekvensrubriker enligt f\xf6ljande: Mycket vanlig (\u22651/10),'],
+             ['Renal',
+              u'Neonatalt uts\xe4ttningssyndrom (se avsnitt 4.6 Graviditet och amning) Sjukdomar i reproduktionsorganen']]]],
+ '_pages': [12, 16],
+ u'_rank': 50,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

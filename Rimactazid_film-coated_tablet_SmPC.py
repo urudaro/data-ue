@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Blood', u'Agranulocytos'],
              ['GI', u'Pankreatit'],
@@ -21,16 +22,34 @@
             [['Blood',
               u'\xd6verg\xe5ende leukopeni, eosinofili. Trombocytopeni  och trombocytopenisk purpura ses oftare under  intermittent behandling \xe4n vid kontinuerlig daglig behandling d\xe4r de upptr\xe4der endast i mycket'],
              ['Endocrine',
+=======
+{'_data': [['Very common', [['GI', u'Pankreatit']]],
+           ['Common',
+            [['Eye', u'\xd6gonrodnad, permanent missf\xe4rgning av mjuka  kontaktlinser'],
+             ['GI', u'Anorexi, illam\xe5ende, buksm\xe4rtor, uppbl\xe5sthet'],
+             ['Hepato', u'F\xf6rh\xf6jda leverenzymv\xe4rden utan symptom (se  avsnitt 4.4).'],
+             ['General', u'R\xf6daktig missf\xe4rgning av kroppsv\xe4tskor och sekret'],
+             ['GI', u'Illam\xe5ende, kr\xe4kning, dyspepsi'],
+             ['General', u'Allergiska och andra reaktioner som']]],
+           ['Rare',
+            [['Endocrine',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'Menstruationsst\xf6rningar (i extremfall amenorr\xe9),  inducerad kris hos Addisonpatienter (se avsnitt 4.5)'],
              ['Psychiatric', u'Mental f\xf6rvirring'],
              ['Nervous system', u'Ataxi, muskelsvaghet'],
              ['Eye', u'Synrubbning, allvarliga symtom, som t.ex. exsudativ  konjunktivit'],
              ['GI',
               u'Kr\xe4kning eller diarr\xe9, enstaka fall av eroderande  gastrit och pseudomembran\xf6s kolit'],
+<<<<<<< HEAD
+=======
+             ['Skin',
+              u'V\xe4rmevallningar, kl\xe5da med eller utan hudutslag,  Allvarliga hudreaktioner s\xe5som vid generella  \xf6verk\xe4nslighetsreaktioner t.ex. exfoliativ dermatit, Lyells syndrom och pemfigoida reaktioner'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Leverskada eller gulsot, induktion av porfyri (se  avsnitt 4.3).'],
              ['Renal',
               u'F\xf6rh\xf6jda v\xe4rden av BUN (blodurin\xe4mne) och  urinsyra i serum har rapporterats. Akut njursvikt orsakat av hemoglobinuri, hematuri, interstitiell nefrit, glomerulonefrit och tubul\xe4r nekros har rapporterats'],
              ['General', u'Kollaps, chock, \xf6dem'],
+<<<<<<< HEAD
              ['Blood', u'Eosinofili, trombocytopeni, anemi (hemolytisk,  sideroblastisk)'],
              ['Blood', u''],
              ['Endocrine',
@@ -45,4 +64,13 @@
               u'Allergiska och andra reaktioner som muntorrhet,  halsbr\xe4nna, miktionssv\xe5righeter, reumatiskt syndrom, lupus erythematosus-liknande symtom, pellagra, vaskulit, lymfadenopati, akne']]]],
  '_pages': [8, 11],
  u'_rank': 27,
+=======
+             ['Psychiatric', u'Psykoser, hyperaktivitet, eufori, s\xf6mnl\xf6shet'],
+             ['Nervous system',
+              u'Skador p\xe5 synnerven (se avsnitt 4.4), kramper, yrsel,  berusningsk\xe4nsla, huvudv\xe4rk, toxisk encefalopati. H\xf6ga doser kan \xf6ka krampfrekvensen hos epileptiker (se avsnitt 4.4)'],
+             ['General',
+              u'Allergiska och andra reaktioner som muntorrhet,  halsbr\xe4nna, miktionssv\xe5righeter, reumatiskt syndrom, lupus erythematosus-liknande symtom, pellagra, vaskulit, lymfadenopati, akne']]]],
+ '_pages': [8, 11],
+ u'_rank': 19,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

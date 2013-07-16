@@ -35,6 +35,10 @@
              ['Musculoskeletal', u'muskelsvaghet'],
              ['Renal', u'interstitiell nefrit'],
              ['Reproductive system', u'gynekomasti']]]],
+<<<<<<< HEAD
  '_pages': [5, 7],
+=======
+ '_pages': [5, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 29,
  u'_type': u'LSFU'}

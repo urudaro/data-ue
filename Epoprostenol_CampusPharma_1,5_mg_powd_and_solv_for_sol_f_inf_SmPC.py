@@ -17,7 +17,11 @@
              ['Vascular', u'Blekhet'],
              ['Skin', u'Svettningar'],
              ['General',
+<<<<<<< HEAD
               u'Rodnad \xf6ver injektionsst\xe4llet *, ocklusion av den l\xe5nga i.v. katetern *, sm\xe4rta vid injektionsst\xe4llet *, tr\xf6tthet, tryck \xf6ver br\xf6stet']]]],
+=======
+              u'Rodnad \xf6ver injektionsst\xe4llet *, ocklusion av den l\xe5nga i.v. katetern *, sm\xe4rta vid injektionsst\xe4llet *, tr\xf6tthet, tryck \xf6ver br\xf6stet * Relateratd till epoprostenols administrationssystem.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [5, 6],
  u'_rank': 15,
  u'_type': u'LSFU'}

@@ -1,6 +1,10 @@
 {'_data': [['Very common',
             [['General',
+<<<<<<< HEAD
               u'vanligt: Reaktioner vid injektionsst\xe4llet s\xe5som sm\xe4rta, erytem, svullnad och/eller inflammation, induration Vanligt: pyrexi (feber) Mindre vanligt: Feber \xf6ver 39\xb0C.'],
+=======
+              u't : Reaktioner vid injektionsst\xe4llet s\xe5som sm\xe4rta, erytem, svullnad och/eller inflammation, induration Vanligt: pyrexi (feber) Mindre vanligt: Feber \xf6ver 39\xb0C.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric',
               u'Irritabilitet Vanligt: Gr\xe5t (okontrollerbar eller onormal) Baserat p\xe5 spontan rapportering har f\xf6ljande ytterligare biverkningar rapporterats under kommersiell anv\xe4ndning av Act-HIB. Exakt incidens av dessa h\xe4ndelser kan inte ber\xe4knas och klassas d\xe4rf\xf6r som \u201d Ok\xe4nd frekvens \u201d.']]],
            ['Unknown',

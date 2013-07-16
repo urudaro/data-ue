@@ -78,10 +78,20 @@
              ['General', u'\xf6kad m\xe4ngd fettv\xe4vnad']]],
            ['Unknown',
             [['Infections',
+<<<<<<< HEAD
               u'Liksom \xe4r v\xe4lk\xe4nt fr\xe5n andra potenta immunsuppressiva l\xe4kemedel f\xf6religger ofta \xf6kad risk f\xf6r infektioner (virala, bakteriella, svampinfektioner, infektioner orsakade av protozoer) vid behandling med takrolimus. Befintliga infektioner kan f\xf6rv\xe4rras. B\xe5de generaliserade och lokala infektioner kan f\xf6rekomma. Nefropati orsakad av BK-virus och progressiv multifokal leukoencefalopati (PML) i samband med JC-virusinfektion har rapporterats hos patienter som behandlats med immunsuppressiva l\xe4kemedel, inklusive takrolimus. Benigna, maligna och ospecificerade neoplasier (inkluderande cystor och polyper) Hos patienter som behandlas med immunsuppressiva l\xe4kemedel f\xf6religger \xf6kad risk f\xf6r utveckling av tum\xf6rer. B\xe5de benigna och maligna tum\xf6rer inklusive EBV-associerade lymfoproliferativa sjukdomar och hudtum\xf6rer har rapporterats i samband med takrolimusbehandling.'],
+=======
+              u'Liksom \xe4r v\xe4lk\xe4nt fr\xe5n andra potenta immunsuppressiva l\xe4kemedel f\xf6religger ofta \xf6kad risk f\xf6r infektioner (virala, bakteriella, svampinfektioner, infektioner orsakade av protozoer) vid behandling med takrolimus. Befintliga infektioner kan f\xf6rv\xe4rras. B\xe5de generaliserade och lokala infektioner kan f\xf6rekomma. Nefropati orsakad av BK-virus och progressiv multifokal leukoencefalopati (PML) i samband med JC virusinfektion har rapporterats hos patienter som behandlats med immunsuppressiva l\xe4kemedel, inklusive takrolimus.'],
+             ['Neoplasms',
+              u'Hos patienter som behandlas med immunsuppressiva l\xe4kemedel f\xf6religger \xf6kad risk f\xf6r utveckling av tum\xf6rer. B\xe5de benigna och maligna tum\xf6rer inklusive EBV-associerade lymfoproliferativa sjukdomar och hudtum\xf6rer har rapporterats i samband med takrolimusbehandling.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'Ren erytrocytaplasi, agranulocytos, hemolytisk anemi'],
              ['Immune system',
               u'Allergiska och anafylaktoida reaktioner har observerats hos patienter som behandlats med takrolimus (se avsnitt 4.4)']]]],
  '_pages': [9, 12],
+<<<<<<< HEAD
  u'_rank': 58,
+=======
+ u'_rank': 59,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -73,7 +73,11 @@
             [['Immune system', u'Centrala och perifera Yrsel Huvudv\xe4rk'],
              ['Ear', u'yrsel. Hj\xe4rta Palpitationer, tackykardi*'],
              ['Respiratory',
+<<<<<<< HEAD
               u'mediastinum Magtarmkanalen Sm\xe4rta i \xf6vre delen av magen* Illam\xe5ende* Hud och subkutan v\xe4vnad Deramatit*, erytem*, l\xe4pp\xf6dem*, urtikaria* Muskoloskeletala systemet och Artralgi* bindv\xe4v Njurar och urinv\xe4gar Polyuri*, pollakiuria* Reproduktionsorgan och Erektil dysfunktion* br\xf6stk\xf6rtel Allm\xe4nna symtom och/eller Tr\xf6tthet, asteni* symtom vid administreringsst\xe4llet Unders\xf6kningar S\xe4nkt hemoglobinv\xe4rde*'],
+=======
+              u'mediastinum Magtarmkanalen Sm\xe4rta i \xf6vre delen av magen* Illam\xe5ende* Hud och subkutan v\xe4vnad Deramatit*, erytem*, l\xe4pp\xf6dem*, urtikaria* Muskoloskeletala systemet och Artralgi* bindv\xe4v Njurar och urinv\xe4gar Polyuri*, pollakiuria* Reproduktionsorgan och Erektil dysfunktion* br\xf6stk\xf6rtel Allm\xe4nna symtom och/eller Tr\xf6tthet, asteni* symtom vid administreringsst\xe4llet Unders\xf6kningar S\xe4nkt hemoglobinv\xe4rde* *endast hos en patient'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'muskelspasmer']]]],
  '_pages': [9, 13],
  u'_rank': 58,

@@ -52,7 +52,11 @@
               u'Toxisk epidermal nekrolys#  erythema multiforme#, exfoliativ dermatit#, pemfigus#, purpura, Stevens-Johnsons syndrom#, inflammation i serr\xf6s v\xe4vnad och vissa f\xf6r\xe4ndringar i laboratoriev\xe4rden (eosinofili# och/eller f\xf6rh\xf6jda ANA-titrer#, f\xf6rh\xf6jt ESR)'],
              ['Renal', u'Interstitiell nefrit'],
              ['Investigations',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jda kolesterol-# och  triglyceridv\xe4rden# Minskade v\xe4rden av hematokriter# och vita blodkroppar# samt f\xf6rh\xf6jda leverenzymer och serumbilirubin. Hos patienter med en medf\xf6dd G-6-PDH-brist har enstaka fall av hemolytisk anemi# rapporterats.']]]],
+=======
+              u'F\xf6rh\xf6jda kolesterol-# och  triglyceridv\xe4rden# Minskade v\xe4rden av hematokriter# och vita blodkroppar# samt f\xf6rh\xf6jda leverenzymer och serumbilirubin. Hos patienter med en medf\xf6dd G-6- PDH-brist har enstaka fall av hemolytisk anemi# rapporterats.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [8, 10],
  u'_rank': 43,
  u'_type': u'TSFU'}

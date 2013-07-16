@@ -1,6 +1,10 @@
 {'_data': [['Common',
             [['Eye',
+<<<<<<< HEAD
               u'Sveda vid instillation. Vid l\xe5ngtidsbehandling hornhinneskada och intraokul\xe4r tryckstegring.']]],
+=======
+              u'(>1/100, <1/10): Sveda vid instillation. Vid l\xe5ngtidsbehandling hornhinneskada och intraokul\xe4r tryckstegring.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon', [['Eye', u'Aktivering av viruskeratit.']]],
            ['Rare',
             [['Eye',

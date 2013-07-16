@@ -9,7 +9,11 @@
              ['General', u'Feber, malaise, asteni.']]],
            ['Rare',
             [['Immune system',
+<<<<<<< HEAD
               u'): Allergiska reaktioner s\xe5som urtikaria och kl\xe5da. Anafylaktiska reaktioner, serumsjuka.'],
+=======
+              u'(>1/10 000, <1/1 000): Allergiska reaktioner s\xe5som urtikaria och kl\xe5da. Anafylaktiska reaktioner, serumsjuka.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Neuropati.'],
              ['Skin', u'Hudutslag.']]],
            ['Very rare',

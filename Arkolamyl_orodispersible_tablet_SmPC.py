@@ -2,7 +2,11 @@
             [['Metabolism', u'Viktuppg\xe5ng 1'],
              ['Nervous system', u'Somnolens'],
              ['Investigations',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jd plasmaprolaktinniv\xe5 var mycket vanliga. syndrom. rapporterats vid abrupt vanliga L\xe5ngtidsbehandling (minst Pediatrisk population ungdomar med data fr\xe5n'],
+=======
+              u'F\xf6rh\xf6jd plasmaprolaktinniv\xe5 var mycket vanliga. vid abrupt uts\xe4ttande L\xe5ngtidsbehandling (minst Pediatrisk population data fr\xe5n studier p\xe5 med de som fick korttidsbehandling.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Mycket vanlig: viktuppg\xe5ng : f\xf6rh\xf6jd kolesterolniv\xe5'],
              ['Nervous system', u'mycket vanlig'],
              ['GI', u'vanlig'],
@@ -21,8 +25,12 @@
               u'\xd6verg\xe5ende, asymtomatiska f\xf6rh\xf6jningar av everaminotransferaser (ALAT, ASAT), s\xe4rskilt i b\xf6rjan av behandlingen (se avsnitt 4.4)'],
              ['Skin', u'Utslag'],
              ['Reproductive system', u'Asteni Tr\xf6tthet \xd6dem'],
+<<<<<<< HEAD
              ['Investigations',
               u'8 uts\xe4ttande av olanzapin. -hos olanzapinbehandlade patienter. Potentiellt associerade sexuella funktionsrelaterade 48 veckor) -studier p\xe5 vuxna. '],
+=======
+             ['Investigations', u'8 av olanzapin. -48 veckor) -vuxna. '],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u', f\xf6rh\xf6jd triglyceridniv\xe5 vanlig 11 '],
              ['Nervous system', u': sedering (inklusive hypersomni, letargi, somnolens).'],
              ['GI', u': muntorrhet.'],
@@ -43,7 +51,11 @@
             [['Blood', u'Trombocytopeni'],
              ['Immune system', u'Allergisk reaktion'],
              ['Metabolism',
+<<<<<<< HEAD
               u'Utveckling eller f\xf6rs\xe4mring av diabetessjukdomen, ibland associerat med ketoacidos eller koma, inklusive n\xe5gra fall med d\xf6dlig utg\xe5ng (se avsnitt 4.4) Hypotermi'],
+=======
+              u'Utveckling eller f\xf6rs\xe4mring av diabetessjukdomen, i-bland associerat med ketoacidos eller koma, inklusive n\xe5gra fall med d\xf6dlig utg\xe5ng (se avsnitt 4.4) Hypotermi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Kramper, d\xe4r det i de flesta fall finns kramper eller riskfaktorer f\xf6r kramper i anamnesen. Malignt neuroleptikasyndrom (se avsnitt 4.4) Dystoni (inklusive okulogyration Tardiv dyskinesi'],
              ['Cardiac',
@@ -51,7 +63,11 @@
              ['GI', u'Pankreatit'],
              ['Hepato',
               u'Hepatit (inklusive hepatocellul\xe4r, kolestatisk eller blandad leverskada)'],
+<<<<<<< HEAD
              ['Skin', u'Rabdomyolys'],
+=======
+             ['Musculoskeletal', u'Rabdomyolys'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Urintr\xe4ngningar'],
              ['Pregnancy', u'Uts\xe4ttningssymtom hos nyf\xf6dda (se 4.6)'],
              ['Reproductive system', u'Priapism'],

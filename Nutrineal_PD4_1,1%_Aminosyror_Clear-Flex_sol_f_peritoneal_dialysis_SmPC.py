@@ -2,6 +2,7 @@
             [['Blood', u''],
              ['Blood', u'Acidos'],
              ['Metabolism', u'Anorexi'],
+<<<<<<< HEAD
              ['Respiratory', u'Kr\xe4kningar*'],
              ['Respiratory', u'Illam\xe5ende'],
              ['Respiratory', u'Gastrit'],
@@ -23,9 +24,33 @@
              ['GI', u''],
              ['General', u'Pyrexi'],
              ['General', u'Sjukdomsk\xe4nsla'],
+=======
+             ['Psychiatric', u'Kr\xe4kningar*'],
+             ['Psychiatric', u'Illam\xe5ende'],
+             ['Psychiatric', u'Gastrit'],
+             ['GI', u'Asteni'],
+             ['GI', u'\xd6kad urea i blod']]],
+           ['Common',
+            [['Blood', u'Anemi'],
+             ['Blood', u'Hypervolemi'],
+             ['Metabolism', u'Hypokalemi Hypovolemi'],
+             ['Psychiatric', u'Depression'],
+             ['Psychiatric', u'Buksm\xe4rtor']]],
+           ['Unknown',
+            [['Immune system', u'\xd6verk\xe4nslighet'],
+             ['Psychiatric', u''],
+             ['GI', u'Obehag fr\xe5n buken'],
+             ['GI', u'Peritonit Grumligt dialysat fr\xe5n peritoneum'],
+             ['GI', u''],
+             ['GI', u'Sjukdomsk\xe4nsla'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u''],
              ['Investigations', u'Onormal peritonealv\xe4tskeanalys Kl\xe5da'],
              ['Skin', u'Angio\xf6dem']]]],
  '_pages': [4, 6],
+<<<<<<< HEAD
  u'_rank': 20,
+=======
+ u'_rank': 18,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

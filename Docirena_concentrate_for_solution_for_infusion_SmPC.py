@@ -37,7 +37,11 @@
              ['Infections', u'Infektioner (G3/4: 5,7 %)'],
              ['Blood',
               u'Neutropeni (G4: 51,5 %); Anemi (G3/4: 6,9 %); Trombocytopeni (G4: 0,5 %)'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighets-reaktio ner (G3/4: 2,5 %)'],
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-reaktioner (G3/4: 2,5 %)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Anorexi'],
              ['Nervous system',
               u'Perifer sensorisk neuropati (G3: 3,7 %); Perifer motorisk neuropati (G3/4: 2 %)'],
@@ -53,7 +57,11 @@
              ['Metabolism', u'Anorexi'],
              ['Psychiatric', u'S\xf6mnl\xf6shet'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Parestesi; -Huvudv\xe4rk; F\xf6r\xe4ndrad smakupplevelse; Hypestesi'],
+=======
+              u'Parestesi; Huvudv\xe4rk; F\xf6r\xe4ndrad smakupplevelse; Hypestesi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'\xd6kat t\xe5rfl\xf6de; konjunktivit'],
              ['Vascular', u'Lymf\xf6dem'],
              ['Respiratory',
@@ -143,7 +151,11 @@
              ['Cardiac', u'Arytmi (G3/4: 0,7 %)'],
              ['Vascular', u'Hypotoni; Hypertoni; Bl\xf6dning'],
              ['GI',
+<<<<<<< HEAD
               u'F\xf6rstoppning (sv\xe5r 0,2 %); Buksm\xe4rta (sv\xe5r 1 %); Gastrointestinalbl\xf6dnin g (sv\xe5r 0,3 %)'],
+=======
+              u'F\xf6rstoppning (sv\xe5r 0,2 %); Buksm\xe4rta (sv\xe5r 1 %); Gastrointestinalbl\xf6dning (sv\xe5r 0,3 %)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Artralgi'],
              ['General',
               u'Reaktion p\xe5 infusionsst\xe4llet; Br\xf6stsm\xe4rta utan hj\xe4rtp\xe5verkan (sv\xe5r 0,4 %)'],
@@ -158,7 +170,11 @@
              ['Skin', u'Nagelf\xf6r\xe4ndringar (sv\xe5ra 0,8 %)'],
              ['Musculoskeletal', u'Myalgi'],
              ['Investigations', u'G3/4 F\xf6rh\xf6jt bilirubin i blodet (< 2 %)'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighets-reaktio ner (G3/4: 1,2 %)'],
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-reaktioner (G3/4: 1,2 %)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Anorexi'],
              ['Nervous system', u'Perifer motorisk neuropati (G3/4: 0,4 %)'],
              ['Cardiac', u'Hj\xe4rtsvikt; Arytmi (inga sv\xe5ra)'],
@@ -198,7 +214,11 @@
               u'Epistaxis (G3/4: 0 %); Dyspn\xe9 (G3/4: 0,6 %); Hosta (G3/4: 0 %).'],
              ['Skin', u'Exfoliativt utslag (G3/4: 0,3 %)'],
              ['Musculoskeletal', u'Artralgi (G3/4: 0,3 %); Myalgi (G3/4: 0,3 %)'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighetsreaktion er (G3/4:0,6%)'],
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-reaktioner (G3/4:0,6%)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Perifer motorisk neuropati (G3/4: 0 %)'],
              ['Eye', u'\xd6kat t\xe5rfl\xf6de (G3/4: <0,1 %)'],
              ['Cardiac', u'Arytmi (G3/4: 0,2 %)'],
@@ -250,9 +270,15 @@
               u'Synkope (G3/4: 0 %); Neurotoxicitet (G3/4: 0%); Somnolens (G3/4: 0%)'],
              ['Vascular', u'Lymf\xf6dem (G3/4: 0 %)'],
              ['Cardiac', u'Arytmi (G3/4: 0,6 %).'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighetsr eaktioner'],
              ['Eye', u'Konjunktivit'],
              ['Cardiac', u'Hj\xe4rtmuskelische mi'],
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-reaktioner'],
+             ['Eye', u'Konjunktivit'],
+             ['Cardiac', u'Hj\xe4rtmuskel-ischemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Ven\xf6sa sjukdomar'],
              ['Investigations', u'Vikt\xf6kning']]]],
  '_note': u' ?MSFU',

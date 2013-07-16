@@ -9,7 +9,11 @@
              ['General', u'Reaktioner vid applikationsst\xe4llet s\xe5som \xf6dem och sveda']]],
            ['Uncommon',
             [['Psychiatric', u'Onormala dr\xf6mmar'],
+<<<<<<< HEAD
              ['Cardiac', u'Hj\xe4rt-klappnin g'],
+=======
+             ['Cardiac', u'Hj\xe4rt-klappning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Kr\xe4kningar']]],
            ['Rare',
             [['Immune system', u'Hudutslag, urtikaria, allm\xe4n kl\xe5da, Angio\xf6dem']]]],

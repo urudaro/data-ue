@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['Blood', u'>'],
              ['Nervous system', u'Tr\xf6tthet'],
@@ -11,6 +12,16 @@
               u'Huvudv\xe4rk Yrsel S\xf6mnst\xf6rningar Smakf\xf6r\xe4ndringar'],
              ['Cardiac', u'Palpitationer'],
              ['Vascular', u'>'],
+=======
+{'_data': [['Common', [['Nervous system', u'Tr\xf6tthet'], ['GI', u'Illam\xe5ende Diarr\xe9']]],
+           ['Uncommon',
+            [['Infections', u'Mykotiska superinfektioner'],
+             ['Blood', u'Eosinofili'],
+             ['Metabolism', u'Anorexi'],
+             ['Nervous system',
+              u'Huvudv\xe4rk Yrsel S\xf6mnst\xf6rningar Smakf\xf6r\xe4ndringa'],
+             ['Cardiac', u'Palpitationer'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Pulmonell embolism, epistaxis, hemoptys, hicka.'],
              ['GI', u'Kr\xe4kning Sm\xe4rta i mag-tarmkanalen och buken Dyspepsi Flatulens'],
              ['Hepato', u'F\xf6rh\xf6jt transaminas F\xf6rh\xf6jt bilirubin'],
@@ -22,8 +33,13 @@
              ['Investigations', u'F\xf6rh\xf6jning av alkaliska fosfatv\xe4rdet']]],
            ['Rare',
             [['Infections',
+<<<<<<< HEAD
               u'Antibiotika-associer ad kolit (i mycket s\xe4llsynta fall m\xf6jligen med d\xf6dlig utg\xe5ng)'],
              ['Blood', u'Leukopeni Anemi > Trombocytopenia Trombocytemi'],
+=======
+              u'Antibiotika-associerad kolit (i mycket s\xe4llsynta fall m\xf6jligen med d\xf6dlig utg\xe5ng)'],
+             ['Blood', u'Leukopeni Anemi Neutropeni Leukocytos Trombocytopenia Trombocytemi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'Allergisk reaktion Allergiskt \xf6dem / angio\xf6dem'],
              ['Metabolism', u'Hyperglykemi'],
              ['Nervous system',
@@ -31,7 +47,11 @@
              ['Eye', u'Synrubbning (t ex diploia)'],
              ['Ear', u'Tinnitus H\xf6rself\xf6rlust / Nedsatt h\xf6rsel'],
              ['Cardiac', u'Takykardi'],
+<<<<<<< HEAD
              ['Vascular', u'Vasodilatation Hypotension Svimning >'],
+=======
+             ['Vascular', u'Vasodilatation Hypotension Svimning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Dyspn\xe9 (inklusive astmatiskt tillst\xe5nd)'],
              ['Hepato', u'Nedsatt leverfunktion Kolestatisk ikterus Hepatit'],
              ['Skin', u'Ljusk\xe4nslighets-reaktioner (se avsnitt 4.4) Ospecifik sveda'],
@@ -42,6 +62,7 @@
              ['Investigations', u'Onormal protrombinniv\xe5 F\xf6rh\xf6jt amylas']]],
            ['Very rare',
             [['Blood',
+<<<<<<< HEAD
               u'Hemolytisk anemi Agranulocytos < Pancytopeni (livs-hotande) Benm\xe4rgs-depression (livshotande)'],
              ['Immune system',
               u'Anafylaktisk reaktion Anafylaktisk chock (livshotande) (se avsnitt 4.4) Reaktion liknande serumsjuka'],
@@ -50,6 +71,16 @@
              ['Eye', u'F\xf6rvr\xe4ngt f\xe4rgseende'],
              ['Cardiac', u'V\xe4rmevallningar'],
              ['Vascular', u'Vaskulit <'],
+=======
+              u'Hemolytisk anemi Agranulocytos Pancytopeni (livs-hotande) Benm\xe4rgs-depression (livshotande)'],
+             ['Immune system',
+              u'Anafylaktisk reaktion Anafylaktisk chock (livshotande) (se avsnitt 4.4) Reaktion liknande serumsjuka'],
+             ['Nervous system',
+              u'Migr\xe4n F\xf6rs\xe4mrad koordinations-f\xf6rm\xe5ga G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension Mardr\xf6mmar \xc5ngest'],
+             ['Eye', u'F\xf6rvr\xe4ngt f\xe4rgseende'],
+             ['Cardiac', u'V\xe4rmevallningar'],
+             ['Vascular', u'Vaskulit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Pankreatit'],
              ['Hepato',
               u'Levernekros (i mycket s\xe4llsynta fall \xf6verg\xe5ng till livshotande leversvikt) (se avsnitt 4.4)'],
@@ -58,6 +89,7 @@
              ['Musculoskeletal',
               u'Muskelsvaghet Tendinit Senruptur (fr\xe4mst h\xe4lsenan) (se avsnitt 4.4) Exacerbation av symtomen av myasthenia gravis (se avsnitt 4.4)']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Blood', u'(kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data)'],
              ['Nervous system', u'Perifer neuropati (se avsnitt 4.4)'],
              ['Cardiac',
@@ -69,4 +101,15 @@
  '_note': u' ?MSFU',
  '_pages': [12, 15],
  u'_rank': 50,
+=======
+            [['Nervous system', u'Perifer neuropati (se avsnitt 4.4)'],
+             ['Cardiac',
+              u'Ventrikul\xe4r arytmi och Torsades-de-Pointes (rapporterade fr\xe4mst hos patienter med riskfaktorer f\xf6r QT-f\xf6rl\xe4ngning, (se avsnitt 4.4 och 4.9)'],
+             ['Skin', u'Akut generaliserad exantemat\xf6s pustulos (AGEP)'],
+             ['Investigations',
+              u'F\xf6rh\xf6jningen av INR (International Normalised Ratio (hos']]]],
+ '_note': u' ?MSFU',
+ '_pages': [12, 15],
+ u'_rank': 45,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

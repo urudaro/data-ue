@@ -12,7 +12,11 @@
              ['Skin', u'Hudutslag Mindre Kl\xe5da'],
              ['Skin', u'vanliga'],
              ['General', u'Feber Mindre \xd6dem'],
+<<<<<<< HEAD
              ['General', u'vanliga']]],
+=======
+             ['General', u'vanliga * se avsnitt 4.4.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Blood',
               u'Serumsjuka, angioneurotiskt \xf6dem, anafylaktisk reaktion, anafylaktoid frekvens reaktion, \xf6verk\xe4nslighet*'],

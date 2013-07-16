@@ -25,7 +25,11 @@
              ['GI', u'Pankreatit'],
              ['Hepato', u'Ikterus (intrahepatisk kolestatisk  ikterus)'],
              ['Skin',
+<<<<<<< HEAD
               u'Toxisk epidermal nekrolys,  kutana lupus erythematosus-liknande reaktioner, \xe5teraktivering av kutan lupus erythematosus'],
+=======
+              u'Toxisk epidermal nekrolys,  kutana lupus erythematosus- liknande reaktioner, \xe5teraktivering av kutan lupus erythematosus'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Muskelspasm'],
              ['Renal', u'Renal dysfunktion och interstitiell  nefrit'],
              ['General', u'Feber'],

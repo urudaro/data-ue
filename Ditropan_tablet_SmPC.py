@@ -20,6 +20,10 @@
              ['Skin',
               u'fototoxicitet*, allergiska reaktioner s\xe5som hudutslag, urtikaria och angio\xf6dem'],
              ['Reproductive system', u'erektil dysfunktion*']]]],
+<<<<<<< HEAD
  '_pages': [3, 4],
+=======
+ '_pages': [4, 5],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 16,
  u'_type': u'LSFU'}

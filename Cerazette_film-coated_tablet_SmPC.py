@@ -15,6 +15,10 @@
              ['General', u'Tr\xf6tthet']]],
            ['Rare', [['Skin', u'Utslag, urtikaria, erythema nodosum']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [6, 7],
+=======
+ '_pages': [5, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 13,
  u'_type': u'MSFU'}

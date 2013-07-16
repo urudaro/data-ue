@@ -4,7 +4,11 @@
              ['Metabolism',
               u'S\xe4nkta serumelektrolytv\xe4rden (natrium, magnesium, kalium och kalcium) har rapporterats efter karboplatinbehandling, men har inte angetts vara allvarliga nog att orsaka kliniska tecken eller symtom.'],
              ['Ear',
+<<<<<<< HEAD
               u'Subklinisk neds\xe4ttning av h\xf6rself\xf6rm\xe5gan inom h\xf6gfrekvensomr\xe5det (4 000-8 000 Hz) som fastst\xe4llts genom audiogram har rapporterats hos 15% av karboplatinbehandlade patienter.'],
+=======
+              u'Subklinisk neds\xe4ttning av h\xf6rself\xf6rm\xe5gan inom h\xf6gfrekvensomr\xe5det (4 000- 8 000 Hz) som fastst\xe4llts genom audiogram har rapporterats hos 15% av karboplatinbehandlade patienter.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Illam\xe5ende utan kr\xe4kningar f\xf6rekommer hos ca 1/4 av patienter som f\xe5r karboplatin. Kr\xe4kningar har rapporterats hos ca h\xe4lften av patienterna och ca 1/3 av dem drabbas av allvarliga kr\xe4kningar. Illam\xe5ende och kr\xe4kningar uppkommer i allm\xe4nhet inte f\xf6rr\xe4n 6 till 12 timmar efter administrering av karboplatin och f\xf6rsvinner vanligen inom 24 timmar. Symtomen kan i normala fall behandlas (och f\xf6rebyggas) med antiemetika. Hos 25% av patienterna f\xf6rekommer inte illam\xe5ende eller kr\xe4kningar. Kr\xe4kningar som inte kunde kontrolleras med l\xe4kemedel f\xf6rekom endast hos 1% av patienterna. Kr\xe4kningar verkar vara vanligare f\xf6rekommande hos tidigare behandlade patienter, s\xe4rskilt n\xe4r de behandlats med cisplatin. Sm\xe4rtsamma magtarmbesv\xe4r f\xf6rekom hos 8% av patienterna.'],
              ['Hepato',

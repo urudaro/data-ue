@@ -46,7 +46,12 @@
              ['Reproductive system', u'gynekomasti'],
              ['Vascular', u'Raynauds fenomen'],
              ['Investigations', u'f\xf6rh\xf6jda leverenzymer, f\xf6rh\xf6jt serumbilirubin'],
+<<<<<<< HEAD
              ['Psychiatric', u's\xf6mnst\xf6rningar']]],
+=======
+             ['Psychiatric',
+              u's\xf6mnst\xf6rningar *Incidenstalen var j\xe4mf\xf6rbara med de f\xf6r placebo- och aktiv kontroll grupp i de kliniska pr\xf6vningarna.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare', [['GI', u'intestinalt angio\xf6dem']]]],
  '_pages': [8, 10],
  u'_rank': 39,

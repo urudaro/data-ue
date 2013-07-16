@@ -2,7 +2,11 @@
             [['Nervous system', u'Huvudv\xe4rk, yrsel'],
              ['GI',
               u'Illam\xe5ende, diarr\xe9, magknip, f\xf6rstoppning, kr\xe4kningar, flatulens, torrhetsk\xe4nsla i mun eller svalg'],
+<<<<<<< HEAD
              ['Hepato', u'\xd6kning av leverenzym-ni v\xe5er'],
+=======
+             ['Hepato', u'\xd6kning av leverenzym-niv\xe5er'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Urtikaria, kl\xe5da och utslag'],
              ['General', u'Tr\xf6tthet']]],
            ['Uncommon',

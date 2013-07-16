@@ -7,13 +7,19 @@
               u'Tremor, dystoni, hypertoni,  yrsel, huvudv\xe4rk, parestesier.'],
              ['Eye', u'Ackommodationsst\xf6rningar,  synst\xf6rningar.'],
              ['Ear', u'Vertigo.'],
+<<<<<<< HEAD
              ['Respiratory', u'N\xe4st\xe4ppa, dyspn\xe9.'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Salivhypersekretion,  konstipation, kr\xe4kningar, dyspepsi, diarr\xe9.'],
              ['Renal', u'Miktionsst\xf6rningar,  urinretention, polyuri.'],
              ['Skin', u'Hyperhidros, pruritus.'],
              ['Musculoskeletal', u'Myalgi.'],
              ['Metabolism', u'\xd6kad aptit, \xf6kad vikt.'],
+<<<<<<< HEAD
              ['General', u'Asteni, tr\xf6tthet, allm\xe4n  sjukdomsk\xe4nsla, sm\xe4rta.'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric',
               u'Insomnia, depression, \xe5ngest,  nervositet, abnormala dr\xf6mmar, agitation, minskad libido.']]],
            ['Uncommon',
@@ -27,7 +33,11 @@
              ['Musculoskeletal', u'Muskelrigiditet, trismus,  torticollis.'],
              ['Metabolism', u'Minskad aptit, minskad vikt.'],
              ['Vascular', u'Hypotension, v\xe4rmevallningar.'],
+<<<<<<< HEAD
              ['General', u'T\xf6rst, reaktion vid  injektionsst\xe4llet, hypotermi, pyrexi.'],
+=======
+             ['Vascular', u'T\xf6rst, reaktion vid  injektionsst\xe4llet, hypotermi, pyrexi.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Abnormalt leverfunktionstest.'],
              ['Reproductive system',
               u'Utebliven ejakulation, erektil  dysfunktion, orgasmst\xf6rningar hos kvinnor, vulvovaginal torrhet.'],
@@ -40,10 +50,18 @@
              ['Immune system', u'Hypersensitivitet, anafylaktisk  reaktion.'],
              ['Reproductive system', u'Gynekomasti, galaktorr\xe9,  amenorr\xe9, priapism.']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Nervous system', u'Malignt  neuroleptikasyndrom.'],
              ['Vascular', u'Ven\xf6s trombo-embolisk  sjukdom'],
              ['Hepato', u'Kolestatisk hepatit, gulsot.']]],
            ['Unknown', [['Pregnancy', u'Neonatalt uts\xe4ttningssyndrom  (se 4.6)']]]],
  '_pages': [4, 6],
  u'_rank': 36,
+=======
+            [['Nervous system', u'Malignt neuroleptikasyndrom.'],
+             ['Vascular', u'Ven\xf6s trombo-embolisk  sjukdom'],
+             ['Hepato', u'Kolestatisk hepatit, gulsot.']]]],
+ '_pages': [4, 7],
+ u'_rank': 33,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

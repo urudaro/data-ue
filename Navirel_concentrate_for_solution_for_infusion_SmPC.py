@@ -3,8 +3,12 @@
               u'Neutropeni(grad 3: 24,3 % och grad 4: 27,8 % vid monoterapi), anemi(grad 3--4: 7,4 % vid monoterapi)'],
              ['Nervous system',
               u'Neurologiska st\xf6rningar (grad 3: 2,6 %; grad 4: 0,1 %), obstipation (grad 3--4: 2,7 % vid monoterapi, grad 3--4: 4,1 % vid kombinationsbehandling)(se \xe4ven \u201dMagtarmkanalen\u201d), f\xf6rlust av djupa senreflexer'],
+<<<<<<< HEAD
              ['GI',
               u'Obstipation (grad 3--4: 2,7 % vid monoterapi, grad 3--4: 4,1 % vid kombinationsbehandling) (se \xe4ven \u201dCentrala och perifera nervsystemet\u201d), illam\xe5ende, kr\xe4kningar (grad 3--4: 2,2 % vid monoterapi), diarr\xe9, stomatit, esofagit, anorexi'],
+=======
+             ['GI', u''],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato',
               u'Onormala leverfunktionsv\xe4rden (f\xf6rh\xf6jt totalbilirubin, f\xf6rh\xf6jt alkaliskt fosfatas, f\xf6rh\xf6jt aspartataminotransferas, f\xf6rh\xf6jt alaninaminotransferas)'],
              ['Skin', u'Alopeci (grad >2: 4,1 % vid monoterapi)'],
@@ -13,9 +17,15 @@
            ['Common',
             [['Infections', u'Bakterie-, virus- eller svampinfektion p\xe5 olika st\xe4llen'],
              ['Blood',
+<<<<<<< HEAD
               u'Trombocytopeni(grad 3--4: 2,5 %), febril neutropeni, neutropen sepsis med potentiellt d\xf6dlig utg\xe5ng  i 1,2 % av fallen'],
              ['Blood', u'Allergiska reaktioner (i hud och andningsv\xe4gar)'],
              ['Nervous system', u'Parestesi, med sensoriska och motoriska st\xf6rningar'],
+=======
+              u'Trombocytopeni(grad 3--4: 2,5 %), febril neutropeni, neutropen sepsis med potentiellt d\xf6dlig utg\xe5ngi 1,2 % av fallen'],
+             ['Blood', u'Allergiska reaktioner (i hud och andningsv\xe4gar)'],
+             ['Nervous system', u''],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Dyspn\xe9, bronkospasm'],
              ['Skin', u'Hudreaktioner'],
              ['Musculoskeletal', u'Myalgi, artralgi'],
@@ -45,5 +55,9 @@
              ['Cardiac', u'Takykardi, palpitation och st\xf6rd hj\xe4rtrytm'],
              ['Respiratory', u'Andningsinsufficiens']]]],
  '_pages': [4, 7],
+<<<<<<< HEAD
  u'_rank': 33,
+=======
+ u'_rank': 31,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU2'}

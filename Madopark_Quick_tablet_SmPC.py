@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Metabolism', u' Anorexi.  '],
              ['Cardiac', u' Kardiella arytmier '],
              ['Vascular', u' Ortostatisk hypotension. '],
@@ -15,3 +16,25 @@
  '_pages': [4, 5],
  u'_rank': 10,
  u'_type': u'DFSU'}
+=======
+            [['Metabolism', u'Anorexi.'],
+             ['Cardiac', u'Kardiella arytmier'],
+             ['Vascular', u'Ortostatisk hypotension.'],
+             ['GI', u'Illam\xe5ende, kr\xe4kning, diarr\xe9.'],
+             ['Psychiatric',
+              u'Insomnia, konfusion, hallucinationer, depression,  psykotiska reaktioner.'],
+             ['Nervous system', u'Hyperkinesi, \u201con-off\u201d-effekt.']]],
+           ['Rare',
+            [['Blood', u'Hemolytisk anemi, leukopeni, trombocytopeni.'],
+             ['Nervous system',
+              u'Malignt neuroleptikasyndrom (vid  uts\xe4ttning av l\xe4kemedlet).'],
+             ['Skin', u'Kl\xe5da, exantem.'],
+             ['Investigations',
+              u'M\xf6rkf\xe4rgad urin.  \xd6verg\xe5ende f\xf6rh\xf6jning av transaminasv\xe4rden och alkaliskt fosfatas samt \xf6kad m\xe4ngd urea i'],
+             ['Blood', u''],
+             ['Psychiatric',
+              u'som tecken p\xe5 \xf6verdosering. Illam\xe5ende och andra obehag fr\xe5n magen kan minskas om  Madopark Quick intas med l\xe4tt tilltugg (t ex ett kex) eller v\xe4tska. F\xf6r att reducera  biverkningarna \xe4r det n\xf6dv\xe4ndigt att vid dosjustering h\xf6ja dosen l\xe5ngsamt. Biverkningarna \xe4r i  allm\xe4nhet dosberoende och f\xf6rsvinner eller avtar efter reducering av dosen varf\xf6r behandlingen  vanligtvis inte beh\xf6ver avbrytas.']]]],
+ '_pages': [4, 5],
+ u'_rank': 11,
+ u'_type': u'LFSUR'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

@@ -19,7 +19,11 @@
              ['Musculoskeletal',
               u'Asteni, br\xf6stsm\xe4rtor, tr\xf6tthet, sjukdomsk\xe4nsla, perifert \xf6dem, sm\xe4rtor, t\xf6rst'],
              ['Investigations',
+<<<<<<< HEAD
               u'\xd6kade halter av aluminium i blodet, f\xf6rh\xf6jd GGT-niv\xe5, f\xf6rh\xf6jning av levertransaminaser, f\xf6rh\xf6jt alkaliskt fosfatas, viktminskning']]]],
+=======
+              u'\xd6kade halter av aluminium i blodet, f\xf6rh\xf6jd GGT- niv\xe5, f\xf6rh\xf6jning av levertransaminaser, f\xf6rh\xf6jt alkaliskt fosfatas, viktminskning * Utan n\xe4rmare specifikation Erfarenheter efter marknadslansering: Efter godk\xe4nnandet av Fosrenol har allergiska hudreaktioner (inklusive hudutslag, urtikaria och kl\xe5da) som uppvisar ett n\xe4ra tidssamband med behandling med lantankarbonat rapporterats. I kliniska studier f\xf6rekom allergiska hudreaktioner i alla patientgrupper som fick Fosrenol, placebo eller aktiv komparator med frekvensen mycket vanlig (\u22651/10). Ett antal ytterligare isolerade reaktioner har rapporterats, men inga av dessa reaktioner kan anses vara of\xf6rv\xe4ntade f\xf6r patientgruppen ifr\xe5ga. \xd6verg\xe5ende f\xf6r\xe4ndringar i QT-intervall har iakttagits. Dessa var emellertid inte f\xf6rknippade med en \xf6kning av hj\xe4rtrelaterade biverkningar.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 5],
  u'_rank': 15,
  u'_type': u'LSFU'}

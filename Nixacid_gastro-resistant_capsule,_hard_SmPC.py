@@ -2,6 +2,7 @@
             [['Nervous system', u'Huvudv\xe4rk, yrsel'],
              ['GI',
               u'Illam\xe5ende, diarr\xe9, magsm\xe4rtor, f\xf6rstoppning, kr\xe4kningar, flatulens, torr mun eller hals'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jda leverenzym-ni v\xe5er'],
              ['Skin', u'Urticaria, kl\xe5da, hudutslag'],
              ['General', u'Tr\xf6tthet']]],
@@ -17,6 +18,22 @@
              ['Nervous system', u'Rastl\xf6shet, svindel, parestesi, somnolens, tremor'],
              ['Eye', u'Synst\xf6rning'],
              ['GI', u'Glossit, candidiasis i esofagus, pankreatit, smakst\xf6r-ninga'],
+=======
+             ['Hepato', u'F\xf6rh\xf6jda leverenzym-niv\xe5er'],
+             ['Skin', u'Urticaria, kl\xe5da, hudutslag'],
+             ['General', u'Tr\xf6tthet']]],
+           ['Uncommon',
+            [['Blood', u'Trombo-cytopeni, eosinofili, leukopeni'],
+             ['Psychiatric', u'Depression'],
+             ['Musculoskeletal', u'Artralgi, myalgi'],
+             ['General', u'\xd6dem']]],
+           ['Rare',
+            [['Blood', u'Anemi'],
+             ['Psychiatric', u'S\xf6mnl\xf6shet, hallucinationer f\xf6rvirring'],
+             ['Nervous system', u'Rastl\xf6shet, svindel, parestesi, somnolens, tremor'],
+             ['Eye', u'Synst\xf6rning'],
+             ['GI', u'Glossit, candidiasis i esofagus, pankreatit, smakst\xf6rningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Hepatit, ikterus'],
              ['Skin',
               u'Petekier, purpura, h\xe5ravfall, erythema multiforme, ljusk\xe4nslighet'],
@@ -24,6 +41,7 @@
              ['Reproductive system', u'Gynekomasti'],
              ['General', u'Feber, hyperhidros, angio\xf6dem, anorexi, impotens']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Blood', u'Agranulo-cyto s, pancytopeni'],
              ['GI', u'Kolit, stomatit'],
              ['Skin', u'Stevens-Johns ons syndrom, toxisk epidermal nekrolys'],
@@ -34,4 +52,15 @@
  '_note': u' ?MSFU',
  '_pages': [5, 7],
  u'_rank': 25,
+=======
+            [['Blood', u'Agranulocytos, pancytopeni'],
+             ['GI', u'Kolit, stomatit'],
+             ['Skin', u'Stevens-Johnsons syndrom, toxisk epidermal nekrolys'],
+             ['General', u'Anafylatisk chock'],
+             ['Investigations',
+              u'F\xf6rh\xf6jda kolesterol-och triglyceridniv\xe5er, hyponatremi']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 6],
+ u'_rank': 24,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

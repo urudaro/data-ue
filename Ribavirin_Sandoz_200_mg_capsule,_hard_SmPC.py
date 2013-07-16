@@ -58,7 +58,12 @@
               u'Kvinnor amenorr\xe9, menorragi, menstruationsrubbningar, dysmenorr\xe9, br\xf6stsm\xe4rtor, \xe4ggstocksbesv\xe4r, vaginala besv\xe4r. M\xe4n: impotens, prostatit, erektil dysfunction. Sexuell dysfunktion (ospecificerad)*'],
              ['General',
               u'Br\xf6stsm\xe4rta, obehag i br\xf6stet, perifert \xf6dem, obehagsk\xe4nsla, sm\xe4rta vid injektionsst\xe4llet, onormalhetsk\xe4nsla, t\xf6rst'],
+<<<<<<< HEAD
              ['Investigations', u'Bl\xe5sljud fr\xe5n hj\xe4rtat'],
+=======
+             ['Investigations',
+              u'Bl\xe5sljud fr\xe5n hj\xe4rtat * Eftersom ribavirin alltid f\xf6rskrivs tillsammans med en alfainterferon-produkt och de uppr\xe4knade biverkningarna som \xe5terspeglar erfarenheterna efter marknadsf\xf6ringen inte medger kvantifiering av frekvensen, \xe4r den frekvens som rapporteras ovan h\xe4mtad fr\xe5n kliniska pr\xf6vningar d\xe4r man anv\xe4nt ribavirin i kombination med interferon alfa-2b (pegylerat eller ickepegylerat). En minskning av hemoglobinkoncentrationen med > 4 g/dl observerades hos 30 % av de patienter som behandlades med ribavirin och peginterferon alfa-2b och hos 37 % av de patienter som behandlades med ribavirin och interferon alfa-2b. Hemoglobinniv\xe5erna sj\xf6nk under 10 g/dl hos upp till 14 % av vuxna patienter och hos 7 % av barn och ungdomar som behandlades med ribavirin i kombination med antingen peginterferon alfa-2b eller interferon alfa-2b. De flesta fall av anemi, neutropeni och trombocytopeni var milda (WHO grad 1 eller 2). Det fanns en del mer allvarliga fall av neutropeni hos patienter behandlade med ribavirin i kombination med peginterferon alfa-2b (WHO grad 3; 39 patienter av 186 [21 %] och WHO grad 4; 13 patienter av 186 [7 %]); leukopeni av WHO grad 3 rapporterades ocks\xe5 hos 7 % i denna behandlingsgrupp. En \xf6kning av urinsyra och indirekt bilirubinv\xe4rde f\xf6rknippad med hemolys observerades hos en del patienter behandlade med ribavirin i kombination med peginterferon alfa-2b eller interferon alfa-2b I kliniska studier, men v\xe4rdena \xe5tergick till utg\xe5ngsniv\xe5erna fyra veckor efter att behandlingen avslutats. Hos patienter med f\xf6rh\xf6jda urinsyrav\xe4rden som fick kombinationsbehandlingen utvecklade mycket f\xe5 patienter gikt. Inte f\xf6r n\xe5gon av dessa patienter kr\xe4vdes modifiering av behandlingen eller att de avbr\xf6t studien. Patienter med samtidig HCV-/HIV-infektion F\xf6r patienter med samtidig HCV-/HIV-infektion som f\xe5r ribavirin i kombination med peginterferon alfa-2b, har andra biverkningar (som inte rapporterats hos patienter med monoinfektion) rapporterats i studier med en frekvens p\xe5 > 5 %. Dessa var: oral candidiasis (14 %), f\xf6rv\xe4rvad lipodystrofi (13 %), minskat antal CD4-lymfocyter (8 %), minskad aptit (8 %), \xf6kat gamma-glutamyltransferas (9 %), ryggsm\xe4rta (5 %), \xf6kat blodamylas (6 %), \xf6kad mj\xf6lksyra i blodet (5 %), cytolytisk hepatit (6 %), \xf6kat lipas (6 %) och sm\xe4rta i extremiteter (6 %). Mitokondriell toxicitet: Mitokondriell toxicitet och mj\xf6lksyraacidos har rapporterats hos HIV-positiva patienter som erh\xe5ller NRTI-regim och till\xe4gg av ribavirin f\xf6r samtidig HCV-infektion (se avsnitt 4.4). Laboratoriev\xe4rden f\xf6r patienter med samtidig HCV-/HIV-infektion: Trots att hematologisk toxicitet som neutropeni, trombocytopeni och anemi intr\xe4ffade oftare hos patienter med samtidig HCV-/HIV-infektion, kunde flertalet behandlas genom modifiering av dosen och behandlingen beh\xf6vde s\xe4llan avbrytas i f\xf6rtid (se avsnitt 4.4). Hematologiska avvikelser rapporterades oftare hos patienter som erh\xf6ll ribavirin i kombination med peginterferon alfa-2b \xe4n hos patienter som erh\xf6ll ribavirin i kombination med interferon alfa-2b. I Studie 1 (se avsnitt 5.1) s\xe5gs en minskning av totala antalet neutrofiler under 500 celler/mm3 hos 4 % (8/194) av patienterna och en minskning av trombocyter under 50 000/mm3 s\xe5gs hos 4 % (8/194) av de patienter som erh\xf6ll ribavirin tillsammans med peginterferon alfa-2b. Anemi (hemoglobin < 9,4 g/dl) rapporterades hos 12 % (23/194) av de patienter som behandlades med ribavirin i kombination med peginterferon alfa-2b. Minskning av CD4-lymfocyter: Behandling med ribavirin i kombination med peginterferon alfa-2b \xe5tf\xf6ljdes av minskning av totala antalet CD4+-celler inom de f\xf6rsta 4 veckorna utan minskning av CD4+-celler i procent. Minskningen av antalet CD4+-celler var reversibel vid dosreduktion eller avbrytande av behandling. Anv\xe4ndning av ribavirin i kombination med peginterferon alfa-2b visade ingen negativ p\xe5verkan p\xe5 kontrollen av HIV viremi under behandling eller uppf\xf6ljning. Begr\xe4nsade s\xe4kerhetsdata (N = 25) \xe4r tillg\xe4ngliga f\xf6r patienter med samtidig infektion n\xe4r det g\xe4ller antalet CD4+-celler < 200/\u03bcl (se avsnitt 4.4). Se respektive produktresum\xe9 f\xf6r de antiretrovirala l\xe4kemedel som tas samtidigt med HCVbehandlingen f\xf6r att uppm\xe4rksamma och behandla toxicitet, som \xe4r specifik f\xf6r varje l\xe4kemedel samt risken f\xf6r \xf6verlappande toxicitet med ribavirin i kombination med peginterferon alfa-2b.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Infections',
               u'Svampinfektion, bakteriell infektion, lunginfektion, nasofaryngit, streptokockfaryngit, otitis media, sinuit, tandabscess, influensa, oral herpes, herpes simplex, urinv\xe4gsinfektion, vaginit, gastroenterit'],
              ['Neoplasms', u'Neoplasm (ospecificerad)'],
@@ -130,6 +135,7 @@
              ['Renal', u'Njursvikt, njurinsufficiens*'],
              ['General', u'Nekros vid injektionsst\xe4llet']]],
            ['Very rare',
+<<<<<<< HEAD
             [['Blood', u'Aplastisk anemi*'],
              ['Psychiatric', u'Sj\xe4lvmord*'],
              ['Nervous system',
@@ -138,11 +144,24 @@
              ['Vascular', u'Perifer ischemi*'],
              ['Respiratory', u'Lunginfiltrat*, pneumonit*, interstitiell pneumonit*'],
              ['GI', u'Ulcer\xf6s kolit*'],
+=======
+            [['Blood',
+              u'Aplastisk anemi* : Ren erytrocytaplasi, idiopatisk trombocytopen purpura, trombotisk trombocytopen purpura'],
+             ['Psychiatric',
+              u'Sj\xe4lvmord* : Tankar p\xe5 mord*, maniska tillst\xe5nd*, f\xf6r\xe4ndrat sinnestillst\xe5nd'],
+             ['Nervous system',
+              u'Cerebrovaskul\xe4r bl\xf6dning*, cerebrovaskul\xe4r ischemi*, encefalopati*, polyneuropati*'],
+             ['Cardiac', u'K\xe4rlkramp* : Hj\xe4rts\xe4cksutgjutning*, perikardit*'],
+             ['Vascular', u'Perifer ischemi*'],
+             ['Respiratory', u'Lunginfiltrat*, pneumonit*, interstitiell pneumonit*'],
+             ['GI', u'Ulcer\xf6s kolit* : Tandlossning, tandproblem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Levertoxicitet (inklusive d\xf6dsfall)*'],
              ['Skin',
               u'Stevens-Johnsons syndrom*, toxisk epidermal nekrolys*, erythema multiforme*'],
              ['Renal', u'Nefrotiskt syndrom*']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Blood',
               u'Ren erytrocytaplasi, idiopatisk trombocytopen purpura, trombotisk trombocytopen purpura'],
              ['Immune system',
@@ -154,4 +173,11 @@
              ['GI', u'Tandlossning, tandproblem']]]],
  '_pages': [14, 24],
  u'_rank': 113,
+=======
+            [['Immune system',
+              u'Vogt-Koyanagi-Haradas syndrom, systemisk lupus erythematosus, vaskulit, akuta \xf6verk\xe4nslighetsreaktioner inklusive urtikaria, angio\xf6dem, bronkokonstriktion, anafylaxi'],
+             ['Nervous system', u'Ansiktsf\xf6rlamning, mononeuropatier']]]],
+ '_pages': [14, 24],
+ u'_rank': 109,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

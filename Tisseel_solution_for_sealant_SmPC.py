@@ -1,7 +1,11 @@
 {'_data': [['Uncommon',
             [['Blood', u'\xd6kad m\xe4ngd  nedbrytningsprodukter fr\xe5n fibrin'],
+<<<<<<< HEAD
              ['GI', u'Illam\xe5ende'],
              ['General', u'Sm\xe4rta i samband med  ingreppet']]],
+=======
+             ['GI', u'Illam\xe5ende']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare', [['Vascular', u'Hypotoni']]],
            ['Unknown',
             [['Immune system', u'\xd6verk\xe4nslighetsreaktioner'],
@@ -17,6 +21,7 @@
              ['Vascular', u'Arteriell emboli'],
              ['Vascular', u'Cerebralart\xe4remboli'],
              ['Vascular', u'Cerebral infarkt**'],
+<<<<<<< HEAD
              ['Respiratory', u'Dyspn\xe9'],
              ['Skin', u'Pruritus'],
              ['Skin', u'F\xf6rs\xe4mrad s\xe5rl\xe4kning'],
@@ -24,4 +29,11 @@
              ['Injury', u'Angio\xf6dem']]]],
  '_pages': [4, 6],
  u'_rank': 22,
+=======
+             ['Skin', u'Pruritus'],
+             ['Skin', u'F\xf6rs\xe4mrad s\xe5rl\xe4kning'],
+             ['Injury', u'Angio\xf6dem']]]],
+ '_pages': [4, 5],
+ u'_rank': 19,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

@@ -9,9 +9,16 @@
               u'gastrit (0,9% mot 0,7%), esofagit (0,9% mot 0,9%), dysfagi (0,4% mot 0,2%), duodenit (0,2% mot 0,1%), esofaguss\xe5r (0,2% mot 0,2%)']]],
            ['Rare',
             [['GI', u'glossit (<0,1% mot 0,1%), esofagusstriktur (<0,1% mot 0,0%)'],
+<<<<<<< HEAD
              ['Investigations', u'abnorma leverfunktionstester*']]],
            ['Unknown',
             [['Eye', u'Irit, uveit'],
+=======
+             ['Investigations',
+              u'abnorma leverfunktionstester* * Ej incidens fr\xe5n fas III-studier p\xe5 osteoporospatienter; frekvensen baserar sig p\xe5 laboratoriefynd och biverkningsobservationer fr\xe5n tidigare kliniska studier. Laboratoriev\xe4rden: Tidig, \xf6verg\xe5ende, asymptomatisk och lindrig minskning av serumkalcium och fosfatniv\xe5er har observerats hos vissa patienter. Efter marknadsf\xf6ring har f\xf6ljande biverkningar rapporterats: Frekvens s\xe4llsynt: Atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning).']]],
+           ['Unknown',
+            [['Investigations', u'Irit, uveit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Osteonekros i k\xe4ken'],
              ['Skin',
               u'\xd6verk\xe4nslighets- och hudreaktioner, inklusive angio\xf6dem, generaliserat utslag, urtikaria och bull\xf6sa hudreaktioner, varav vissa allvarliga inklusive enstaka fall av Steven Johnsons syndrom, toxisk epidermal nekrolys och leukocytaklastisk vaskulit. H\xe5ravfall.'],

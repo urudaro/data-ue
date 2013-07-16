@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Neoplasms', u'Hudcancer, godartad hudtum\xf6r'],
              ['Blood', u'Pancytopeni, leukocytos'],
              ['Metabolism',
@@ -23,3 +24,19 @@
  '_pages': [6, 9],
  u'_rank': 15,
  u'_type': u'TSFU'}
+=======
+            [['Metabolism',
+              u'hyperglykemi, hypomagnesemi, hypokalcemi,  hyperkolesterolemi, hyperlipidemi,  hypofosfatemi, hyperurikemi, gikt, anorexi'],
+             ['Psychiatric', u'\xe5ngest, onormala tankar, s\xf6mnl\xf6shet'],
+             ['GI',
+              u'kolit, mags\xe5r, duodenals\xe5r, gastrit, esofagit,  stomatit, obstipation, dyspepsi, flatulens,  rapning'],
+             ['Hepato', u''],
+             ['Skin', u'Muskuloskeletala systemet och  Vanliga  Artralgi   bindv\xe4v'],
+             ['Renal', u''],
+             ['General', u'symtom vid  sjukdomsk\xe4nsla, asteni   administreringsst\xe4llet'],
+             ['Investigations',
+              u'f\xf6rh\xf6jt LDH (laktatdehydrogenas) i blodet,  f\xf6rh\xf6jd blodurea, \xf6kning av alkaliska  fosfataser i blodet, viktminskning']]]],
+ '_pages': [6, 9],
+ u'_rank': 6,
+ u'_type': u'LFSUR'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

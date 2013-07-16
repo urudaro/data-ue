@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['Nervous system', u'Tr\xf6tthet, yrsel, d\xe5sighet']]],
+=======
+{'_data': [['Common', [['Nervous system', u'(>1/100, <1/10) Tr\xf6tthet, yrsel, d\xe5sighet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon', [['GI', u'Halsbr\xe4nna, illam\xe5ende, diarr\xe9']]],
            ['Rare',
             [['GI', u'Gastrointestinal bl\xf6dning'],

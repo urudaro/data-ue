@@ -1,7 +1,10 @@
 {'_data': [['Common',
             [['Metabolism', u'Dehydrering'],
              ['Metabolism', u'Hypovolemi'],
+<<<<<<< HEAD
              ['Nervous system', u'Yrsel'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Huvudv\xe4rk'],
              ['Ear', u'Tinnitus'],
              ['Vascular', u'Hypotension'],
@@ -9,9 +12,13 @@
              ['GI', u'Buksm\xe4rta'],
              ['Skin', u'Utslag (inklusive makul\xe4ra,  papul\xf6sa, erytemat\xf6sa)'],
              ['Skin', u'Kl\xe5da'],
+<<<<<<< HEAD
              ['Skin', u'Exfoliation'],
              ['General', u'Perifert \xf6dem'],
              ['General', u'Asteni']]],
+=======
+             ['Skin', u'Exfoliation']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'Influensasyndrom'],
              ['Infections', u'Furunkel'],
@@ -35,10 +42,15 @@
              ['Cardiac', u'Kardiovaskul\xe4ra rubbningar'],
              ['Cardiac', u'Takykardi'],
              ['Vascular', u'Ortostatisk  hypotension'],
+<<<<<<< HEAD
              ['Respiratory', u'Lung\xf6dem'],
              ['Respiratory', u'Dyspn\xe9'],
              ['Respiratory', u'Hosta'],
              ['Respiratory', u'Hicka'],
+=======
+             ['Vascular', u'Hosta'],
+             ['Vascular', u'Hicka'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Ileus'],
              ['GI', u'Peritonit'],
              ['GI', u'Blodigt peritonealdialysat'],
@@ -59,6 +71,7 @@
              ['Skin', u'Nagelproblem'],
              ['Skin', u'Torr hud'],
              ['Skin', u'Hudmissf\xe4rgning'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'V\xe4rk i skelettet'],
              ['Musculoskeletal', u'Muskelspasmer'],
              ['Musculoskeletal', u'Myalgi'],
@@ -68,6 +81,14 @@
              ['General', u'Ansikts\xf6dem'],
              ['General', u'\xd6dem'],
              ['General', u'V\xe4rk'],
+=======
+             ['Skin', u'Myalgi'],
+             ['Skin', u'Nackv\xe4rk'],
+             ['Renal', u'V\xe4rk i njurarna'],
+             ['Renal', u'Ansikts\xf6dem'],
+             ['Renal', u'\xd6dem'],
+             ['Renal', u'V\xe4rk'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'F\xf6rh\xf6jt ALAT'],
              ['Investigations', u'F\xf6rh\xf6jt ASAT'],
              ['Investigations', u'F\xf6rh\xf6jda alkaliska fosfataser'],
@@ -84,7 +105,11 @@
              ['Nervous system', u'Hypoglykemisk koma'],
              ['Nervous system', u'Br\xe4nnande k\xe4nsla'],
              ['Eye', u'Suddig syn'],
+<<<<<<< HEAD
              ['Respiratory', u'Bronkospasm'],
+=======
+             ['Vascular', u'Bronkospasm'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Ascites'],
              ['GI', u'Ljumskbr\xe5ck'],
              ['GI', u'Magbesv\xe4r'],
@@ -97,6 +122,7 @@
              ['Skin', u'Dermatit (d\xe4ribland allergisk  och kontakt-)'],
              ['Skin', u'Erythema'],
              ['Skin', u'Bl\xe5sor'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Artralgi'],
              ['Musculoskeletal', u'Ryggv\xe4rk'],
              ['Musculoskeletal', u'Muskuloskeletal sm\xe4rta'],
@@ -109,4 +135,18 @@
               u'Infusionsrelaterad reaktion  (exempelvis sm\xe4rta vid infusionsst\xe4llet, sm\xe4rta vid instillationsst\xe4llet)']]]],
  '_pages': [6, 9],
  u'_rank': 105,
+=======
+             ['Skin', u'Artralgi'],
+             ['Skin', u'Ryggv\xe4rk'],
+             ['Skin', u'Muskuloskeletal sm\xe4rta'],
+             ['Renal', u'Feber'],
+             ['Renal', u'Frossa'],
+             ['Renal', u'Sjukdomsk\xe4nsla'],
+             ['Renal', u'Erytem runt katetern'],
+             ['Renal', u'Inflammation runt katetern'],
+             ['Renal',
+              u'Infusionsrelaterad reaktion  (exempelvis sm\xe4rta vid infusionsst\xe4llet, sm\xe4rta vid instillationsst\xe4llet)']]]],
+ '_pages': [6, 9],
+ u'_rank': 97,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

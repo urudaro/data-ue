@@ -2,6 +2,7 @@
             [['Nervous system', u'Huvudv\xe4rk, yrsel'],
              ['GI',
               u'Illam\xe5ende, diarr\xe9, magsm\xe4rtor, f\xf6rstoppning, kr\xe4kningar, flatulens, torr mun eller hals'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jda leverenzym-ni v\xe5er'],
              ['Skin', u'Urticaria, kl\xe5da, hudutslag'],
              ['General', u'Tr\xf6tthet']]],
@@ -14,6 +15,19 @@
            ['Rare',
             [['Blood', u'Anemi'],
              ['Psychiatric', u'S\xf6mnl\xf6shet, hallucinationer , f\xf6rvirring'],
+=======
+             ['Hepato', u'F\xf6rh\xf6jda leverenzymniv\xe5er'],
+             ['Skin', u'Urticaria, kl\xe5da, hudutslag'],
+             ['General', u'Tr\xf6tthet']]],
+           ['Uncommon',
+            [['Blood', u'Trombocytopeni, eosinofili, leukopeni'],
+             ['Psychiatric', u'Depression'],
+             ['Musculoskeletal', u'Artralgi, myalgi'],
+             ['General', u'\xd6dem']]],
+           ['Rare',
+            [['Blood', u'Anemi'],
+             ['Psychiatric', u'S\xf6mnl\xf6shet, hallucinationer, f\xf6rvirring'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Rastl\xf6shet, svindel, parestesi, somnolens, tremor'],
              ['Eye', u'Synst\xf6rningar'],
              ['GI', u'Glossit, candidiasis i esofagus, pankreatit, smakst\xf6rningar'],
@@ -26,6 +40,7 @@
            ['Very rare',
             [['Blood', u'Agranulocytos, pancytopeni'],
              ['GI', u'Kolit, stomatit'],
+<<<<<<< HEAD
              ['Skin', u'Stevens-Johns ons syndrom, toxisk epidermal nekrolys'],
              ['General', u'Anafylaktisk chock'],
              ['Investigations',
@@ -34,4 +49,13 @@
  '_note': u' ?MSFU',
  '_pages': [6, 7],
  u'_rank': 25,
+=======
+             ['Skin', u'Stevens-Johnsons syndrom, toxisk epidermal nekrolys'],
+             ['General', u'Anafylaktisk chock'],
+             ['Investigations',
+              u'F\xf6rh\xf6jda kolesterol-och triglyceridniv\xe5er, hyponatremi']]]],
+ '_note': u' ?MSFU',
+ '_pages': [5, 6],
+ u'_rank': 24,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

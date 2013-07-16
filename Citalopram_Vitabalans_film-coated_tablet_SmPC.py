@@ -28,7 +28,11 @@
             [['Metabolism', u'Hyponatremi (se avsnitt 4.4)'],
              ['Nervous system', u'Konvulsion grand mal,  dyskinesi, smakf\xf6r\xe4ndringar'],
              ['Vascular', u'Hemorragia'],
+<<<<<<< HEAD
              ['GI', u'Hepatit'],
+=======
+             ['Hepato', u'Hepatit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Feber']]],
            ['Unknown',
             [['Blood', u'Trombocytopeni'],
@@ -40,6 +44,7 @@
              ['Nervous system',
               u'Kramper, serotonergt  syndrom, extrapyramidala st\xf6rningar, akatisi, r\xf6relsest\xf6rningar'],
              ['Eye', u'Synst\xf6rningar'],
+<<<<<<< HEAD
              ['Vascular', u'Ortostatisk hypotension'],
              ['Respiratory', u'Epistaxis'],
              ['GI', u'Gastrointestinal hemorragia  (inklusive rektal hemorragia)'],
@@ -48,4 +53,15 @@
              ['Reproductive system', u'Kvinnor: Metrorragi  M\xe4n: Priapism, galaktorr\xe9']]]],
  '_pages': [9, 11],
  u'_rank': 40,
+=======
+             ['Cardiac', u'QT  ventrikul\xe4r arytmi  inklusive Torsade de Pointes'],
+             ['Vascular', u'Ortostatisk hypotension'],
+             ['Respiratory', u'Epistaxis'],
+             ['GI', u'Gastrointestinal hemorragia  (inklusive rektal hemorragia)'],
+             ['Hepato', u'Onormala leverfunktionstester'],
+             ['Skin', u'Ekkymoser, angio\xf6dem'],
+             ['Reproductive system', u'Kvinnor: Metrorragi  M\xe4n: Priapism, galaktorr\xe9']]]],
+ '_pages': [9, 11],
+ u'_rank': 41,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

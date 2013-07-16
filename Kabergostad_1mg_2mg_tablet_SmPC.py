@@ -2,6 +2,7 @@
             [['GI', u'Illam\xe5ende'],
              ['General', u'Perifer \xf6dem'],
              ['GI', u'Illam\xe5ende'],
+<<<<<<< HEAD
              ['Cardiac', u'Klaffsp\xe5verkan (inklusive klaffl\xe4ckage) och'],
              ['Respiratory', u'Fibros']]],
            ['Common',
@@ -13,6 +14,15 @@
              ['General', u''],
              ['Psychiatric', u'F\xf6rvirring, hallucinationer'],
              ['Nervous system', u'Yrsel, dyskinesi'],
+=======
+             ['Cardiac', u'Klaffsp\xe5verkan (inklusive klaffl\xe4ckage) och']]],
+           ['Common',
+            [['Psychiatric', u'Hallucinationer, s\xf6mnst\xf6rningar'],
+             ['Vascular', u'Postural hypotension'],
+             ['GI', u''],
+             ['GI', u'F\xf6rstoppning, dyspepsi, gastrit, kr\xe4kningar'],
+             ['Psychiatric', u'F\xf6rvirring, hallucinationer'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Angina'],
              ['Vascular', u'Postural hypotension'],
              ['GI', u''],
@@ -21,14 +31,19 @@
              ['Investigations',
               u'S\xe4nkt hemoglobinv\xe4rde, hematokritv\xe4rde och/eller  s\xe4nkt antal r\xf6da blodkroppar (>15 % j\xe4mf\xf6rt med utg\xe5ngsv\xe4rdet)'],
              ['Psychiatric', u'\xd6kad libido'],
+<<<<<<< HEAD
              ['Nervous system', u'Huvudv\xe4rk, somnolens'],
              ['Cardiac', u'relaterade f\xf6r\xe4ndringar (perikardit och perikardiell'],
              ['Respiratory', u'Dyspn\xe9'],
+=======
+             ['Cardiac', u'relaterade f\xf6r\xe4ndringar (perikardit och perikardiell'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Asteni'],
              ['Investigations', u'Onormala leverfunktionsprover']]],
            ['Uncommon',
             [['Nervous system', u'Hyperkinesi'],
              ['Vascular', u'Erytromelalgi'],
+<<<<<<< HEAD
              ['Respiratory', u'Pleurautgjutning, pulmon\xe4r fibros'],
              ['Immune system', u'\xd6verk\xe4nslighetsreaktion'],
              ['Psychiatric', u'Vanf\xf6rest\xe4llningar, psykiska st\xf6rningar'],
@@ -45,4 +60,18 @@
              ['Investigations', u'\xd6kad blodkreatininfosfokinas']]]],
  '_pages': [5, 8],
  u'_rank': 36,
+=======
+             ['Immune system', u'\xd6verk\xe4nslighetsreaktion'],
+             ['Psychiatric', u'Vanf\xf6rest\xe4llningar, psykiska st\xf6rningar'],
+             ['Hepato', u'Leverfunktionsneds\xe4ttning'],
+             ['Skin', u'Utslag']]],
+           ['Very rare', [['Vascular', u'Andningsproblem, andningsvikt']]],
+           ['Unknown',
+            [['Nervous system', u'Pl\xf6tslig s\xf6mnattack, synkope'],
+             ['Vascular', u'Vasospasm i fingrarna'],
+             ['Skin', u'Alopeci'],
+             ['Investigations', u'\xd6kad blodkreatininfosfokinas']]]],
+ '_pages': [5, 8],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

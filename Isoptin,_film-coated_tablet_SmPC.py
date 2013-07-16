@@ -36,6 +36,10 @@
             [['Nervous system', u'Extrapyramidalt syndrom'],
              ['Ear', u'Tinnitus'],
              ['Skin', u'H\xe5ravfall']]]],
+<<<<<<< HEAD
  '_pages': [4, 5],
+=======
+ '_pages': [4, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 31,
  u'_type': u'TSFU'}

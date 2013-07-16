@@ -14,7 +14,11 @@
               u'Mardr\xf6mmar, hallucinationer, psykoser, depression, konfusion.'],
              ['GI', u'Muntorrhet.'],
              ['Skin',
+<<<<<<< HEAD
               u'Alopeci, hudreaktioner s\xe5som utslag, psoriasiform hudreaktion/exacerbation av  psoriasis, purpura.'],
+=======
+              u'Alopeci, hudreaktioner s\xe5som utslag, psoriasiform hudreaktion/exacerbation av psoriasis,  purpura.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Levertoxicitet inklusive intrahepatisk kolestas.'],
              ['Respiratory',
               u'Bronkospasm hos patienter med bronkialastma eller astma i anamnesen.'],

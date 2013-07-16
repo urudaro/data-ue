@@ -24,6 +24,7 @@
               u'Onormalt f\xe4rgseende. Reversibel pares av \xf6gats r\xf6relsemuskulatur. Retinopati med pigmentf\xf6r\xe4ndringar och synf\xe4ltsdefekter.'],
              ['Ear',
               u'Neurogena h\xf6rselskador efter l\xe5ngtidsbehandling. Kronisk f\xf6rgiftning b\xf6r misst\xe4nkas om patienten har p\xe5verkan p\xe5 retledningssystemet (grenblock/AV-block) eller biventrikul\xe4r hypertrofi. Tillst\xe5ndet kan vara reversibelt om l\xe4kemedlet s\xe4tts ut. Fall av makulopati och makuladegeneration har rapporterats och kan vara irreversibla.Retinopati ledande till synf\xe4ltsdefekter kan upptr\xe4da. Dessa f\xf6r\xe4ndringar har konstaterats efter l\xe5ngtidsbehandling. Ett f\xf6rsta tecken \xe4r \xf6kade pigmenteringar centralt i makula. Om terapin omedelbart avbryts p\xe5 detta stadium \xe4r f\xf6r\xe4ndringarna n\xe4stan alltid reversibla, men om terapin f\xe5r forts\xe4tta finns det risk f\xf6r f\xf6rs\xe4mring \xe4ven efter behandlingens avbrytande. P\xe5 ett senare stadium upptr\xe4der centrala synf\xe4ltsdefekter. Dessa f\xf6r\xe4ndringar \xe4r s\xe4llan reversibla. Ackommodationsst\xf6rningar \xe4r oftast lindriga och f\xf6rsvinner alltid inom n\xe5gra f\xe5 dagar efter uts\xe4ttande. Substansinlagring i kornea kan ge upphov till halo kring ljusk\xe4llor, ljusk\xe4nslighet. Substansinlagring i kornea, asymtomatisk korneaopacitet och \xf6dem utg\xf6r vanligen ej sk\xe4l till terapiavbrott och f\xf6rsvinner vid ett uppeh\xe5ll i behandlingen. OBS! Dessa korneaf\xf6r\xe4ndringar har inget samband med retinaf\xf6r\xe4ndringen. Patienter med psoriasis f\xf6refaller vara mera mottagliga f\xf6r sv\xe5ra hudreaktioner. Hydroxiklorokin kan f\xf6rv\xe4rra porfyri. Fall av skelettmuskelmyopati eller neuromyopati som lett till svaghet och atrofi av proximala muskelgrupper har noterats. Myopati kan vara reversibel om behandlingen avbryts, men \xe5terh\xe4mtningen kan ta flera m\xe5nader. M\xe5ttliga sensoriska f\xf6r\xe4ndringar, f\xf6rsvagade senreflexer och onormal nervledning kan upptr\xe4da.']]],
+<<<<<<< HEAD
            ['Very rare',
             [['GI',
               u'000) samt ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).']]],
@@ -34,4 +35,13 @@
              ['Psychiatric', u'Sj\xe4lvmordsbeteende.']]]],
  '_pages': [3, 5],
  u'_rank': 22,
+=======
+           ['Unknown',
+            [['GI',
+              u'till m\xe5ttliga och kan f\xf6rsvinna spontant eller vid dosminskning. Biverkningarna kan i regel f\xf6rebyggas genom rekommenderade kontroller. Reaktionerna har rangordnats under rubrikerna f\xf6r organsystemen och efter frekvens enligt f\xf6ljande: vanliga (>1/100); mindre vanliga (>1/1000, <1/100); s\xe4llsynta (>1/10 000, <1/1000) och mycket s\xe4llsynta (<1/10 000) samt ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
+             ['Skin', u'Toxisk epidermal nekrolys.'],
+             ['Psychiatric', u'Sj\xe4lvmordsbeteende.']]]],
+ '_pages': [3, 5],
+ u'_rank': 21,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

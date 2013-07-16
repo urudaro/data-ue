@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['GI', u'Illa-m\xe5e nde Diarr\xe9']]],
+=======
+{'_data': [['Common', [['GI', u'Illa-m\xe5ende Diarr\xe9']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'Mykotiska superinfektioner'],
              ['Blood', u'Eosinofili'],
              ['Metabolism', u'Anorexi'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Huvudv\xe4rk Yrsel S\xf6mnst\xf6rningar Smak-f\xf6r\xe4ndring ar'],
+=======
+              u'Huvudv\xe4rk Yrsel S\xf6mnst\xf6rningar Smak-f\xf6r\xe4ndringar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Kr\xe4kning Sm\xe4rta i magtarmkanalen och buken Dyspepsi Flatulens'],
              ['Hepato', u'F\xf6rh\xf6jt transaminas F\xf6rh\xf6jt bilirubin'],
              ['Skin', u'Hudutslag Pruritus Urtikaria'],
@@ -52,7 +60,11 @@
            ['Unknown',
             [['Nervous system', u'Perifer neuropati (se avsnitt 4.4)'],
              ['Cardiac',
+<<<<<<< HEAD
               u'Ventrikul\xe4r arytmi och torsade de pointes*, EKG QT-f\xf6rl\xe4ngni ng (se avsnitt 4.4 och 4.9).'],
+=======
+              u'Ventrikul\xe4r arytmi och torsade de pointes*, EKG QT-f\xf6rl\xe4ngning (se avsnitt 4.4 och 4.9).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Akut generaliserat exantemat\xf6s pustulos (AGEP).'],
              ['Investigations',
               u'\xd6kad INR (international normalised ratio, hos patienter med vitamin K antagonist)']]]],

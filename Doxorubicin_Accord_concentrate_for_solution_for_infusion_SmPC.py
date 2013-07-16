@@ -10,7 +10,11 @@
            ['Uncommon',
             [['Vascular', u'Flebit'],
              ['GI',
+<<<<<<< HEAD
               u'Bl\xf6dning i mag-tarmkanalen , buksm\xe4rtor, s\xe5rbildning i slemhinnorna i mun, svalg, matstrupe och mag-tarmkanal kan f\xf6rekomma n\xe4r cytarabin kombineras med doxorubicin, s\xe5rbildning och nekros av kolon, s\xe4rskilt blind-tarmen (cekum) har rapporterats (se 4.5).'],
+=======
+              u'Bl\xf6dning i mag-tarmkanalen, buksm\xe4rtor, s\xe5rbildning i slemhinnorna i mun, svalg, matstrupe och mag-tarmkanal kan f\xf6rekomma n\xe4r cytarabin kombineras med doxorubicin, s\xe5rbildning och nekros av kolon, s\xe4rskilt blind-tarmen (cekum) har rapporterats (se 4.5).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Kl\xe5da, lokala reaktioner i str\xe5lningsomr\xe5det (recall fenomen)'],
              ['General', u'Uttorkning']]],

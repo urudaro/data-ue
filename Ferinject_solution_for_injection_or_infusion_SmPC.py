@@ -16,7 +16,11 @@
              ['General',
               u'Pyrexi, tr\xf6tthet, br\xf6stsm\xe4rta, frossbrytningar, sjukdomsk\xe4nsla, perifert \xf6dem'],
              ['Investigations',
+<<<<<<< HEAD
               u'\xd6kning av aspartat-aminotransfe ras, \xf6kad halt gammaglutamyl-tran sferas, \xf6kning av laktatdehydrogenas i blodet.']]],
+=======
+              u'\xd6kning av aspartat-aminotransferas, \xf6kad halt gammaglutamyl-transferas, \xf6kning av laktatdehydrogenas i blodet.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare', [['Respiratory', u'Dyspn\xe9']]]],
  '_note': u' ?MSFU',
  '_pages': [4, 4],

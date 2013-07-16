@@ -13,7 +13,11 @@
              ['Nervous system', u'Huvudv\xe4rk'],
              ['GI', u'Magsm\xe4rta'],
              ['Investigations',
+<<<<<<< HEAD
               u'\xd6kade v\xe4rden f\xf6r alaninaminotransferas och kreatininfosfokinas i blodet. Baserat p\xe5 tillg\xe4ngliga data f\xf6rv\xe4ntas biverkningarna hos barn vara lika frekventa och av samma typ och sv\xe5righetsgrad som hos vuxna. Erfarenheten vad g\xe4ller l\xe5ngtidss\xe4kerheten hos barn \xe4r f\xf6r n\xe4rvarande begr\xe4nsad. F\xf6ljande biverkningar har rapporterats med anv\xe4ndning av atorvastatin: \u2022Sexuell dysfunktion \u2022Depression \u2022Enstaka fall av interstitiell lungsjukdom, speciellt vid l\xe5ngtidsbehandling (se avsnitt 4.4). \u2022Diabetes Mellitus: Frekvensen \xe4r beroende av f\xf6rekomst eller avsaknad av riskfaktorer (fasteglukos > 5,6 mmol/l; BMI >30 kg/m ; f\xf6rh\xf6jda triglycerider; hypertension i anamnesen).']]],
+=======
+              u'\xd6kade v\xe4rden f\xf6r alaninaminotransferas och kreatininfosfokinas i blodet. Baserat p\xe5 tillg\xe4ngliga data f\xf6rv\xe4ntas biverkningarna hos barn vara lika frekventa och av samma typ och sv\xe5righetsgrad som hos vuxna. Erfarenheten vad g\xe4ller l\xe5ngtidss\xe4kerheten hos barn \xe4r f\xf6r n\xe4rvarande begr\xe4nsad. F\xf6ljande biverkningar har rapporterats med vissa statiner: \u2022Sexuell dysfunktion \u2022Depression \u2022Enstaka fall av interstitiell lungsjukdom, speciellt vid l\xe5ngtidsbehandling (se avsnitt 4.4).']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Blood', u'trombocytopeni'],
              ['Metabolism', u'hypoglykemi, vikt\xf6kning, anorexi'],

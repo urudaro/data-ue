@@ -49,7 +49,11 @@
              ['Renal', u'akut njursvikt, inkontinens'],
              ['Reproductive system', u'br\xf6sthypertrofi, gynekomasti'],
              ['General',
+<<<<<<< HEAD
               u'uts\xe4ttningsreaktioner (oftast oro, insomnia, illam\xe5ende, sm\xe4rta,  svettningar), br\xf6stsm\xe4rta. Pl\xf6tsliga, of\xf6rklarliga d\xf6dsfall har rapporterats, d\xe4r eventuellt orsakssamband med gabapentinbehandling inte har fastst\xe4llts.'],
+=======
+              u'uts\xe4ttningsreaktioner (oftast oro, insomnia, illam\xe5ende, sm\xe4rta, svettningar), br\xf6stsm\xe4rta. Pl\xf6tsliga, of\xf6rklarliga d\xf6dsfall har rapporterats, d\xe4r eventuellt orsakssamband med gabapentinbehandling inte har fastst\xe4llts.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'fluktuerande blodglukosv\xe4rden hos patienter med diabetes']]]],
  '_pages': [5, 7],
  u'_rank': 37,

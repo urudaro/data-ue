@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['Blood', u'Eosinofili Trombocytos'],
              ['Vascular', u'Flebit eller tromboflebit vid intraven\xf6s administrering'],
@@ -31,3 +32,11 @@
  '_pages': [7, 9],
  u'_rank': 21,
  u'_type': u'MSFU'}
+=======
+{'_data': [['Unknown',
+            [['Immune system',
+              u'(inklusive bronkospasm och/eller hypotoni) (se avsnitt 4.4) Centrala och perifera Huvudv\xe4rk Neurologiska nervsystemet Yrsel sequelae Parestesi Blodk\xe4rl Flebit eller tromboflebit vid intraven\xf6s administrering Magtarmkanalen Diarr\xe9 Antibiotika- Smakf\xf6r\xe4ndring associerad diarr\xe9 och kolit (se avsnitt 4.4) Buksm\xe4rta Illam\xe5ende Kr\xe4kningar Lever och gallv\xe4gar \xd6verg\xe5ende Gulsot f\xf6rh\xf6jda v\xe4rden av ett eller flera leverenzymer Hud och subkutan Makulopapul\xf6st Kl\xe5da Toxisk epidermal v\xe4vnad eller urtikariellt nekrolys utslag Stevens\u2013Johnsons syndrom Erythema multiforme Angio\xf6dem Biverkningar Organsystemklass Vanliga Mindre vanliga Mycket s\xe4llsynta Ingen k\xe4nd frekvens Njurar och urinv\xe4gar \xd6verg\xe5ende Interstitiell nefrit f\xf6rh\xf6jda v\xe4rden Akut njursvikt av blodurea, blodureakv\xe4ve (BUN) och/eller serumkreatinin Allm\xe4nna symtom Sm\xe4rta och/eller Feber och/eller symtom vid inflammation administreringsst\xe4llet efter intra muskul\xe4r injektion Unders\xf6kningar Positivt Coombs test Det har f\xf6rekommit rapporter om neurologiska sequelae, bland annat tremor, myokloni, krampanfall, encefalopati och koma hos patienter med nedsatt njurfunktion f\xf6r vilka dosen av Ceftazidim Sandoz inte minskats korrekt. Diarr\xe9 och kolit kan f\xf6rknippas med Clostridium difficile och kan upptr\xe4da som pseudomembran\xf6s kolit. ALT (SGPT), AST (SOGT), LHD, GGT, alkaliskt fosfatas. Ett positivt Coombs test utvecklas hos omkring 5 % av patienterna och kan p\xe5verka korstest av blod.']]]],
+ '_pages': [7, 9],
+ u'_rank': 1,
+ u'_type': u'LSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

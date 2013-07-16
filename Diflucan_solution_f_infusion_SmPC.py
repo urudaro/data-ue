@@ -2,7 +2,11 @@
             [['Blood', u'Anemi   Agranulocytos,   leukopeni,'],
              ['Immune system', u'Anafylaxi'],
              ['Metabolism', u'Minskad aptit   Hyperkolesterolemi,   hypertriglyceridemi,'],
+<<<<<<< HEAD
              ['Psychiatric', u'Somnolens,'],
+=======
+             ['Psychiatric', u'Somnolens, insomnia'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Huvudv\xe4rk   Krampanfall,   Tremor   parestesi, yrsel,'],
              ['Ear', u'Vertigo'],
              ['Cardiac', u'Torsade de pointes (se'],

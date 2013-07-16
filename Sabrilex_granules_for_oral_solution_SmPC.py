@@ -2,7 +2,11 @@
             [['Nervous system', u'somnolens'],
              ['Eye', u'synf\xe4ltsdefekter'],
              ['General', u'tr\xf6tthet'],
+<<<<<<< HEAD
              ['Psychiatric', u'excitation (barn), agitation (barn)']]],
+=======
+             ['Hepato', u'excitation (barn), agitation (barn)']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Investigations', u'vikt\xf6kning'],
              ['Nervous system',
@@ -10,16 +14,25 @@
              ['Eye', u'dimsyn, dubbelseende, nystagmus'],
              ['GI', u'illam\xe5ende, magsm\xe4rtor'],
              ['General', u'\xf6dem, irritabilitet'],
+<<<<<<< HEAD
              ['Psychiatric',
               u'agitation, aggression, nervositet, depression, paranoida reaktioner']]],
            ['Uncommon',
             [['Nervous system', u'rubbning i koordinationsf\xf6rm\xe5gan (ataxi)'],
              ['Skin', u'hudutslag'],
              ['Psychiatric', u'hypomani, mani, psykotisk st\xf6rning']]],
+=======
+             ['Hepato', u'agitation, aggression, nervositet, depression, paranoida reaktioner']]],
+           ['Uncommon',
+            [['Nervous system', u'rubbning i koordinationsf\xf6rm\xe5gan (ataxi)'],
+             ['Skin', u'hudutslag'],
+             ['Hepato', u'hypomani, mani, psykotisk st\xf6rning']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Nervous system', u'encefalopati**'],
              ['Eye', u'retinala st\xf6rningar(s\xe5som perifer retinal atrofi)'],
              ['Skin', u'angio\xf6dem, urtikaria'],
+<<<<<<< HEAD
              ['Psychiatric', u'sj\xe4lvmordsf\xf6rs\xf6k']]],
            ['Very rare',
             [['Nervous system', u'optikusneurit'],
@@ -31,4 +44,16 @@
               u'Fall av avvikelser vid MRT av hj\xe4rnan har rapporterats (se avsnitt 4.4). R\xf6relsest\xf6rningar inkluderande dystoni, dyskinesi eller hyperton muskulatur har rapporterats, antingen enskilt eller i samband med avvikelser vid MRT (se avsnitt 4.4).']]]],
  '_pages': [6, 8],
  u'_rank': 22,
+=======
+             ['Hepato', u'sj\xe4lvmordsf\xf6rs\xf6k']]],
+           ['Very rare',
+            [['Nervous system',
+              u'optikusneurit : Fall av avvikelser vid MRT av hj\xe4rnan har rapporterats (se avsnitt 4.4). R\xf6relsest\xf6rningar inkluderande dystoni, dyskinesi eller hyperton muskulatur har rapporterats, antingen enskilt eller i samband med avvikelser vid MRT (se avsnitt 4.4).'],
+             ['Eye', u'optikusatrofi'],
+             ['Hepato', u'hepatit Psykiska st\xf6rningar***'],
+             ['Hepato',
+              u'hallucinationer *Laboratoriedata tyder p\xe5 att vigabatrinbehandling inte leder till njurtoxicitet. Minskningar av ASAT och ALAT har rapporterats och beror sannolikt p\xe5 en h\xe4mning av dessa aminotransferaser. L\xe5ngtidsbehandling med vigabatrin kan \xe5tf\xf6ljas av en l\xe4tt nedg\xe5ng i hemoglobinkoncentrationen, men detta saknar sannolikt klinisk betydelse. ** S\xe4llsynta rapporter av encefalopatiska symptom s\xe5som uttalad sedering, stupor och f\xf6rvirringstillst\xe5nd i samband med icke-specifik \u201cslow-wave\u201d-aktivitet p\xe5 elektroencefalogram har beskrivits strax efter p\xe5b\xf6rjad vigabatrinbehandling. Dessa biverkningar har varit fullt reversibla vid doss\xe4nkning eller avbrytande av behandling med vigabatrin (se 4.4 Varningar och f\xf6rsiktighet). ***Psykiska reaktioner har rapporterats under vigabatrinbehandling. Dessa reaktioner f\xf6rekom hos patienter med eller utan tidigare psykiska st\xf6rningar i anamnesen och var vanligtvis reversibla n\xe4r vigabatrindoserna minskades eller gradvis utsattes (se avsnitt 4.4 Varningar och f\xf6rsiktighet). Depression var en vanlig psykisk reaktion i kliniska studier men den kr\xe4vde s\xe4llan avbrytande av vigabatrinbehandling.']]]],
+ '_pages': [6, 8],
+ u'_rank': 21,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

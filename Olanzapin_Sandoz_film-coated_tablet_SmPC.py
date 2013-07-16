@@ -2,7 +2,11 @@
             [['Metabolism', u'Viktuppg\xe5ng'],
              ['Nervous system', u'Somnolens'],
              ['Investigations',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jd plasmaprolaktinniv\xe5 h\xf6ga (>6,2 mmol/l) var var mycket vanligt. (>2,26 mmol/l) var mycket syndrom. L\xe5ngtidsbehandling m\xe5nader. Pediatriska patienter ungdomar med data fr\xe5n j\xe4mf\xf6rt med dem som frekvensangivelser anv\xe4nds: Mycket vanlig Vanlig'],
+=======
+              u'F\xf6rh\xf6jd plasmaprolaktinniv\xe5 h\xf6ga (>6,2 mmol/l) var var mycket vanligt. (>2,26 mmol/l) var mycket syndrom. L\xe5ngtidsbehandling m\xe5nader. Pediatriska patienter ungdomar med data fr\xe5n j\xe4mf\xf6rt med dem som frekvensangivelser anv\xe4nds: mycket vanlig vanlig'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Mycket vanlig: viktuppg\xe5ng vanlig'],
              ['Nervous system', u'mycket vanlig'],
              ['GI', u'vanlig'],

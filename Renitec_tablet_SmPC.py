@@ -43,7 +43,12 @@
               u'erythema multiforme, Steven-Johnsons syndrom, exfoliativ dermatit, toxisk epidermal nekrolys, pemfigus, erytrodermi Ett symptomkomplex har rapporterats vilket kan inkludera n\xe5gra eller alla av f\xf6ljande symptom: feber, serosit, vaskulit, myalgi/myosit, artralgi/artrit, f\xf6rh\xf6jda ANA-titrar, f\xf6rh\xf6jd s\xe4nka, eosinofili och leukocytos. Utslag, fotosensitivitet och andra dermatologiska yttringar kan f\xf6rekomma.'],
              ['Renal', u'oliguri'],
              ['Reproductive system', u'gynekomasti'],
+<<<<<<< HEAD
              ['Investigations', u'f\xf6rh\xf6jda leverenzymer, f\xf6rh\xf6jt serumbilirubin']]],
+=======
+             ['Investigations',
+              u'f\xf6rh\xf6jda leverenzymer, f\xf6rh\xf6jt serumbilirubin *Incidenstalen var j\xe4mf\xf6rbara med de f\xf6r placebo- och aktiv kontroll grupp i de kliniska pr\xf6vningarna.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare', [['GI', u'intestinalt angio\xf6dem']]],
            ['Unknown',
             [['Endocrine',

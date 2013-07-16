@@ -1,6 +1,10 @@
 {'_data': [[u'Unknown',
             [['Infections', u'Sinuit'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighets-rea   Anafylaktoida'],
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-   Anafylaktoida'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Oro   F\xf6rvirring,'],
              ['Nervous system',
               u'Yrsel, somnolens,   Parestesier,   huvudv\xe4rk   minnesneds\xe4ttning'],

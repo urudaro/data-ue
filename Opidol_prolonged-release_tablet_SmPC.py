@@ -14,7 +14,11 @@
              ['Skin', u'hudreaktioner (t.ex pruritus, utslag och urtikaria).']]],
            ['Rare',
             [['Immune system',
+<<<<<<< HEAD
               u'): allergiska reaktioner (t.ex dyspn\xe9, bronkospasm, v\xe4sande andning, angioneurotiskt \xf6dem) och anafylaxi.'],
+=======
+              u'(>1/10 000, <1/1 000): allergiska reaktioner (t.ex dyspn\xe9, bronkospasm, v\xe4sande andning, angioneurotiskt \xf6dem) och anafylaxi.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'aptitf\xf6r\xe4ndringar.'],
              ['Psychiatric',
               u'hallucinationer, \xe5ngest, f\xf6rvirring, s\xf6mnst\xf6rningar och mardr\xf6mmar. Psykiska biverkningar kan variera individuellt i intensitet och natur (beroende p\xe5 personlighet och behandlingstid). Dessa inkluderar hum\xf6rf\xf6r\xe4ndringar (vanligen upprymdhet, ibland dysfori), f\xf6r\xe4ndrad aktivitetsgrad (vanligen minskad aktivitet, i s\xe4llsynta fall \xf6kad aktivitet) och f\xf6r\xe4ndringar i kognitiv och sensorisk kapacitet (t.ex. beslutsbeteende och perceptionsst\xf6rningar). Tramadol kan vara beroendeframkallande. Symtom p\xe5 abstinens, liknande de som intr\xe4ffar under uts\xe4ttning av opiater, kan intr\xe4ffa enligt f\xf6ljande: agitation, \xe5ngest, nervositet, insomni, hyperkinesi, tremor och gastrointestinala symtom.'],
@@ -32,7 +36,11 @@
               u'vertigo. Epileptiforma kramper intr\xe4ffade fr\xe4mst efter administrering av h\xf6ga doser tramadol eller efter samtidig behandling med l\xe4kemedel som kan s\xe4nka kramptr\xf6skeln eller som i sig sj\xe4lva framkallar cerebrala kramper (se avsnitt 4.4 och 4.5).'],
              ['Vascular', u'blodvallning.'],
              ['Hepato',
+<<<<<<< HEAD
               u'en \xf6kning av leverenzymv\xe4rdena har rapporterats i samband med tramadolbehandling.']]]],
+=======
+              u'En \xf6kning av leverenzymv\xe4rdena har rapporterats i samband med tramadolbehandling.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 6],
  u'_rank': 23,
  u'_type': u'LSFU'}

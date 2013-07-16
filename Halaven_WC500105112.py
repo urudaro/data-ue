@@ -36,6 +36,7 @@
              ['Ear', u'Tinnitus'],
              ['Vascular', u'Djup ventrombos Lungemboli'],
              ['Respiratory', u'Interstitiell lungsjukdom'],
+<<<<<<< HEAD
              ['Hepato', u'Hyperbilirubine mi'],
              ['Skin', u'Angio\xf6dem'],
              ['Renal', u'Dysuri Hematuri Proteinuri Njursvikt']]],
@@ -43,4 +44,13 @@
  '_note': u' ?MSFU',
  '_pages': [6, 9],
  u'_rank': 32,
+=======
+             ['Hepato', u'Hyperbilirubinemi'],
+             ['Skin', u'Angio\xf6dem'],
+             ['Renal', u'Dysuri Hematuri Proteinuri Njursvikt']]],
+           ['Rare', [['GI', u'Pankreatit']]]],
+ '_note': u' ?MSFU',
+ '_pages': [6, 9],
+ u'_rank': 31,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

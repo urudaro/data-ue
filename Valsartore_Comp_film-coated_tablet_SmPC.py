@@ -37,7 +37,11 @@
              ['Respiratory', u'Icke-kardiogent lung\xf6dem'],
              ['Renal', u'Nedsatt njurfunktion'],
              ['Investigations',
+<<<<<<< HEAD
               u'\xd6kad halt urinsyra i serum, \xf6kat bilirubin och kreatinin i serum, hypokalemi, hyponatremi, stegring av ureakv\xe4ve i blod, neutropeni Till\xe4ggsinformation om de enskilda komponenterna Biverkningar som tidigare rapporterats f\xf6r en av de enskilda komponenterna kan potentiellt \xe4ven upptr\xe4da med Valsartore Comp, \xe4ven om de inte observerats i de kliniska studierna eller efter godk\xe4nnandet f\xf6r f\xf6rs\xe4ljning.'],
+=======
+              u'\xd6kad halt urinsyra i serum, \xf6kat bilirubin och kreatinin i serum, hypokalemi, hyponatremi, stegring av ureakv\xe4ve i blod, neutropeni Till\xe4ggsinformation om de enskilda komponenterna Biverkningar som tidigare rapporterats f\xf6r en av de enskilda komponenterna kan potentiellt \xe4ven upptr\xe4da med Valsartore Comp, \xe4ven om de inte observerats i de kliniska studierna eller efter godk\xe4nnandet f\xf6r f\xf6rs\xe4ljning. Tabell 2. Frekvens av biverkningar med valsartan'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'S\xe4nkt hemoglobin, s\xe4nkt hematokrit, trombocytopeni'],
              ['Immune system',
               u'Andra \xf6verk\xe4nslighets-/allergiska reaktioner, inkluderande serumsjuka'],
@@ -45,7 +49,12 @@
              ['Vascular', u'Vaskulit'],
              ['Hepato', u'F\xf6rh\xf6jda leverfunktionsv\xe4rden'],
              ['Skin', u'Angioneurotiskt \xf6dem, utslag, kl\xe5da'],
+<<<<<<< HEAD
              ['Renal', u'Njursvikt']]]],
+=======
+             ['Renal',
+              u'Njursvikt Tabell 3. Frekvens av biverkningar med hydroklortiazid F\xf6rskrivning av hydroklortiazid har varit omfattande i m\xe5nga \xe5r, ofta i h\xf6gre doser \xe4n de som ing\xe5r i Valsartore Comp. F\xf6ljande biverkningar har rapporterats hos patienter som behandlats med monoterapi av tiaziddiuretika, d\xe4ribland hydroklortiazid.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [8, 10],
  u'_rank': 40,
  u'_type': u'LSFU'}

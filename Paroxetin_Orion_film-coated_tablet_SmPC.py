@@ -31,7 +31,11 @@
             [['Metabolism',
               u'hyponatremi. Hyponatremi har fr\xe4mst rapporterats hos \xe4ldre patienter och beror i vissa fall p\xe5 SIADH (syndrom som karakteriseras av st\xf6rd ADH-sekretion).'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'maniska reaktioner, \xe5ngest, depersonalisering, panikattacker, akatisi (se avsnitt 4.4). Ok\xe4nd frekvens: sj\xe4lvmordstankar och sj\xe4lvmordsbeteende.*'],
+=======
+              u'maniska reaktioner, \xe5ngest, depersonalisering, panikattacker, akatisi (se avsnitt 4.4). Ok\xe4nd frekvens: sj\xe4lvmordstankar och sj\xe4lvmordsbeteende.* *Fall av sj\xe4lvmordstankar och sj\xe4lvmordsbeteende har rapporterats under paroxetinbehandling eller strax efter uts\xe4ttning (se avsnitt 4.4). Dessa symtom kan \xe4ven bero p\xe5 den underliggande sjukdomen.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'konvulsioner, restless legs syndrome (\u201drastl\xf6sa ben\u201d).'],
              ['Cardiac', u'bradykardi.'],

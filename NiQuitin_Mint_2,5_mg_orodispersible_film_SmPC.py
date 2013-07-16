@@ -14,7 +14,12 @@
               u'hypersensitivitet, angio\xf6dem, urtikaria, ulcer\xf6s stomatit och i mycket s\xe4llsynta fall anafylaktisk reaktion'],
              ['Nervous system', u'tremor'],
              ['Psychiatric', u'nervositet*'],
+<<<<<<< HEAD
              ['Respiratory', u'dyspn\xe9']]]],
+=======
+             ['Respiratory',
+              u'dyspn\xe9 *Kan \xe4ven h\xe4nf\xf6ras till abstinensbesv\xe4r till f\xf6ljd av r\xf6kavv\xe4njning']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 5],
  u'_rank': 12,
  u'_type': u'LSFU'}

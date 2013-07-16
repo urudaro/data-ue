@@ -25,7 +25,11 @@
              ['Renal', u'urinretention, urininkontinens']]],
            ['Rare',
             [['Metabolism',
+<<<<<<< HEAD
               u'hyponatremi Hyponatremi har rapporterats f\xf6retr\xe4desvis hos \xe4ldre patienter och beror ibland p\xe5 inadekvat ADH-ins\xf6ndring (SIADH).'],
+=======
+              u'hyponatremi Hyponatremi har rapporterats f\xf6retr\xe4desvis hos \xe4ldre patienter och beror ibland p\xe5 inadekvat ADH ins\xf6ndring (SIADH).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric',
               u'maniska reaktioner, \xe5ngest, depersonalisation, panikattacker, akatisi (se avsnitt 4.4).'],
              ['Nervous system', u'kramper, restless legs (RLS)'],
@@ -50,7 +54,14 @@
              ['Reproductive system', u'priapism'],
              ['General', u'perifert \xf6dem']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Psychiatric', u'suicidtankar och suicidalt beteende*'], ['Ear', u'tinnitus.']]]],
  '_pages': [9, 11],
+=======
+            [['Psychiatric',
+              u'suicidtankar och suicidalt beteende* *Fall av suicidtankar och suicidalt beteende har rapporterats under behandling med paroxetin eller direkt efter avslutad behandling (se avsnitt 4.4). Dessa symtom kan ocks\xe5 bero p\xe5 den bakomliggande sjukdomen.'],
+             ['Ear', u'tinnitus.']]]],
+ '_pages': [9, 12],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 38,
  u'_type': u'LSFU'}

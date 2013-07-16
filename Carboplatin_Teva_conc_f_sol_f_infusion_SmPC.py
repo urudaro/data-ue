@@ -7,6 +7,7 @@
             [['Infections', u'Infektioner*'],
              ['Blood', u'Bl\xf6dning*'],
              ['Immune system', u'\xd6verk\xe4nslighet, anafylakoid  reaktion'],
+<<<<<<< HEAD
              ['Nervous system',
               u'Perifer neuropati, parestesi,  minskade senreflexer,  sensorisk st\xf6rning, dysgeusi'],
              ['Eye', u'Synst\xf6rningar, s\xe4llsynta fall  av synf\xf6rlust'],
@@ -23,14 +24,33 @@
            ['Unknown',
             [['Neoplasms', u'Behandlingsrelaterad  sekund\xe4r malignitet'],
              ['Blood', u'Benm\xe4rgssvikt, febril  neutropeni, hemolytiskt-uremiskt syndrom'],
+=======
+             ['Eye', u'Synst\xf6rningar, s\xe4llsynta fall  av synf\xf6rlust'],
+             ['Ear', u'Ototoxicitet'],
+             ['Cardiac', u'Hj\xe4rt-k\xe4rlsjukdom*'],
+             ['GI', u'Diarr\xe9, f\xf6rstoppning,  slemhinnebesv\xe4r'],
+             ['Skin', u'Alopeci, hudbesv\xe4r'],
+             ['Renal',
+              u'Urogenital sjukdom  extravasering p\xe5 injektionsst\xe4llet, erytem vid injektionsst\xe4llet, sjukdomsk\xe4nsla'],
+             ['Investigations',
+              u'\xd6kat bilirubin i blodet,  f\xf6rh\xf6jt kreatinin, \xf6kad urinsyra i blodet']]],
+           ['Unknown',
+            [['Blood', u'Benm\xe4rgssvikt, febril  neutropeni, hemolytiskt- uremiskt syndrom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Dehydrering, anorexi,  hyponatremi'],
              ['Nervous system', u'Cerebrovaskul\xe4r h\xe4ndelse*'],
              ['Cardiac', u'Hj\xe4rtsvikt*'],
              ['Vascular', u'Emboli*, hypertension,  hypotension'],
              ['GI', u'Stomatit'],
+<<<<<<< HEAD
              ['Skin', u'Urtikaria, hudutslag, erytem,  pruritus'],
              ['General',
               u'Nekros p\xe5 injektionsst\xe4llet,  reaktion p\xe5 injektionsst\xe4llet,  extravasering p\xe5  injektionsst\xe4llet, erytem vid injektionsst\xe4llet, sjukdomsk\xe4nsla']]]],
  '_pages': [5, 9],
  u'_rank': 26,
+=======
+             ['Skin', u'Urtikaria, hudutslag, erytem,  pruritus']]]],
+ '_pages': [5, 9],
+ u'_rank': 20,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

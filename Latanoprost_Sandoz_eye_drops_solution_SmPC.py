@@ -13,6 +13,7 @@
               u'I  tv\xe5  kliniska  korttidsstudier  (<12  veckor)  med  93  (25  och  68)  pediatriska  patienter,  var']]],
            ['Rare',
             [['Eye',
+<<<<<<< HEAD
               u'irit/uveit (i de flesta rapporterna hos patienter med samtidiga pre-disponerande faktorer); makula\xf6dem; symtomgivand e hornhinne-svullnad och -erosioner; periorbital svullnad; \xf6gon-fransar som v\xe4xer \xe5t fel h\xe5ll, vilket ibland ger \xf6gonirritation; extra rad av \xf6gonfransar kring k\xf6rtel-\xf6ppningarna f\xf6r Meiboms k\xf6rtlar (distikias)'],
              ['Respiratory', u'astma, f\xf6rsv\xe5rad astma och dyspn\xe9'],
              ['Skin',
@@ -24,6 +25,19 @@
            ['Unknown',
             [['Cardiac', u'hj\xe4rtklap pning*'],
              ['Nervous system', u'huvudv\xe4r k*; yrsel*'],
+=======
+              u'irit/uveit (i de flesta rapporterna hos patienter med samtidiga pre-disponerande faktorer); makula\xf6dem; symtom-givande hornhinne-svullnad och -erosioner; periorbital svullnad; \xf6gon-fransar som v\xe4xer \xe5t fel h\xe5ll, vilket ibland ger \xf6gonirritation; extra rad av \xf6gonfransar kring k\xf6rtel-\xf6ppningarna f\xf6r Meiboms k\xf6rtlar (distikias)'],
+             ['Respiratory', u'astma, f\xf6rsv\xe5rad astma'],
+             ['Skin',
+              u'lokal hudreaktion p\xe5 \xf6gonlocken; m\xf6rk f\xe4rg p\xe5 \xf6gonlocks-huden']]],
+           ['Very rare',
+            [['Cardiac',
+              u'f\xf6rsv\xe5rad angina pectoris hos patienter med kransk\xe4rls-sjukdom'],
+             ['General', u'br\xf6stsm\xe4rta']]],
+           ['Unknown',
+            [['Cardiac', u'hj\xe4rt-klapp-ning*'],
+             ['Nervous system', u'huvud-v\xe4rk*; yrsel*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'myalgi*; artralgi*']]]],
  '_note': u' ?MSFU',
  '_pages': [4, 5],

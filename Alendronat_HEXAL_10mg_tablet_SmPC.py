@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['GI', u')']]],
            ['Common',
             [['GI', u'(>\uf0201/100 - < 1/10)'],
+=======
+{'_data': [['Very common', [['GI', u'0)']]],
+           ['Common',
+            [['GI', u'(\u2265\uf0201/100 - < 1/10)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'huvudv\xe4rk'],
              ['GI',
               u'buksm\xe4rta, dyspepsi, f\xf6rstoppning, diarr\xe9, flatulens, s\xe5r i matstrupen*, dysfagi*, buksp\xe4nning, sura uppst\xf6tningar.'],
@@ -14,7 +20,11 @@
             [['GI', u'(\u2265\uf0201/10 000 - < 1/1000)'],
              ['Eye', u'uveit, sklerit, episklerit'],
              ['GI',
+<<<<<<< HEAD
               u'esofagal striktur*, s\xe5rbildning i munh\xe5la/svalg*, PUB (perforation, s\xe5r, bl\xf6dning) i \xf6vre magtarmkanalen (se avsnitt 4.4).'],
+=======
+              u'esofagal striktur*, s\xe5rbildning i munh\xe5la/svalg*, PUB (perforation, s\xe5r, bl\xf6dning) i \xf6vre magtarmkanalen (se avsnitt 4.4). *Se avsnitt 4.2 och 4.4.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'hudutslag med ljusk\xe4nslighet'],
              ['Musculoskeletal',
               u'sv\xe5r muskuloskeletal v\xe4rk (ben, muskulatur eller leder) (se avsnitt 4.4) Atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning)(se avsnitt 4.4). Osteonekros i k\xe4ken har rapporterats hos patienter behandlade med bisfosfonater. De flesta rapporterna g\xe4ller cancerpatienter, men fall har ocks\xe5 rapporterats f\xf6r patienter som behandlats f\xf6r osteoporos. Osteonekros i k\xe4ken s\xe4tts vanligtvis i samband med tandutdragning och/eller lokal infektion (inklusive osteomyelit). Cancerdiagnos, cytostatikabehandling, str\xe5lbehandling, kortikosteroider och d\xe5lig munhygien anses ocks\xe5 vara riskfaktorer (se avsnitt 4.4).'],
@@ -25,7 +35,11 @@
              ['Immune system',
               u'\xf6verk\xe4nslighetsreaktioner, bl.a. n\xe4sselutslag och angio\xf6dem Laboratoriev\xe4rden I kliniska pr\xf6vningar observerades asymtomatiska, sm\xe5 och \xf6verg\xe5ende minskningar av kalcium och fosfat i serum hos ca 18 respektive 10% av patienterna som behandlades med alendronat 10 mg/dag mot 12 respektive 3 % av dem som fick placebo. Incidensen minskningar av serumkalcium till <2,0 mmol/l och serumfosfat till \u22640,65 mmol/l var j\xe4mf\xf6rbar i de tv\xe5 grupperna.']]],
            ['Very rare',
+<<<<<<< HEAD
             [['GI', u'Mycket s\xe4llsynt (< 1/10 000)'],
+=======
+            [['GI', u'(< 1/10 000)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Enstaka fall av sv\xe5ra hudreaktioner inklusive Stevens-Johnsons syndrom och toxisk epidermal nekrolys har rapporterats.']]],
            ['Unknown',

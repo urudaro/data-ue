@@ -1,5 +1,9 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Reproductive system', u'Bl\xf6dnings-st\xf6rnin gar, ovarialcystor']]],
+=======
+            [['Reproductive system', u'Bl\xf6dnings-st\xf6rningar, ovarialcystor']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common',
             [['Investigations', u'Vikt\xf6kning'],
              ['Nervous system', u'Huvudv\xe4rk'],
@@ -15,7 +19,11 @@
              ['Skin', u'Alopeci, hirsutism, kl\xe5da, eksem'],
              ['Reproductive system', u'Inflammationer i underlivet, endometrit, cervicit'],
              ['General', u'\xd6dem'],
+<<<<<<< HEAD
              ['Psychiatric', u'Hum\xf6rf\xf6r\xe4nd-rin gar']]],
+=======
+             ['Psychiatric', u'Hum\xf6rf\xf6r\xe4nd-ringar']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Skin', u'Utslag, urtikaria'],
              ['Reproductive system',

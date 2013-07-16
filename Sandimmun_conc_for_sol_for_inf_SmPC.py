@@ -6,7 +6,11 @@
               u'Nedsatt njurfunktion som kan utvecklas till interstitiell fibros (se avsnitt 4.4 Varningar och f\xf6rsiktighet)']]],
            ['Common',
             [['Neoplasms',
+<<<<<<< HEAD
               u'; mindre vanliga (>1/1 000, <1/100); s\xe4llsynta (>1/10 000, <1/1 000);'],
+=======
+              u'(>1/100, <1/10); mindre vanliga (>1/1 000, <1/100); s\xe4llsynta (>1/10 000, <1/1 000);'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism',
               u'Anorexi, hyperurikemi, hyperkalemi, hypomagnesemi (se avsnitt 4.4)'],
              ['Nervous system', u'Parestesi'],
@@ -36,12 +40,20 @@
               u'Anafylaxi av l\xf6sningsmedlet Maligna och lymfoproliferativa sjukdomar har observerats med en incidens och f\xf6rdelning som \xf6verensst\xe4mmer med den man finner vid konventionell immunsuppressiv behandling. Hos patienter, som genomg\xe5r icke HLA-kompatibel benm\xe4rgstransplantation, f\xf6religger risk f\xf6r utvecklande av s k kapill\xe4rl\xe4ckagesyndrom. Andra biverkningar efter marknadsgodk\xe4nnande B\xe5de efterfr\xe5gade och spontana rapporter har inkommit efter lansering avseende hepatotoxicitet och leverskada, inklusive kolestas, gulsot, hepatit och leversvikt hos patienter som behandlas med ciklosporin. De flesta rapporter omfattade patienter med signifikanta komorbiditeter, underliggande tillst\xe5nd och andra p\xe5verkande faktorer inklusive infekti\xf6sa komplikationer och samtidig medicinering med l\xe4kemedel med hepatotoxisk potential. Vissa fall med d\xf6dlig utg\xe5ng har rapporterats, fr\xe4mst hos transplanterade patienter (se avsnitt 4.4 Varningar och f\xf6rsiktighet).']]],
            ['Very rare',
             [['Neoplasms',
+<<<<<<< HEAD
               u'. Den allvarligaste \xe4r nedsatt njurfunktion, som vanligtvis \xe4r dosberoende men inte alltid reversibel vid dosreduktion. \xd6vriga biverkningar \xe4r vanligtvis reversibla vid dosreduktion.'],
+=======
+              u'inklusive enstaka rapporter. Den allvarligaste \xe4r nedsatt njurfunktion, som vanligtvis \xe4r dosberoende men inte alltid reversibel vid dosreduktion. \xd6vriga biverkningar \xe4r vanligtvis reversibla vid dosreduktion.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Optiskt disk\xf6dem inklusive papill\xf6dem, eventuellt med f\xf6rs\xe4mrad syn, sekund\xe4rt till godartad intrakraniell tryckstegring']]],
            ['Unknown',
             [['Infections',
+<<<<<<< HEAD
               u'Patienter som f\xe5r immunsuppressiv behandling, inklusive ciklosporin och behandlingsregimer med ciklosporin, l\xf6per \xf6kad risk f\xf6r infektioner (virala, bakteriella, svampinfektioner, parasitinfektioner) (se avsnitt 4.4 Varningar och f\xf6rsiktighet). B\xe5de systemiska och lokala infektioner kan intr\xe4ffa. Redan existerande infektioner kan ocks\xe5 f\xf6rv\xe4rras och reaktivering av polyomavirusinfektioner kan leda till polyomavirusassocierad nefropati (PVAN) eller till JC-virusassocierad progressiv multifokal leukoencefalopati (PML). Allvarliga fall och/eller d\xf6dsfall har rapporterats.'],
+=======
+              u'Patienter som f\xe5r immunsuppressiv behandling, inklusive ciklosporin och behandlingsregimer med ciklosporin, l\xf6per \xf6kad risk f\xf6r infektioner (virala, bakteriella, svampinfektioner, parasitinfektioner) (se avsnitt 4.4 Varningar och f\xf6rsiktighet). B\xe5de systemiska och lokala infektioner kan intr\xe4ffa. Redan existerande infektioner kan ocks\xe5 f\xf6rv\xe4rras och reaktivering av polyomavirusinfektioner kan leda till polyomavirusassocierad nefropati (PVAN) eller till JC virusassocierad progressiv multifokal leukoencefalopati (PML). Allvarliga fall och/eller d\xf6dsfall har rapporterats.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Neoplasms',
               u'Patienter som f\xe5r immunsuppressiv behandling, inklusive ciklosporin och behandlingsregimer med ciklosporin, l\xf6per \xf6kad risk att utveckla lymfom eller lymfoproliferativa sjukdomar, samt andra maligniteter, s\xe4rskilt i huden. Frekvensen f\xf6r maligniteter \xf6kar med intensiteten och l\xe4ngden av behandlingen (se avsnitt 4.4 Varningar och f\xf6rsiktighet). Vissa maligniteter kan vara d\xf6dliga. Biverkningarna (Tabell 1) presenteras inom varje frekvensomr\xe5de med de vanligaste f\xf6rekommande biverkningarna f\xf6rst enligt f\xf6ljande konvention: mycket vanliga (\u22651/10);']]]],
  '_pages': [9, 11],

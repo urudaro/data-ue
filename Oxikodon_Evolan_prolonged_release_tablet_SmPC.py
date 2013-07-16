@@ -1,10 +1,15 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Nervous system', u'Yrsel, somnolens, huvudv\xe4rk'],
+=======
+            [['Nervous system', u'Yrsel, somnolens'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'F\xf6rstoppning, illam\xe5ende, kr\xe4kningar'],
              ['Skin', u'Pruritus']]],
            ['Common',
             [['Psychiatric',
               u'\xc5ngest, f\xf6rvirring, s\xf6mnl\xf6shet, nervositet, depression, onormal tankeverksamhet'],
+<<<<<<< HEAD
              ['Nervous system', u'Tremor.'],
              ['Vascular', u'Ortostatiskt hypotension'],
              ['Vascular', u'Dyspn\xe9'],
@@ -17,11 +22,26 @@
               u'Agitation, hallucinationer, emotionell labilitet, eufori, beroende, synkope, minskad libido'],
              ['Nervous system',
               u'Krampanfall, ofrivilliga muskelr\xf6relser, hypertoni, hypestesi, parestesi, talst\xf6rningar, vertigo, amnesi, smakf\xf6r\xe4ndringar'],
+=======
+             ['Nervous system', u'Huvudv\xe4rk, sjukdomsk\xe4nsla.'],
+             ['Vascular', u'Ortostatiskt hypotension'],
+             ['Vascular', u'Dyspn\xe9'],
+             ['GI', u'Buksm\xe4rtor, anorexi, diarr\xe9, dyspepsi, muntorrhet'],
+             ['Skin', u'Utslag'],
+             ['Renal', u'\xd6dem, asteni, svettning, frossbrytningar']]],
+           ['Uncommon',
+            [['Metabolism', u'Dehydrering'],
+             ['Psychiatric',
+              u'Agitation, hallucinationer, amnesi, emotionell labilitet, eufori'],
+             ['Nervous system',
+              u'Krampanfall, ofrivilliga muskelr\xf6relser, hypertoni, hypestesi, parestesi, talst\xf6rningar, tremor, vertigo'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Synrubbningar, mios'],
              ['Cardiac', u'Palpitationer (i samband med abstinenssyndrom)'],
              ['Vascular',
               u'Hypotension, vasodilation Andningsv\xe4gar br\xf6stkorg och mediastinum'],
              ['Vascular', u'Andningsdepression'],
+<<<<<<< HEAD
              ['GI', u'gastrointestinala st\xf6rningar, flatulens, dysfagi, ileus, rapning'],
              ['Hepato', u'\xf6kad niv\xe5 av leverenzymer'],
              ['Skin', u'Urtikaria, torr hud'],
@@ -36,4 +56,18 @@
            ['Unknown', [['Psychiatric', u'Aggresion'], ['Hepato', u'kolestas, gallkolik']]]],
  '_pages': [6, 7],
  u'_rank': 26,
+=======
+             ['GI',
+              u'Smakf\xf6r\xe4ndring, gastrointestinala st\xf6rningar, flatulens, dysfagi, ileus, rapning'],
+             ['Skin', u'Urtikaria, torr hud'],
+             ['Renal', u'Urinretention Reproduktionsorgan och br\xf6stk\xf6rtel'],
+             ['Renal',
+              u'Amenorr\xe9, minskad libido, impotens General disorders and administration site conditions'],
+             ['Renal', u'Perifert \xf6dem, t\xf6rst, abstinenssyndrom']]],
+           ['Rare',
+            [['Immune system',
+              u'(>1/10 000, <1/1 000) Allergiska reaktioner, anafylaktoida reaktioner, anafylaktiska reaktioner.']]]],
+ '_pages': [4, 6],
+ u'_rank': 23,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

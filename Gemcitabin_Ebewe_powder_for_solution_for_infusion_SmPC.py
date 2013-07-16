@@ -16,7 +16,11 @@
              ['Metabolism', u'Anorexi'],
              ['Nervous system', u'Huvudv\xe4rk, insomnia, somnolens.'],
              ['Respiratory', u'Hosta, rinit.'],
+<<<<<<< HEAD
              ['GI', u'Diarr\xe9, stomatit, s\xe5r i munnen f\xf6rstoppning,'],
+=======
+             ['GI', u' Diarr\xe9, stomatit, s\xe5r i munnen f\xf6rstoppning,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'\xd6kat bilirubin.'],
              ['Skin', u'Kl\xe5da, svettningar.'],
              ['Musculoskeletal', u'Ryggsm\xe4rta, myalgi.'],

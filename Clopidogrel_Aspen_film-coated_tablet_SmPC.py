@@ -1,9 +1,15 @@
 {'_data': [['Common',
             [['Vascular', u'Hematom'],
              ['Respiratory', u'Epistaxis'],
+<<<<<<< HEAD
              ['GI', u'Gastro-intestina l bl\xf6dning, diarr\xe9, buksm\xe4rta, dyspepsi'],
              ['Skin', u'Bl\xe5m\xe4rken'],
              ['General', u'Bl\xf6dning vid punktions-st\xe4lle t']]],
+=======
+             ['GI', u'Gastro-intestinal bl\xf6dning, diarr\xe9, buksm\xe4rta, dyspepsi'],
+             ['Skin', u'Bl\xe5m\xe4rken'],
+             ['General', u'Bl\xf6dning vid punktions-st\xe4llet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Blood', u'Trombocytopeni, leukopeni, eosinofili'],
              ['Nervous system',
@@ -34,11 +40,18 @@
              ['Hepato', u'Akut leversvikt, hepatit, onormala leverfunktionsv\xe4rden'],
              ['Skin',
               u'Bull\xf6s dermatit (toxisk epidermal nekrolys, Stevens Johnsons syndrom, erythema multiforme), angio\xf6dem, erytemat\xf6sa utslag, urtikaria, eksem, lichen planus'],
+<<<<<<< HEAD
              ['Musculoskeletal',
               u'Muskuloskeletal bl\xf6dning (hemartros), artrit, atralgi, myalgi'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Glomerulonefrit, \xf6kning av blodkreatinin'],
              ['General', u'Feber']]]],
  '_note': u' ?MSFU',
  '_pages': [6, 8],
+<<<<<<< HEAD
  u'_rank': 28,
+=======
+ u'_rank': 27,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

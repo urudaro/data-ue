@@ -24,8 +24,11 @@
               u'muskelkramper, ryggsm\xe4rta Njurar och urinv\xe4gar Vanliga Nedsatt njurfunktion Mindre Miktionsst\xf6rningar,'],
              ['Ear', u'nokturi, \xf6kade urintr\xe4ngningar'],
              ['Ear',
+<<<<<<< HEAD
               u'sjukdomsk\xe4nsla, asteni Unders\xf6kningar Mindre \xd6kning av blodurea, Vikt\xf6kning,'],
              ['Ear',
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'vanliga \xf6kning av viktminskning serumkreatinin, hyperkalemi, \xf6kning av hepatiska enzymer']]],
            ['Rare',
             [['Immune system',
@@ -44,14 +47,24 @@
              ['Ear',
               u'kolestatisk gulsot (se avsnitt 4.4) Hud och subkutan Mindre Utslag, pruritus Alopeci, purpura, v\xe4vnad vanliga hudmissf\xe4rgning, hyperhidros, pruritus, utslag, exantem'],
              ['Ear',
+<<<<<<< HEAD
               u'Psoriaris, urtikaria, alopeci, \xf6verk\xe4nslighet/angio-\xf6 dem i ansikte, extremiteter, l\xe4ppar, tunga, glotttis och/eller larynx (se avsnitt 4.4).'],
              ['Ear',
               u's\xe4llsynta nekrolys, exfoliativ dermatit, Klassificering av Frekvens Biverkningar med Biverkningar med organsystem lisinopril amlodipin Stevens-Johnsons Stevens-Johnsons syndrom, erythema syndrom, erythema multiformae, pemfigus, multiformae, hyperhidros, kutant Quinckes \xf6dem, pseudolymfom* fotosensitivitet, urtikaria Muskuloskeletala Vanliga Ankel\xf6dem systemet och bindv\xe4v Mindre Artralgi, myalgi,'],
+=======
+              u'Psoriaris, urtikaria, alopeci, \xf6verk\xe4nslighet/angio \xf6dem i ansikte, extremiteter, l\xe4ppar, tunga, glotttis och/eller larynx (se avsnitt 4.4).'],
+             ['Ear',
+              u's\xe4llsynta nekrolys, Stevens- exfoliativ dermatit, Klassificering av Frekvens Biverkningar med Biverkningar med organsystem lisinopril amlodipin Johnsons syndrom, Stevens-Johnsons erythema multiformae, syndrom, erythema pemfigus, hyperhidros, multiformae, kutant pseudolymfom* Quinckes \xf6dem, fotosensitivitet, urtikaria Muskuloskeletala Vanliga Ankel\xf6dem systemet och bindv\xe4v Mindre Artralgi, myalgi,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'Akut njursvikt, uremi'],
              ['Ear',
               u's\xe4llsynta Reproduktionsorgan Mindre Impotens Impotens, och br\xf6stk\xf6rtel vanliga gynekomasti'],
              ['Ear',
+<<<<<<< HEAD
               u'Gynekomasti Allm\xe4nna symtom Vanliga \xd6dem, tr\xf6tthet och/eller symtom vid Mindre Tr\xf6tthet, asteni Br\xf6stsm\xe4rta, sm\xe4rta,'],
+=======
+              u'Gynekomasti Allm\xe4nna symtom Vanliga \xd6dem, tr\xf6tthet och/eller symtom vid Mindre Tr\xf6tthet, asteni Br\xf6stsm\xe4rta, sm\xe4rta, administreringsst\xe4llet vanliga sjukdomsk\xe4nsla, asteni Unders\xf6kningar Mindre \xd6kning av blodurea, Vikt\xf6kning,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear',
               u'Minskning av hemoglobin, minskning av hematokrit, \xf6kning av serumbilirubin, hyponatremi'],
              ['Ear', u'leverenzymer**']]],
@@ -59,5 +72,9 @@
             [['Immune system',
               u'Depression Centrala och perifera Vanliga Yrsel, huvudv\xe4rk Somnolens, yrsel, nervsystemet huvudv\xe4rk (s\xe4rskilt i b\xf6rjan av behandlingen) Mindre Svindel, parestesi, Synkope, tremor,']]]],
  '_pages': [8, 11],
+<<<<<<< HEAD
  u'_rank': 36,
+=======
+ u'_rank': 35,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

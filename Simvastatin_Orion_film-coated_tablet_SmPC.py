@@ -1,6 +1,10 @@
 {'_data': [['Uncommon',
             [['Nervous system',
+<<<<<<< HEAD
               u'S\xf6mnst\xf6rningar inklusive mardr\xf6mmar, minnesf\xf6rlust'],
+=======
+              u' S\xf6mnst\xf6rningar inklusive mardr\xf6mmar, minnesf\xf6rlust'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u' Nedsatt sexuell f\xf6rm\xe5ga']]],
            ['Rare',
             [['Blood', u' Anemi'],
@@ -17,6 +21,7 @@
               u' F\xf6rh\xf6jningar i serum-transaminas (alanin-aminotransferas, aspartat-amonotransferas, \u03b3-glutamyl-transpeptidas) (se avsnitt 4.4, Leverp\xe5verkan), f\xf6rh\xf6jningar i alkaliskt fosfatas och \xf6kning av serum-CK-niv\xe5er (se avsnitt 4.4)']]],
            ['Very rare',
             [['Psychiatric', u' Insomnia'],
+<<<<<<< HEAD
              ['Nervous system', u'Nedsatt minnesf\xf6rm\xe5ga'],
              ['Respiratory',
               u' Interstitiell lungsjukdom har rapporterats i enstaka fall, s\xe4rskilt vid l\xe5ngtidsbehandling (se avsnitt 4.4)'],
@@ -24,6 +29,15 @@
            ['Unknown',
             [['Psychiatric', u'Depression'],
              ['Musculoskeletal', u'Tendinopati, ibland komplicerat av senruptur']]]],
+=======
+             ['Nervous system', u' Nedsatt minnesf\xf6rm\xe5ga'],
+             ['Respiratory',
+              u' Interstitiell lungsjukdom har rapporterats i enstaka fall, s\xe4rskilt vid l\xe5ngtidsbehandling (se avsnitt 4.4)'],
+             ['Hepato', u' Leversvikt']]],
+           ['Unknown',
+            [['Psychiatric', u' Depression'],
+             ['Musculoskeletal', u' Tendinopati, ibland komplicerat av senruptur']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [9, 11],
  u'_rank': 16,
  u'_type': u'LSFU2'}

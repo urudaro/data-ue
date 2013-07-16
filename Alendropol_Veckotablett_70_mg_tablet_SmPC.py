@@ -7,6 +7,7 @@
              ['GI',
               u' buksm\xe4rta, dyspepsi, f\xf6rstoppning, diarr\xe9, buksp\xe4nning, esofaguss\xe5r *, dysfagi*, flatulens, sura uppst\xf6tningar'],
              ['Skin', u' h\xe5ravfall\u2020, kl\xe5da\u2020'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'svullnad i lederna\u2020'],
              ['General', u' asteni\u2020, perifert \xf6dem\u2020']]],
            ['Uncommon',
@@ -15,6 +16,16 @@
              ['GI',
               u'illam\xe5ende, kr\xe4kning, gastrit, esofagit *, esofaguserosioner *, melena\u2020'],
              ['Skin', u'hudutslag, erytem'],
+=======
+             ['Musculoskeletal', u' svullnad i lederna\u2020'],
+             ['General', u' asteni\u2020, perifert \xf6dem\u2020']]],
+           ['Uncommon',
+            [['Nervous system', u' smakf\xf6r\xe4ndringar \u2020'],
+             ['Eye', u' \xf6gon inflammation (uveit, sklerit eller episklerit)'],
+             ['GI',
+              u' illam\xe5ende, kr\xe4kning, gastrit, esofagit *, esofaguserosioner *, melena\u2020'],
+             ['Skin', u' hudutslag, erytem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General',
               u' \xf6verg\xe5ende symtom som vid en akutfasreaktion (muskelv\xe4rk, allm\xe4n sjukdomsk\xe4nsla och i']]],
            ['Rare',
@@ -22,10 +33,17 @@
               u' \xf6verk\xe4nslighetsreaktioner inklusive urtikaria och angio\xf6dem'],
              ['Metabolism',
               u' symtomatisk hypokalcemi, oftai samband med predisponerande tillst\xe5nd \xa7'],
+<<<<<<< HEAD
              ['GI', u'esofagusstriktur*, s\xe5r i munh\xe5la eller svalg*, \xf6vre'],
              ['Skin', u'hudutslag med fotosensitivitet, allvarliga'],
              ['Musculoskeletal',
               u'osteonekros i k\xe4ken\u2021\xa7; atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning)\u2534'],
+=======
+             ['GI', u' esofagusstriktur*, s\xe5r i munh\xe5la eller svalg*, \xf6vre'],
+             ['Skin', u' hudutslag med fotosensitivitet, allvarliga'],
+             ['Musculoskeletal',
+              u' osteonekros i k\xe4ken\u2021\xa7; atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (bisfosfonat klassbiverkning)\u2534'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'fall feber) vanligtvis i samband med behandlingsstart.\u2020 ']]]],
  '_pages': [5, 7],
  u'_rank': 18,

@@ -6,7 +6,11 @@
              ['Cardiac', u'Bradykardi'],
              ['Vascular', u'Hypertension'],
              ['GI',
+<<<<<<< HEAD
               u'Buksm\xe4rtor; Buksm\xe4rtor i \xf6vre magtarm-kanale n; Diarr\xe9; Dyspepsi; Obehagsk\xe4nsla i magen; Obehagsk\xe4nsla i buken'],
+=======
+              u'Buksm\xe4rtor; Buksm\xe4rtor i \xf6vre magtarm-kanalen; Diarr\xe9; Dyspepsi; Obehagsk\xe4nsla i magen; Obehagsk\xe4nsla i buken'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Hyperhidros'],
              ['Musculoskeletal', u'Muskel-spasmer'],
              ['General', u'Tr\xf6tthet; Asteni; Sjukdomsk\xe4nsla'],

@@ -20,7 +20,12 @@
              ['Hepato', u'leverfunktionst\xf6rningar (transaminasf\xf6rh\xf6jning)'],
              ['Skin', u'exfoliativ dermatit'],
              ['Reproductive system', u'impotens, gynekomasti, menorragi'],
+<<<<<<< HEAD
              ['General', u'angio\xf6dem, feber']]],
+=======
+             ['General',
+              u'angio\xf6dem, feber * S\xe4rskilt i b\xf6rjan av behandlingen, n\xe4r dosen h\xf6js eller n\xe4r h\xf6ga doser administreras. Vanligtvis avtar dessa effekter vid fortsatt behandling. ** S\xe4rskilt i b\xf6rjan av behandlingen kan angina pectoris-attacker f\xf6rekomma, eller hos patienter med befintlig angina pectoris kan det vara en \xf6kning i frekvens, duration och sv\xe5righetsgrad av attackerna.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown', [['Musculoskeletal', u'myalgi, artralgi, tremor']]]],
  '_pages': [4, 5],
  u'_rank': 19,

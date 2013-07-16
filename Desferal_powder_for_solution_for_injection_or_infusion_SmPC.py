@@ -29,14 +29,25 @@
            ['Very rare',
             [['Infections', u'Yersinia gastroenterit (se avsnitt 4.4).'],
              ['Blood', u'Leukopeni.'],
+<<<<<<< HEAD
              ['Nervous system', u'Parestesi.']]],
            ['Unknown',
             [['Nervous system',
               u'Kramper huvudsakligen rapporterade hos patienter under dialys med aluminium\xf6verskott.'],
              ['Vascular', u'Takykardi och chock.'],
+=======
+             ['Nervous system',
+              u'Parestesi. : Kramper huvudsakligen rapporterade hos patienter under dialys med aluminium\xf6verskott.']]],
+           ['Unknown',
+            [['Vascular', u'Takykardi och chock.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Muskelspasmer.'],
              ['Renal',
               u'Akut njursvikt, st\xf6rningar i njurtubuli, \xf6kat blodkreatinin (se avsnitt 4.4 och 4.9).']]]],
  '_pages': [5, 7],
+<<<<<<< HEAD
  u'_rank': 25,
+=======
+ u'_rank': 24,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['Skin', u'Ospecifika hud-reakti oner'], ['General', u'Tr\xf6tthet']]],
            ['Uncommon',
             [['GI',
@@ -6,6 +7,16 @@
             [['Blood', u'Hemolytisk anemi'],
              ['Immune system',
               u'\xd6verk\xe4nslighets-reaktioner (urtikaria, angioneurotiskt \xf6dem, feber, dyspn\xe9, tr\xe5nghetsk\xe4nsla i svalget, bronkospasm, hypotension och br\xf6stsm\xe4rta). Dessa h\xe4ndelser har rapporterats efter singeldos. L\xe4kemedels-\xf6verk \xe4nslighet Hepatit'],
+=======
+{'_data': [['Common', [['Skin', u'Ospecifika hud-reaktioner'], ['General', u'Tr\xf6tthet']]],
+           ['Uncommon',
+            [['GI',
+              u'Buksm\xe4rta, diarr\xe9, f\xf6r-stoppning, illam\xe5ende (dessa symptom g\xe5r vanligt-vis \xf6ver vid fortsatt behandling).']]],
+           ['Rare',
+            [['Blood', u'Hemolytisk anemi'],
+             ['Immune system',
+              u'\xd6verk\xe4nslighets-reaktioner (urtikaria, angioneurotiskt \xf6dem, feber, dyspn\xe9, tr\xe5nghetsk\xe4nsla i svalget, bronkospasm, hypotension och br\xf6stsm\xe4rta). Dessa h\xe4ndelser har rapporterats efter singeldos. L\xe4kemedels-\xf6verk\xe4nslighet Hepatit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato',
               u'Leversvikt, ibland med d\xf6dlig utg\xe5ng, \xf6verg\xe5ende och reversibla f\xf6r\xe4ndringar av leverfunktionstest.'],
              ['Skin', u'Hudutslag'],
@@ -21,9 +32,14 @@
               u'Mental f\xf6rvirring (reversibel), depression och hallucinationer, s\xe4rskilt hos \xe4ldre och sv\xe5rt sjuka.'],
              ['Nervous system',
               u'Huvudv\xe4rk (ibland allvarlig), yrsel och reversibla tillst\xe5nd med ofrivilliga r\xf6relser'],
+<<<<<<< HEAD
              ['Eye',
               u'Dimsyn (reversibel), troligen orsakade av ackommodations-st \xf6rningar'],
              ['Cardiac', u'Som med andra H2-receptor-antago nister: bradykardi och AV-block'],
+=======
+             ['Eye', u'Dimsyn (reversibel), troligen orsakade av ackommodations-st\xf6rningar'],
+             ['Cardiac', u'Som med andra H2-receptor-antagonister: bradykardi och AV-block'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Vaskulit'],
              ['GI', u'Akut pankreatit'],
              ['Hepato',

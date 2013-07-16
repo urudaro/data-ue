@@ -5,7 +5,11 @@
               u'reversibel nefrokalcinos hos fullg\xe5ngna barn med hj\xe4rtinsufficiens.']]],
            ['Common',
             [['Metabolism',
+<<<<<<< HEAD
               u'hyponatremi, hypermagnesemi (patienter med hj\xe4rtsvikt). \xd6kning av HDL-kolesterolniv\xe5n och en \xf6kning av kolesterol- och apolipoproteinniv\xe5erna. Metabolisk alkalos.'],
+=======
+              u'hyponatremi, hypermagnesemi (patienter med hj\xe4rtsvikt). \xd6kning av HDL- kolesterolniv\xe5n och en \xf6kning av kolesterol- och apolipoproteinniv\xe5erna. Metabolisk alkalos.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'subklinisk d\xf6vhet f\xf6r h\xf6ga toner (m\xe4rkbar vid audiometri).'],
              ['Hepato', u'hepatisk encefalopati i samband med anv\xe4ndning vid levercirros.'],
              ['Skin', u'hudutslag, kl\xe5da, urtikaria, purpura, fotosensibilisering.']]],

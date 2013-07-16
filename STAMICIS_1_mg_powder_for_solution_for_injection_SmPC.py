@@ -17,8 +17,14 @@
               u'Feber, tr\xf6tthet, yrsel, \xf6verg\xe5ende artritliknande sm\xe4rta. \xd6vrigt: Exponering f\xf6r joniserande str\xe5lning \xe4r kopplad till cancerinduktion och en potential f\xf6r utveckling av \xe4rftliga missbildningar. Eftersom de flesta diagnostiska unders\xf6kningar med nuklearmedicinska l\xe4kemedel utf\xf6rs med l\xe5ga str\xe5ldoser p\xe5 under 20 mSv, f\xf6rv\xe4ntas sannolikheten f\xf6r att s\xe5dana biverkningar skall uppkomma vara l\xe5g. Den ber\xe4knade effektiva dosen vid en genomsnittlig aktivitetsm\xe4ngd p\xe5 2 000 MBq (500 i vila och 1 500 MBq vid stress) f\xf6r ett endagsprotokoll \xe4r 16,3 mSv.']]],
            ['Very rare',
             [['Skin',
+<<<<<<< HEAD
               u'Andra \xf6verk\xe4nslighetsreaktioner har beskrivits hos predisponerade patienter.']]],
            ['Unknown', [['Skin', u'Erythema multiforme.']]]],
  '_pages': [5, 6],
  u'_rank': 12,
+=======
+              u'Andra \xf6verk\xe4nslighetsreaktioner har beskrivits hos predisponerade patienter. : Erythema multiforme.']]]],
+ '_pages': [5, 6],
+ u'_rank': 11,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

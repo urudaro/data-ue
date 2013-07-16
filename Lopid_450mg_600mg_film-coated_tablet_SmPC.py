@@ -6,15 +6,23 @@
              ['Skin', u'Eksem, utslag'],
              ['Reproductive system',
               u'Vanliga Unders\xf6kningar Minskat hemoglobinv\xe4rde, minskat']]],
+<<<<<<< HEAD
            ['Uncommon',
             [['Cardiac', u'F\xf6rmaksflimmer Andningsv\xe4gar, br\xf6stkorg och mediastinum']]],
+=======
+           ['Uncommon', [['Cardiac', u'F\xf6rmaksflimmer']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Blood',
               u'Benm\xe4rgssvikt, sv\xe5r anemi, trombocytopeni, leukopeni, eosinofili'],
              ['Psychiatric', u'Depression, minskad libido'],
              ['Nervous system', u'Perifer neurit, parestesier, yrsel, s\xf6mnighet'],
              ['Eye', u'Dimsyn'],
+<<<<<<< HEAD
              ['Cardiac', u'Laryngealt \xf6dem'],
+=======
+             ['Respiratory', u'Laryngealt \xf6dem'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Pankreatit, appendicit'],
              ['Hepato',
               u'Kolestatisk gulsot, hepatit, kolelitiasis, kolecystit, st\xf6rd leverfunktion'],

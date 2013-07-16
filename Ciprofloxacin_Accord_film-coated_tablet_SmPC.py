@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['Respiratory', u'Vanliga'], ['GI', u'Illam\xe5en-de Diarr\xe9']]],
            ['Uncommon',
             [['Nervous system',
@@ -54,3 +55,16 @@
  '_pages': [14, 18],
  u'_rank': 39,
  u'_type': u'MSFU'}
+=======
+{'_data': [['Common',
+            [['Psychiatric', u'vanliga  '],
+             ['Respiratory', u'vanliga      '],
+             ['Musculoskeletal', u'vanliga      ']]],
+           ['Unknown',
+            [['Psychiatric', u'Mindre   '],
+             ['Respiratory', u'Mindre   '],
+             ['Musculoskeletal', u'Mindre   ']]]],
+ '_pages': [14, 18],
+ u'_rank': 6,
+ u'_type': u'LSFU3'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

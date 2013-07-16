@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['Investigations', u'Minskad bent\xe4thet']]],
            ['Common',
             [['Infections', u'Candidos i munh\xe5la och svalg'],
@@ -16,4 +17,25 @@
              ['Investigations', u'']]]],
  '_pages': [7, 8],
  u'_rank': 10,
+=======
+{'_data': [['Very common',
+            [['Endocrine', u'binjurebarkssuppression'],
+             ['Psychiatric', u'rastl\xf6shet, nervositet, depression,'],
+             ['Eye', u'katarakt, glaukom'],
+             ['Investigations', u'minskad bent\xe4thet']]],
+           ['Common', [['GI', u'irritation i munslemhinnan, sv\xe5righeter  att sv\xe4lja']]],
+           ['Rare',
+            [['Immune system', u'\xf6verk\xe4nslighet'],
+             ['Endocrine', u''],
+             ['Psychiatric',
+              u's\xf6mnst\xf6rningar, oro, aggression,  beteendest\xf6rningar (fr\xe4mst hos barn)'],
+             ['Nervous system', u''],
+             ['Eye', u''],
+             ['Eye', u'paradoxal bronkospasm'],
+             ['Skin',
+              u'hudreaktioner, urtikaria, utslag,  dermatit, kl\xe5da, erytem, bl\xe5m\xe4rken, angioneurotiskt \xf6dem'],
+             ['Investigations', u'']]]],
+ '_pages': [6, 7],
+ u'_rank': 9,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

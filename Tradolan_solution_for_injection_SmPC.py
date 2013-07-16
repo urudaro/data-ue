@@ -6,7 +6,11 @@
              ['General', u'Tr\xf6tthet']]],
            ['Uncommon',
             [['Cardiac',
+<<<<<<< HEAD
               u'): Kardiovaskul\xe4ra effekter (hj\xe4rtklappning, takykardi, postural hypotension, kardiovaskul\xe4r kollaps). Dessa effekter upptr\xe4der s\xe4rskilt i samband med intraven\xf6s administrering av tramadol samt hos patienter som \xe4r fysiskt stressade.'],
+=======
+              u'(>1/1 000, <1/100): Kardiovaskul\xe4ra effekter (hj\xe4rtklappning, takykardi, postural hypotension, kardiovaskul\xe4r kollaps). Dessa effekter upptr\xe4der s\xe4rskilt i samband med intraven\xf6s administrering av tramadol samt hos patienter som \xe4r fysiskt stressade.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Kv\xe4ljningar, gastrointestinal irritation (t ex m\xe4ttnadsk\xe4nsla, tryckk\xe4nsla i magen, v\xe4dersp\xe4nning), diarr\xe9.'],
              ['Skin', u'Hudreaktioner (t ex pruritus, hudutslag, n\xe4sselutslag).']]],

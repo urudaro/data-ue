@@ -3,7 +3,11 @@
              ['Blood', u'Leukopeni'],
              ['Nervous system', u'Huvudv\xe4rk Yrsel Tr\xf6tthet'],
              ['GI', u'Stomatit Anorexi Illam\xe5ende, Kr\xe4kning, Diarr\xe9'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jda transaminask oncentratione'],
+=======
+             ['Hepato', u'F\xf6rh\xf6jda transaminas-koncentra-tioner'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Hudutslag Alopeci']]],
            ['Uncommon',
             [['Infections', u'Opportunistisk infektion'],
@@ -26,9 +30,15 @@
              ['GI', u'Gingivit, Gastrointestinala bl\xf6dningar och ulceractioner Enterit'],
              ['Hepato', u'Levertoxicitet, Periportal fibros Levercirrhos Akut hepatit'],
              ['Skin',
+<<<<<<< HEAD
               u'Fotosensitivitet Akne Pigmentf\xf6r\xe4ndring ar Urtikaria Erytema multiforme Sm\xe4rtsam erosion av psoriasis S\xe5r i huden'],
              ['Musculoskeletal', u'Osteoporos Artralgi Myalgi, \xd6kade reumatiska knutor'],
              ['Reproductive system', u'Minskad libido, Impotens Menstruationsrubb ningar']]],
+=======
+              u'Fotosensitivitet Akne Pigment-f\xf6r\xe4ndringar Urtikaria Erytema multiforme Sm\xe4rtsam erosion av psoriasis S\xe5r i huden'],
+             ['Musculoskeletal', u'Osteoporos Artralgi Myalgi, \xd6kade reumatiska knutor'],
+             ['Reproductive system', u'Minskad libido, Impotens Menstruations-rubbningar']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Blood', u'hypogammaglobuli naemia'],
              ['Nervous system', u'Irritation Dysartri Afasi Letargi'],
@@ -36,7 +46,11 @@
              ['Cardiac', u'Perikardiell utgjutning Perikardit'],
              ['Vascular', u'Vaskulit'],
              ['Respiratory',
+<<<<<<< HEAD
               u'Pneumocystis-carin ii pneumoni Kronisk obstruktiv lungsjukdom Pleurit Torrhosta'],
+=======
+              u'Pneumocystis-carinii pneumoni Kronisk obstruktiv lungsjukdom Pleurit Torrhosta'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Hematemes'],
              ['Skin', u'Teleangiektasier Furunkulos Ekkymos'],
              ['Renal', u'Dysuri Azotemi Cystit Hematur'],

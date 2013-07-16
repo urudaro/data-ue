@@ -14,7 +14,11 @@
              ['Hepato', u'Hepatit, ikterus   Leversvikt,'],
              ['Skin',
               u"Exantem,   Alopeci   Cyanos, epidermal   L\xe4kemedelsutl\xf6sta   urtikaria,   nekrolys (Lyell's   utslag med"],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Artralgi,   SLE-syndrom'],
+=======
+             ['Musculoskeletal', u'Artralgi, SLE-   syndrom'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Nefrotiskt syndrom,'],
              ['Reproductive system', u'Reversibel'],
              ['General', u'Feber   Ansikts\xf6dem,'],

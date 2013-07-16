@@ -1,5 +1,11 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['GI', u'Gastrointestinal bl\xf6dning, diarr\xe9, buksm\xe4rta, dyspepsi'],
+=======
+            [['Vascular', u'Hematom'],
+             ['Respiratory', u'Epistaxis'],
+             ['GI', u'Gastrointestinal bl\xf6dning, diarr\xe9, buksm\xe4rta, dyspepsi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Bl\xe5m\xe4rken'],
              ['General', u'Bl\xf6dning vid punktionsst\xe4llet']]],
            ['Uncommon',
@@ -13,7 +19,14 @@
              ['Renal', u'Hematuri'],
              ['Investigations',
               u'\xd6kad bl\xf6dningstid, minskning av neutrofiler, minskning av blodpl\xe4ttar']]],
+<<<<<<< HEAD
            ['Rare', [['Blood', u'Neutropeni,'], ['GI', u'Retroperitoneal bl\xf6dning']]],
+=======
+           ['Rare',
+            [['Blood', u'Neutropeni, inklusive allvarlig neutropeni'],
+             ['Ear', u'Vertigo'],
+             ['GI', u'Retroperitoneal bl\xf6dning']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Blood',
               u'Trombotisk Trombocytopen Purpura (TTP) (se avsnitt 4.4), aplastisk anemi, pancytopeni, agranulocytos, allvarlig trombocytopeni, granulocytopeni, anemi'],
@@ -35,5 +48,9 @@
              ['General', u'Feber']]]],
  '_note': u' ?MSFU',
  '_pages': [5, 7],
+<<<<<<< HEAD
  u'_rank': 24,
+=======
+ u'_rank': 27,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

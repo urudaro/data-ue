@@ -29,6 +29,10 @@
              ['Renal', u'Urininkontinens, urintr\xe4ngning'],
              ['General', u'Inflammation p\xe5 injektionsst\xe4llet']]]],
  '_note': u' ?MSFU',
+<<<<<<< HEAD
  '_pages': [4, 6],
+=======
+ '_pages': [4, 5],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 21,
  u'_type': u'MSFU'}

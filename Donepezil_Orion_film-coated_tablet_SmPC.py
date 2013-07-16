@@ -2,17 +2,27 @@
            ['Common',
             [['Infections', u'F\xf6rkylning'],
              ['Metabolism', u'Anorexi'],
+<<<<<<< HEAD
              ['Psychiatric', u'Hallucination-e r** Agitation** Aggressivi-tet* *'],
              ['Nervous system', u'Synkope* Yrsel Insomnia Svimningar'],
              ['GI', u'Kr\xe4kningar Mag-tarmrubb -ningar'],
              ['Skin', u'Hudutslag Kl\xe5da'],
              ['Musculoskeletal', u'Muskelkramp'],
              ['Renal', u'Urininkonti-ne ns'],
+=======
+             ['Psychiatric', u'Hallucinationer** Agitation** Aggressivitet**'],
+             ['Nervous system', u'Synkope* Yrsel Insomnia Svimningar'],
+             ['GI', u'Kr\xe4kningar Mag-tarmrubbningar'],
+             ['Skin', u'Hudutslag Kl\xe5da'],
+             ['Musculoskeletal', u'Muskelkramp'],
+             ['Renal', u'Urininkontinens'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Tr\xf6tthet Sm\xe4rta'],
              ['Injury', u'Olycksfall']]],
            ['Uncommon',
             [['Nervous system', u'Krampanfall*'],
              ['Cardiac', u'Bradykardi'],
+<<<<<<< HEAD
              ['GI', u'Gastrointesti-n al bl\xf6dning Ventrikel-och duodenals\xe5r'],
              ['Investigations', u'L\xe4ttare stegring av muskul\xe4rt kreatinkinas i serum']]],
            ['Rare',
@@ -23,4 +33,15 @@
  '_note': u' ?MSFU',
  '_pages': [4, 5],
  u'_rank': 20,
+=======
+             ['GI', u'Gastrointestinal bl\xf6dning Ventrikel-och duodenals\xe5r'],
+             ['Investigations', u'L\xe4ttare stegring av muskul\xe4rt kreatinkinas i serum']]],
+           ['Rare',
+            [['Nervous system', u'Extrapyramidala symtom'],
+             ['Cardiac', u'Sinoatriellt block Atrioventrikul\xe4rt block'],
+             ['Hepato', u'Leverp\xe5verkan inklusive hepatit***']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 4],
+ u'_rank': 19,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

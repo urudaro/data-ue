@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Psychiatric', u'S\xf6mnl\xf6she'], ['Nervous system', u'Huvudv\xe4rk Yrsel']]],
            ['Uncommon',
             [['Infections',
@@ -8,6 +9,26 @@
              ['Psychiatric', u'\xc5ngest F\xf6rvirringstil lst\xe5nd \xc4ngslan'],
              ['Nervous system', u'S\xf6mnighet Tremor Smakst\xf6rnin g'],
              ['Ear', u'Vertigo']]],
+=======
+            [['Psychiatric', u'S\xf6mnl\xf6sh et'],
+             ['Nervous system', u'Huvudv\xe4r k Yrsel'],
+             ['GI', u'Diarr\xe9 Kr\xe4kning Illam\xe5end e'],
+             ['Hepato', u'Leverenzy mstegring (ALAT/AS AT, alkaliska fosfataser, GGT)']]],
+           ['Uncommon',
+            [['Infections',
+              u'Svampinfe ktioner inklusive candida-infektion Resistens mot patogener'],
+             ['Blood', u'Leukopeni Eosinofili'],
+             ['Metabolism', u'Anorexi'],
+             ['Psychiatric', u'\xc5ngest F\xf6rvirringst illst\xe5nd \xc4ngslan'],
+             ['Nervous system', u'S\xf6mnighet Tremor Smakst\xf6rni ng'],
+             ['Ear', u'Vertigo'],
+             ['Respiratory', u'Dyspn\xe9'],
+             ['GI', u'Buksm\xe4rta Dyspepsi Flatulens F\xf6rstoppni ng'],
+             ['Hepato', u'Bilirubin\xf6k ning'],
+             ['Musculoskeletal', u'Artralgi Myalgi'],
+             ['Renal', u'Serumkrea tinin\xf6kning'],
+             ['General', u'Asteni']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Blood', u'Trombocytopeni Neutropeni'],
              ['Immune system', u'Angio\xf6dem \xd6verk\xe4nslighet (se avsnitt 4.4)'],
@@ -19,10 +40,21 @@
              ['Eye', u'Synst\xf6rningar s\xe5som dimsyn (se avsnitt 4.4)'],
              ['Ear', u'Tinnitus'],
              ['Cardiac', u'Takykardi Palpitation'],
+<<<<<<< HEAD
              ['Vascular', u'Hypotension']]],
            ['Unknown',
             [['Blood', u'Pancytopeni Agranulocytos Hemolytisk anemi'],
              ['Immune system', u'Anafylaktisk chock Anafylaktoid chock (se avsnitt 4.4)'],
+=======
+             ['Vascular', u'Hypotension'],
+             ['Musculoskeletal',
+              u'Sensjukdomar (se avsnitten 4.3 och 4.4) inklusive tendinit (t.ex. akillessena) Muskelsvaghet which, som kan vara av s\xe4rskild betydelse f\xf6r patienter med myasthenia gravis (se avsnitt 4.4 )'],
+             ['Renal', u'Akut njursvikt (t.ex. p\xe5 grund av interstitiell nefrit)'],
+             ['General', u'Feber']]],
+           ['Unknown',
+            [['Blood', u'Pancytopeni Agranulocytos Hemolytisk anemi'],
+             ['Immune system', u'Anafylaktisk chock a Anafylaktoid chock a (se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Metabolism', u'Hyperglykemi Hypoglykemisk koma (se avsnitt 4.4)'],
              ['Psychiatric',
               u'Psykotiska reaktioner med sj\xe4lvskadande beteende inklusive sj\xe4lvmordstankar eller sj\xe4lvmordsf\xf6rs\xf6k (se avsnitt 4.4)'],
@@ -32,6 +64,7 @@
              ['Ear', u'H\xf6rselneds\xe4ttning H\xf6rselskada'],
              ['Cardiac',
               u'Ventrikeltakykardi som kan leda till hj\xe4rtstillest\xe5nd Ventrikelarytmi och torsade de pointes (har fr\xe4mst rapporterats hos patienter med riskfaktorer f\xf6r QT-f\xf6rl\xe4ngning), EKG QT-f\xf6rl\xe4ngning (se avsnitten 4.4 och 4.9)'],
+<<<<<<< HEAD
              ['GI', u'Diarr\xe9 Kr\xe4kning Illam\xe5ende'],
              ['Hepato', u'Leverenzy mstegring (ALAT/ASA T, alkaliska fosfataser, GGT)'],
              ['Respiratory', u'Dyspn\xe9'],
@@ -45,17 +78,26 @@
               u'Sensjukdomar (se avsnitten 4.3 och 4.4) inklusive tendinit (t.ex. akillessena) Muskelsvaghet which, som kan vara av s\xe4rskild betydelse f\xf6r patienter med myasthenia gravis (se avsnitt 4.4 )'],
              ['Renal', u'Akut njursvikt (t.ex. p\xe5 grund av interstitiell nefrit)'],
              ['General', u'Feber'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Bronkospasm Allergisk pneumonit'],
              ['GI',
               u'Blodig diarr\xe9 vilket i mycket s\xe4llsynta fall kan indikera enterokolit inklusive pseudomembran\xf6s kolit (se avsnitt 4.4) Pankreatit'],
              ['Hepato',
               u'Gulsot och allvarlig leverskada inklusive fall med d\xf6dlig akut leversvikt, fr\xe4mst hos patienter med allvarliga underliggande sjukdomar (se avsnitt 4.4) Hepatit'],
+<<<<<<< HEAD
              ['Skin',
               u'Toxisk epidermal nekrolys StevensJohnson syndrom Erythema multiforme Fotosensitivitetsreaktion (se avsnitt 4.4) Leukocytoklastisk vaskulit Stomatit'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal',
               u'Rabdomyolys Senruptur (t.ex. akillessena) (se avsnitten 4.3 och 4.4) Ligamentruptur Muskelruptur Artrit'],
              ['General', u'Sm\xe4rta (inklusive sm\xe4rta i rygg, br\xf6st och extremiteter)']]]],
  '_note': u' ?MSFU',
  '_pages': [10, 13],
+<<<<<<< HEAD
  u'_rank': 43,
+=======
+ u'_rank': 41,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

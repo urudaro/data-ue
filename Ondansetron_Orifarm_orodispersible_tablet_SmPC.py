@@ -1,15 +1,25 @@
 {'_data': [['Very common', [['Nervous system', u'Huvudv\xe4rk.']]],
            ['Common',
+<<<<<<< HEAD
             [['Vascular', u'Upplevelse av flush ellerv\xe4rmek\xe4nsla.'],
              ['GI', u'F\xf6rstoppning,']]],
            ['Uncommon',
             [['Nervous system',
               u'Krampanfall R\xf6relsest\xf6rningar (inklusive extrapyramidala reaktioner s\xe5som dystoniska reaktioneroculogyr kris och dyskinesi)'],
+=======
+            [['Vascular', u'Upplevelse av rodnad eller vallningar.'],
+             ['GI',
+              u'F\xf6rstoppning, br\xe4nnande k\xe4nsla lokalt till f\xf6ljd av inf\xf6rande av suppositorium.']]],
+           ['Uncommon',
+            [['Nervous system',
+              u'Kramper (har observerats utan definitiva bel\xe4gg f\xf6r best\xe5ende kliniska f\xf6ljdtillst\xe5nd). R\xf6relsest\xf6rningar (inklusive extrapyramidala reaktioner, t.ex. dystoniska reaktioner, okulogyr kris och dyskinesi).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac',
               u'Arytmier, br\xf6stsm\xe4rtor med eller utan ST-s\xe4nkning, bradykardi.'],
              ['Vascular', u'Hypotoni. Andningsv\xe4gar, br\xf6stkorg och mediastinum'],
              ['Vascular', u'Hicka.'],
              ['Hepato',
+<<<<<<< HEAD
               u'Asymtomatiska f\xf6rh\xf6jda leverfunktionsv\xe4rden observerades utan definitiva tecken p\xe5 ih\xe5llande kliniska f\xf6ljdtillst\xe5nd. De flesta blindhetsfall som rapporterats var \xf6ver inom 20 minuter. De flesta patienterna hade genomg\xe5tt kemoterapi, som inkluderade cisplatin. N\xe5gra fall av \xf6verg\xe5ende blindhet rapporterades som kortikal ursprung. Dessa h\xe4ndelser var vanligt hos patienter som fick kemoterapi med cisplatin.']]],
            ['Rare',
             [['Immune system',
@@ -23,4 +33,18 @@
               u'\xd6verg\xe5ende blindhet huvudsakligen vid intraven\xf6s administrering .']]]],
  '_pages': [6, 7],
  u'_rank': 13,
+=======
+              u'Asymtomatiska h\xf6jningar i leverfunktionstester (dessa h\xe4ndelser observerades ofta hos patienter som fick kemoterapi med cisplatin).']]],
+           ['Rare',
+            [['Immune system',
+              u'Omedelbara \xf6verk\xe4nslighetsreaktioner, ibland allvarliga, inklusive anafylaxi.'],
+             ['Nervous system', u'S\xe4llsynta Yrsel vid snabb intraven\xf6s administrering.'],
+             ['Eye',
+              u'\xd6verg\xe5ende synst\xf6rningar (t.ex. dimsyn) framf\xf6r allt vid snabb intraven\xf6s administrering.']]],
+           ['Very rare',
+            [['Eye',
+              u'\xd6verg\xe5ende blindhet framf\xf6r allt vid intraven\xf6s administrering. Majoriteten av dessa fall av blindhet rapporterades vara \xf6ver inom 20 minuter. De flesta patienter hade f\xe5tt kemoterapeutika som inkluderade cisplatin. Vissa fall av \xf6verg\xe5ende blindhet rapporterades ha kortikalt ursprung.']]]],
+ '_pages': [4, 5],
+ u'_rank': 12,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

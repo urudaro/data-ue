@@ -14,6 +14,10 @@
              ['Nervous system', u'Hyperaktivitet och s\xf6mnst\xf6rningar'],
              ['Cardiac', u'Myokardischemi'],
              ['Musculoskeletal', u'Muskelsp\xe4nning']]]],
+<<<<<<< HEAD
  '_pages': [3, 3],
+=======
+ '_pages': [3, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 11,
  u'_type': u'TSFU'}

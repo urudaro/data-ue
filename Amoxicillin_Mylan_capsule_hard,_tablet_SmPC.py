@@ -1,7 +1,11 @@
 {'_data': [['Common',
             [['GI', u'L\xf6s avf\xf6ring, illam\xe5ende och kr\xe4kningar.'],
              ['Skin', u'Exantem, kl\xe5da.']]],
+<<<<<<< HEAD
            ['Uncommon', [['Blood', u'Eosinofili.'], ['Skin', u'Urtikaria.']]],
+=======
+           ['Uncommon', [['Blood', u'(>1/1 000, <1/100): Eosinofili.'], ['Skin', u'Urtikaria.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Blood', u'L\xe4tt trombocytos.'],
              ['GI', u'Pseudomembran\xf6s kolit.'],

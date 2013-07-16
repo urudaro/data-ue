@@ -3,7 +3,11 @@
             [['Metabolism', u'Minskad aptit'],
              ['Psychiatric', u'Depression (se nedanst\xe5ende stycke), f\xf6rvirring, akatisi'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Ataxi, koordinations-sjukdo mar, s\xe4mre minne, sluddrigt tal, koncentrations-sv\xe5rig heter, yrsel, huvudv\xe4rk, l\xe4tt yrsel,'],
+=======
+              u'Ataxi, koordinations-sjukdomar, s\xe4mre minne, sluddrigt tal, koncentrations-sv\xe5righeter, yrsel, huvudv\xe4rk, l\xe4tt yrsel,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Dimsyn'],
              ['Cardiac', u'Takykardi, palpitationer'],
              ['Respiratory', u'N\xe4st\xe4ppa'],

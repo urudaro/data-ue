@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Vascular', u'  Hypotension  '],
              ['GI', u'  Illam\xe5ende  Centrala och perifera -'],
@@ -15,4 +16,17 @@
              ['Respiratory', u'br\xf6stkorg -']]]],
  '_pages': [3, 4],
  u'_rank': 10,
+=======
+{'_data': [['Very common', [['Vascular', u'  Hypotension  '], ['GI', u'  Illam\xe5ende  ']]],
+           ['Uncommon',
+            [['GI',
+              u'  Kr\xe4kningar  -Symtom p\xe5 CNS-toxicitet -(konvulsioner, cirkumoral parestesi, -domningsk\xe4nsla i tungan, hyperakusi, '],
+             ['Nervous system',
+              u'et   tinnitus, synst\xf6rningar, s\xf6mnighet, -berusningsk\xe4nsla, medvetandef\xf6rlust, -tremor, kramper, dysartri,). -Neuropati, perifera nervskador, '],
+             ['Nervous system', u'  araknoidit. '],
+             ['Cardiac', u'  Hj\xe4rtstillest\xe5nd, arytmier  '],
+             ['Respiratory', u'br\xf6stkorg -']]]],
+ '_pages': [3, 4],
+ u'_rank': 7,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'DFSU'}

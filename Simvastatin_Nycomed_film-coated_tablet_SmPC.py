@@ -7,6 +7,7 @@
              ['Hepato', u'hepatit/gulsot'],
              ['Skin', u'kl\xe5da, hudutslag, h\xe5ravfall'],
              ['Musculoskeletal',
+<<<<<<< HEAD
               u'myopati* (inklusive myosit, rabdomyolys med eller utan akut njursvikt (se avsnitt 4.4), myalgi, muskelkramper, myosit, polymyosit.'],
              ['General',
               u'asteni Ett kliniskt hypersensitivitetssyndrom har i enstaka fall rapporterats. N\xe5gra av f\xf6ljande symtom har ing\xe5tt: angio\xf6dem, lupusliknande syndrom, reumatisk polymyalgi, dermato myosit, vaskulit, trombocytopeni, eosinofili, SR-stegring, artrit, artralgi, urtikaria, ljusk\xe4nslighet, feber, rodnad, dyspn\xe9 och sjukdomsk\xe4nsla. Laboratoriev\xe4rden'],
@@ -17,6 +18,19 @@
             [['Psychiatric', u'depression'],
              ['Respiratory',
               u'interstitiell lungsjukdom, s\xe4rskild vid l\xe5ngtidsbehandling (se avsnitt 4.4).'],
+=======
+              u'myopati* (inklusive myosit, rabdomyolys med eller utan akut njursvikt (se avsnitt 4.4), myalgi, muskelkramper, myosit, polymyosit. *I en klinisk pr\xf6vning var myopati vanligt f\xf6rekommande hos patienter som fick simvastatin 80 mg/dag j\xe4mf\xf6rt med patienter som fick med 20 mg/dag (1 % respektive 0,02 %).'],
+             ['General',
+              u'asteni Ett kliniskt hypersensitivitetssyndrom har i enstaka fall rapporterats. N\xe5gra av f\xf6ljande symtom har ing\xe5tt: angio\xf6dem, lupusliknande syndrom, reumatisk polymyalgi, dermatomyosit, vaskulit, trombocytopeni, eosinofili, SR-stegring, artrit, artralgi, urtikaria, ljusk\xe4nslighet, feber, rodnad, dyspn\xe9 och sjukdomsk\xe4nsla. Laboratoriev\xe4rden'],
+             ['General',
+              u'f\xf6rh\xf6jda v\xe4rden f\xf6r serumtransaminaser (alaninaminotransferas, aspartatamino- transeras, \u03b3-glutamyl-transpeptidas) (se avsnitt 4.4 Leverp\xe5verkan), f\xf6rh\xf6jda alkaliska fosfataser, \xf6kning av serum CK-v\xe4rden (se avsnitt 4.4). F\xf6ljande ytterligare biverkningar har rapporterats med vissa statiner: \u2022s\xf6mnst\xf6rningar, inklusive mardr\xf6mmar \u2022minnesf\xf6rlust \u2022sexuell dysfunktion \u2022diabetes mellitus: frekvensen beror p\xe5 f\xf6rekomst eller avsaknad av riskfaktorer (fasteblodglukos >5,6 mmol/l, BMI >30 kg/m , f\xf6rh\xf6jda triglyceridniv\xe5er, anamnes med hypertoni).']]],
+           ['Very rare',
+            [['Psychiatric', u's\xf6mnl\xf6shet : depression'], ['Hepato', u'leversvikt']]],
+           ['Unknown',
+            [['Respiratory',
+              u'interstitiell lungsjukdom, s\xe4rskild vid l\xe5ngtidsbehandling (se avsnitt 4.4).'],
+             ['Musculoskeletal', u'tendinopati, ibland komplicerad med ruptur'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Reproductive system', u'erektil dysfunktion']]]],
  '_pages': [11, 12],
  u'_rank': 13,

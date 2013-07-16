@@ -27,7 +27,11 @@
            ['Very rare',
             [['Eye', u'Konjunktivit.'],
              ['Skin',
+<<<<<<< HEAD
               u'\u03b2-blockerare kan provocera eller f\xf6rv\xe4rra psoriasis eller inducera psoriasis-liknande utslag, alopecia.']]]],
+=======
+              u'\u03b2-blockerare kan provocera eller f\xf6rv\xe4rra psoriasis eller inducera psoriasis- liknande utslag, alopecia.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [5, 6],
  u'_rank': 20,
  u'_type': u'LSFU'}

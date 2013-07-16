@@ -22,7 +22,11 @@
            ['Rare',
             [['Metabolism', u'Hyponatremi'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Svaghet i de nedre nedre extremiteterna, paralytisk ileus (se \xe4ven under'],
+=======
+              u'Svaghet i de nedre nedre extremiteterna, paralytisk ileus (se \xe4ven under \u201dMagtarmkanalen\u201d)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac',
               u'Ischemisk hj\xe4rtsjukdom s\xe5som angina pectoris, EKG-f\xf6r\xe4ndringar, hj\xe4rtinfarkt'],
              ['Respiratory', u'Interstitiell lungsjukdom'],

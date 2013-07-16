@@ -35,11 +35,19 @@
             [['Blood',
               u'Hematopoetiska rubbningar (hemolytisk anemi, aplastisk anemi, neutropeni, trombocytopeni, agranulocytos). F\xf6rsta tecknen \xe4r: Feber, halsont, ytliga muns\xe5r, influensaliknande symtom, sv\xe5r utmattning, of\xf6rklarlig bl\xf6dning och bl\xe5m\xe4rken.'],
              ['Skin',
+<<<<<<< HEAD
               u'Sv\xe5ra former av hudreaktioner som bull\xf6sa reaktioner, inklusive Stevens-Johnsons syndrom och Lyells syndrom.'],
              ['Immune system', u'Anafylaktisk chock.'],
              ['Hepato', u'Hepatit och kolestatisk gulsot.'],
              ['Cardiac',
               u'\xd6dem, hypertoni och hj\xe4rtsvikt har rapporterats i samband med NSAID-behandling. Data fr\xe5n kliniska pr\xf6vningar och epidemiologiska data tyder p\xe5 att anv\xe4ndning av vissa NSAID-preparat (s\xe4rskilt i h\xf6ga doser) och vid l\xe5ngvarig behandling kan vara f\xf6renad med en liten \xf6kad risk f\xf6r arteriella trombotiska h\xe4ndelser (t.ex. myokardinfarkt eller stroke) (se avsnitt 4.4).'],
+=======
+              u'Sv\xe5ra former av hudreaktioner som bull\xf6sa reaktioner, inklusive Stevens- Johnsons syndrom och Lyells syndrom.'],
+             ['Immune system', u'Anafylaktisk chock.'],
+             ['Hepato', u'Hepatit och kolestatisk gulsot.'],
+             ['Cardiac',
+              u'\xd6dem, hypertoni och hj\xe4rtsvikt har rapporterats i samband med NSAID- behandling. Data fr\xe5n kliniska pr\xf6vningar och epidemiologiska data tyder p\xe5 att anv\xe4ndning av vissa NSAID-preparat (s\xe4rskilt i h\xf6ga doser) och vid l\xe5ngvarig behandling kan vara f\xf6renad med en liten \xf6kad risk f\xf6r arteriella trombotiska h\xe4ndelser (t.ex. myokardinfarkt eller stroke) (se avsnitt 4.4).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood',
               u'Trombocytopeni, neutropeni, agranulocytos, aplastisk anemi och hemolytisk anemi.'],
              ['Skin',
@@ -56,7 +64,11 @@
              ['Renal',
               u'Akut njursvikt, papill\xe4r nekros, s\xe4rskilt vid l\xe5ngvarig anv\xe4ndning, associerad med f\xf6rh\xf6jt serumurea och \xf6dem.'],
              ['Skin',
+<<<<<<< HEAD
               u'Allvarliga former av hudreaktioner som bull\xf6sa reaktioner, inklusive Stevens-Johnsons syndrom, erythema multiforme och toxisk epidermal nekrolys, kan f\xf6rekomma.'],
+=======
+              u'Allvarliga former av hudreaktioner som bull\xf6sa reaktioner, inklusive Stevens- Johnsons syndrom, erythema multiforme och toxisk epidermal nekrolys, kan f\xf6rekomma.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system',
               u'Allvarliga \xf6verk\xe4nslighetsreaktioner. Symtomen kan vara svullnad i ansikte, tunga och svalg, dyspn\xe9, takykardi, hypotension (anafylaxi, angio\xf6dem eller sv\xe5r chock). Hos patienter med befintliga autoimmuna sjukdomar (som systemisk lupus erythematosus, olika typer av bindv\xe4vssjukdom) har enstaka fall av symtom p\xe5 aseptisk meningit, som nackstelhet, huvudv\xe4rk, illam\xe5ende, kr\xe4kning, feber eller desorientering, observerats under behandling med ibuprofen (se avsnitt 4.4).'],
              ['Hepato', u'Leverrubbningar.']]],

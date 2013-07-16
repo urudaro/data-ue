@@ -3,7 +3,11 @@
               u'Akatisi, yrsel, dystoni, huvudv\xe4rk, sedation, somnolens, extrapyramidala st\xf6rningar*'],
              ['Vascular', u'Hypertension, hypotension'],
              ['GI', u'Illam\xe5ende, kr\xe4kningar'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Muskelstelhet Systemorganklass Biverkningar Frekvens'],
+=======
+             ['Musculoskeletal', u'Muskelstelhet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General',
               u'Asteni, tr\xf6tthet, br\xe4nnande k\xe4nsla vid injektionsst\xe4llet, sm\xe4rta vid injektionsst\xe4llet'],
              ['Psychiatric', u'Rastl\xf6shet'],
@@ -13,7 +17,11 @@
              ['GI',
               u'Illam\xe5ende, kr\xe4kningar, f\xf6rstoppning, dyspepsi, muntorrhet, hypersalivering'],
              ['Musculoskeletal', u'Muskuloskeletal stelhet'],
+<<<<<<< HEAD
              ['General', u'Asteni, tr\xf6tthet Organsystem Biverkningar Frekvens']]],
+=======
+             ['General', u'Asteni, tr\xf6tthet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Metabolism', u'Anorexi'],
              ['Psychiatric',
@@ -34,8 +42,13 @@
              ['Nervous system',
               u'Generaliserad tonisk-klonisk kramp, tardiv dyskinesi, dyskinesi, \xf6kat salivfl\xf6de, ataxi, dysartri, okulogyr kris, koncentrationsst\xf6rning, hypersomni, hypoestesi, parestesi, letargi'],
              ['Cardiac', u'Palpitationer, takykardi'],
+<<<<<<< HEAD
              ['Eye', u'Fotofobi'],
              ['Ear', u'Vertigo, tinnitus Organsystem Biverkningar Frekvens'],
+=======
+             ['Eye', u'Fotofobi Organsystem Biverkningar Frekvens'],
+             ['Ear', u'Vertigo, tinnitus'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular',
               u'Hypertensiv kris, hypertension, ortostatisk hypotension, hypotension'],
              ['Respiratory', u'Dyspne, halsont'],
@@ -76,6 +89,10 @@
               u'Malignt neuroleptikasyndrom, serotoninsyndrom (se avsnitt 4.5), ansiktsf\xf6rlamning Hj\xe4rta'],
              ['Vascular', u'Synkope, ven\xf6s tromboembolism'],
              ['Skin', u'Hypersensitivitet, angio\xf6dem'],
+<<<<<<< HEAD
+=======
+             ['Musculoskeletal', u'Biverkningar Frekvens'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Enures Rubbningar i immunsystemet'],
              ['Pregnancy', u'Abstinensbesv\xe4r hos nyf\xf6dda (se avsnitt 4.6)'],
              ['Psychiatric', u'Insomnia, mani/hypomani'],
@@ -87,5 +104,9 @@
              ['Renal', u'Enures'],
              ['Reproductive system', u'Priapism Rubbningar i immunsystemet']]]],
  '_pages': [5, 10],
+<<<<<<< HEAD
  u'_rank': 65,
+=======
+ u'_rank': 66,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -16,8 +16,13 @@
              ['General', u'tromboflebit']]],
            ['Rare', [['Nervous system', u'kramper (se avsnitt 4.4)']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Blood', u'agranulocytos, hemolytisk  anemi'],
              ['Immune system', u'angio\xf6dem, anafylaxi (se avsnitt  4.3 och 4.4)'],
+=======
+            [['Blood', u'agranulocytos, hemolytisk anemi'],
+             ['Immune system', u'angio\xf6dem, anafylaxi (se avsnitt  .3 och 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'antibiotika-relaterad kolit (se  avsnitt 4.4)'],
              ['Skin',
               u'toxisk epidermal nekrolys,  Stevens Johnsons syndrom, erytema multiforme'],

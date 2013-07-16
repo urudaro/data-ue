@@ -25,9 +25,15 @@
               u'Encefalopati, parestesi,  fokal tremor, smakf\xf6r\xe4ndringar'],
              ['Ear', u'h\xf6rselneds\xe4ttning'],
              ['GI', u'Missf\xe4rgning av t\xe4nder  och/eller tunga'],
+<<<<<<< HEAD
              ['GI', u'Leversvikt, hepatit'],
              ['Skin',
               u'Toxisk epidermal nekrolys,  angio\xf6dem, Steven-Johnsons syndrom, erythema multiformae, exfoliativ dermatit'],
+=======
+             ['Hepato', u'Leversvikt, hepatit'],
+             ['Skin',
+              u'Toxisk epidermal nekrolys,  angio\xf6dem, Steven- Johnsons syndrom, erythema multiformae, exfoliativ dermatit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal',
               u'Akut njursvikt,  oliguri/anuri, polyuri, missf\xe4rgning av urin (ofarligt och ska inte f\xf6rv\xe4xlas med hematuri). Imipenems/Cilastatins roll vid p\xe5verkan av njurfunktionen \xe4r dv\xe5r att bed\xf6ma, eftersom faktiorer som predisponerar f\xf6r prerenal azotemi eller nedsatt njurfunktion ofta f\xf6rekommit.']]],
            ['Very rare',
@@ -39,7 +45,11 @@
              ['Respiratory', u'Dyspn\xe9,  hyperventilation,faryngeal  sm\xe4rta'],
              ['GI',
               u'Hemorragisk kolit,  buksm\xe4rta, halsbr\xe4nna, glossit, tungpapillhypertrofi, \xf6kad salivuts\xf6ndring'],
+<<<<<<< HEAD
              ['GI', u'Fulminant hepatit'],
+=======
+             ['Hepato', u'Fulminant hepatit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Hyperhidros, f\xf6r\xe4ndringar  i hudens struktur'],
              ['Musculoskeletal', u'Polyartralgi, thorakal  ryggradssm\xe4rta'],
              ['Reproductive system', u'Pruritus vulvae'],

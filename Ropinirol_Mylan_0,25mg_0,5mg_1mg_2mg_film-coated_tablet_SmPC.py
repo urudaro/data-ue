@@ -27,6 +27,10 @@
              ['Vascular',
               u'hypotension, postural hypotension. Hypotension eller postural hypotension som i s\xe4llsynta fall \xe4r allvarlig.']]],
            ['Unknown', [['Hepato', u'leverp\xe5verkan, f\xf6rh\xf6jda leverenzymv\xe4rden.']]]],
+<<<<<<< HEAD
  '_pages': [5, 6],
+=======
+ '_pages': [4, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 22,
  u'_type': u'LSFU'}

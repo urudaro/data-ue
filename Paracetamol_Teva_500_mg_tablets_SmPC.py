@@ -16,6 +16,7 @@
             [['Blood',
               u'f\xf6r\xe4ndringar i blodbilden s\xe5som trombocytopeni, leukopeni, neutropeni, agranulocytos (efter l\xe5ngvarig administrering), hemolytisk anemi.'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xf6verk\xe4nslighetsreaktioner (som kr\xe4ver uts\xe4ttande av behandling)'],
              ['Metabolism', u'hypoglykemi'],
              ['Hepato',
@@ -28,4 +29,14 @@
               u'interstitiell nefrit efter l\xe5ngvarig anv\xe4ndning av h\xf6ga doser']]]],
  '_pages': [4, 5],
  u'_rank': 17,
+=======
+              u'\xf6verk\xe4nslighetsreaktioner (som kr\xe4ver uts\xe4ttande av behandling) : fall av Quinckes \xf6dem, epidermal nekrolys, Stevens Johnsons syndrom, erythema multiforme och anafylaktisk chock.'],
+             ['Metabolism', u'hypoglykemi'],
+             ['Hepato',
+              u'levertoxicitet Redan administrering av 7,5 gram paracetamol kan leda till leverskada (hos barn: mer \xe4n 140 mg/kg), h\xf6gre doser orsakar irreversibel levernekros.'],
+             ['Renal',
+              u'steril pyuri (grumlig urin) och njurbiverkningar : interstitiell nefrit efter l\xe5ngvarig anv\xe4ndning av h\xf6ga doser']]]],
+ '_pages': [4, 5],
+ u'_rank': 15,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

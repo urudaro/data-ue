@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 {'_data': [['Uncommon',
             [['Vascular', u'  Palpitationer, takykardi  '],
              ['Musculoskeletal', u'  Skelettmuskeltremor  '],
              ['General',
+=======
+{'_data': [['Common',
+            [['Vascular', u'  Palpitationer, takykardi  '],
+             ['Musculoskeletal', u'  Skelettmuskeltremor  ']]],
+           ['Uncommon',
+            [['General',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'  Huvudv\xe4rk  -\xd6verk\xe4nslighetsreaktioner (t.ex. kl\xe5da och utslag)  ']]],
            ['Rare',
             [['Respiratory', u'  Bronkospasm  -Mun- och halsirritation  '],

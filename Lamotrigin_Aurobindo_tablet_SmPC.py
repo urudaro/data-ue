@@ -11,8 +11,12 @@
              ['Nervous system', u'agitation, s\xf6mnighet, yrsel.'],
              ['GI', u'torr mun'],
              ['Musculoskeletal', u'artralgi.'],
+<<<<<<< HEAD
              ['General',
               u'v\xe4rk, ryggv\xe4rk. Det har kommit rapporter om s\xe4nkning av benmineraldensitet, osteopeni, osteoporos och frakturer hos patienter som st\xe5r p\xe5 l\xe5ngtidsbehandling med Lamotrigin Aurobindo. Mekanismen, genom vilken Lamotrigin Aurobindo p\xe5verkar benmetabolismen, har inte identifierats.']]],
+=======
+             ['General', u'v\xe4rk, ryggv\xe4rk.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon', [['Nervous system', u'ataxi.'], ['Eye', u'dubbelseende, dimsyn.']]],
            ['Rare',
             [['Nervous system', u'nystagmus.'],

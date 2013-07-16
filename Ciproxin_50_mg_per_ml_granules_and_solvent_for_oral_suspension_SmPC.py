@@ -2,7 +2,10 @@
            ['Uncommon',
             [['Infections', u'Mykotiska superinfketioner'],
              ['Blood', u'Eosinofili'],
+<<<<<<< HEAD
              ['Metabolism', u'Anorexi'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Psykomotorisk hyperaktivitet /agitation'],
              ['Nervous system',
               u'Huvudv\xe4rk Yrsel S\xf6mnst\xf6rningar Smakf\xf6r\xe4ndringar'],
@@ -13,6 +16,7 @@
               u'Muskuloskeletal sm\xe4rta (t ex sm\xe4rta i extremiterna, ryggsm\xe4rta, br\xf6stsm\xe4rta) Artralgi'],
              ['Renal', u'Nedsatt njurfunktion'],
              ['General', u'Asteni Feber'],
+<<<<<<< HEAD
              ['Investigations', u'F\xf6rh\xf6jning av alkaliska fosfatv\xe4rdet']]],
            ['Rare',
             [['Infections',
@@ -22,6 +26,16 @@
              ['Metabolism', u'Hyperglykemi'],
              ['Psychiatric',
               u'F\xf6rvirring och desorientering Oro Onormala dr\xf6mmar Depression (som potentiellt kan kulminera i sj\xe4lvmords-beteen de/tankar eller sj\xe4lvmordsf\xf6rs\xf6k och fullbordat sj\xe4lvmord) (se avsnitt 4.4) Hallucinationer'],
+=======
+             ['Investigations', u'F\xf6rh\xf6jning av alkaliska']]],
+           ['Rare',
+            [['Infections',
+              u'Antibiotika associerad kolit (i mycket s\xe4llsynta fall m\xf6jligen med d\xf6dlig utg\xe5ng)'],
+             ['Blood', u'Leukopeni Anemi Neutropeni Leukocytos Trombocytopenia Trombocytemi'],
+             ['Immune system', u'Allergisk reaktion Allergiskt \xf6dem / angio\xf6dem'],
+             ['Psychiatric',
+              u'F\xf6rvirring och desorientering Oro Onormala dr\xf6mmar Depression (som potentiellt kan kulminera i sj\xe4lvmords-beteende/tankar eller sj\xe4lvmordsf\xf6rs\xf6k och fullbordat sj\xe4lvmord) (se avsnitt 4.4) Hallucinationer'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Par-och dysestesi Hypoestesi Tremor Kramper (inklusive status epilepticus,se avsnitt 4.4) Yrsel'],
              ['Eye', u'Synrubbning (t ex dubbelseende)'],
@@ -42,9 +56,15 @@
              ['Immune system',
               u'Anafylaktisk reaktion Anafylaktisk chock (livshotande) (se avsnitt 4.4) Reaktion liknande serumsjuka'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Psykotiska reaktioner (som potentiellt kan kulminera i sj\xe4lvmords-betee nde/tankar eller sj\xe4lvmordsf\xf6rs\xf6k och fullbordat sj\xe4lvmord), (se avsnitt 4.4)'],
              ['Nervous system',
               u'Migr\xe4n F\xf6rs\xe4mrad koordinations-f\xf6r m\xe5ga G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension'],
+=======
+              u'Psykotiska reaktioner (som potentiellt kan kulminera i sj\xe4lvmords-beteende/tankar eller sj\xe4lvmordsf\xf6rs\xf6k och fullbordat sj\xe4lvmord), (se avsnitt 4.4)'],
+             ['Nervous system',
+              u'Migr\xe4n F\xf6rs\xe4mrad koordinations-f\xf6rm\xe5ga G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'F\xf6rvr\xe4ngt f\xe4rgseende'],
              ['Vascular', u'Vaskulit'],
              ['GI', u'Pankreatit'],
@@ -55,6 +75,7 @@
              ['Musculoskeletal',
               u'Muskelsvaghet Tendinit Senruptur (fr\xe4mst h\xe4lsenan) (se avsnitt 4.4) Exacerbation av symtomen av myasthenia gravis (se avsnitt 4.4)']]],
            ['Unknown',
+<<<<<<< HEAD
             [['Metabolism', u'(kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data)'],
              ['Nervous system', u'Perifer neuropati (se avsnitt 4.4)'],
              ['Cardiac',
@@ -65,4 +86,14 @@
  '_note': u' ?MSFU',
  '_pages': [14, 17],
  u'_rank': 46,
+=======
+            [['Nervous system', u'Perifer neuropati (se avsnitt 4.4)'],
+             ['Cardiac',
+              u'Ventrikul\xe4r arytmi och torsades-de-Pointes (har rapporterats \xf6verv\xe4gande f\xf6r patienter med riskfaktorer f\xf6r QT-f\xf6rl\xe4ngning), EKG QT-f\xf6rl\xe4ngning (se avsnitt 4.4 och 4.9)'],
+             ['Skin', u'Akut generaliserad exantemat\xf6s pustulos (AGEP)'],
+             ['Investigations', u'F\xf6rh\xf6jt INR-v\xe4rde (hos']]]],
+ '_note': u' ?MSFU',
+ '_pages': [14, 17],
+ u'_rank': 42,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

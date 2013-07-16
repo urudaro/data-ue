@@ -13,7 +13,11 @@
              ['Ear', u'Onormal h\xf6rsel'],
              ['Cardiac', u'Palpitationer*, takykardi eller bradykardi, extrasystole.'],
              ['Respiratory', u'Andn\xf6d, hosta, n\xe4st\xe4ppa, br\xf6stsm\xe4rta.'],
+<<<<<<< HEAD
              ['General', u'Frossa']]],
+=======
+             ['General', u'Frossa *: efter snabb injektion; kr\xe4ver ingen behandling']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Psychiatric',
               u'Abstinenssymtom (t.ex. agitation, \xe5ngest, emotionell labilitet, f\xf6rvirring, sensoriska st\xf6rningar) efter snabb injektion av doser p\xe5 1 mg eller mer hos patienter som behandlats med bensodiazepiner i h\xf6ga doser och/eller under l\xe5ng tid och som satts ut vid n\xe5gon tidpunkt under veckorna f\xf6re flumazeniladministrering (se avsnitt 4.4); panikattacker (hos patienter som tidigare drabbats av panikst\xf6rningar); abnormt gr\xe5tande, agitation och aggressiva reaktioner'],

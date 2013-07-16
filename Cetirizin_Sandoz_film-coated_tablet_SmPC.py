@@ -21,7 +21,12 @@
             [['Blood', u'Trombocytopeni'],
              ['Immune system', u'Anafylaktisk chock'],
              ['Psychiatric', u'Tics'],
+<<<<<<< HEAD
              ['Nervous system', u'Dysgeusi, synkope, tremor, dystoni, dyskinesi'],
+=======
+             ['Nervous system',
+              u'Dysgeusi, synkope, tremor, dystoni, dyskinesi : amnesi, nedsatt minnesf\xf6rm\xe5ga'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Ackommodationsst\xf6rningar, dimsyn, okulogyr kris'],
              ['Skin', u'Angioneurotiskt \xf6dem, fixt l\xe4kemedelsutslag'],
              ['Renal', u'Dysuri, enures']]],
@@ -36,8 +41,14 @@
              ['GI', u'Diarr\xe9 1,0 % 0,6 %'],
              ['Psychiatric', u'S\xf6mnighet 1,8 % 1,4 %'],
              ['Respiratory',
+<<<<<<< HEAD
               u'Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet 1,0 % 0,3 % Tr\xf6tthet Erfarenhet efter att l\xe4kemedlet kommit ut p\xe5 marknaden Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har enstaka fall av f\xf6ljande biverkningar rapporterats efter att l\xe4kemedlet kommit ut p\xe5 marknaden. Biverkningar \xe4r listade enligt MedDRA organklassystem och efter estimerad frekvens baserat p\xe5 erfarenhet sedan preparatet godk\xe4nts f\xf6r f\xf6rs\xe4ljning. Frekvensen definieras enligt f\xf6ljande: Mycket vanliga (\u22651/10); vanliga (\u22651/100, <1/10); mindre'],
              ['Nervous system', u'amnesi, nedsatt minnesf\xf6rm\xe5ga']]]],
  '_pages': [3, 5],
  u'_rank': 30,
+=======
+              u'Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet 1,0 % 0,3 % Tr\xf6tthet Erfarenhet efter att l\xe4kemedlet kommit ut p\xe5 marknaden Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har enstaka fall av f\xf6ljande biverkningar rapporterats efter att l\xe4kemedlet kommit ut p\xe5 marknaden. Biverkningar \xe4r listade enligt MedDRA organklassystem och efter estimerad frekvens baserat p\xe5 erfarenhet sedan preparatet godk\xe4nts f\xf6r f\xf6rs\xe4ljning. Frekvensen definieras enligt f\xf6ljande: Mycket vanliga (\u22651/10); vanliga (\u22651/100, <1/10); mindre']]]],
+ '_pages': [3, 5],
+ u'_rank': 29,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

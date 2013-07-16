@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['GI', u'Illam\xe5ende, kr\xe4kningar, diarr\xe9.']]],
            ['Uncommon', [['Skin', u'Exantem, urtikaria, fotosensibilitet.']]],
            ['Rare',
@@ -8,6 +9,18 @@
               u'Onykolys, erytema multiforme, mukokutant syndrom. (>1/10000, <1/1000) Allm\xe4nna symtom och/eller'],
              ['Skin',
               u'Anafylaktisk chock, anafylaktisk reaktion Vid behandling med tetracykliner under den tid t\xe4nderna mineraliseras kan emaljhypoplasi och missf\xe4rgning av t\xe4nderna uppkomma. Barn under 8 \xe5r b\xf6r d\xe4rf\xf6r ej behandlas med tetracykliner, ej heller kvinnor under senare h\xe4lften av graviditeten. Svamp\xf6verv\xe4xt till f\xf6ljd av st\xf6rning av den normala mikrofloran f\xf6rekommer liksom f\xf6r \xf6vriga bredspektrumantibiotika. Detta kan ge t ex glossit och vaginit.']]]],
+=======
+{'_data': [['Common', [['GI', u'Illam\xe5ende, kr\xe4kningar, diarr\xe9. (\u22651/100, <1/10)']]],
+           ['Uncommon', [['Skin', u'Exantem, urtikaria, fotosensibilitet. (>1/1000, < 1/100)']]],
+           ['Rare',
+            [['Blood', u'Trombocytopeni. (>1/10000, <1/1000)'],
+             ['Nervous system', u'\xd6kat intrakraniellt tryck. (>1/10000, <1/1000)'],
+             ['GI', u'Pseudomembran\xf6s colit. (>1/10000,<1/1000)'],
+             ['Skin',
+              u'Onykolys, erytema multiforme, mukokutant syndrom. (>1/10000, <1/1000) Allm\xe4nna symtom och/eller'],
+             ['Skin',
+              u'Anafylaktisk chock, anafylaktisk reaktion (>1/10000, <1/1000) Vid behandling med tetracykliner under den tid t\xe4nderna mineraliseras kan emaljhypoplasi och missf\xe4rgning av t\xe4nderna uppkomma. Barn under 8 \xe5r b\xf6r d\xe4rf\xf6r ej behandlas med tetracykliner, ej heller kvinnor under senare h\xe4lften av graviditeten. Svamp\xf6verv\xe4xt till f\xf6ljd av st\xf6rning av den normala mikrofloran f\xf6rekommer liksom f\xf6r \xf6vriga bredspektrumantibiotika. Detta kan ge t ex glossit och vaginit.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [3, 4],
  u'_rank': 7,
  u'_type': u'LSFU'}

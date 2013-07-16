@@ -1,4 +1,5 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Blood', u'Lymfopeni, neutropeni, trombocytopeni'],
              ['Infections',
               u'Infektion Benigna och maligna neoplasier och ospecificerad (inkl. cystor och polyper)'],
@@ -6,6 +7,16 @@
            ['Common',
             [['Respiratory', u'Dyspn\xe9'],
              ['GI', u'Diarr\xe9, dysfagi, illam\xe5ende, kr\xe4kning'],
+=======
+            [['Blood', u'*: Lymfopeni, neutropeni, trombocytopeni'],
+             ['Infections',
+              u'Infektion Benigna och maligna neoplasier och ospecificerad (inkl. cystor och polyper)'],
+             ['General', u'Feber'],
+             ['Immune system',
+              u'>1/10) **Vanlig: (>1/100, <1/10) Andra biverkningar som rapporterats efter registrering: Infusionsrelaterade reaktioner och immunsystemsjukdomar IAR kan uppkomma i samband med administrering av Thymoglobuline och kan uppkomma s\xe5 tidigt som vid den f\xf6rsta eller andra infusionen under en enstaka kur med Thymoglobuline. Kliniska manifestationer av IAR har innefattat n\xe5gra av f\xf6ljande tecken och symtom: feber, frossa/rigor, dyspn\xe9, illam\xe5ende/kr\xe4kning, diarr\xe9, hypotoni eller hypertoni, sjukdomsk\xe4nsla, hudutslag, n\xe4sselutslag och/eller huvudv\xe4rk. IAR i samband med Thymoglobuline \xe4r vanligtvis lindrig och \xf6verg\xe5ende och hanteras med reduktion av infusionshastigheter och/eller med l\xe4kemedel (se avsnitt 4.4). \xd6verg\xe5ende reversibla transaminas\xf6kningar utan kliniska tecken eller symtom har ocks\xe5 rapporterats under behandling med Thymoglobuline. Allvarliga, och i mycket']]],
+           ['Common',
+            [['GI', u'Diarr\xe9, dysfagi, illam\xe5ende, kr\xe4kning'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Kl\xe5da, hudutslag'],
              ['Musculoskeletal', u'Myalgi'],
              ['Infections', u'Malignitet'],
@@ -13,6 +24,7 @@
              ['General', u'Darrningar'],
              ['Immune system', u'Serumsjuka']]],
            ['Rare',
+<<<<<<< HEAD
             [['Local',
               u'I s\xe4llsynta fall har maligniteter, inklusive men ej begr\xe4nsat till lymfoproliferativa tillst\xe5nd och andra lymfom (som kan orsakas av virus) s\xe5v\xe4l som solida tum\xf6rer rapporterats. Dessa tillst\xe5nd har ibland associerats med d\xf6dlig utg\xe5ng (se avsnitt 4.4). Dessa biverkningar s\xe5gs alltid i samband med att flera immunsuppressiva medel kombinerats. F\xf6r s\xe4kerhet avseende infekti\xf6sa agens, se avsnitt 4.4.']]],
            ['Unknown',
@@ -21,4 +33,16 @@
               u'rapporterats. Biverkningar p\xe5 grund av immunsuppression Infektioner, reaktivering av infektion, febril neuropeni och sepsis har rapporterats efter administration av Thymoglobuline i kombination med flera andra immunsuppressiva medel. I']]]],
  '_pages': [5, 6],
  u'_rank': 14,
+=======
+            [['Immune system',
+              u'fall, d\xf6dliga anafylaktiska reaktioner har rapporterats (se avsnitt 4.4). D\xf6dsfallen intr\xe4ffade hos patienter som inte fick adrenalin under h\xe4ndelsen. IAR f\xf6renliga med CRS har rapporterats (se avsnitt 4.4). Allvarligt och potentiellt livshotande CRS har rapporterats i s\xe4llsynta fall. Efter godk\xe4nnandet har rapporterats om allvarligt CRS med samtidig kardiorespiratorisk dysfunktion (inklusive hypotoni, chocklunga [acute respiratory distress syndrome, ARDS], lung\xf6dem, hj\xe4rtinfarkt, takykardi och/eller d\xf6dsfall). Serumjuka Efter godk\xe4nnandet har reaktioner s\xe5som feber, hudutslag, n\xe4sselutslag, artralgi och/eller myalgi rapporterats, vilka tyder p\xe5 m\xf6jlig serumsjuka. Serumsjuka tenderar att uppkomma 5 till 15 dagar efter det att Thymoglobuline-terapin inletts. Symtomen \xe4r vanligtvis sj\xe4lvbegr\xe4nsande eller g\xe5r snabbt \xf6ver med kortikosteroidbehandling.'],
+             ['Local',
+              u'I s\xe4llsynta fall har maligniteter, inklusive men ej begr\xe4nsat till lymfoproliferativa tillst\xe5nd och andra lymfom (som kan orsakas av virus) s\xe5v\xe4l som solida tum\xf6rer rapporterats. Dessa tillst\xe5nd har ibland associerats med d\xf6dlig utg\xe5ng (se avsnitt 4.4). Dessa biverkningar s\xe5gs alltid i samband med att flera immunsuppressiva medel kombinerats. F\xf6r s\xe4kerhet avseende infekti\xf6sa agens, se avsnitt 4.4.']]],
+           ['Unknown',
+            [['Respiratory', u'Dyspn\xe9'],
+             ['Local',
+              u'rapporterats. Biverkningar p\xe5 grund av immunsuppression Infektioner, reaktivering av infektion, febril neuropeni och sepsis har rapporterats efter administration av Thymoglobuline i kombination med flera andra immunsuppressiva medel. I']]]],
+ '_pages': [5, 6],
+ u'_rank': 15,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

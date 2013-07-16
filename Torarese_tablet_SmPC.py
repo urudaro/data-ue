@@ -20,6 +20,10 @@
               u'Minskning av antalet r\xf6da och vita blodkroppar och/eller blodpl\xe4ttar.'],
              ['General',
               u'Dysopia, tinnitus, f\xf6rlorad h\xf6rsel Observera L\xe5ngtidsbehandling med torasemid kr\xe4ver regelbundna kontroller av elektrolytbalansen, s\xe4rskilt serumnatrium. Glukos, urinsyra, kreatinin och lipider i blodet ska ocks\xe5 kontrolleras med regelbundna intervaller. Eftersom en \xf6kning av blodglukos kan f\xf6rekomma rekommenderas en noggrann kontroll av kolhydratbalansen hos patienter med latent eller manifest diabetes mellitus. Blodv\xe4rdet (erytrocyter, leukocyter, trombocyter) ska kontrolleras med regelbundna intervall. Var uppm\xe4rksam p\xe5 tecken p\xe5 elektrolyt f\xf6rluster och hemokoncentration, s\xe4rskilt i b\xf6rjan av behandlingen och hos \xe4ldre patienter.']]]],
+<<<<<<< HEAD
  '_pages': [4, 5],
+=======
+ '_pages': [4, 6],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 11,
  u'_type': u'LSFU'}

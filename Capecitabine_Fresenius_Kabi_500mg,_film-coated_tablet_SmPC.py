@@ -1,11 +1,19 @@
 {'_data': [['Very common',
             [['Metabolism', u'Anorexi'],
+<<<<<<< HEAD
              ['Respiratory', u'Alla grader'],
              ['GI', u'Diarr\xe9, Kr\xe4kningar, Illam\xe5ende, Stomatit, Buksm\xe4rta'],
              ['Skin', u'Palmar plantar erytrodysestesi'],
              ['General', u'Tr\xf6tthet, Asteni Feber, Letargi, Perifera \xf6dem,'],
              ['Blood', u'Neutropeni, Leukopeni, Anemi, Trombocytopeni'],
              ['Metabolism', u'Minskad aptit '],
+=======
+             ['GI',
+              u'Diarr\xe9, Kr\xe4kningar, Illam\xe5ende, Stomatit, Buksm\xe4rta Alla grader'],
+             ['Skin', u'Palmar plantar erytrodysestesi'],
+             ['General', u'Tr\xf6tthet, Asteni Feber, Letargi, Perifera \xf6dem,'],
+             ['Blood', u'Neutropeni, Leukopeni, Anemi, Trombocytopeni'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Smakrubbning, Parestesi och dysestesi, Perifer neuropati, Perifer k\xe4nselneuropati, Dysgeusi, Huvudv\xe4rk'],
              ['Eye', u'\xd6kad m\xe4ngd t\xe5rv\xe4tska'],
@@ -25,9 +33,15 @@
              ['Nervous system', u'Huvudv\xe4rk, Letargi, Yrsel, Paraestesi, Dysgeusi'],
              ['Eye', u'\xd6kat t\xe5rfl\xf6de, Konjunktivit, \xd6gonirritation'],
              ['Vascular', u'Tromboflebit'],
+<<<<<<< HEAD
              ['Respiratory', u'Dyspn\xe9, Epistaxis, Hosta, Rinorr\xe9 Alla grader'],
              ['GI',
               u'Gastrointestinal bl\xf6dning, F\xf6rstoppning, Sm\xe4rta i \xf6vre delen av buken, Dyspepsi, Flatulens, Muntorrhet'],
+=======
+             ['Respiratory', u'Dyspn\xe9, Epistaxis, Hosta, Rinorr\xe9'],
+             ['GI',
+              u'Gastrointestinal bl\xf6dning, F\xf6rstoppning, Sm\xe4rta i \xf6vre delen av buken, Dyspepsi, Flatulens, Muntorrhet Alla grader'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Hyperbilirubinemi, Avvikande leverfunktionsv\xe4rden'],
              ['Skin',
               u'Hudutslag, Alopeci, Erytem, Torr hud, Kl\xe5da, Hyperpigmentering, Makul\xf6sa utslag, Hudfj\xe4llning, Dermatit, Rubbning i pigmenteringen, Nagelf\xf6r\xe4ndringar'],
@@ -37,8 +51,11 @@
               u'Herpes zoster, Urinv\xe4gsinfektion, Oral candidiasis, \xd6vre luftv\xe4gsinfektion, Rinit,'],
              ['Blood', u'Benm\xe4rgsdepression, Febril neutropeni Neutropen feber,'],
              ['Immune system', u'\xd6verk\xe4nslighet'],
+<<<<<<< HEAD
              ['Metabolism',
               u'Hypokalemi, Hyponatremi, Hypomagnesemi, Hypokalcemi, Hyperglykemi'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'S\xf6mnrubbning, \xc5ngest'],
              ['Nervous system',
               u'Neurotoxicitet, Tremor, Neuralgi, \xd6verk\xe4nslighetsreaktioner, Hypestesi'],
@@ -78,9 +95,15 @@
              ['Vascular',
               u'Djup ventrombos, Hypertoni, Petekier, Hypotoni, Blodvallning, Perifer k\xf6ldk\xe4nsla'],
              ['Respiratory',
+<<<<<<< HEAD
               u'Lungemboli, Pneumotorax, Hemoptys, Astma, Anstr\xe4ngningsutl\xf6st dyspn\xe9 Allvarlig och/eller livshotande (grad 3-4) eller bed\xf6md som medicinskt relevant'],
              ['GI',
               u'Tarmobstruktion, Ascites, Enterit, Gastrit, Dysfagi, Sm\xe4rta i nedre delen av buken, Esofagit, Bukbesv\xe4r, Gastro-esofageal reflux-sjukdom, Kolit, Blod i avf\xf6ringen'],
+=======
+              u'Lungemboli, Pneumotorax, Hemoptys, Astma, Anstr\xe4ngningsutl\xf6st dyspn\xe9'],
+             ['GI',
+              u'Tarmobstruktion, Ascites, Enterit, Gastrit, Dysfagi, Sm\xe4rta i nedre delen av buken, Esofagit, Bukbesv\xe4r, Gastro-esofageal reflux-sjukdom, Kolit, Blod i avf\xf6ringen Allvarlig och/eller livshotande (grad 3-4) eller bed\xf6md som medicinskt relevant'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Gulsot'],
              ['Skin',
               u'Hudulceration, Hudutslag, Urtikaria, Fotosensitivitets-reaktioner, Palmarerytem, Svullet ansikte, Purpura'],
@@ -94,5 +117,9 @@
              ['Injury', u'Bl\xe5sor, \xd6verdosering']]]],
  '_note': u' ?MSFU',
  '_pages': [8, 13],
+<<<<<<< HEAD
  u'_rank': 67,
+=======
+ u'_rank': 64,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

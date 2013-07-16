@@ -2,8 +2,12 @@
             [['Infections', u'Nasofaryngit'], ['Nervous system', u'Somnolens,huv udv\xe4rk']]],
            ['Common',
             [['Metabolism', u'Anorexi'],
+<<<<<<< HEAD
              ['Psychiatric',
               u'Depression, fientlighet/aggression, \xe5ngest, insomni, nervositet/irritabilitet'],
+=======
+             ['Psychiatric', u'Depression, fientlighet/aggression, nervositet/irritabilitet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Konvulsion, balansrubbning, yrsel, letargi, tremor'],
              ['Ear', u'Vertigo'],
              ['Respiratory', u'Hosta'],
@@ -12,6 +16,7 @@
              ['General', u'Asteni/utmattning']]],
            ['Uncommon',
             [['Blood', u'Trombocytopeni, leukopeni'],
+<<<<<<< HEAD
              ['Metabolism', u'Viktminskning, vikt\xf6kning'],
              ['Psychiatric',
               u'sj\xe4lvmordsf\xf6rs\xf6k, sj\xe4lvmordstankar, psykotisk st\xf6rning, onormalt uppf\xf6rande, hallucination, ilska, f\xf6rvirring, panikattack, emotionell labilitet/hum\xf6rsv\xe4ng ningar, agitation'],
@@ -20,10 +25,21 @@
              ['Eye', u'Diplopi, dimsyn'],
              ['Hepato', u'Onormalt leverfunktionstest'],
              ['Skin', u'Alopeci, eksem, kl\xe5da,'],
+=======
+             ['Metabolism', u'Viktminskning  , vikt\xf6kning'],
+             ['Psychiatric',
+              u'sj\xe4lvmordsf\xf6rs\xf6k , sj\xe4lvmordstankar , onormalt emotionell labilitet/hum\xf6rsv\xe4ngn ingar, agitation'],
+             ['Nervous system',
+              u'Amnesi, f\xf6rs\xe4mring av minnet, onormal koordination/ataxi, parestesi uppm\xe4rksamheten'],
+             ['Eye', u'Diplopi, dimsyn'],
+             ['Hepato', u'Onormalt leverfunktionstest'],
+             ['Skin', u'Alopeci , eksem, kl\xe5da,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Muskelsvaghet, myalgi'],
              ['Injury', u'Skada']]],
            ['Rare',
             [['Infections', u'Infektion'],
+<<<<<<< HEAD
              ['Blood', u'Pancytopeni, neutropeni'],
              ['Psychiatric',
               u'Sj\xe4lvmord, personlighetsst\xf6r ningar, onormalt t\xe4nkande'],
@@ -33,6 +49,15 @@
              ['Skin',
               u'Toxisk epidermal nekrolys, Stevens-Johnsons syndrom, erythema multiforme']]]],
  '_note': u' ANOMALI in Headers ?MSFU',
+=======
+             ['Blood', u'Pancytopeni  , neutropeni'],
+             ['Psychiatric', u'Sj\xe4lvmord , personlighetsst\xf6r t\xe4nkande'],
+             ['Nervous system', u'Koreoatetos , dyskinesi , hyperkinesi , st\xf6rning i'],
+             ['GI', u'Pankreatit'],
+             ['Hepato', u'Leversvikt  , hepatit'],
+             ['Skin', u'Toxisk epidermal nekrolys , Stevens-Johnsons erythema multiforme']]]],
+ '_note': u' ?MSFU',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [6, 8],
  u'_rank': 26,
  u'_type': u'MSFU'}

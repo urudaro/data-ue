@@ -26,7 +26,12 @@
               u'angioneurotiskt \xf6dem i ansikte, extremiteter, l\xe4ppar, tunga, glottis och/eller struphuvud (se avsnitt 4.4), urtikaria, alopeci, psoriasis'],
              ['Renal', u'Uremi, akut njursvikt'],
              ['Reproductive system', u'Gynekomasti'],
+<<<<<<< HEAD
              ['Investigations', u'Hyponatremi']]],
+=======
+             ['Investigations',
+              u'Hyponatremi * I mycket s\xe4llsynta fall har det rapporterats att biverkningen hepatit har utvecklats till leversvikt. F\xf6r patienter som behandlas med kombinationen lisinopril/hydroklortiazid och som utvecklar gulsot eller uppvisar en tydlig \xf6kning av leverenzymer ska behandlingen med lisinopril/hydroklortiazid avbrytas och patienterna f\xf6ljas upp p\xe5 l\xe4mpligt s\xe4tt. ** Ett symtomkomplex, med ett eller flera av f\xf6ljande symtom, har rapporterats: Feber, vaskulit, myalgi, artralgi/artrit, positivt ANA-test, f\xf6rh\xf6jd s\xe4nka (SR), eosinofili och leukocytos, utslag, fotosensibilitet eller andra dermatologiska symtom. Hydroklortiazid (ok\xe4nda frekvenser): Infektioner och infestationer Spottk\xf6rtelinflammation Blodet och lymfsystemet Leukopeni, neutropeni/agranulocytos, trombocytopeni, aplastisk anemi, hemolytisk anemi, benm\xe4rgsdepression Metabolism och nutrition Aptitl\xf6shet, hyperglykemi, glykosuri, hyperurikemi, elektrolytobalans (inklusive hyponatremi och hypokalemi), f\xf6rh\xf6jda kolesterol- och triglyceridniv\xe5er, gikt Psykiska st\xf6rningar Rastl\xf6shet, depression, s\xf6mnst\xf6rningar Centrala och perifera nervsystemet F\xf6rlorad aptit, parestesi, yrsel \xd6gon Xantopsi, \xf6verg\xe5ende dimsyn \xd6ron och balansorgan Svindel Hj\xe4rtat Postural hypotoni Blodk\xe4rl Nekrotiserande angit (vaskulit, kutan vaskulit) Andningsv\xe4gar, br\xf6stkorg och mediastinum Andningssv\xe5righeter (bland annat pneumonit och lung\xf6dem) Magtarmkanalen Magirritation, diarr\xe9, f\xf6rstoppning, pankreatit Lever och gallv\xe4gar Gulsot (intrahepatisk kolestatisk gulsot) Hud och subkutan v\xe4vnad Ljusk\xe4nslighetsreaktioner, utslag, kutana lupus erythematosus-liknande reaktioner, reaktivering av kutan lupus erythematosus, urtikaria, anafylaktiska reaktioner, toxisk epidermal nekrolys Muskuloskeletala systemet och bindv\xe4v Muskelspasmer, muskelsvaghet Njurar och urinv\xe4gar Njurdysfunktion, interstitiell nefrit Allm\xe4nna symtom Feber, matthet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Blood',
               u'Benm\xe4rgsdepression, anemi, trombocytopeni, leukopeni, neutropeni, agranulocytos (se avsnitt 4.4), hemolytisk anemi, lymfadenopati, autoimmuna sjukdomar'],
@@ -34,6 +39,7 @@
              ['Respiratory', u'Bronkospasm, sinuit, allergisk alveolit/eosinofil pneumoni'],
              ['GI', u'Pankreatit, intestinalt angio\xf6dem'],
              ['Hepato',
+<<<<<<< HEAD
               u'Hepatit \u2013 antingen hepatocellul\xe4r eller kolestatisk, gulsot och leversvikt (se avsnitt 4.4)'],
              ['Skin',
               u'Diafores, pemfigus, toxisk epidermal nekrolys, Stevens-Johnsons syndrom, erythema multiforme, kutant pseudolymfom'],
@@ -43,4 +49,12 @@
               u'trombocytopeni, aplastisk anemi, hemolytisk anemi, benm\xe4rgsdepression Metabolism och nutrition Aptitl\xf6shet, hyperglykemi, glykosuri, hyperurikemi, elektrolytobalans (inklusive hyponatremi och hypokalemi), f\xf6rh\xf6jda kolesterol- och triglyceridniv\xe5er, gikt Psykiska st\xf6rningar Rastl\xf6shet, depression, s\xf6mnst\xf6rningar Centrala och perifera nervsystemet F\xf6rlorad aptit, parestesi, yrsel \xd6gon Xantopsi, \xf6verg\xe5ende dimsyn \xd6ron och balansorgan Svindel Hj\xe4rtat Postural hypotoni Blodk\xe4rl Nekrotiserande angit (vaskulit, kutan vaskulit) Andningsv\xe4gar, br\xf6stkorg och mediastinum Andningssv\xe5righeter (bland annat pneumonit och lung\xf6dem) Magtarmkanalen Magirritation, diarr\xe9, f\xf6rstoppning, pankreatit Lever och gallv\xe4gar Gulsot (intrahepatisk kolestatisk gulsot) Hud och subkutan v\xe4vnad Ljusk\xe4nslighetsreaktioner, utslag, kutana lupus erythematosus-liknande reaktioner, reaktivering av kutan lupus erythematosus, urtikaria, anafylaktiska reaktioner, toxisk epidermal nekrolys Muskuloskeletala systemet och bindv\xe4v Muskelspasmer, muskelsvaghet Njurar och urinv\xe4gar Njurdysfunktion, interstitiell nefrit Allm\xe4nna symtom Feber, matthet']]]],
  '_pages': [9, 11],
  u'_rank': 31,
+=======
+              u'Hepatit \u2013 antingen hepatocellul\xe4r eller kolestatisk, gulsot och leversvikt (se avsnitt 4.4) *'],
+             ['Skin',
+              u'Diafores, pemfigus, toxisk epidermal nekrolys, Stevens-Johnsons syndrom, erythema multiforme, kutant pseudolymfom **'],
+             ['Renal', u'Oliguri/anuri']]]],
+ '_pages': [9, 11],
+ u'_rank': 30,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

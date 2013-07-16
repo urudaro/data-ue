@@ -1,20 +1,35 @@
+<<<<<<< HEAD
 {'_data': [['Common', [['GI', u'Illam\xe5-en de Diarr\xe9']]],
+=======
+{'_data': [['Common', [['GI', u'Illam\xe5-ende Diarr\xe9']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Infections', u'Mykotiska superinfektioner'],
              ['Blood', u'Eosinofili'],
              ['Metabolism', u'Anorexi'],
+<<<<<<< HEAD
              ['Nervous system', u'Huvudv\xe4rk Yrsel S\xf6mnst\xf6rningar gar'],
              ['GI', u'Kr\xe4kning Sm\xe4rta i mag-tarmkanale n och buken Dyspepsi Flatulens'],
              ['Hepato', u'F\xf6rh\xf6jt transaminas F\xf6rh\xf6jt bilirubin'],
              ['Skin', u'Hudutslag Pruritus Urtikaria'],
              ['Musculoskeletal',
               u'Muskuloskele-t al sm\xe4rta (t ex sm\xe4rta i extremiteterna, ryggsm\xe4rta, br\xf6stsm\xe4rta) Artralgi'],
+=======
+             ['Nervous system', u'Huvudv\xe4rk Yrsel S\xf6mnst\xf6rningar ringar'],
+             ['GI', u'Kr\xe4kning Sm\xe4rta i mag-tarmkanalen och buken Dyspepsi Flatulens'],
+             ['Hepato', u'F\xf6rh\xf6jt transaminas F\xf6rh\xf6jt bilirubin'],
+             ['Skin', u'Hudutslag Pruritus Urtikaria'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'Nedsatt njurfunktion'],
              ['General', u'Asteni Feber'],
              ['Investigations', u'F\xf6rh\xf6jning av alkaliska fosfatv\xe4rdet']]],
            ['Rare',
             [['Infections',
+<<<<<<< HEAD
               u'Antibiotika-associ erad kolit (i mycket s\xe4llsynta fall m\xf6jligen med d\xf6dlig utg\xe5ng) (se avsnitt 4.4)'],
+=======
+              u'Antibiotika-associerad kolit (i mycket s\xe4llsynta fall m\xf6jligen med d\xf6dlig utg\xe5ng) (se avsnitt 4.4)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Blood', u'Leukopeni Anemi Neutropeni Leukocytos Trombocytopeni Trombocytemi'],
              ['Immune system', u'Allergisk reaktion Allergiskt \xf6dem/ angio\xf6dem'],
              ['Metabolism', u'Hyperglykemi'],
@@ -26,25 +41,38 @@
              ['Vascular', u'Hypotension Svimning'],
              ['Respiratory', u'Dyspn\xe9 (inklusive astmatiskt tillst\xe5nd)'],
              ['Hepato', u'Nedsatt leverfunktion Kolestatisk ikterus Hepatit'],
+<<<<<<< HEAD
              ['Skin', u'Ljusk\xe4nslighets-re aktioner (se avsnitt 4.4) Ospecifik sveda'],
              ['Musculoskeletal', u'Myalgi Artrit \xd6kad muskeltonus och kramper'],
+=======
+             ['Skin', u'Ljusk\xe4nslighets-reaktioner (se avsnitt 4.4) Ospecifik sveda'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal',
               u'Njursvikt Hematuri Krystalluri (se avsnitt 4.4) Tubulointerstitial nefrit'],
              ['General', u'\xd6dem Svettning (hyperhidros)'],
              ['Investigations', u'F\xf6rh\xf6jt amylas']]],
            ['Very rare',
             [['Blood',
+<<<<<<< HEAD
               u'Hemolytisk anemi Agranulocytos Pancytopeni (livshotande) Benm\xe4rgs-depre ssion (livshotande)'],
              ['Immune system',
               u'Anafylaktisk reaktion Anafylaktisk chock (livshotande) (se avsnitt 4.4) Reaktion liknande serumsjuka'],
              ['Nervous system',
               u'Migr\xe4n F\xf6rs\xe4mrad koordinations-f G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension'],
+=======
+              u'Hemolytisk anemi Agranulocytos Pancytopeni (livshotande) Benm\xe4rgs-depression (livshotande)'],
+             ['Immune system',
+              u'Anafylaktisk reaktion Anafylaktisk chock (livshotande) (se avsnitt 4.4) Reaktion liknande serumsjuka'],
+             ['Nervous system',
+              u'Migr\xe4n F\xf6rs\xe4mrad koordinations-G\xe5ngrubbning F\xf6r\xe4ndrat luktsinne Intrakraniell hypertension'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'F\xf6rvr\xe4ngt f\xe4rgseende'],
              ['Vascular', u'Vaskulit'],
              ['GI', u'Pankreatit'],
              ['Hepato',
               u'Levernekros (i mycket s\xe4ll-synta fall \xf6verg\xe5ng till livshotande leversvikt) (se avsnitt 4.4)'],
              ['Skin',
+<<<<<<< HEAD
               u'Petekier Erythema multiforme Erythema nodosum Stevens-Johnso ns syndrom (kan vara livshotande) Toxisk epidermal nekrolys (kan vara livshotande)'],
              ['Musculoskeletal',
               u'Muskelsvaghet Tendinit Senruptur (fr\xe4mst h\xe4lsenan) (se avsnitt 4.4) Exacerbation av symtomen av myasthenia gravis (se avsnitt 4.4)']]],
@@ -58,4 +86,17 @@
  '_note': u' ?MSFU',
  '_pages': [10, 13],
  u'_rank': 41,
+=======
+              u'Petekier Erythema multiforme Erythema nodosum Stevens-Johnsons syndrom (kan vara livshotande) Toxisk epidermal nekrolys (kan vara livshotande)']]],
+           ['Unknown',
+            [['Nervous system', u'Perifer neuropati (se avsnitt 4.4)'],
+             ['Cardiac',
+              u'Ventrikul\xe4r arytmi och torsade de pointes (har rapporterats \xf6verv\xe4gande f\xf6r patienter med riskfaktorer f\xf6r QT-f\xf6rl\xe4ngning), EKG QT-f\xf6rl\xe4ngning (se avsnitt 4.4 och 4.9).'],
+             ['Skin', u'Akut generaliserad exantemat\xf6s pustulos (AGEP)'],
+             ['Investigations',
+              u'F\xf6rh\xf6jt INR-v\xe4rde (hos patienter som behandlas med vitamin K-antagonister']]]],
+ '_note': u' ?MSFU',
+ '_pages': [10, 13],
+ u'_rank': 38,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

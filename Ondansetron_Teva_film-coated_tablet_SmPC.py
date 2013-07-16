@@ -14,7 +14,11 @@
              ['Hepato', u'asymtomatiska f\xf6rh\xf6jda leverfunktionsv\xe4rden']]],
            ['Rare',
             [['Immune system',
+<<<<<<< HEAD
               u'omedelbara \xf6verk\xe4nslighetsreaktioner, ibland allvarliga inkluderande anafylaxi. Anafylaxi kan vara fatalt. \xd6verk\xe4nslighetsreaktioner har \xe4ven observerats hos patienter som reagerat p\xe5 andra selektiva 5-HT -antagonister.'],
+=======
+              u'omedelbara \xf6verk\xe4nslighetsreaktioner, ibland allvarliga inkluderande anafylaxi. Anafylaxi kan vara fatalt. \xd6verk\xe4nslighetsreaktioner har \xe4ven observerats hos patienter som reagerat p\xe5 andra selektiva 5-HT antagonister.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'yrsel vid snabb intraven\xf6s administrering.'],
              ['Eye',
               u'\xf6verg\xe5ende visuella f\xf6r\xe4ndringar (t ex dimsyn) huvudsakligen vid intraven\xf6s administrering.']]],

@@ -4,6 +4,10 @@
              ['Cardiac', u'palpitationer'],
              ['Vascular', u'flush (blodvallning)'],
              ['GI', u'magsm\xe4rtor, illam\xe5ende'],
+<<<<<<< HEAD
+=======
+             ['Musculoskeletal', u'vristsvullnad'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'\xf6dem, tr\xf6tthet']]],
            ['Uncommon',
             [['Psychiatric',
@@ -18,7 +22,12 @@
               u'kr\xe4kningar, dyspepsi, f\xf6r\xe4ndrad  tarmfunktion (inklusive diarr\xe9 och f\xf6rstoppning), muntorrhet'],
              ['Skin',
               u'alopeci, purpura,  hudmissf\xe4rgning, hyperhidros, pruritus, eksem, exantem'],
+<<<<<<< HEAD
              ['Renal', u'ledsm\xe4rtor, muskelv\xe4rk,  muskelkramper, ryggsm\xe4rtor'],
+=======
+             ['Musculoskeletal',
+              u'ledsm\xe4rtor, muskelv\xe4rk,  muskelkramper, ryggsm\xe4rtor'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Renal', u'urineringsproblem, nokturi,  \xf6kad urineringsfrekvens'],
              ['Reproductive system', u'impotens, gynekomasti'],
              ['General',
@@ -39,5 +48,9 @@
              ['Skin',
               u'angio\xf6dem, erythema  multiforme, urtikaria, exfoliativ dermatit, Stevens-Johnsons syndrom, Quinckes \xf6dem, ljusk\xe4nslighet']]]],
  '_pages': [4, 5],
+<<<<<<< HEAD
  u'_rank': 29,
+=======
+ u'_rank': 30,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

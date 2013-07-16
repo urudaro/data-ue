@@ -9,7 +9,11 @@
               u'illam\xe5ende, magsm\xe4rta, muntorrhet, diarr\xe9e, f\xf6rstoppning, kr\xe4kningar.'],
              ['Skin', u'kallsvettningar, utslag.'],
              ['Musculoskeletal', u'muskel- och skelettv\xe4rk.'],
+<<<<<<< HEAD
              ['General', u'tr\xf6tthet.']]],
+=======
+             ['General', u'tr\xf6tthet. * I yrsel ing\xe5r virrighet.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare', [['Skin', u'angio\xf6dem, ekkymos, urtikaria']]],
            ['Very rare',
             [['Psychiatric',

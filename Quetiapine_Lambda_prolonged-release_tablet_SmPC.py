@@ -26,7 +26,11 @@
              ['Vascular', u'Ortostatisk hypotoni'],
              ['Respiratory', u'Rinit, dyspn\xe9'],
              ['GI', u'F\xf6rstoppning, dyspepsi, kr\xe4kningar'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jda serumtransaminaser (ALAT, ASAT) , gamma-GT-stegring'],
+=======
+             ['Hepato', u'F\xf6rh\xf6jda serumtransaminaser (ALAT, ASAT) , gamma-GT stegring'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Mild asteni, perifert \xf6dem, l\xe4ttretlighet, pyrexi'],
              ['General',
               u'L\xe4ttretlighet (1) Prolaktinniv\xe5er (patienter >18 \xe5r): > 20 \u03bcg/l (> 869,56 pmol/l) m\xe4n; >26 \u03bcg/l (>1130,428 pmol/l) kvinnor vid valfri tidpunkt. En l\xe4gre andel \xe4n 1 % av patienterna uppvisade prolaktinv\xe4rden >100 \u03bcg/l. (2) Baserat p\xe5 f\xf6r\xe4ndringar \xf6ver kliniskt signifikanta tr\xf6skelv\xe4rden (anpassade fr\xe5n kriterierna fr\xe5n amerikanska National Institute of Health) eller h\xf6jningar p\xe5 >20 mm Hg f\xf6r systoliskt eller >10 mm Hg f\xf6r diastoliskt blodtryck vid valfri tidpunkt i tv\xe5 akuta (3-6 veckor l\xe5nga) placebokontrollerade studier p\xe5 barn och ungdomar. (3) Se avsnitt 5.1 \u201dFarmakodynamiska egenskaper\u201d. (4) Anm\xe4rkning: Frekvensen \xf6verensst\xe4mmer med den som observerats hos vuxna, men l\xe4ttretlighet kan vara f\xf6renad med andra kliniska implikationer hos barn och ungdomar \xe4n hos vuxna.']]],
@@ -60,7 +64,11 @@
             [['Blood',
               u'(>1/100 till <1/10), mindre vanliga (>1/1 000 till <1/100), s\xe4llsynta (>1/10 000 till <1/1 000), mycket s\xe4llsynta (<1/10 000 ), ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
              ['Skin', u'Toxiskt epidermal nekrolys, erytema multiforme'],
+<<<<<<< HEAD
              ['Pregnancy', u'Abstinenssyndrom hos nyf\xf6dd frekens']]]],
+=======
+             ['Pregnancy', u'Abstinenssyndrom hos nyf\xf6dd']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [9, 14],
  u'_rank': 46,
  u'_type': u'LSFU'}

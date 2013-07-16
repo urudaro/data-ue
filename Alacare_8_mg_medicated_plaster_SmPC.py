@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['General',
               u'Erytem, exfoliation, irritation,  sm\xe4rta, kl\xe5da, s\xe5rskorpor']]],
@@ -16,3 +17,19 @@
  '_pages': [2, 3],
  u'_rank': 11,
  u'_type': u'TSFU'}
+=======
+{'_data': [['Common',
+            [['General',
+              u'Bl\xf6dning, deskvamation, flytning, >1/100, <1/10 obehag, erosion, hyperpigmentering, hypopigmentering, \xf6dem, reaktion, svullnad, bl\xe5sor']]],
+           ['Uncommon',
+            [['General',
+              u'Sveda, missf\xe4rgning, exkoriation, >1/1 000, <1/100 inflammation, s\xe5r Infektioner och infestationer Vanliga Pustler \u22651/100, <1/10'],
+             ['General',
+              u'Infektion \u22651/1 000, <1/100 Biverkningar som inte omfattar behandlingsst\xe4llet Centrala och perifera nervsystemet Vanliga Huvudv\xe4rk \u22651/100, <1/10 Infektioner och infestationer Mindre vanliga Pyodermi \u22651/1 000, <1/100 Psykiska st\xf6rningar Mindre vanliga Emotionell oro \u22651/1 000, <1/100 Andningsv\xe4gar, br\xf6stkorg och Mindre vanliga Epistaxis mediastinum >1/1 000, <1/100 Hud och subkutan v\xe4vnad Mindre vanliga Missf\xe4rgning av huden \u22651/1 000, <1/100 Unders\xf6kningar Mindre vanliga F\xf6rh\xf6jt alaninaminotransferas \u22651/1 000, <1/100']]],
+           ['Unknown',
+            [['General',
+              u'vid administreringsst\xe4llet >1/10 sm\xe4rta, kl\xe5da, s\xe5rskorpor']]]],
+ '_pages': [2, 3],
+ u'_rank': 4,
+ u'_type': u'LSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

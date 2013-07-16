@@ -7,6 +7,10 @@
            ['Rare',
             [['Nervous system', u'sm\xe4rta, smakf\xf6rvr\xe4ngning'],
              ['Skin', u'urtikaria, makulopapul\xf6sa hudutslag, hudmissf\xe4rgning']]]],
+<<<<<<< HEAD
  '_pages': [3, 3],
+=======
+ '_pages': [3, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 7,
  u'_type': u'LSFU'}

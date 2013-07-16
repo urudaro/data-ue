@@ -1,7 +1,11 @@
 {'_data': [['Rare', [['GI', u'fall av idiosynkratisk hepatit har rapporterats.']]],
            ['Unknown',
             [['General',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslighet (t ex kl\xe5da, utslag, urtikaria, anafylaktisk reaktion, vaskulit, serumsjukeliknande reaktion, angio\xf6dem) (se avsnitt 4.3 och 4.4), frossbrytningar, serotonergt syndrom, ljusk\xe4nslighetoch mycket s\xe4llsynt erythema multiforme som kan leda till Steven-Johnsons syndrom eller toxisk epidermal nekrolys (Lyell\xb4s syndrom).'],
+=======
+              u'\xd6verk\xe4nslighet (t ex kl\xe5da, utslag, urtikaria, anafylaktisk reaktion, vaskulit, serumsjukeliknande reaktion, angio\xf6dem) (se avsnitt 4.3 och 4.4), frossbrytningar, serotonergt syndrom, ljusk\xe4nslighetoch mycket s\xe4llsynt erythema multiforme som kan leda till Steven Johnsons syndrom eller toxisk epidermal nekrolys (Lyell\xb4s syndrom).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'smakf\xf6r\xe4ndringar), muntorrhet. S\xe4llsynta fall av onormala leverfunktionsv\xe4rden och mycket'],
              ['Nervous system',

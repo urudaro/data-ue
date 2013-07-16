@@ -1,6 +1,10 @@
 {'_data': [['Common',
             [['GI',
+<<<<<<< HEAD
               u', <1/100), s\xe4llsynta (>1/10000, <1/1000), mycket s\xe4llsynta (<1/10000), inklusive enstaka rapporter.'],
+=======
+              u'(>1/1000, <1/100), s\xe4llsynta (>1/10000, <1/1000), mycket s\xe4llsynta (<1/10000), inklusive enstaka rapporter.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Epigastrisk sm\xe4rta, illam\xe5ende, kr\xe4kningar, diarr\xe9, buksm\xe4rta, dyspepsi, flatulens, anorexi.'],
              ['Nervous system', u'Huvudv\xe4rk, yrsel.'],
@@ -45,6 +49,10 @@
            ['Unknown',
             [['GI',
               u'vanligen inom n\xe5gra dagar, \xe4ven under fortsatt terapi. Gastroduodenals\xe5r, perforation eller gastrointestinal bl\xf6dning kan ibland vara livshotande, s\xe4rskilt hos \xe4ldre (se avsnitt 4.4). Detta kan intr\xe4ffa n\xe4r som helst under behandlingen med eller utan varningssymtom eller tidigare sjukdomshistoria. Diklofenak h\xe4mmar tempor\xe4rt trombocytaggregationen, vilket kan leda till \xf6kad risk hos patienter med olika bl\xf6dningssjukdomar. Biverkningarna i tabellen \xe4r ordnade efter frekvens, med de vanligast f\xf6rekommande biverkningarna f\xf6rst, enligt f\xf6ljande frekvensangivelse: vanliga (>1/100, <1/10), mindre']]]],
+<<<<<<< HEAD
  '_pages': [7, 8],
+=======
+ '_pages': [7, 9],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 30,
  u'_type': u'LSFU'}

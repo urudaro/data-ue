@@ -14,7 +14,11 @@
              ['Skin', u'Urtikaria']]],
            ['Rare',
             [['Eye', u'kontaktlinsintolerans'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighets-reak tion'],
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-reaktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'Viktminskning'],
              ['Psychiatric', u'\xd6kad libido'],
              ['Reproductive system', u'Br\xf6stsekretion, f\xf6r\xe4ndrad vaginal sekretion'],

@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Blood', u'Leukocytopeni (5%).'],
              ['Skin', u'Urticaria, exantem (3-5%)'],
              ['Musculoskeletal',
@@ -14,3 +15,17 @@
  '_pages': [2, 3],
  u'_rank': 9,
  u'_type': u'LSFU'}
+=======
+            [['Blood', u'Leukocytopeni (ca 5%).'],
+             ['Skin', u'Urticaria, exantem (3-5%).'],
+             ['Musculoskeletal', u'Artrit.']]],
+           ['Uncommon',
+            [['Blood', u'Agranulocytos, trombocytopeni.'], ['Hepato', u'Leverp\xe5verkan.']]],
+           ['Rare',
+            [['General', u'Vaskulit'],
+             ['Skin', u'Mucokutant syndrom.'],
+             ['Nervous system', u'Smakf\xf6rlust.']]]],
+ '_pages': [2, 2],
+ u'_rank': 8,
+ u'_type': u'LFSUR'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

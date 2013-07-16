@@ -1,5 +1,9 @@
 {'_data': [['Very common',
+<<<<<<< HEAD
             [['Nervous system', u'Somnolens, yrsel, huvudv\xe4rk'],
+=======
+            [['Nervous system', u'huvudv\xe4rk'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende, kr\xe4kningar, f\xf6rstoppning'],
              ['Nervous system', u'Huvudv\xe4rk'],
              ['GI', u'Illam\xe5ende, kr\xe4kningar, f\xf6rstoppning, diarr\xe9'],
@@ -9,7 +13,10 @@
              ['Metabolism', u'Anorexi'],
              ['Psychiatric',
               u'S\xf6mnl\xf6shet, depresson, \xe5ngest, f\xf6rvirring, hallucinationer'],
+<<<<<<< HEAD
              ['Nervous system', u'Tremor, parestesier'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'Vertigo'],
              ['Cardiac', u'Palpitationer, takykardi'],
              ['Vascular', u'Hypertension'],
@@ -19,13 +26,18 @@
              ['Skin', u'Hyperhidros, pruritus, utslag, erytem'],
              ['Musculoskeletal', u'Muskelspasmer'],
              ['Renal', u'Urinretention'],
+<<<<<<< HEAD
              ['General', u'Utmattning, perifert \xf6dem,'],
+=======
+             ['General', u'Utmattning, perifert \xf6dem, asteni, sjukdomsk\xe4nsla, frossa'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'\xd6verk\xe4nslighet'],
              ['Metabolism', u'Anorexi'],
              ['Psychiatric', u'S\xf6mnl\xf6shet, \xe5ngest, depression, hallucinationer'],
              ['Nervous system', u'S\xf6mnighet, yrsel, tremor, hypoestesi'],
              ['Respiratory', u'Andningsdepression'],
              ['GI', u'Buksm\xe4rta, sm\xe4rtor i \xf6vre abdomen, muntorrhet'],
+<<<<<<< HEAD
              ['Skin', u'Utslag, hyperhidros, erytem'],
              ['Musculoskeletal', u'Muskelspasmer'],
              ['Renal', u'Urinretention'],
@@ -42,11 +54,31 @@
              ['Musculoskeletal', u'Muskel-rycknin gar'],
              ['Reproductive system', u'Erektil dysfunktion,'],
              ['General', u'Reaktioner vid administrerings'],
+=======
+             ['Skin', u'Utslag, hyperhidros, Kontaktdermatit, erytem'],
+             ['Musculoskeletal', u'Muskelspasmer'],
+             ['Renal', u'Urinretention'],
+             ['General',
+              u'Perifert \xf6dem, utmattning, reaktion vid administrerings-st\xe4llet, asteni']]],
+           ['Uncommon',
+            [['Psychiatric', u'Agitation, desorientering, eufori'],
+             ['Nervous system', u'(inkluderar kloniska kramper och grand mal kramper), amnesi'],
+             ['Cardiac', u'Bradykardi, cyanos'],
+             ['Vascular', u'Hypotension'],
+             ['Respiratory', u'Andnings-depression, andnings-sv\xe5righeter'],
+             ['GI', u'Ileus'],
+             ['Skin', u'Eksem, allergisk dermatit, hudproblem, dermatit, kontaktdermatit'],
+             ['Musculoskeletal', u'Muskel-ryckningar'],
+             ['Reproductive system', u'Erektil dysfunktion,'],
+             ['General',
+              u'Reaktioner vid administrerings-st\xe4llet, influensa-liknande sjukdom, k\xe4nsla'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'F\xf6rvirring'],
              ['Nervous system', u'Parestesier'],
              ['Eye', u'Mios'],
              ['Ear', u'Vertigo'],
              ['Cardiac', u'Cyanos'],
+<<<<<<< HEAD
              ['Skin', u'Kontaktdermatit, hudproblem, allergisk dermatit, eksem'],
              ['General', u'Abstinenssymtom, influensaliknande sjukdom']]],
            ['Rare',
@@ -54,11 +86,25 @@
              ['Respiratory', u'Apn\xe9, hypo-ventileri'],
              ['GI', u'Subileus'],
              ['General', u'Dermatit vid admini-strerin']]],
+=======
+             ['Skin', u'hudproblem, allergisk dermatit, eksem'],
+             ['General', u'Abstinenssymtom, influensaliknande sjukdom']]],
+           ['Rare',
+            [['Eye', u'Mios'],
+             ['Respiratory', u'Apn\xe9, hypo-ventilering'],
+             ['GI', u'Subileus'],
+             ['General',
+              u'Dermatit vid admini-streringsst\xe4llet, eksem vid admini-streringsst\xe4llet']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Immune system',
               u'Anafylaktisk chock, anafylaktisk reaktion, anafylaktoid reaktion'],
              ['Respiratory', u'Bradypn\xe9']]]],
  '_note': u' ?MSFU',
  '_pages': [10, 13],
+<<<<<<< HEAD
  u'_rank': 51,
+=======
+ u'_rank': 50,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

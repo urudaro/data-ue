@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Rare',
             [['Blood',
               u'fall. En tillf\xe4llig minskning av lymfocyter har observerats hos ungef\xe4r 20 % av de patienter, som f\xe5tt exemestan, s\xe4rskilt hos patienter som tidigare haft lymfopeni. Medelv\xe4rdet av antalet lymfocyter hos dessa patienter f\xf6r\xe4ndrades emellertid inte signifikant \xf6ver tiden och ingen motsvarande \xf6kning av virusinfektioner observerades. Dessa effekter har inte observerats i studier hos patienter behandlade f\xf6r tidig br\xf6stcancer.']]],
@@ -13,3 +14,28 @@
  '_pages': [3, 5],
  u'_rank': 5,
  u'_type': u'LSFU'}
+=======
+{'_data': [['Very common',
+            [['Psychiatric', u'S\xf6mnl\xf6shet'],
+             ['Nervous system', u'Huvudv\xe4rk'],
+             ['Vascular', u'Blod-vallningar'],
+             ['GI', u'Illam\xe5ende'],
+             ['Skin', u'\xd6kad svettning'],
+             ['Musculoskeletal', u'Led-och muskulo-skeletal sm\xe4rta*'],
+             ['General', u'Tr\xf6tthet']]],
+           ['Common',
+            [['Metabolism', u'Anorexi'],
+             ['Psychiatric', u'Depression'],
+             ['Nervous system', u'Yrsel, karpaltunnel-syndrom'],
+             ['GI', u'Buksm\xe4rta, kr\xe4kningar, f\xf6rstoppning, dyspepsi, diarr\xe9'],
+             ['Skin', u'Hudutslag, h\xe5ravfall'],
+             ['Musculoskeletal', u'Osteoporos, frakturer'],
+             ['General', u'Sm\xe4rta, perifert \xf6dem']]],
+           ['Uncommon', [['Nervous system', u'S\xf6mnighet'], ['General', u'Asteni']]],
+           ['Rare', []],
+           ['Very rare', []]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 5],
+ u'_rank': 16,
+ u'_type': u'MSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

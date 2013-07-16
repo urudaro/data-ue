@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common', [['Nervous system', u'Huvudv\xe4rk**']]],
            ['Common',
             [['Nervous system', u'Yrsel** D\xe5sighet'],
@@ -21,3 +22,16 @@
  '_pages': [4, 5],
  u'_rank': 15,
  u'_type': u'MSFU'}
+=======
+{'_data': [['Common',
+            [['General', u' Huvudv\xe4rk, yrsel.  '],
+             ['Vascular', u' Hypotension, \xf6kad hj\xe4rtfrekvens  '],
+             ['Skin', u' Flush '],
+             ['Other',
+              u' Stickande eller svidande k\xe4nsla vid applikationsst\xe4llet f\xf6rekommer initialt. ']]],
+           ['Uncommon', [['GI', u' Illam\xe5ende  ']]],
+           ['Rare', [['General', u' Svimning  '], ['Other', u' \xd6kad kariesfrekvens.  ']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'DFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

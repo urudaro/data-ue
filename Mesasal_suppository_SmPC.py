@@ -18,10 +18,18 @@
              ['Skin', u'Alopeci'],
              ['Musculoskeletal', u'Myalgi, artralgi'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslighets-r eaktioner s\xe5som allergiskt exantem, l\xe4kemedelsfeber, lupus erythematosus syndrome, pankolit'],
              ['Hepato',
               u'F\xf6r\xe4ndringar i leverfunktions-v\xe4 rden (\xf6kning av transaminaser och kolestasv\xe4rden), hepatit, kolestatisk hepatit']]]],
  '_note': u' ?MSFU',
  '_pages': [2, 4],
+=======
+              u'\xd6verk\xe4nslighets-reaktioner s\xe5som allergiskt exantem, l\xe4kemedelsfeber, lupus erythematosus syndrome, pankolit'],
+             ['Hepato',
+              u'F\xf6r\xe4ndringar i leverfunktions-v\xe4rden (\xf6kning av transaminaser och kolestasv\xe4rden), hepatit, kolestatisk hepatit']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 17,
  u'_type': u'MSFU'}

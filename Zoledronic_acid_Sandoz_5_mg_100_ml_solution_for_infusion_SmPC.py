@@ -18,9 +18,15 @@
               u'svullna leder, muskelspasmer, axelsm\xe4rta, muskuloskeletal br\xf6stm\xe4rta, muskel- och skelettsm\xe4rta, stelhet i leder, artrit, muskelsvaghet'],
              ['Skin', u'proteinuri'],
              ['Investigations',
+<<<<<<< HEAD
               u'vanliga Observerats hos patienter som samtidigt tagit kortikosteroider.']]],
            ['Uncommon',
             [['Local',
+=======
+              u'vanliga Observerats hos patienter som samtidigt tagit kortikosteroider. *Endast vanlig vid Pagets sjukdom. ** Baserat p\xe5 rapporter efter marknadsf\xf6ring. Frekvens kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data. Klasseffekter Nedsatt njurfunktion Zoledronsyra har satts i samband nedsatt njurfunktion, vilken visat sig som f\xf6rs\xe4mrad njurfunktion (dvs. \xf6kad halt av serumkreatinin) och i s\xe4llsynta fall akut njursvikt. F\xf6rs\xe4mrad njurfunktion har observerats efter administrering av zoledronsyra, s\xe4rskilt hos patienter med nedsatt njurfunktion eller ytterligare riskfaktorer (t.ex. h\xf6g \xe5lder, cancerpatienter som f\xe5r kemoterapi, samtidig medicinering med nefrotoxiska l\xe4kemedel, samtidig diuretikabehandling, sv\xe5r dehydrering), av vilka majoriteten erh\xf6ll en 4 mg-dos var 3-4:e vecka, men det har \xe4ven observerats hos patienter efter en eng\xe5ngsdos. I en klinisk studie avseende osteoporos, var \xe4ndringen i kreatininclearance (\xe5rligen kontrollerad f\xf6re dostillf\xe4llet) och incidensen av njursvikt och nedsatt njurfunktion j\xe4mf\xf6rbar f\xf6r b\xe5de de zoledronsyre och placebobehandlade grupperna under tre \xe5r. En \xf6verg\xe5ende h\xf6jning av serumkreatinin observerades inom 10 dagar hos 1,8 % av de zoledronsyrebehandlade patienterna j\xe4mf\xf6rt med 0,8 % av de placebobehandlade patienterna. Hypokalcemi I en klinisk studie avseende osteoporos, hade ca 0,2 % av patienterna m\xe4rkbara s\xe4nkningar av serumkalciumniv\xe5erna (mindre \xe4n 1,87 mmol/l) efter administrering av zoledronsyra. Inga symtomatiska fall av hypokalcemi observerades. I studier av Pagets sjukdom observerades symtomatisk hypokalcemi hos ca 1 % av patienterna, vilka alla senare normaliserades. Grundat p\xe5 laboratorieunders\xf6kning f\xf6rel\xe5g \xf6verg\xe5ende asymtomatiska kalciumniv\xe5er under det normala referensintervallet (mindre \xe4n 2,10 mmol/l) hos 2,3 % av zoledronsyrebehandlade patienter i en stor klinisk studie j\xe4mf\xf6rt med 21 % av de zoledronsyrebehandlade patienterna i studierna avseende Pagets sjukdom. Frekvensen av hypokalcemi var betydligt l\xe4gre vid de f\xf6ljande infusionerna. Alla patienter erh\xf6ll tillr\xe4ckligt till\xe4gg av vitamin D och kalcium i den post-menopausala osteoporosstudien, studien avseende prevention av kliniska frakturer efter h\xf6ftfraktur och studierna avseende Pagets sjukdom (se ocks\xe5 avsnitt 4.2). I studien avseende prevention av kliniska frakturer efter att patienten nyligen f\xe5tt en h\xf6ftfraktur m\xe4ttes inte vitamin D-niv\xe5erna rutinm\xe4ssigt, men majoriteten av patienterna gavs en laddningsdos av vitamin D f\xf6re administrering av zoledronsyra (se avsnitt 4.2). Lokala reaktioner I en stor klinisk studie, har lokala reaktioner vid infusionsst\xe4llet, t.ex. rodnad, svullnad och/eller sm\xe4rta, rapporterats (0,7 %) efter administrering av zoledronsyra. Osteonekros i k\xe4ken']]],
+           ['Uncommon',
+            [['Investigations',
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
               u'fall av osteonekros (fr\xe4mst i k\xe4ken) har rapporterats, huvudsakligen hos cancerpatienter som behandlats med bisfosfonater, inklusive zoledronsyra. M\xe5nga av dessa patienter hade tecken p\xe5 lokal infektion inklusive osteomyelit. Huvudparten av rapporterna g\xe4ller patienter med cancer som genomg\xe5tt tandutdragning eller annan oralkirurgi. Det finns m\xe5nga v\xe4ldokumenterade riskfaktorer f\xf6r osteonekros i k\xe4ken bl.a cancerdiagnos, samtidig l\xe4kemedelsbehandling (t.ex. cytostatika, str\xe5lbehandling, kortikosteroider) och andra sjukdomstillst\xe5nd (t.ex. anemi, koagulationsrubbningar, infektion, tidigare sjukdom i munh\xe5lan). \xc4ven om orsakssambandet inte \xe4r s\xe4kerst\xe4llt b\xf6r oralkirurgi undvikas, eftersom l\xe4kningen kan bli f\xf6rdr\xf6jd (se avsnitt 4.4). I en stor klinisk studie med 7 736 patienter, rapporterades osteonekros i k\xe4ken hos en patient som behandlats med zoledronsyra och en patient som behandlats med placebo. B\xe5da fallen normaliserades. Atypiska femurfrakturer F\xf6ljande biverkningar har rapporterats efter marknadsf\xf6ringen (s\xe4llsynta): Atypiska subtrokant\xe4ra och diafys\xe4ra femurfrakturer (klassbiverkning av bisfosfonater).']]],
            ['Rare',
             [['Infections',
@@ -33,9 +39,15 @@
               u'Sklerit och orbital inflammation \xd6ron och balansorgan Mindre Svindel'],
              ['Skin',
               u'Osteonekros i k\xe4ken (se avsnitt 4.4 och 4.8 klasseffekter) Njurar och urinv\xe4gar Mindre F\xf6rh\xf6jt blodkreatinin, pollakiuri,'],
+<<<<<<< HEAD
              ['Investigations', u'Minskad kalciumm\xe4ngd i blodet'],
              ['Local',
               u'I en stor klinisk studie, har lokala reaktioner vid infusionsst\xe4llet, t.ex. rodnad, svullnad och/eller sm\xe4rta, rapporterats (0,7 %) efter administrering av zoledronsyra. Osteonekros i k\xe4ken']]]],
  '_pages': [5, 8],
  u'_rank': 21,
+=======
+             ['Investigations', u'Minskad kalciumm\xe4ngd i blodet']]]],
+ '_pages': [5, 8],
+ u'_rank': 20,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

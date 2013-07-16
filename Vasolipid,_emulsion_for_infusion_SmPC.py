@@ -1,4 +1,5 @@
 {'_data': [['Uncommon',
+<<<<<<< HEAD
             [['GI', u'Kr\xe4kning, illam\xe5ende'],
              ['General', u'Feber, v\xe4rmek\xe4nsla, svettning, frysningar']]],
            ['Rare',
@@ -10,6 +11,19 @@
              ['Skin', u'Exantem, urtikaria'],
              ['Vascular', u'Hypertension, hypotension'],
              ['General', u'Huvudv\xe4rk,'],
+=======
+            [['GI', u'(>1/1000, <1/100): Kr\xe4kning, illam\xe5ende'],
+             ['General', u'(>1/1000, <1/100): Feber, v\xe4rmek\xe4nsla, svettning, frysningar']]],
+           ['Rare',
+            [['Blood',
+              u'(>1/10 000, <1/1000): Hemolys, reticulocytos, trombocytopeni (i samband med l\xe5ngtidsbehandling av sp\xe4dbarn).'],
+             ['Nervous system', u'(>1/10 000, <1/1000): Tr\xf6tthet'],
+             ['Respiratory', u'(>1/10 000, <1/1000): Tachypn\xe9.'],
+             ['GI', u'(>1/10 000, <1/1000): Buksm\xe4rtor'],
+             ['Skin', u'(>1/10 000, <1/1000): Exantem, urtikaria'],
+             ['Vascular', u'(>1/10 000, <1/1000): Hypertension, hypotension'],
+             ['General', u'(>1/10 000, <1/1000): Huvudv\xe4rk,'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Leverp\xe5verkan'],
              ['Reproductive system',
               u'Priapism Snabb normalisering av transaminaser, alkaliska fosfater samt bilirubin intr\xe4der om dosen s\xe4nks (Vasolipid ges varannan eller var tredje dag), eller om fettillf\xf6rseln helt avbrytes under en tid. "Fat overload syndrome" F\xf6rs\xe4mrad f\xf6rm\xe5ga hos patienten att eliminera Vasolipid kan leda till "Fat overload syndrome" beroende p\xe5 \xf6verdos. Detta syndrom kan upptr\xe4da vid uttalad hypertriglyceridemi och kan uppst\xe5 \xe4ven vid rekommenderad infusionshastighet i samband med pl\xf6tslig f\xf6r\xe4ndring av patientens tillst\xe5nd, s\xe5som f\xf6rs\xe4mring av njurfunktionen eller infektion. "Fat overload syndrome" karakteriseras av hyperlipidemi, feber, fettinfiltration, hepatomegali, splenomegali, anemi, leukopeni, trombocytopeni, koagulationsrubbning samt koma. Symtomen f\xf6rsvinner oftast om behandlingen avbryts.']]],

@@ -30,7 +30,12 @@
            ['Unknown',
             [['Infections',
               u'pneumoni, sepsis, septisk chock (kan intr\xe4ffa som en f\xf6ljd av myelosupression)'],
+<<<<<<< HEAD
              ['Blood', u'Bl\xf6dning och v\xe4vnadshypoxi orsakad av myelosuppression'],
+=======
+             ['Blood',
+              u'Bl\xf6dning och v\xe4vnadshypoxi orsakad av myelosuppression * H\xf6ga doser av epirubicin har administrerats till ett stort antal tidigare obehandlade patienter med olika solida tum\xf6rer, och denna behandling har orsakat biverkningar som inte skiljer sig fr\xe5n dem som har setts vid konventionella doser, med undantag f\xf6r reversibel allvarlig neutropeni (< 500 neutrofiler/mm under < 7 dagar), vilket uppkom hos flertalet patienter. Endast ett f\xe5tal patienter beh\xf6vde sjukhusv\xe5rd och st\xf6djande terapi f\xf6r sv\xe5ra infekti\xf6sa komplikationer vid h\xf6ga doser av epirubicin.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Konjunktivit, keratit'],
              ['Vascular',
               u'Chock, samtidiga fall av tromboembolism (inklusive lungembolism, i enstaka fall med d\xf6dlig utg\xe5ng) har f\xf6rekommit.'],

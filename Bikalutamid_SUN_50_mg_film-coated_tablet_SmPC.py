@@ -8,8 +8,13 @@
              ['Skin', u'Pruritus'],
              ['GI', u'Diarr\xe9, illam\xe5ende'],
              ['Hepato',
+<<<<<<< HEAD
               u'Leverf\xf6r-\xe4ndrin gar (f\xf6rh\xf6jda niv\xe5er av transaminaser, bilirubinemi) kolestas och gulsot, hepatomegali. Dessa f\xf6r\xe4ndringar \xe4r s\xe4llan sv\xe5ra och var ofta \xf6verg\xe5ende och upph\xf6rde eller f\xf6rb\xe4ttrades vid fortsatt eller utsatt behandling (se avsnitt 4.4).'],
              ['General', u'\xd6dem, allm\xe4n sm\xe4rta, b\xe4cken-sm\xe4rt a, frossa'],
+=======
+              u'Leverf\xf6r-\xe4ndringar (f\xf6rh\xf6jda niv\xe5er av transaminaser, bilirubinemi) kolestas och gulsot, hepatomegali. Dessa f\xf6r\xe4ndringar \xe4r s\xe4llan sv\xe5ra och var ofta \xf6verg\xe5ende och upph\xf6rde eller f\xf6rb\xe4ttrades vid fortsatt eller utsatt behandling (se avsnitt 4.4).'],
+             ['General', u'\xd6dem, allm\xe4n sm\xe4rta, b\xe4cken-sm\xe4rta, frossa'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin', u'Utslag, svettning, hirsutism'],
              ['GI', u'F\xf6rstoppning'],
              ['Nervous system', u'Yrsel, s\xf6mnl\xf6shet'],
@@ -19,7 +24,11 @@
             [['Respiratory', u'Interstitiell lungsjukdom'],
              ['Renal', u'Hematuri'],
              ['Immune system',
+<<<<<<< HEAD
               u'\xd6verk\xe4nslig-h etsreaktioner, inklusive angio\xf6dem och utricaria'],
+=======
+              u'\xd6verk\xe4nslig-hetsreaktioner, inklusive angio\xf6dem och utricaria'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Depression'],
              ['General',
               u'Buksm\xe4rtor, br\xf6stsm\xe4rtor, huvudv\xe4rk, ryggsm\xe4rtor, nacksm\xe4rtor'],
@@ -33,9 +42,15 @@
            ['Very rare',
             [['Hepato',
               u'Leversvikt har i s\xe4llsynta fall intr\xe4ffat hos patienter som behandlats med bikalutamid, men inget orsakssamband har med visshet fastst\xe4llts. Regelbunden testning av leverfunktionen b\xf6r \xf6verv\xe4gas (se avsnitt 4.4).'],
+<<<<<<< HEAD
              ['Blood', u'Trombo-cytope ni'],
              ['Cardiac',
               u'Hj\xe4rtsvikt, angina, ledningsfel inklusive f\xf6rl\xe4ngning av PR-och QT-intervall, arytmier och ospecifika EKG-f\xf6r\xe4ndrin gar']]]],
+=======
+             ['Blood', u'Trombo-cytopeni'],
+             ['Cardiac',
+              u'Hj\xe4rtsvikt, angina, ledningsfel inklusive f\xf6rl\xe4ngning av PR-och QT-intervall, arytmier och ospecifika EKG-f\xf6r\xe4ndringar']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [3, 5],
  u'_rank': 29,

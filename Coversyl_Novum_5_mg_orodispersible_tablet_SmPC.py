@@ -23,7 +23,11 @@
               u'rapporter om nedg\xe5ng av hemoglobin och hematokrit, trombocytopeni, leukopeni/neutropeni och fall av agranulocytos eller pancytopeni. Hos patienter med en medf\xf6dd brist p\xe5 G-6PDH har mycket s\xe4llsynta fall av hemolytisk anemi rapporterats (se avsnitt 4.4).'],
              ['Nervous system', u'f\xf6rvirring'],
              ['Vascular',
+<<<<<<< HEAD
               u'stroke, m\xf6jligen sekund\xe4rt till kraftig hypotoni hos h\xf6griskpatienter (se avsnitt 4.4).'],
+=======
+              u'stroke, m\xf6jligen sekund\xe4rt till kraftig hypotoni hos h\xf6griskpatienter (se avsnitt 4.4). : vaskulit'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac',
               u'arytmi, angina pectoris och myokardinfarkt, m\xf6jligen sekund\xe4rt till kraftig hypotoni hos h\xf6griskpatienter (se avsnitt 4.4).'],
              ['Respiratory', u'eosinofil pneumoni, rinit'],
@@ -33,9 +37,16 @@
              ['Renal', u'akut njursvikt']]],
            ['Unknown',
             [['Metabolism', u'hypoglykemi (se avsnitten 4.4 och 4.5)'],
+<<<<<<< HEAD
              ['Vascular', u'vaskulit'],
              ['Investigations',
               u'\xd6kningar av blodurea och plasmakreatinin, hyperkalemi som \xe4r reversibel vid avbrott kan f\xf6rekomma, s\xe4rskilt vid njurinsufficiens, allvarlig hj\xe4rtsvikt och renovaskul\xe4r hypertoni. F\xf6rh\xf6jning av leverenzymer och serumbilirubin har rapporterats i s\xe4llsynta fall. Kliniska pr\xf6vningar: Under Europastudiens randomiserade period registrerades endast allvarliga biverkningar. F\xe5 patienter fick allvarliga biverkningar: 16 (0,3%) av de 6122 perindoprilpatienterna och 12 (0,2%) av de 6107 placebopatienterna. Hos perindoprilbehandlade patienter observerades hypotension hos 6 patienter, angio\xf6dem hos 3 patienter och pl\xf6tsligt hj\xe4rtstillest\xe5nd hos 1 patient. Fler patienter som fick perindopril avbr\xf6t studien p\xe5 grund av hosta, hypotension eller annan intolerans j\xe4mf\xf6rt med placebopatienter, 6,0% (n=366) respektive 2,1% (n=129).']]]],
  '_pages': [8, 9],
  u'_rank': 28,
+=======
+             ['Investigations',
+              u'\xd6kningar av blodurea och plasmakreatinin, hyperkalemi som \xe4r reversibel vid avbrott kan f\xf6rekomma, s\xe4rskilt vid njurinsufficiens, allvarlig hj\xe4rtsvikt och renovaskul\xe4r hypertoni. F\xf6rh\xf6jning av leverenzymer och serumbilirubin har rapporterats i s\xe4llsynta fall. Kliniska pr\xf6vningar: Under Europastudiens randomiserade period registrerades endast allvarliga biverkningar. F\xe5 patienter fick allvarliga biverkningar: 16 (0,3%) av de 6122 perindoprilpatienterna och 12 (0,2%) av de 6107 placebopatienterna. Hos perindoprilbehandlade patienter observerades hypotension hos 6 patienter, angio\xf6dem hos 3 patienter och pl\xf6tsligt hj\xe4rtstillest\xe5nd hos 1 patient. Fler patienter som fick perindopril avbr\xf6t studien p\xe5 grund av hosta, hypotension eller annan intolerans j\xe4mf\xf6rt med placebopatienter, 6,0% (n=366) respektive 2,1% (n=129).']]]],
+ '_pages': [8, 9],
+ u'_rank': 27,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

@@ -25,7 +25,11 @@
            ['Very rare',
             [['Blood', u'Agranulocytos, pancytopeni'],
              ['GI', u'Kolit, stomatit'],
+<<<<<<< HEAD
              ['Skin', u'Stevens-Johnson s syndrom, toxisk epidermal nekrolys'],
+=======
+             ['Skin', u'Stevens-Johnsons syndrom, toxisk epidermal nekrolys'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Anafylaktisk chock'],
              ['Investigations',
               u'F\xf6rh\xf6jda kolesterol-och triglyceridniv\xe5er, hyponatremi']]]],

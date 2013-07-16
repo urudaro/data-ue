@@ -62,7 +62,12 @@
              ['Metabolism', u'rastl\xf6shet, svindel'],
              ['Eye', u'xantopsi'],
              ['Ear', u'nekrotiserande angit (vaskulit, kutan vaskulit)'],
+<<<<<<< HEAD
              ['Investigations', u'glukosuri']]]],
+=======
+             ['Investigations',
+              u'glukosuri * Dessa biverkningar \xe4r endast relevant f\xf6r hydroklortiaziddoser om 12,5 mg och 25 mg \u2020 Frekvensen av muskelkramper som vanlig g\xe4ller f\xf6r doser av hydroklortiazid om 12,5 mg och 25 mg, medan frekvensen av h\xe4ndelsen \xe4r mindre vanlig f\xf6r doser om 6 mg av hydroklortiazid.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [11, 14],
  u'_rank': 47,
  u'_type': u'LSFU'}

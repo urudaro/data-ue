@@ -3,7 +3,11 @@
              ['Blood', u'Eosinofil   Agranulocytos,   leukopeni'],
              ['Immune system', u'Anafylaktiska'],
              ['Vascular', u'Tromboflebiter'],
+<<<<<<< HEAD
              ['GI', u'L\xf6s avf\xf6ring   Pseudomem-br'],
+=======
+             ['GI', u'L\xf6s avf\xf6ring   Pseudomem-'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Koleostatisk'],
              ['Skin', u'Exantem   Urtikaria'],
              ['Renal', u'Njurskada,   stegring av'],

@@ -8,7 +8,11 @@
              ['Nervous system',
               u'Smakf\xf6r\xe4ndring,   Yrsel, somnolens,   Kramper, ageusi,   huvudv\xe4rk,   tremor   parosmi, anosmi,'],
              ['Ear', u'Vertigo, nedsatt   H\xf6rself\xf6rlust   h\xf6rsel, tinnitus'],
+<<<<<<< HEAD
              ['Cardiac', u'EKG   Torsade de pointes (se'],
+=======
+             ['Cardiac', u'EKG QT-   Torsade de pointes (se'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Vascular', u'Hemorragi   (se avsnitt'],
              ['GI', u'Diarr\xe9, kr\xe4kningar,   gastrit, stomatit,   Akut pankreatit,'],
              ['Hepato', u'Onormala   Kolestas, hepatit,   Leversvikt, gulsot (se'],

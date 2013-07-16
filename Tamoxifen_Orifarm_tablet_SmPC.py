@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Skin',
               u'Erytema multiforme, Stevens-Johnsons syndrom, pemfigusliknande bl\xe5sor'],
@@ -30,3 +31,9 @@
  '_pages': [3, 4],
  u'_rank': 18,
  u'_type': u'MSFU'}
+=======
+{'_data': [['Rare', [['General', u'huvudv\xe4rk, yrsel,   \xf6verk\xe4nslighets-']]]],
+ '_pages': [3, 4],
+ u'_rank': 1,
+ u'_type': u'LFSU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

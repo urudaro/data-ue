@@ -1,4 +1,5 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['GI', u'Illam\xe5ende, kr\xe4kning  Sp\xe4nd buk, buksm\xe4rta,'],
              ['Investigations',
               u'S\xe4nkt medelart\xe4rblodtryck  \xd6kad m\xe4ngd konjugerat bilirubin, \xf6kat blodbilirubin, f\xf6rh\xf6jda'],
@@ -12,4 +13,17 @@
            ['Unknown', [['Blood', u''], ['General', u''], ['Hepato', u''], ['Metabolism', u'']]]],
  '_pages': [4, 5],
  u'_rank': 7,
+=======
+            [['Blood', u'Illam\xe5ende, kr\xe4kning'],
+             ['Immune system', u'S\xe4nkt medelart\xe4rblodtryck'],
+             ['Metabolism', u'Hyperglykemi']]],
+           ['Uncommon',
+            [['GI', u'epigastrieobehag'],
+             ['Hepato', u'Kolestas'],
+             ['Investigations',
+              u'leverenzymv\xe4rden, f\xf6rh\xf6jda blodtriglyceridv\xe4rden']]],
+           ['Unknown', [['Blood', u''], ['Hepato', u''], ['Metabolism', u'']]]],
+ '_pages': [4, 5],
+ u'_rank': 6,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

@@ -16,7 +16,11 @@
              ['General',
               u'Br\xf6stsm\xe4rtor, sm\xe4rta i extremiteterna, sm\xe4rtor NOS, asteni, tr\xf6tthet']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Immune system', u'> 1/1 000; <1/100: \xd6verk\xe4nslighet UNS*'],
+=======
+            [['Immune system', u'>1/1 000; <1/100: \xd6verk\xe4nslighet UNS*'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'Takykardi UNS'],
              ['General',
               u'Olustk\xe4nsla, influensaliknande sjukdom \u066dse nedan De vanligaste biverkningarna av NiQuitin pl\xe5ster \xe4r reaktioner p\xe5 applikationsst\xe4llet, s\xe5som \xf6verg\xe5ende utslag, kl\xe5da, sveda, pirrande k\xe4nsla, domnad, svullnad, sm\xe4rta och urtikaria. Huvuddelen av dessa lokala reaktioner \xe4r milda och upph\xf6r snabbt n\xe4r pl\xe5stret avl\xe4gsnats. Sm\xe4rta eller k\xe4nsla av tyngd i extremiteten eller i omr\xe5det kring applikationsst\xe4llet f\xf6r pl\xe5stret (t ex br\xf6stet) kan f\xf6rekomma. \xd6verk\xe4nslighetsreaktioner, som kontaktdermatit och allegisk dermatit, har ocks\xe5 rapporterats. Om sv\xe5ra eller l\xe5ngvarliga lokala reaktioner upptr\xe4der p\xe5 applikationsst\xe4llet (t ex sv\xe5rt erytem, pruritus eller \xf6dem), eller om en allm\xe4n hudreaktion upptr\xe4der (t ex urtikaria eller generellt exantem), b\xf6r anv\xe4ndaren uppmanas avbryta behandlingen med NiQuitin och kontakta sin l\xe4kare. Om n\xe5got kliniskt signifikant hj\xe4rt/k\xe4rlsymtom eller annan effekt upptr\xe4der som kan h\xe4nf\xf6ras till nikotin, b\xf6r dosen av NiQuitin s\xe4nkas eller behandlingen avbrytas.']]],

@@ -2,7 +2,11 @@
             [['Blood', u'Anemi'],
              ['Metabolism', u'Anorexi'],
              ['Psychiatric', u'Depression, insomni'],
+<<<<<<< HEAD
              ['Nervous system', u'Huvudv\xe4rk, yrsel, concentrations-sv\xe5 righeter'],
+=======
+             ['Nervous system', u'Huvudv\xe4rk, yrsel, concentrations-sv\xe5righeter'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Dyspn\xe9, hosta'],
              ['GI', u'Diarr\xe9, illam\xe5ende, buksm\xe4rta'],
              ['Skin', u'Alopeci, dermatit, kl\xe5da, torr hud'],
@@ -15,7 +19,11 @@
              ['Blood', u'Trombocytopeni, lymfadenopati'],
              ['Endocrine', u'Hypotyroidism, hypertyroidism'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'Hum\xf6rf\xf6r\xe4nd-ring ar, k\xe4nslo-m\xe4ssiga st\xf6rningar, \xe5ngest, aggression, nervositet, s\xe4nkt libido'],
+=======
+              u'Hum\xf6rf\xf6r\xe4nd-ringar, k\xe4nslo-m\xe4ssiga st\xf6rningar, \xe5ngest, aggression, nervositet, s\xe4nkt libido'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Minnesf\xf6rs\xe4mring, synkope, svaghet, migr\xe4n, hypoestesi, hyperestesi, parestesier, tremor, smakf\xf6r\xe4ndring, mardr\xf6mmar, somnolens'],
              ['Eye', u'Dimsyn, \xf6gonsm\xe4rta, \xf6goninflammation, xeroftalmi'],
@@ -23,7 +31,11 @@
              ['Cardiac', u'Takykardi, palpitationer, perifera \xf6dem'],
              ['Vascular', u'Rodnad'],
              ['Respiratory',
+<<<<<<< HEAD
               u'Anstr\xe4ngnings-utl\xf6 st dyspn\xe9, epistaxis, nasofaryngit, t\xe4ppta bih\xe5lor, n\xe4st\xe4ppa, rinit, halsont'],
+=======
+              u'Anstr\xe4ngnings-utl\xf6st dyspn\xe9, epistaxis, nasofaryngit, t\xe4ppta bih\xe5lor, n\xe4st\xe4ppa, rinit, halsont'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI',
               u'Kr\xe4kningar, dyspepsi, dysfagi, muns\xe5r, gingival bl\xf6dning, glossit , stomatit, flatulens, f\xf6rstoppning, muntorrhet'],
              ['Skin',
@@ -67,7 +79,11 @@
              ['Immune system', u'idiopatisk eller trombotisk trombocytopen purpura'],
              ['Eye', u'Synf\xf6rlust'],
              ['Skin',
+<<<<<<< HEAD
               u'Toxisk epidermal nekrolys, Stevens-Johnso n syndrom, angio\xf6dem, erythema multiforme']]]],
+=======
+              u'Toxisk epidermal nekrolys, Stevens-Johnson syndrom, angio\xf6dem, erythema multiforme']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_note': u' ?MSFU',
  '_pages': [11, 14],
  u'_rank': 53,

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['Vascular', u'Palpitationer'], ['Nervous system', u'Huvudv\xe4rk, tremor']]],
            ['Uncommon',
@@ -18,4 +19,23 @@
              ['Metabolism', u'Hyperglukemi']]]],
  '_pages': [4, 5],
  u'_rank': 13,
+=======
+{'_data': [['Common', [['Vascular', u'Palpitationer']]],
+           ['Uncommon',
+            [['Cardiac', u'Takykardi'],
+             ['Psychiatric', u'Oro, rastl\xf6shet, s\xf6mnst\xf6rningar']]],
+           ['Rare',
+            [['Cardiac',
+              u'Hj\xe4rtarrytmier t ex f\xf6rmaksflimmer,  supraventrikul\xe4r takykardi, extrasystolier'],
+             ['Immune system',
+              u'\xd6verk\xe4nslighetsreaktioner t ex bronkospasm,  exantem, urtikaria, kl\xe5da'],
+             ['GI', u'Illam\xe5ende']]],
+           ['Very rare',
+            [['Vascular', u'Variationer i blodtryck'],
+             ['Cardiac', u'Angina pectoris, f\xf6rl\xe4ngning av QTc-  intervallet'],
+             ['Nervous system', u'Smakf\xf6r\xe4ndringar, yrsel'],
+             ['GI', u'Hyperglukemi']]]],
+ '_pages': [4, 5],
+ u'_rank': 10,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

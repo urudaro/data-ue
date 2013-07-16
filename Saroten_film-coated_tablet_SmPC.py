@@ -2,7 +2,11 @@
             [['General',
               u'Desorientering, huvudv\xe4rk, koncentrationssv\xe5righeter,   tr\xf6tthet, d\xe5sighet, svettning, aptit\xf6kning, vikt\xf6kning, yrsel.'],
              ['Vascular',
+<<<<<<< HEAD
               u'Palpitationer, takykardi, EKG-f\xf6r\xe4ndringar (fr\xe4mst  QT-f\xf6rl\xe4ngning, flack eller inverterad T-v\xe5g), AV-block, ortostatiskt  blodtrycksfall.'],
+=======
+              u'Palpitationer, takykardi, EKG-f\xf6r\xe4ndringar (fr\xe4mst QT-  f\xf6rl\xe4ngning, flack eller inverterad T-v\xe5g), AV-block, ortostatiskt  blodtrycksfall.'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Endocrine', u'Rubbning av libido och potens.'],
              ['GI',
               u'Illam\xe5ende, obstipation, muntorrhet, f\xf6r\xe4ndrad smakuppfattning.'],

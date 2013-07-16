@@ -28,10 +28,18 @@
              ['Renal', u'Urinretention Reproduktionsorgan och br\xf6stk\xf6rtel'],
              ['Renal',
               u'Amenorr\xe9, impotens Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+<<<<<<< HEAD
              ['Renal', u'Perifert \xf6dem, t\xf6rst, abstinenssyndrom, sjukdomsk\xe4nsla']]],
            ['Rare',
             [['Immune system',
               u'Allergiska reaktioner, anafylaktoida reaktioner, anafylaktiska reaktioner']]],
+=======
+             ['Renal',
+              u'Perifert \xf6dem, t\xf6rst, abstinenssyndrom, sjukdomsk\xe4nsla *se avsnitt 4.4']]],
+           ['Rare',
+            [['Immune system',
+              u'(>1/10 000, <1/1 000) Allergiska reaktioner, anafylaktoida reaktioner, anafylaktiska reaktioner']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare', [['Hepato', u'F\xf6rh\xf6jda leverenzymv\xe4rden']]]],
  '_pages': [5, 7],
  u'_rank': 25,

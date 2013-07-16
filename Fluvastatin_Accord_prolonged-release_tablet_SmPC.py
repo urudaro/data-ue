@@ -16,7 +16,11 @@
              ['Skin',
               u'Andra hudreaktioner (t.ex. eksem, dermatit, bull\xf6st exantem), ansikts\xf6dem, angio\xf6dem.'],
              ['Musculoskeletal',
+<<<<<<< HEAD
               u'Rabdomyolys, myosit, lupus erytematosus-liknande reaktioner.']]]],
+=======
+              u'Rabdomyolys, myosit, lupus erytematosus- liknande reaktioner.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [6, 8],
  u'_rank': 13,
  u'_type': u'LSFU'}

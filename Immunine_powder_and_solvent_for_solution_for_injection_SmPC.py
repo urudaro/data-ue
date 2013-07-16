@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Uncommon', [['Respiratory', u'Halsirritation'], ['Skin', u'Utslag']]],
            ['Rare',
             [['Respiratory', u'Orofaryngeal sm\xe4rta'],
@@ -8,12 +9,21 @@
             [['Blood', u'Utveckling av inhibitorer'],
              ['Blood', u'Disseminerad intravaskul\xe4r  koagulation'],
              ['Immune system', u'Allergiska reaktioner'],
+=======
+{'_data': [['Uncommon', [['Respiratory', u'Halsirritation']]],
+           ['Rare', [['General', u'Feber  infusionsst\xe4llet']]],
+           ['Unknown',
+            [['Immune system', u'Allergiska reaktioner'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Immune system', u'Anafylaktisk reaktion'],
              ['Immune system', u'Angio\xf6dem'],
              ['Immune system', u'N\xe4sselfeber  Vid f\xf6rekomst av inhibitorer'],
              ['Immune system', u'Serumsjuka'],
              ['Immune system', u'\xd6verk\xe4nslighetsreaktion'],
+<<<<<<< HEAD
              ['Nervous system', u'Huvudv\xe4rk'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Rastl\xf6shet'],
              ['Nervous system', u'Stickningar'],
              ['Cardiac', u'Myokardiell infarkt'],
@@ -27,6 +37,7 @@
              ['Respiratory', u'Dyspn\xe9'],
              ['GI', u'Illam\xe5ende'],
              ['GI', u'Kr\xe4kning'],
+<<<<<<< HEAD
              ['Skin', u'Urtikaria'],
              ['Renal', u'Nefrotiskt syndrom'],
              ['General', u'Frossa'],
@@ -35,4 +46,12 @@
              ['General', u'Tr\xe5nghetsk\xe4nsla i br\xf6stet']]]],
  '_pages': [4, 6],
  u'_rank': 34,
+=======
+             ['GI', u'Urtikaria'],
+             ['Renal', u'Nefrotiskt syndrom'],
+             ['General', u'Letargi'],
+             ['General', u'Tr\xe5nghetsk\xe4nsla i br\xf6stet']]]],
+ '_pages': [4, 6],
+ u'_rank': 25,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

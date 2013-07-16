@@ -15,7 +15,11 @@
              ['Skin', u'Kl\xe5da, urticaria'],
              ['Musculoskeletal', u'Myosit'],
              ['General',
+<<<<<<< HEAD
               u'injektionsst\xe4llet \xf6ver en eller b\xe5da lederna f\xf6rekommer efter administrering av Triaxis till ungdomar och vuxna. Dessa reaktioner b\xf6rjar vanligtvis inom 24\u201372 timmar efter vaccination, kan f\xf6rknippas med erytem, v\xe4rme, \xf6mhet eller sm\xe4rta vid injektionsst\xe4llet och g\xe5r \xf6ver spontant inom 3\u20135 dagar. Bl\xe5m\xe4rke vid injektionsst\xe4llet, steril abscess vid injektionsst\xe4llet.']]]],
+=======
+              u'Stora reaktioner vid injektionsst\xe4llet (>50 mm), \xe4ven omfattande svullnad av armen fr\xe5n injektionsst\xe4llet \xf6ver en eller b\xe5da lederna f\xf6rekommer efter administrering av Triaxis till ungdomar och vuxna. Dessa reaktioner b\xf6rjar vanligtvis inom 24\u201372 timmar efter vaccination, kan f\xf6rknippas med erytem, v\xe4rme, \xf6mhet eller sm\xe4rta vid injektionsst\xe4llet och g\xe5r \xf6ver spontant inom 3\u20135 dagar. Bl\xe5m\xe4rke vid injektionsst\xe4llet, steril abscess vid injektionsst\xe4llet.']]]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  '_pages': [4, 6],
  u'_rank': 12,
  u'_type': u'LSFU'}

@@ -14,8 +14,16 @@
             [['Nervous system', u'S\xe4nkt medvetandegrad'],
              ['Hepato', u'F\xf6rh\xf6jda leverenzymv\xe4rden'],
              ['Skin', u'hyperhidros, angioneurotiskt \xf6dem'],
+<<<<<<< HEAD
              ['Injury',
               u'Fallolyckor (fr\xe4mst hos \xe4ldre patienter och n\xe4r zolpidem inte tas enligt f\xf6reskrift)']]]],
  '_pages': [5, 6],
  u'_rank': 11,
+=======
+             ['General', u'G\xe5ngrubbning, l\xe4kemedelstolerans'],
+             ['Injury',
+              u'Fallolyckor (fr\xe4mst hos \xe4ldre patienter och n\xe4r zolpidem inte tas enligt f\xf6reskrift)']]]],
+ '_pages': [5, 6],
+ u'_rank': 12,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

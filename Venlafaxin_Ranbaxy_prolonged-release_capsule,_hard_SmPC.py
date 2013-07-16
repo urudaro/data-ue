@@ -5,9 +5,15 @@
            ['Common',
             [['Metabolism', u'Nedsatt aptit'],
              ['Psychiatric',
+<<<<<<< HEAD
               u'F\xf6rvirring, personlighets-f\xf6r\xe4 ndring, anorgasmi, s\xe4nkt libido, nervositet, s\xf6mnl\xf6shet, onormala dr\xf6mmar'],
              ['Nervous system', u'S\xf6mnl\xf6shet, tremor, parestesier, hypertoni'],
              ['Eye', u'Synrubbningar inklusive dimsyn, mydriasis, ackomodations-ru bbningar'],
+=======
+              u'F\xf6rvirring, personlighets-f\xf6r\xe4ndring, anorgasmi, s\xe4nkt libido, nervositet, s\xf6mnl\xf6shet, onormala dr\xf6mmar'],
+             ['Nervous system', u'S\xf6mnl\xf6shet, tremor, parestesier, hypertoni'],
+             ['Eye', u'Synrubbningar inklusive dimsyn, mydriasis, ackomodations-rubbningar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Ear', u'Tinnitus'],
              ['Vascular',
               u'Hypertoni, vasodilatation (mest v\xe4rmevallningar/ blodvallningar)'],
@@ -15,7 +21,11 @@
              ['GI', u'Kr\xe4kning, diarr\xe9, f\xf6rstoppning'],
              ['Renal', u'Dysuri (mest sv\xe5righeter att komma ig\xe5ng), pollakiuri'],
              ['Reproductive system',
+<<<<<<< HEAD
               u'Menstruations-st\xf6 rningar s\xe5som \xf6kad bl\xf6dning eller mer oregelbunden bl\xf6dning (t ex menorragi, metrorragi), ejakulationsstr\xf6rn ingar, erektil dysfunktion'],
+=======
+              u'Menstruations-st\xf6rningar s\xe5som \xf6kad bl\xf6dning eller mer oregelbunden bl\xf6dning (t ex menorragi, metrorragi), ejakulationsstr\xf6rn ingar, erektil dysfunktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['General', u'Asteni, tr\xf6tthet, frossa'],
              ['Investigations', u'F\xf6rh\xf6jt serumkolesterol,']]],
            ['Uncommon',
@@ -42,10 +52,17 @@
              ['Metabolism', u'Hyponatremi'],
              ['Psychiatric', u'Suicidalt beteende* delirium, aggression**'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Malignt neuroleptika-syn drom (NMS), serotonergt syndrom, extrapyramidala reaktioner (inklusive dystoni och dyskinesi), tardiv dyskinesi'],
              ['Eye', u'Glaukom med sluten kammarvinkel'],
              ['Ear', u'Vertigo'],
              ['Vascular', u'Hypertoni, bl\xf6dningar (slemhinne-bl\xf6d ning)'],
+=======
+              u'Malignt neuroleptika-syndrom (NMS), serotonergt syndrom, extrapyramidala reaktioner (inklusive dystoni och dyskinesi), tardiv dyskinesi'],
+             ['Eye', u'Glaukom med sluten kammarvinkel'],
+             ['Ear', u'Vertigo'],
+             ['Vascular', u'Hypertoni, bl\xf6dningar (slemhinne-bl\xf6dning)'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Respiratory', u'Pulmonell eosinofili'],
              ['GI', u'Pankreatit'],
              ['Skin',

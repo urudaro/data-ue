@@ -21,7 +21,11 @@
               u'\xd6kad eller minskad kroppsbeh\xe5ring. \xd6kad t\xf6rst.  F\xf6r\xe4ndrad matlust.  \xd6verk\xe4nslighetsreaktioner (hudrodnad, urtikaria). Parestesi.'],
              ['Vascular', u'Ansikts- och extremitets\xf6dem.'],
              ['Nervous system',
+<<<<<<< HEAD
               u'Minnes- och koncentrationsst\xf6rningar. \xc5ngestk\xe4nslor.  Hum\xf6rf\xf6r\xe4ndringar, depression (korttidsbehandling).'],
+=======
+              u'Minnes- och koncentrationsst\xf6rningar. \xc5ngestk\xe4nslor. Hum\xf6rf\xf6r\xe4ndringar,  depression (korttidsbehandling).'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Endocrine', u'Laktation.'],
              ['Skin', u'Spruckna naglar.'],
              ['Hepato', u'\xd6kning av bilirubin och leverenzymer (transaminaser).'],

@@ -7,7 +7,12 @@
             [['Nervous system', u'huvudv\xe4rk, yrsel, oral parestesi och somnolens'],
              ['Cardiac', u'takykardi'],
              ['GI', u'diarr\xe9, buksm\xe4rtor, kr\xe4kning'],
+<<<<<<< HEAD
              ['General', u'sm\xe4rta']]],
+=======
+             ['General',
+              u'sm\xe4rta *Studiedata tyder p\xe5 att asiatiska patienter kan vara k\xe4nsligare f\xf6r abnorma leverfunktionsv\xe4rden \u2013 3,2% (194/5995) f\xf6r asiatiska patienter och 1,8% (100/5641) f\xf6r kaukasiska patienter.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Uncommon',
             [['Blood', u'anemi'],
              ['Immune system', u'anafylaktisk reaktion, angio\xf6dem'],

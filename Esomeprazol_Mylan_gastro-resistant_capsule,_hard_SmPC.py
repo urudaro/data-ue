@@ -1,13 +1,22 @@
 {'_data': [['Common',
+<<<<<<< HEAD
             [['Nervous system', u'Huvudv\xe4r k'],
              ['GI',
               u'Buksm\xe4rto r, f\xf6rstoppni ng, diarr\xe9, gasbildnin g, illam\xe5ende /kr\xe4kninga r']]],
            ['Uncommon',
             [['Metabolism', u'Perifert \xf6dem'],
+=======
+            [['Nervous system', u'Huvudv\xe4rk'],
+             ['GI',
+              u'Buksm\xe4rtor, f\xf6rstoppning, diarr\xe9, gasbildning, illam\xe5ende/kr\xe4kningar']]],
+           ['Uncommon',
+            [['Metabolism', u'Perifert \xf6dem Hyponatremi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'S\xf6mnl\xf6shet'],
              ['Nervous system', u'Yrsel, parestesier, s\xf6mnighet'],
              ['Ear', u'Vertigo'],
              ['GI', u'Muntorrhet'],
+<<<<<<< HEAD
              ['Hepato', u'F\xf6rh\xf6jning av leverezym'],
              ['Skin', u'Dermatit, kl\xe5da, n\xe4sselutslag'],
              ['Musculoskeletal', u'H\xf6ft-, handleds-eller kotfrakturer (se avsnitt 4.4)']]],
@@ -16,6 +25,14 @@
              ['Immune system',
               u'\xd6verk\xe4nslighet sreaktioner s\xe5som feber, angio\xf6dem och anafylaktisk reaction/chock'],
              ['Metabolism', u'Hyponatremi'],
+=======
+             ['Hepato', u'F\xf6rh\xf6jning av leverenzymer'],
+             ['Skin', u'Dermatit, kl\xe5da, n\xe4sselutslag']]],
+           ['Rare',
+            [['Blood', u'Leukopeni, trombocytopeni'],
+             ['Immune system',
+              u'\xd6verk\xe4nslighetsreaktioner s\xe5som feber, angio\xf6dem och anafylaktisk reaktion/chock'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric', u'Agitation, f\xf6rvirring, depression'],
              ['Nervous system', u'Smakf\xf6r\xe4ndringar'],
              ['Eye', u'Dimsyn'],
@@ -23,6 +40,7 @@
              ['GI', u'Stomatit, gastrointestinal candidiasis'],
              ['Hepato', u'Hepatit med eller utan gulsot'],
              ['Skin', u'H\xe5ravfall, fotosensitivitet'],
+<<<<<<< HEAD
              ['Musculoskeletal', u'Atralgi, myalgi Muskelsvaghet'],
              ['General', u'Allm\xe4n sjukdomsk\xe4nsla, \xf6kad svettning']]],
            ['Very rare',
@@ -40,4 +58,21 @@
  '_note': u' ?MSFU',
  '_pages': [8, 9],
  u'_rank': 30,
+=======
+             ['Musculoskeletal', u'Artralgi, myalgi'],
+             ['General', u'Allm\xe4n sjukdomsk\xe4nsla, \xf6kad svettning']]],
+           ['Very rare',
+            [['Blood', u'Agranulocytos, pancytopeni'],
+             ['Metabolism', u'Hypomagnesi'],
+             ['Psychiatric', u'Aggression, hallucinationer'],
+             ['Hepato', u'Leversvikt, encefalopati hos leversjuka patienter'],
+             ['Skin',
+              u'Erytema multiforme, Stevens-Johnsons syndrom, toxisk epidermal nekrolys (TEN)'],
+             ['Musculoskeletal', u'Muskelsvaghet'],
+             ['Renal', u'Interstitiell nefrit'],
+             ['Pregnancy', u'Gynekomasti']]]],
+ '_note': u' ?MSFU',
+ '_pages': [7, 9],
+ u'_rank': 28,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'MSFU'}

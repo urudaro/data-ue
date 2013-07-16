@@ -6,7 +6,10 @@
              ['Cardiac', u'Hj\xe4rtinfarkt arytmi (inkl. bradykardi, ventrikul\xe4r'],
              ['Vascular', u'Vaskulit'],
              ['Respiratory', u'Hosta'],
+<<<<<<< HEAD
              ['GI', u'Pankreatit,'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'Hepatit,'],
              ['Skin', u'Angio\xf6dem, erythema multiforme, urtikaria, exfoliativ']]],
            ['Common',
@@ -18,6 +21,7 @@
              ['Musculoskeletal', u'Ankelsvullnad'],
              ['General', u'\xd6dem,  tr\xf6tthet']]],
            ['Uncommon',
+<<<<<<< HEAD
             [['Psychiatric',
               u'Insomnia, hum\xf6rsv\xe4ngningar (inklusive \xe5ngest),  depression'],
              ['Nervous system', u'Tremor,  dysgeusi, svimning,  hypestesi, parestesi'],
@@ -34,6 +38,11 @@
              ['Reproductive system', u'Impotens, gynekomasti'],
              ['General', u'Br\xf6stsm\xe4rtor, asteni,  v\xe4rk, sjukdomsk\xe4nsla'],
              ['Investigations', u'Vikt\xf6kning, viktminskning']]],
+=======
+            [['Nervous system', u'Tremor,  dysgeusi, svimning, hypestesi, parestesi'],
+             ['Vascular', u'Hypotoni'],
+             ['Musculoskeletal', u'Artralgi.  myalgi, muskelkramper, ryggsm\xe4rtor']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Rare',
             [['Blood', u''],
              ['Immune system', u''],
@@ -43,10 +52,17 @@
              ['Cardiac', u'takykardi och f\xf6rmaksflimmer)'],
              ['Vascular', u''],
              ['Respiratory', u''],
+<<<<<<< HEAD
              ['GI', u'gastrit,  gingival hyperplasi'],
+=======
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Hepato', u'gulsot,  f\xf6rh\xf6jda leverenzymer*'],
              ['Skin',
               u'dermatit, Stevens-Johnsons syndrom, Quinckes \xf6dem,  fotosensibilitet']]]],
  '_pages': [4, 6],
+<<<<<<< HEAD
  u'_rank': 35,
+=======
+ u'_rank': 23,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

@@ -1,6 +1,10 @@
 {'_data': [['Very common',
             [['GI',
+<<<<<<< HEAD
               u'): L\xe4tta buksm\xe4rtor, meteorism, flatulens i b\xf6rjan av behandlingen.']]],
+=======
+              u') : L\xe4tta buksm\xe4rtor, meteorism, flatulens i b\xf6rjan av behandlingen.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Common', [['GI', u'Illam\xe5ende, kr\xe4kningar, diarr\xe9 vid h\xf6ga doser.']]],
            ['Rare',
             [['Metabolism',

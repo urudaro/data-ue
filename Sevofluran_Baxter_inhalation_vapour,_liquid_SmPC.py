@@ -2,6 +2,7 @@
             [['Psychiatric', u'Agitation'],
              ['Cardiac', u'Bradykardi'],
              ['Vascular', u'Hypotoni'],
+<<<<<<< HEAD
              ['Respiratory', u'Hosta'],
              ['GI', u'Illam\xe5ende  Kr\xe4kning']]],
            ['Common',
@@ -12,13 +13,26 @@
               u'Respiratoriska st\xf6rningar  Respiratorisk depression Laryngospasm'],
              ['GI', u'Hypersekretion av saliv'],
              ['General', u'Frossa  Pyrexi'],
+=======
+             ['GI', u'Illam\xe5ende  Kr\xe4kning']]],
+           ['Common',
+            [['Cardiac', u'Takykardi'],
+             ['Vascular', u'Hypertoni'],
+             ['Vascular',
+              u'Respiratoriska st\xf6rningar  Respiratorisk depression Laryngospasm'],
+             ['GI', u'Hypersekretion av saliv'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations',
               u'Avvikande blodglukos  Avvikande leverfunktionstest Avvikande antal vita blodkroppar F\xf6rh\xf6jd blodfosfor F\xf6rh\xf6jd serumkreatinin'],
              ['Injury', u'Hypotermi']]],
            ['Uncommon',
             [['Cardiac',
               u'Fullst\xe4ndig atrioventrikul\xe4rt  block Kardiella arytmier (inklusive ventrikul\xe4ra arytmier), f\xf6rmaksflimmer, extrasystole (ventrikul\xe4r, supraventrikul\xe4r, bigenimi)'],
+<<<<<<< HEAD
              ['Respiratory', u'Andningsstillest\xe5nd  Astma Hypoxi'],
+=======
+             ['Vascular', u'Andningsstillest\xe5nd  Astma Hypoxi'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Investigations', u'']]],
            ['Unknown',
             [['Immune system',
@@ -26,10 +40,19 @@
              ['Psychiatric', u'F\xf6rvirring'],
              ['Nervous system', u'Krampanfall  Dystoni'],
              ['Cardiac', u'Hj\xe4rtstillest\xe5nd'],
+<<<<<<< HEAD
              ['Respiratory', u'Bronkospasm  Dyspn\xe9 V\xe4sande andning'],
              ['Hepato', u'Hepatit  Leversvikt Levernekros'],
              ['Skin', u'Kontaktdermatit  Kl\xe5da Utslag Svullnad i ansiktet N\xe4sselutslag'],
              ['General', u'Obehag i br\xf6stet  Malign hypertermi']]]],
  '_pages': [7, 10],
  u'_rank': 23,
+=======
+             ['Vascular', u'Bronkospasm  Dyspn\xe9 V\xe4sande andning'],
+             ['Hepato', u'Hepatit  Leversvikt Levernekros'],
+             ['Skin', u'Kontaktdermatit  Kl\xe5da Utslag Svullnad i ansiktet N\xe4sselutslag'],
+             ['Skin', u'Obehag i br\xf6stet  Malign hypertermi']]]],
+ '_pages': [7, 10],
+ u'_rank': 20,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'TSFU'}

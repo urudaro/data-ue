@@ -25,7 +25,11 @@
              ['Skin', u'\xf6verk\xe4nslighetsreaktioner s\xe5som kl\xe5da, rodnad, utslag'],
              ['Reproductive system', u'potensst\xf6rningar.'],
              ['Investigations',
+<<<<<<< HEAD
               u'f\xf6rh\xf6jda triglycerider, f\xf6rh\xf6jda leverenzymer (ALAT, ASAT)']]],
+=======
+              u'f\xf6rh\xf6jda triglycerider, f\xf6rh\xf6jda leverenzymer (ALAT, ASAT) * Dessa symtom upptr\xe4der framf\xf6rallt i b\xf6rjan av behandlingen, symtomen \xe4r vanligen milda och f\xf6rsvinner oftast inom 1 till 2 veckor.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare',
             [['Eye', u'konjunktivit.'],
              ['Skin',

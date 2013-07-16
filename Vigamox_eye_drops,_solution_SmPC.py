@@ -11,7 +11,11 @@
               u'N\xe4sobehag, faryngolaryngeal sm\xe4rta, k\xe4nsla av fr\xe4mmande kropp (i svalget)'],
              ['GI', u'Kr\xe4kning'],
              ['Hepato',
+<<<<<<< HEAD
               u'F\xf6rh\xf6jt alaninaminotransferas, f\xf6rh\xf6jt gammaglutamyltransferas med l\xe4kemedlet inkluderar f\xf6ljande. Frekvenskategorin f\xf6r dessa biverkningar \xe4r ok\xe4nd och kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data.']]],
+=======
+              u'F\xf6rh\xf6jt alaninaminotransferas, f\xf6rh\xf6jt gammaglutamyltransferas Biverkningar som identifierats efter godk\xe4nnandet och som inte tidigare rapporterats i kliniska pr\xf6vningar med l\xe4kemedlet inkluderar f\xf6ljande. Frekvenskategorin f\xf6r dessa biverkningar \xe4r ok\xe4nd och kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Unknown',
             [['Cardiac', u'Palpitationer'],
              ['Nervous system', u'Yrsel'],

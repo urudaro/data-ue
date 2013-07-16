@@ -4,13 +4,21 @@
               u'Dystoni, akatisi, extrapyramidal st\xf6rning, parkinsonism (inklusive kugghjulsstelhet, bradykinesi, hypokinesi) tremor, yrsel, sedation, somnolens, huvudv\xe4rk'],
              ['Eye', u'Dimsyn'],
              ['GI',
+<<<<<<< HEAD
               u'Illam\xe5ende, kr\xe4kningar, f\xf6rstoppning, dyspepsi, muntorrhet, hypersalivering'],
+=======
+              u'Illam\xe5ende, kr\xe4kningar, f\xf6rstoppning, dyspepsi, muntorrhet, hypersalivering Organsystem Biverkningar Frekvens'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Musculoskeletal', u'Muskuloskeletal stelhet'],
              ['General', u'Asteni, tr\xf6tthet']]],
            ['Uncommon',
             [['Metabolism', u'\xd6kad aptit'],
+<<<<<<< HEAD
              ['Psychiatric',
               u'Agitation, oro, tr\xe5nghetsk\xe4nsla i halsen, mardr\xf6mmar Organsystem Biverkningar Frekvens'],
+=======
+             ['Psychiatric', u'Agitation, oro, tr\xe5nghetsk\xe4nsla i halsen, mardr\xf6mmar'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system',
               u'Generaliserad tonisk-klonisk kramp, tardiv dyskinesi, dyskinesi, \xf6kat salivfl\xf6de, ataxi, dysartri, okulogyr kris, koncentrationsst\xf6rning, hypersomni, hypoestesi, parestesi, letargi'],
              ['Cardiac', u'Palpitationer, takykardi'],
@@ -27,7 +35,11 @@
               u'Obehagsk\xe4nsla i br\xf6stkorgen, onormal g\xe5ng, sm\xe4rta, t\xf6rst']]],
            ['Rare',
             [['Infections', u'Rinit'],
+<<<<<<< HEAD
              ['Metabolism', u'Hypokalcemi'],
+=======
+             ['Metabolism', u'Hypokalcemi Organsystem Biverkningar Frekvens'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Psychiatric',
               u'Panik\xe5ngest, depressiva symtom, bradyfreni, emotionell avtrubbning, anorgasmi'],
              ['Nervous system',
@@ -39,8 +51,12 @@
              ['Vascular',
               u'Systolisk hypertension, diastolisk hypertension, instabilt blodtryck'],
              ['Respiratory', u'Hicka'],
+<<<<<<< HEAD
              ['GI',
               u'Gastroesofagal reflux, l\xf6s avf\xf6ring Organsystem Biverkningar Frekvens'],
+=======
+             ['GI', u'Gastroesofagal reflux, l\xf6s avf\xf6ring'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Skin',
               u'Psoriasis, allergisk dermatit, alopeci, ansiktssvullnad, erytem, papul\xe4ra utslag, hudirritation'],
              ['Musculoskeletal', u'Trismus'],

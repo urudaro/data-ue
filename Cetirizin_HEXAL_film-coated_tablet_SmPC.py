@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 {'_data': [['Common',
             [['Respiratory',
               u'(>1/1000, <1/100); s\xe4llsynta (>1/10 000, <1/1000); mycket s\xe4llsynta (<1/10 000); ingen k\xe4nd  frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).']]],
            ['Uncommon',
             [['Psychiatric', u'Agitation'],
+=======
+{'_data': [['Uncommon',
+            [['Respiratory',
+              u'(>1/1000, <1/100); s\xe4llsynta (>1/10 000, <1/1000); mycket s\xe4llsynta (<1/10 000); ingen k\xe4nd frekvens (kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data).'],
+             ['Psychiatric', u'Agitation'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Parestesi'],
              ['GI', u'Diarr\xe9'],
              ['Skin', u'Kl\xe5da, utslag'],
@@ -21,12 +28,22 @@
             [['Blood', u'Trombocytopeni'],
              ['Immune system', u'Anafylaktisk chock'],
              ['Psychiatric', u'Tics'],
+<<<<<<< HEAD
              ['Nervous system', u'Dysgeusi, synkope, tremor, dystoni, dyskinesi'],
+=======
+             ['Nervous system',
+              u'Dysgeusi, synkope, tremor, dystoni, dyskinesi : amnesi, nedsatt minnesf\xf6rm\xe5ga'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Eye', u'Ackommodationsst\xf6rningar, dimsyn, okulogyr kris'],
              ['Skin', u'Angioneurotiskt \xf6dem, fixt l\xe4kemedelsutslag'],
              ['Renal', u'Dysuri, enures']]],
            ['Unknown',
+<<<<<<< HEAD
             [['General', u'Tr\xf6tthet'],
+=======
+            [['Nervous system',
+              u'stimulering rapporterats. \xc4ven om cetirizin \xe4r en selektiv antagonist till perifera H -receptorer och \xe4r relativt fritt fr\xe5n antikolinerg aktivitet, har enstaka fall av urineringssv\xe5righeter, ackommodationsst\xf6rningar i \xf6gonen och muntorrhet rapporterats. Tillf\xe4llen med onormal leverfunktion med f\xf6rh\xf6jda leverenzymer f\xf6ljt av f\xf6rh\xf6jt bilirubin har rapporterats. Detta upph\xf6r oftast vid avbrytande av behandlingen med cetirizindihydroklorid. Kliniska pr\xf6vningar Dubbelblinda kontrollerade kliniska eller farmakokliniska pr\xf6vningar som j\xe4mf\xf6rt cetirizin med placebo eller andra antihistaminer vid rekommenderad dos (10 mg dagligen f\xf6r cetirizin), f\xf6r vilka kvantifierade s\xe4kerhetsdata finns tillg\xe4ngliga, inkluderade mer \xe4n 3200 personer som exponerats f\xf6r cetirizin. Fr\xe5n dessa poolade data rapporterades f\xf6ljande biverkningar f\xf6r cetirizin 10 mg, i de placebokontrollerade studierna, med frekvenser p\xe5 1,0% eller mer: Biverkning (WHO-ART) Cetirizin 10 mg Placebo (n = 3260) (n = 3061) Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet 1,63 % 0,95 % Tr\xf6tthet'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Nervous system', u'Yrsel 1,10 % 0,98 % Huvudv\xe4rk 7,42 % 8,07 %'],
              ['GI',
               u'Buksm\xe4rta 0,98 % 1,08 % Muntorrhet 2,09 % 0,82 % Illam\xe5ende 1,07 % 1,14 %'],
@@ -36,8 +53,14 @@
              ['GI', u'Diarr\xe9 1,0 % 0,6 %'],
              ['Psychiatric', u'S\xf6mnighet 1,8 % 1,4 %'],
              ['Respiratory',
+<<<<<<< HEAD
               u'Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet 1,0 % 0,3 % Tr\xf6tthet Erfarenhet efter marknadsf\xf6ringen Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har fall av f\xf6ljande biverkningar rapporterats efter marknadsf\xf6ringen. Biverkningar \xe4r listade enligt MedDRA organklass system och efter estimerad frekvens baserat p\xe5 erfarenhet sedan preparatet godk\xe4nts f\xf6r f\xf6rs\xe4ljning. Frekvensen definieras enligt f\xf6ljande: Mycket vanliga (\u22651/10); vanliga (\u22651/100, <1/10); mindre'],
              ['Nervous system', u'amnesi, nedsatt minnesf\xf6rm\xe5ga']]]],
  '_pages': [3, 5],
  u'_rank': 30,
+=======
+              u'Rinit 1,4 % 1,1 % Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet 1,0 % 0,3 % Tr\xf6tthet Erfarenhet efter marknadsf\xf6ringen Ut\xf6ver de biverkningar som rapporterats i kliniska pr\xf6vningar och som angetts ovan har fall av f\xf6ljande biverkningar rapporterats efter marknadsf\xf6ringen. Biverkningar \xe4r listade enligt MedDRA organklass system och efter estimerad frekvens baserat p\xe5 erfarenhet sedan preparatet godk\xe4nts f\xf6r f\xf6rs\xe4ljning. Frekvensen definieras enligt f\xf6ljande: Mycket vanliga (>1/10); vanliga (>1/100, <1/10);']]]],
+ '_pages': [3, 5],
+ u'_rank': 29,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}

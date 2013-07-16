@@ -45,11 +45,20 @@
              ['Eye', u'oliguri Reproduktionsorgan och br\xf6stk\xf6rtel'],
              ['Eye',
               u'gynekomasti Allm\xe4nna symptom och/eller symptom vid administreringsst\xe4llet'],
+<<<<<<< HEAD
              ['Investigations', u'f\xf6rh\xf6jda leverenzymer, f\xf6rh\xf6jt serumbilirubin']]],
+=======
+             ['Investigations',
+              u'f\xf6rh\xf6jda leverenzymer, f\xf6rh\xf6jt serumbilirubin *I kliniska pr\xf6vningar var incidenstalen j\xe4mf\xf6rbara med dem i placebogruppen och gruppen som fick ett aktivt kontroll\xe4kemedel.']]],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
            ['Very rare', [['Eye', u'intestinalt angio\xf6dem Lever och gallv\xe4gar']]],
            ['Unknown',
             [['Endocrine',
               u'tillst\xe5nd med inadekvat ins\xf6ndring av antidiuretiskt hormon (SIADH)']]]],
+<<<<<<< HEAD
  '_pages': [10, 11],
+=======
+ '_pages': [9, 11],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 35,
  u'_type': u'LSFU'}

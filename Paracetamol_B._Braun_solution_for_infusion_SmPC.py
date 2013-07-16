@@ -8,7 +8,11 @@
              ['General', u'Sjukdomsk\xe4nsla']]],
            ['Very rare',
             [['Blood', u'Trombocytopeni, leukopeni, neutropeni'],
+<<<<<<< HEAD
              ['Immune system', u'\xd6verk\xe4nslighetsreaktio n'],
+=======
+             ['Immune system', u'\xd6verk\xe4nslighets-reaktion'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['Cardiac', u'\u2014'],
              ['Vascular', u'\u2014'],
              ['Hepato', u'\u2014'],

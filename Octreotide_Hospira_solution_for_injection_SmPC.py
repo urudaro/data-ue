@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [[u'Unknown',
             [['Immune system', u'Hyper-   Anafylak-'],
              ['Endocrine', u'Hypotyreism,   Akut'],
@@ -15,3 +16,25 @@
  '_pages': [5, 7],
  u'_rank': 11,
  u'_type': u'LFSU'}
+=======
+{'_data': [['Common',
+            [['Immune system', u'Hyper'],
+             ['Endocrine', u'Hypotyreism,   Akut'],
+             ['Metabolism',
+              u'Hyper Minskad aptit, Dehydre-glykemi f\xf6rs\xe4mrad ring Hypoglykemi'],
+             ['Nervous system', u'Huvudv\xe4rk Yrsel'],
+             ['Cardiac', u'BradykardiTakykardi '],
+             ['Respiratory', u'Dyspn\xe9 '],
+             ['GI', u'Buksm\xe4rta,  Utsp\xe4nd buk,  Epi-illam\xe5ende'],
+             ['Skin', u'Pruritus,Urtikaria -utslag och '],
+             ['General', u'Sm\xe4rta vid'],
+             ['Investigations', u'F\xf6rh\xf6jt']]],
+           ['Rare',
+            [['Immune system', u'Anafylak-sensitivi-tisk tet, utslag  reaktion'],
+             ['GI', u'Allvarliga intestinal'],
+             ['Investigations', u'alkalinfos-blodet och transferas']]]],
+ '_note': u' ANOMALI in Headers ?MSFU ANOMALI in Headers',
+ '_pages': [5, 7],
+ u'_rank': 13,
+ u'_type': u'MSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

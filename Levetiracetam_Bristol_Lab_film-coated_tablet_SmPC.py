@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Very common',
             [['Infections', u'Nasofaryngit'], ['Nervous system', u'Somnolens, huvudv\xe4rk']]],
            ['Common',
@@ -36,3 +37,9 @@
  '_pages': [10, 13],
  u'_rank': 26,
  u'_type': u'MSFU'}
+=======
+{'_data': [['Common', [['Injury', u': skada till f\xf6ljd av olycka.  ']]]],
+ '_pages': [8, 11],
+ u'_rank': 1,
+ u'_type': u'LSFU3'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

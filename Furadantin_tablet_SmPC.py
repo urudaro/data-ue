@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {'_data': [['Rare',
             [['Blood',
               u'Leukopeni, trombocytopeni. Hemolytisk anemi vid heredit\xe4r (G-6 PD)-brist i erytrocyterna. Immunsystemet S\xe4llsynta Angio\xf6dem, SLE. Centrala och perifera Mindre vanliga Perifer neuropati, huvudv\xe4rk, yrsel nervsystemet S\xe4llsynta Benign intrakraniell tryck\xf6kning, nystagmus. Andningsv\xe4gar, br\xf6stkorg Mindre vanliga Str\xe5kiga f\xf6rt\xe4tningar, infiltrat, och mediastinum pleuraexudat. Dyspn\xe9, fuktiga rassel, astmatiska symtom.'],
@@ -10,3 +11,23 @@
  '_pages': [2, 3],
  u'_rank': 4,
  u'_type': u'LSFU'}
+=======
+{'_data': [['Uncommon',
+            [['Blood', u'Leukocytos, eosinofili.'],
+             ['GI', u'Illam\xe5ende, kr\xe4kningar, diarr\xe9,  muntorrhet'],
+             ['Hepato',
+              u'Leverp\xe5verkan som vid kronisk aktiv  hepatit eller som cholestatisk ikterus. Transaminasstegring.'],
+             ['Skin', u'Exantem, urtikaria, kl\xe5da.']]],
+           ['Rare',
+            [['Blood',
+              u'Leukopeni, trombocytopeni.  Hemolytisk anemi vid heredit\xe4r (G-6 PD)-brist i erytrocyterna.'],
+             ['Immune system', u'Angio\xf6dem, SLE.'],
+             ['Nervous system',
+              u'Benign intrakraniell tryck\xf6kning,  nystagmus. astmatiska symtom.'],
+             ['Nervous system', u'Lungfibros.'],
+             ['GI', u'Parotit.'],
+             ['Skin', u'\xd6verg\xe5ende alopeci.']]]],
+ '_pages': [2, 3],
+ u'_rank': 10,
+ u'_type': u'TSFU'}
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc

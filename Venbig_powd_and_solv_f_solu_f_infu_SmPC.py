@@ -8,6 +8,10 @@
              ['Musculoskeletal', u'Artralgi'],
              ['General', u'Feber, allm\xe4n sjukdomsk\xe4nsla, frossa'],
              ['Renal', u'Akut njursvikt']]]],
+<<<<<<< HEAD
  '_pages': [3, 4],
+=======
+ '_pages': [4, 4],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 9,
  u'_type': u'LFSU'}

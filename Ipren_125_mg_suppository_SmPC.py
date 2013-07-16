@@ -20,6 +20,10 @@
              ['Hepato', u'Leverp\xe5verkan'],
              ['Psychiatric',
               u'Depression, konfusion Kliniska pr\xf6vningar och epidemiologiska data tyder p\xe5 att anv\xe4ndning av ibuprofen, s\xe4rskilt i h\xf6ga doser (2400 mg dagligen) och vid l\xe5ngtidsbehandling, kan medf\xf6ra en liten \xf6kad risk f\xf6r arteriella trombotiska h\xe4ndelser (till exempel hj\xe4rtinfarkt eller stroke, se avsnitt 4.4). Gastrointestinala s\xe5r, perforation eller bl\xf6dning kan ibland vara d\xf6dlig, s\xe4rskilt hos \xe4ldre (se 4.4). Ibuprofen kan orsaka f\xf6rl\xe4ngning av bl\xf6dningstiden genom reversibel h\xe4mning av trombocytaggregationen. I de flesta fall d\xe4r aseptisk meningit rapporterats har n\xe5gon form av autoimmun grundsjukdom f\xf6relegat (framf\xf6r allt systemisk lupus erytematosus och relaterade bindv\xe4vssjukdomar). \xd6dem, hypertension och hj\xe4rtsvikt samt f\xf6rs\xe4mring av ulcer\xf6s colit och Crohns sjukdom har rapporterats i samband med NSAID-behandling. I s\xe4llsynta fall f\xf6rekommer allvarliga hud- och mjukdelsinfektioner i samband med vattkoppor.']]]],
+<<<<<<< HEAD
  '_pages': [7, 8],
+=======
+ '_pages': [7, 9],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_rank': 18,
  u'_type': u'LSFU'}

@@ -1,8 +1,14 @@
 {'_data': [['Very common', [['General', u'D\xe5sighet']]],
            ['Common',
+<<<<<<< HEAD
             [['Psychiatric', u'F\xf6rvirringstill-st \xe5nd, insomnings-sv\xe5r igheter'],
              ['Vascular', u'Hypotension'],
              ['Respiratory', u'Andnings-depre ssion'],
+=======
+            [['Psychiatric', u'F\xf6rvirringstill-st\xe5nd, insomnings-sv\xe5righeter'],
+             ['Vascular', u'Hypotension'],
+             ['Respiratory', u'Andnings-depression'],
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
              ['GI', u'Illam\xe5ende, kr\xe4kning, f\xf6rstoppning, diarr\xe9'],
              ['General', u'Tr\xf6tthet, huvudv\xe4rk, yrsel']]],
            ['Uncommon',

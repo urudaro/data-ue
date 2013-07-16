@@ -20,6 +20,7 @@
              ['Cardiac',
               u'Bradykardi, takykardi, palpitationer, hj\xe4rtarytmier, \xf6verg\xe5ende ischemiska EKG-f\xf6r\xe4ndringar, spasm i hj\xe4rtats koronark\xe4rl, angina, hj\xe4rtinfarkt (se avsnitt 4.3 och 4.4).'],
              ['Vascular', u'Hypotension, Raynauds fenomen.'],
+<<<<<<< HEAD
              ['GI', u'Ischemisk kolit.'],
              ['Musculoskeletal', u'Nackstelhet.'],
              ['Investigations',
@@ -31,4 +32,13 @@
              ['Musculoskeletal', u'Artralgi.']]]],
  '_pages': [4, 5],
  u'_rank': 18,
+=======
+             ['GI', u'Ischemisk kolit. Diarr\xe9.'],
+             ['Musculoskeletal', u'Nackstelhet. Artralgi.'],
+             ['Investigations',
+              u'Mindre f\xf6r\xe4ndringar i leverfunktionstester har i enstaka fall observerats.']]],
+           ['Unknown', [['Psychiatric', u'Oro'], ['Skin', u'Hyperhidros.']]]],
+ '_pages': [4, 5],
+ u'_rank': 16,
+>>>>>>> eb0dbf7cfbd3e1c8a568eedcf6ca5658233104cc
  u'_type': u'LSFU'}
