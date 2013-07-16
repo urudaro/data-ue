@@ -1,0 +1,12 @@
+{'_data': [['Rare',
+            [['Skin',
+              u'Urtikaria. Nio fall (0,06 %) av urtikaria rapporterades i Silgardgruppen och 20 fall (0,15 %) s\xe5gs i den grupp som fick adjuvansinneh\xe5llande placebo. I kliniska pr\xf6vningar rapporterade individer i s\xe4kerhetspopulationen alla nya medicinska symtom under en uppf\xf6ljningsperiod. Av 15 706 individer som f\xe5tt Silgard och 13 617 individer som f\xe5tt placebo rapporterades 39 fall av ickespecifik artrit/artropati, 24 fall i Silgardgruppen och 15 fall i placebogruppen. I en klinisk studie med totalt 843 friska pojkar och flickor i \xe5ldrarna 11\u201317 visade administrering av den f\xf6rsta dosen Silgard samtidigt med ett kombinerat difteri-, stelkramps-, kikhoste- [acellul\xe4rt, komponent] och polio- [inaktiverat] booster-vaccin att det oftare rapporterades svullnad p\xe5 injektionsst\xe4llet samt huvudv\xe4rk efter samtidig administrering. De skillnader som observerades var <10 %, och hos majoriteten av f\xf6rs\xf6kspersonerna rapporterades biverkningarna vara milda till m\xe5ttliga i intensitet.']]],
+           ['Very rare', [['Respiratory', u'bronkospasm']]],
+           ['Unknown',
+            [['Infections',
+              u'frekvens Blodet och lymfsystemet Ingen k\xe4nd Idiopatisk trombocytopen purpura*, frekvens lymfadenopati* Immunsystemet Ingen k\xe4nd \xd6verk\xe4nslighetsreaktioner, inklusive frekvens anafylaktisk/anafylaktoid reaktion* Centrala och perifera Mycket Huvudv\xe4rk nervsystemet vanliga'],
+             ['General',
+              u'Asteni*, frossa*, tr\xf6tthet*, sjukdomsk\xe4nsla* frekvens * Biverkningar efter godk\xe4nnandet f\xf6r f\xf6rs\xe4ljningen (frekvensen kan inte ber\xe4knas fr\xe5n tillg\xe4ngliga data). 1 Under kliniska pr\xf6vningar observerades yrsel som en vanlig biverkning hos kvinnor. Bland m\xe4nnen f\xf6rekom inte yrsel oftare bland dem som fick vaccinet, \xe4n bland med dem som fick placebo. Dessutom observerades i kliniska pr\xf6vningar biverkningar som ans\xe5gs vara vaccin- eller placebo relaterade av pr\xf6varen med en frekvens l\xe4gre \xe4n 1 %']]]],
+ '_pages': [5, 6],
+ u'_rank': 4,
+ u'_type': u'LSFU'}

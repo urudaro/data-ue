@@ -1,0 +1,11 @@
+{'_data': [['Common', [['Nervous system', u'Yrsel Mindre']]],
+           ['Uncommon',
+            [['GI',
+              u'Diarr\xe9, illam\xe5ende, kr\xe4kning, buksm\xe4rta,  \xf6vre buksm\xe4rta'],
+             ['Skin',
+              u'Urtikaria, pruritus, kontaktdermatit  pruritus vid injektionsst\xe4llet, svullnad vid injektionsst\xe4llet, f\xf6rflyttning av implantat'],
+             ['Investigations',
+              u'Coombs test positivt, blodtryck systolisk  s\xe4nkning, blodtryck systolisk \xf6kning, kroppstemperatur f\xf6rh\xf6jd']]]],
+ '_pages': [8, 9],
+ u'_rank': 4,
+ u'_type': u'TSFU'}

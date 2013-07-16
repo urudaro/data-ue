@@ -1,0 +1,10 @@
+{'_data': [['Very common', [['Respiratory', u'*Epistaxis']]],
+           ['Common',
+            [['Respiratory',
+              u'Nasal ulceration *Epistaxis rapporterades i allm\xe4nhet som l\xe4tt till m\xe5ttlig. Hos vuxna och ungdomar var incidensen f\xf6r epistaxis h\xf6gre vid l\xe5ngtidsbehandling (mer \xe4n 6 veckor) \xe4n vid korttidsbehandling (upp till 6 veckor). I kliniska studier p\xe5 barn upp till 12 veckors behandlingstid var incidensen f\xf6r epistaxis lika hos patienter som fick flutikasonfuroat som hos patienter som fick placebo. Systemiska effekter av nasala kortikostereoider kan f\xf6rekomma, s\xe4rskilt vid anv\xe4ndning av h\xf6ga doser under l\xe5nga perioder.']]],
+           ['Rare',
+            [['Immune system',
+              u'\xd6verk\xe4nslighetsreaktioner inklusive anafylaxi, angi\xf6dem, utslag och urtikaria.']]]],
+ '_pages': [4, 5],
+ u'_rank': 3,
+ u'_type': u'LSFU'}

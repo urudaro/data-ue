@@ -1,0 +1,10 @@
+{'_data': [['Common', []],
+           ['Rare', []],
+           ['Very rare',
+            [['Skin',
+              u'Kontaktdermatit (t ex lokalt hudutslag, kl\xe5da, erytem, \xf6dem eller papler). Bull\xf6s dermatit. Utbredda allergiska hudreaktioner, urtikaria, angio\xf6dem, ljusk\xe4nslighetsreaktioner'],
+             ['Respiratory', u'Bronkospasm']]]],
+ '_note': u' ?MSFU',
+ '_pages': [3, 4],
+ u'_rank': 2,
+ u'_type': u'MSFU'}

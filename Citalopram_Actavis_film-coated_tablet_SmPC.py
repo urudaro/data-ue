@@ -9,7 +9,7 @@
               u'Muntorrhet, illam\xe5ende, f\xf6rstoppning, diarr\xe9,   kr\xe4kning, buksm\xe4rta, dyspepsi, salivation, flatulens'],
              ['Skin', u'Rash, pruritus'],
              ['Respiratory', u'Rinit'],
-             [u'Hepato', u'Myalgi'],
+             [u'Musculoskeletal', u'Myalgi'],
              ['Psychiatric',
               u'S\xf6mnsv\xe5righeter, nervositet, \xe5ngest,   koncentrationssv\xe5righeter, agitation, dr\xf6mst\xf6rningar,  minskad libido, apati, konfusion, g\xe4spningar'],
              ['Reproductive system',

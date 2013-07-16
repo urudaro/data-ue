@@ -1,0 +1,13 @@
+{'_data': [['Unknown',
+            [['Infections',
+              u'Nasofaryngit mindre vanliga mindre vanliga frekvens mindre vanliga'],
+             ['Immune system',
+              u'\xd6verk\xe4nslighet (till exempel urtikaria, ingen k\xe4nd ingen k\xe4nd ingen k\xe4nd angio\xf6dem, mindre vanliga bronkiell frekvens frekvens frekvens hyperreaktivitet Metabolism och nutrition Hypoglykemi mycket vanliga'],
+             ['Respiratory', u'br\xf6stkorg och mediastinum'],
+             ['GI',
+              u'ingen k\xe4nd ingen k\xe4nd Pankreatit frekvens frekvens frekvens mindre vanliga F\xf6rstoppning mindre vanliga'],
+             ['Investigations',
+              u'ingen k\xe4nd F\xf6rh\xf6jt amylas mindre vanliga mindre vanliga frekvens frekvens Erfarenheter efter marknadsintroduktion']]]],
+ '_pages': [5, 7],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

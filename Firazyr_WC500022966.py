@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Nervous system', u'a, >1/100, <1/10) Yrsel Huvudv\xe4rk'],
+             ['GI', u'a, >1/100, <1/10) Illam\xe5ende'],
+             ['Skin',
+              u'a, >1/100, <1/10) Utslag Erytem Kl\xe5da Allm\xe4nna symtom och/eller symtom vid administreringsst\xe4llet'],
+             ['Skin', u'a, >1/100, <1/10) Feber'],
+             ['Investigations',
+              u'a, >1/100, <1/10) F\xf6rh\xf6jt transaminas * Bl\xe5m\xe4rken vid injektionsst\xe4llet, hematom vid injektionsst\xe4llet, br\xe4nnande k\xe4nsla vid injektionsst\xe4llet, erytem vid injektionsst\xe4llet, hypestesi vid injektionsst\xe4llet, irritation vid injektionsst\xe4llet, domning vid injektionsst\xe4llet, \xf6dem vid injektionsst\xe4llet, sm\xe4rta vid injektionsst\xe4llet, tryckk\xe4nsla vid injektionsst\xe4llet, kl\xe5da vid injektionsst\xe4llet, svullnad vid injektionsst\xe4llet, n\xe4sselutslag vid injektionsst\xe4llet och hetta vid injektionsst\xe4llet. Beskrivning av valda biverkningar Immunogenitet: Vid upprepad behandling i de kontrollerade fas III-pr\xf6vningarna observerades i s\xe4llsynta fall \xf6verg\xe5ende positivitet f\xf6r antikroppar mot ikatibant. Effekten bibeh\xf6lls hos alla patienter. En patient som behandlades med Firazyr var positiv med avseende p\xe5 antikroppar mot ikatibant f\xf6re och efter behandling med Firazyr. Denna patient f\xf6ljdes i 5 m\xe5nader och ytterligare prover var negativa med avseende p\xe5 antikroppar mot ikatibant. Ingen \xf6verk\xe4nslighet och inga allergiska reaktioner rapporterades med Firazyr.']]],
+           ['Very rare', [['Skin', u', (>1/10) Reaktioner vid injektionsst\xe4llet*']]]],
+ '_pages': [4, 5],
+ u'_rank': 6,
+ u'_type': u'LSFU'}

@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['General',
+              u'Reaktioner p\xe5 injektionsst\xe4llet,   inte    mycket vanliga   inklusive erytem, bl\xe5m\xe4rken,   kl\xe5da, svullnad, inflammation,   \xe4r'],
+             ['Nervous system', u'Huvudv\xe4rk mycket   vanliga   Yrsel vanliga'],
+             ['Ear', u'Vertigo   vanliga'],
+             ['Psychiatric', u'\xc5ngest, s\xf6mnl\xf6shet   vanliga'],
+             ['Blood', u'f\xf6rs\xe4ljning'],
+             ['General', u'godk\xe4nt']]]],
+ '_pages': [6, 7],
+ u'_rank': 6,
+ u'_type': u'LFSU'}

@@ -1,0 +1,12 @@
+{'_data': [['Common',
+            [['Nervous system', u'Yrsel, huvudv\xe4rk.'],
+             ['GI',
+              u'Illam\xe5ende, flatulens, hicka, gastrit, muntorrhet, stomatit och esofagit.']]],
+           ['Uncommon', [['Cardiac', u'Palpitationer.']]],
+           ['Rare',
+            [['Cardiac', u'F\xf6rmaksarytmier'],
+             ['Immune system',
+              u'\xd6verk\xe4nslighet, angioneurotiskt \xf6dem och anafylaktiska reaktioner. Vissa symtom s\xe5som yrsel, huvudv\xe4rk och s\xf6mnsv\xe5righeter som rapporterats kan h\xe4nf\xf6ras till abstinensbesv\xe4r vid r\xf6kavv\xe4njning och bero p\xe5 f\xf6r l\xe5g tillf\xf6rsel av nikotin. Muns\xe5r kan uppst\xe5 n\xe4r man slutar r\xf6ka, men sambandet med nikotinbehandlingen \xe4r oklart. Fortsatt nikotinberoende efter r\xf6kstopp kan f\xf6rekomma. Patienten kan fortfarande erfara nikotinberoende efter r\xf6kslut.']]]],
+ '_pages': [5, 5],
+ u'_rank': 5,
+ u'_type': u'LSFU'}

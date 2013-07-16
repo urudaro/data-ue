@@ -1,0 +1,6 @@
+{'_data': [['Unknown',
+            [['GI',
+              u'General disorders and administration site conditions Not known: inadvertent intravascular injection may lead to the development of ischaemic zones in the injection site, sometimes progressing to tissue necrosis (see also section 4.2). On account of its sodium metabisulphite content, the product can precipitate hypersensitivity reactions, particularly in patients with bronchial asthma. Such reactions may manifest in vomiting, diarrhoea, wheezing, acute asthma attacks, impaired consciousness or shock. Paediatric population: In published studies, the safety profile was similar in children and adolescents from 4 to 18 year old compared to adults. However, accidental soft tissue injury was observed more frequently (in up to 16% of children), especially in 3 to 7 year old children, due to the prolonged soft tissue anaesthesia. In a retrospective study of 211 children aged 1 to 4 years of age, dental treatment was carried out using up to 4.2 ml of 4% articaine + 0.005 mg/ml or 0.010 mg/ml adrenaline, with no reported side effects.']]]],
+ '_pages': [6, 7],
+ u'_rank': 1,
+ u'_type': u'LSFU'}

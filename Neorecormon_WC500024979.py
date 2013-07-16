@@ -1,0 +1,11 @@
+{'_data': [[u'Unknown',
+            [['Vascular', u'Hypertensiv kris   Mindre vanlig ,1%, <1%)'],
+             ['Nervous system', u'Huvudv\xe4rk   Vanlig (>1%, <10%)'],
+             ['Blood', u'Shunttrombos   S\xe4llsynt 1%, <0,1%)'],
+             ['Vascular', u'Hypertoni   Vanlig (>1%, <10%)'],
+             ['Blood', u'Tromboembolisk   Vanlig (>1%, <10%)'],
+             ['Nervous system', u'Huvudv\xe4rk   Vanlig (>1%, <10%)'],
+             ['Nervous system', u'Huvudv\xe4rk   Vanlig (>1%, <10%)']]]],
+ '_pages': [8, 10],
+ u'_rank': 7,
+ u'_type': u'LFSU'}

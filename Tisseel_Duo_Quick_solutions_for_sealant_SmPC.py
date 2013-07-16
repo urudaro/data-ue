@@ -1,0 +1,12 @@
+{'_data': [[u'Unknown',
+            [['Cardiac', u'Bradykardi, takykardi'],
+             ['GI', u'Illam\xe5ende   \xd6verk\xe4nslighetsreaktioner'],
+             ['Immune system',
+              u'Anafylaktiska reaktioner, allergiska reaktioner, anafylaktisk chock, urtikaria   Anafylaktoida reaktioner'],
+             ['Investigations', u'Blodtrycksfall'],
+             ['Respiratory', u'Dyspn\xe9'],
+             ['Skin', u'Pruritus'],
+             ['Vascular', u'Rodnad, (allvarlig) hypotoni, tromboembolisk komplikation']]]],
+ '_pages': [3, 4],
+ u'_rank': 7,
+ u'_type': u'LFSU'}

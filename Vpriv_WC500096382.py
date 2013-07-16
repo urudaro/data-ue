@@ -1,0 +1,13 @@
+{'_data': [[u'Unknown',
+            [['Immune system', u'\xf6verk\xe4nslighetsreaktion'],
+             ['Nervous system', u'huvudv\xe4rk, yrsel'],
+             ['Cardiac', u'takykardi'],
+             ['Vascular', u'hypertoni, hypotoni, rodnad'],
+             ['GI', u'buksm\xe4rta/sm\xe4rta i bukens \xf6vre del,'],
+             ['Skin', u'utslag, urtikaria'],
+             ['Musculoskeletal', u'skelettsm\xe4rta, artralgi,   ryggsm\xe4rta'],
+             ['General', u'infusionsrelaterad reaktion,'],
+             ['Investigations', u'f\xf6rl\xe4ngd aktiverad partiell']]]],
+ '_pages': [4, 5],
+ u'_rank': 9,
+ u'_type': u'LFSU'}

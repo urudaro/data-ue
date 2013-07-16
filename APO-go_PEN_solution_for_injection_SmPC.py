@@ -11,7 +11,7 @@
              ['GI',
               u'Illam\xe5ende och kr\xe4kningar, s\xe4rskilt i b\xf6rjan av behandlingen, vanligen p\xe5 grund av att domperidon inte anv\xe4nts (se avsnitt 4.2).']]],
            ['Uncommon',
-            [['Blood',
+            [[u'GI',
               u'Hemolytisk anemi och trombocytopeni har rapporterats f\xf6r patienter som behandlats med apomorfin.'],
              ['Nervous system',
               u'Under \u201don\u201d-perioder kan apomorfin orsaka dyskinesi som i vissa fall kan vara sv\xe5r, och kan hos ett f\xe5tal patienter leda till att behandlingen m\xe5ste s\xe4ttas ut. Apomorfin har associerats med pl\xf6tsliga s\xf6mnattacker (se avsnitt 4.4).'],

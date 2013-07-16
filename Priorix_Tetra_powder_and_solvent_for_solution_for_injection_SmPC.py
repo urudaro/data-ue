@@ -1,0 +1,6 @@
+{'_data': [['Unknown',
+            [['Blood',
+              u'Thrombocytopenia, thrombocytopenic purpura Nervous system disorders: Transverse myelitis, Guillain Barr\xe9 syndrome, peripheral neuritis, encephalitis Skin and subcutaneous tissue disorders Erythema multiforme Musculoskeletal and connective tissue disorders: Arthralgia, arthritis Infections and infestations Meningitis, herpes zoster** General disorders and administration site conditions: Kawasaki syndrome Immune system disorders Allergic reactions (including anaphylactic and anaphylactoid reactions) In rare cases a mumps-like condition with an abbreviated incubation period cannot be ruled out. In isolated cases transient, painful swelling of the testicles has been reported after combined mumps, measles, rubella vaccination. ** This adverse drug reaction reported after vaccination is also a consequence of wild-type varicella infection. There is no indication of an increased risk of herpes zoster occurrence following vaccination compared with wild-type disease.']]]],
+ '_pages': [5, 6],
+ u'_rank': 1,
+ u'_type': u'LSFU'}

@@ -1,0 +1,11 @@
+{'_data': [['Rare',
+            [['Immune system',
+              u'\xd6verk\xe4nslighets-   reaktion  Centrala och perifera  Huvudv\xe4rk Yrsel'],
+             ['Nervous system', u''],
+             ['Eye', u'Okul\xe4ra   inflammationer*  \u2020'],
+             ['GI',
+              u'Gastrit,  inkluderande   Gastroeso-  esofaguss\xe5r eller   fageal  esofagusstriktur   refluxsjukdom,  och dysfagi,   Dyspepsi,  Kr\xe4kningar,   Diarr\xe9,  Flatulens   Buksm\xe4rta,  Illam\xe5ende'],
+             ['Skin', u'v\xe4vnad  Ansikts\xf6dem,   Urtikaria']]]],
+ '_pages': [6, 7],
+ u'_rank': 4,
+ u'_type': u'LFSUR'}

@@ -1,0 +1,13 @@
+{'_data': [[u'Unknown',
+            [['Psychiatric', u'Hallucinationer'],
+             ['Nervous system',
+              u'Yrsel, somnolens, insomnia, psykomotorisk, hyperaktivitet,   kramper'],
+             ['Cardiac', u'Takykardi, palpitationer'],
+             ['GI', u'Buksm\xe4rtor, illam\xe5ende, kr\xe4kningar, dyspepsi, diarr\xe9'],
+             ['Hepato', u'F\xf6rh\xf6jda leverenzymer, f\xf6rh\xf6jt bilirubin, hepatit'],
+             ['Musculoskeletal', u'Myalgi'],
+             ['General',
+              u'\xd6verk\xe4nslighetsreaktioner (s\xe5som anafylaxi, angio\xf6dem, dyspn\xe9,']]]],
+ '_pages': [3, 3],
+ u'_rank': 7,
+ u'_type': u'LFSU'}
